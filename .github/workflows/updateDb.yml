@@ -1,0 +1,34 @@
+name: Update Db
+# on:
+#   push:
+#     paths:
+#       - "lastUpdate.json"
+# concurrency:
+#   group: integrateDb
+jobs:
+  Update-Db:
+    runs-on: windows-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: Check out repository code
+        uses: actions/checkout@v3
+          with: "staging"
+      - name: Install Node
+        uses: actions/setup-node@v2
+      - name: Run integration script.
+        run: npm i && node scripts/buildDb
+      - name: Update resources
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          # Optional, but recommended
+          # Defaults to "Apply automatic changes"
+          commit_message: updated db
+          with: "master"
+          # Optional. Skip internal call to `git fetch`
+          # skip_fetch: true
+          # Optional. Prevents the shell from expanding filenames.
+          # Details: https://www.gnu.org/software/bash/manual/html_node/Filename-Expansion.html
+          disable_globbing: true
+      - run: echo "🍏 This job's status is ${{ job.status }}."
