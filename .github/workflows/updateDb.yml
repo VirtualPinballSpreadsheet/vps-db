@@ -1,4 +1,6 @@
 name: Update Db
+on:
+  workflow_call:
 # on:
 #   push:
 #     paths:
