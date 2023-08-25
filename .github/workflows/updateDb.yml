@@ -7,29 +7,25 @@ on:
 #   group: integrateDb
 jobs:
   Update-Db:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
-      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
-      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
-      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+
       - name: Check out repository code
         uses: actions/checkout@v3
         with: 
           ref: "staging"
+
       - name: Install Node
         uses: actions/setup-node@v2
+
       - name: Run integration script.
         run: npm i && node scripts/buildDb
-      - name: Update resources
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          # Optional, but recommended
-          # Defaults to "Apply automatic changes"
-          commit_message: updated db
-          branch: "main"
-          # Optional. Skip internal call to `git fetch`
-          # skip_fetch: true
-          # Optional. Prevents the shell from expanding filenames.
-          # Details: https://www.gnu.org/software/bash/manual/html_node/Filename-Expansion.html
-          disable_globbing: true
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+
+     - name: Push
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: main # The branch name where you want to push the assets
+          FOLDER: db # The directory where your assets are generated
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub will automatically add this - you don't need to bother getting a token
+          MESSAGE: "UPDATE DB: ({sha}) {msg}" # The commit message
