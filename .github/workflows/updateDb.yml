@@ -26,5 +26,6 @@ jobs:
           REPO: self
           BRANCH: main # The branch name where you want to push the assets
           FOLDER: db # The directory where your assets are generated
+          TARGET_DIR: db
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub will automatically add this - you don't need to bother getting a token
           MESSAGE: "UPDATE DB: ({sha}) {msg}" # The commit message
