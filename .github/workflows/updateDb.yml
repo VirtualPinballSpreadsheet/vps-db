@@ -6,7 +6,7 @@ on:
 # concurrency:
 #   group: integrateDb
 jobs:
-  Update-Db:
+  UpdateDb:
     runs-on: windows-latest
     steps:
 
