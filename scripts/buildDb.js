@@ -3,7 +3,7 @@ const fs = require("fs");
 const updateDatabase = async () => {
   let data = [];
   fs.readdirSync("games").forEach((file) => {
-    const game = fs.readFileSync(file);
+    const game = fs.readFileSync("games/" + file);
     data.push(game);
   });
 
