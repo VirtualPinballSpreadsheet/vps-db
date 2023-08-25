@@ -26,8 +26,7 @@ jobs:
           # Optional, but recommended
           # Defaults to "Apply automatic changes"
           commit_message: updated db
-          with: 
-            branch: "main"
+          branch: "main"
           # Optional. Skip internal call to `git fetch`
           # skip_fetch: true
           # Optional. Prevents the shell from expanding filenames.
