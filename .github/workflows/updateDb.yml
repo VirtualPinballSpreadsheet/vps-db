@@ -1,10 +1,8 @@
 name: Update Db
 on:
-  workflow_call:
-# on:
-#   push:
-#     paths:
-#       - "lastUpdate.json"
+  push:
+    paths:
+      - "lastUpdated.json"
 # concurrency:
 #   group: integrateDb
 jobs:
