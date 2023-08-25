@@ -6,7 +6,7 @@ const updateDatabase = async () => {
     data.push(file);
   });
 
-  fs.writeFile("vpsdb.json", JSON.stringify(data), console.log);
+  fs.writeFile("db/vpsdb.json", JSON.stringify(data), console.log);
 };
 
 updateDatabase();
