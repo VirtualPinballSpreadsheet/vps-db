@@ -94,7 +94,7 @@ const buildCsv = (games) => {
   }
   let csvContent =
     "data:text/csv;charset=utf-8," + content.map((e) => e.join(",")).join("\n");
-  fs.writeFile("db/puplookup.csv", encodeURI(csvContent), console.log);
+  fs.writeFile("db/puplookup.csv", csvContent, console.log);
 };
 
 const updateDatabase = async () => {
