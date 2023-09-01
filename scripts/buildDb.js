@@ -34,7 +34,7 @@ const sanitizeFilename = (input) => {
 
 const arrToStr = (arr) => {
   if (!arr?.length) return "";
-  return `${arr.join(", ")}`;
+  return `"${arr.join(", ")}"`;
 };
 
 const getTableName = (game) => {
