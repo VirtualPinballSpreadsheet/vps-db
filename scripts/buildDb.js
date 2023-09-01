@@ -106,7 +106,7 @@ const updateDatabase = async () => {
 
   fs.writeFile("db/vpsdb.json", JSON.stringify(data), console.log);
 
-  buildCsv();
+  buildCsv(data);
 };
 
 updateDatabase();
