@@ -4,7 +4,6 @@ const fs = require("fs");
 const popperHeader = [
   "GameFileName",
   "GameName",
-  "MediaSearch",
   "Manufact",
   "GameYear",
   "NumPlayers",
@@ -56,7 +55,6 @@ const buildCsv = (games) => {
       const row = [
         `"${t.gameFileName || GameName}"`, // GameFileName
         `"${GameName}"`, // GameName
-        `"${GameName}"`, // MediaSearch
         game.manufacturer || "", // Manufac
         game.year?.toString() || "", // GameYear
         game.players?.toString() || "", // NumPlayers
