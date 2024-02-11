@@ -298,14 +298,14 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Bad  (Original 2022)","Bad  (Original 2022)",Original,2022,,SS,,"Music",,,,"","Ryguy417, Bodydump, 32assassin",1.1.1,,,prbriwuT5e
 "Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","VPin Workshop (VPW), UncleWilly, Benji, Brad1X, Tomate, Flupper, nFozzy, Wrd1972, Iaakki, Sixtoe, Rothbauerw",3.0,bcats_l5,"MOD, VR, Hybrid, SSF, nFozzy, Fleep",AlOFdxml
 "Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","NitroNimbus, UncleWilly",2.0,bcats_l5,"MOD",RkwEXLk-hq
-"Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","Skinooe, UncleWilly",3.0,bcats_l5,"MOD",bRCl-_TCOz
-"Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","UncleWilly",RC2,bcats_l5,,gssYn0MMRu
-"Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","SLAMT1LT, UncleWilly",1.10,bcats_l5,"MOD",1ftfcBf6ut
-"Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","UncleWilly",RC3,bcats_l5,,bsD81LF7z1
-"Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","Arconovum, UncleWilly, ClarkKent, Dark",1.2-2.6,bcats_l5,"FastFlips, FSS, MOD",3H8SvyBz
 "Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","UncleWilly, Brad1X",1.0,bcats_l5,"VR",CBgMEqh4_W
 "Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","Brad1X, UncleWilly, ClarkKent, Dark",1.2.1b,bcats_l5,"MOD",faS5VIwN
+"Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","UncleWilly",RC2,bcats_l5,,gssYn0MMRu
+"Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","Arconovum, UncleWilly, ClarkKent, Dark",1.2-2.6,bcats_l5,"FastFlips, FSS, MOD",3H8SvyBz
 "Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","UncleWilly, Nunzio, Knorr, ClarkKent",1.2.1a,bcats_l5,,G2-WuR4y
+"Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","Skinooe, UncleWilly",3.0,bcats_l5,"MOD",bRCl-_TCOz
+"Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","SLAMT1LT, UncleWilly",1.10,bcats_l5,"MOD",1ftfcBf6ut
+"Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","UncleWilly",RC3,bcats_l5,,bsD81LF7z1
 "Bad Girls (Gottlieb 1988)","Bad Girls (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=128",128,,"Jon Norris","Morttis, Arconovum, 32assassin, Bodydump",1.0.2-2.6,,"FSS, MOD",cOlYgWSk
 "Bad Girls (Gottlieb 1988)","Bad Girls (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=128",128,,"Jon Norris","32assassin, Bodydump",1.0.2,,,qgSPY2K7
 "Bad Santa Pinball 2 XL (Original 2018)","Bad Santa Pinball 2 XL (Original 2018)",Original,2018,4,SS,,"Christmas",,,,,"Stevegooner1234, Xenonph, Lizard, JPSalas",1.01,,"Music, MOD",DBwNJ8CI
@@ -2391,6 +2391,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "NOBS (Original 2016)","NOBS (Original 2016)",Original,2016,,SS,,"Cards",,,,,"BorgDog, Arngrim",1.2,,"Music",Q0FmmEmE
 "Nagatoro Pinball (Original 2023)","Nagatoro Pinball (Original 2023)",Original,2023,,SS,,"Anime",,,,,"Akirasan, JPSalas",1.0.0,,"MOD",wOuRELVX2_
 "Nairobi (Maresa 1966)","Nairobi (Maresa 1966)",Maresa,1966,1,EM,,"Hunting, Safari, World Places","https://www.ipdb.org/machine.cgi?id=6229",6229,,,"Loserman76, Kiwi, Jose Navarro, Basilio Garcia, Leeoneil, Akiles50000, JPSalas",4.0.0,,,6lp0OIj9
+"Naruto Pinball (Original 2024)","Naruto Pinball (Original 2024)",Original,2024,4,SS,,,,,,,"Marcoolpops, UncleReamus",1.0.0,,"Kids",mF-gcvdF-7
 "National Lampoon's Christmas Vacation (Original 2019)","National Lampoon's Christmas Vacation (Original 2019)",Original,2019,4,SS,,"Christmas, Movie",,,,,"Meatballsaucey, Stevegooner1234, Xenonph, Lizard, Wildman",1.0.0,playboy,,YTeLcdz7Up
 "National Lampoon's Christmas Vacation (Original 2019)","National Lampoon's Christmas Vacation (Original 2019)",Original,2019,4,SS,,"Christmas, Movie",,,,,"Stevegooner1234, Wildman, Lizard, Xenonph",1.0,playboy,"Music, MOD",v4DVUQGS
 "Nautilus (Playmatic 1984)","Nautilus (Playmatic 1984)",Playmatic,1984,4,SS,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=822",822,,,"BallStuck, Goldchicco, Mfuegemann, Akiles50000",1.0.0,nautilus,"Adult, MOD",YY6UsX30ud
