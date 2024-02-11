@@ -2669,7 +2669,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Princess Bride (Original 2023)","Princess Bride (Original 2023)",Original,2023,,SS,,"Movie, Adventure",,,,,"RabidTribble",1.0.0,,,OjrAJ7J9Ew
 "Prison Break (Original 2018)","Prison Break (Original 2018)",Original,2018,,SS,,"TV Show, Crime",,,,,"Ivantba, Wizball",2.0,,,i4YwDyTr
 "Pro Pinball The Web (Cunning Developments 1995)","Pro Pinball The Web (Cunning Developments 1995)",Cunning Developments,1995,,SS,,"Science Fiction",,,,,"Mfuegemann, Zany, PinballWiz45b, Sir Cheddar, Arngrim, Batch",1.2,,"FlexDMD",oxO-FJst
-"Pro Pool (Gottlieb 1973)","Pro Pool (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Billiards","http://www.ipdb.org/machine.cgi?id=1866",1866,,"Ed Krynski","JCalhoun, Loserman76, GNance, RajoJoey, Teisen, HauntFreaks, DarthVito",1.3.2,,"SSF, VR, Hybrid, Fleep",UPyq-2D7yB
+"Pro Pool (Gottlieb 1973)","Pro Pool (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Billiards","http://www.ipdb.org/machine.cgi?id=1866",1866,,"Ed Krynski","JCalhoun, Loserman76, GNance, Rajo Joey, Teisen, HauntFreaks, DarthVito",1.3.2,,"SSF, VR, Hybrid, Fleep",UPyq-2D7yB
 "Pro Pool (Gottlieb 1973)","Pro Pool (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Billiards","http://www.ipdb.org/machine.cgi?id=1866",1866,,"Ed Krynski","Teisen, Loserman76, Rajo Joey, GNance, Mike Farmer",1.0.0,,"MOD",lnnk3Reiec
 "Pro Pool (Gottlieb 1973)","Pro Pool (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Billiards","http://www.ipdb.org/machine.cgi?id=1866",1866,,"Ed Krynski","Rajo Joey, Loserman76, GNance, Mike Farmer",1.0.0,,"VR, Hybrid, FSS, MOD, LUT",5vgzh7XcwM
 "Pro Pool (Gottlieb 1973)","Pro Pool (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Billiards","http://www.ipdb.org/machine.cgi?id=1866",1866,,"Ed Krynski","Loserman76",1.0.0f,,,jPe5WYf9
@@ -3998,8 +3998,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Wizard of Oz (Original 2018)","Wizard of Oz (Original 2018)",Original,2018,4,SS,,"Fantasy, Licensed Theme, Wizards, Magic","https://www.ipdb.org/machine.cgi?id=5800",5800,,"Joe Balcer","CKPin, eMBee, Tarcisio, SnakeEyes, Friex, Dark, JPSalas, SliderPoint, Nailbuster",1.01,,"FlexDMD",bcHIj8Y7
 "Wizard! (Bally 1975)","Wizard! (Bally 1975)",Bally,1975,4,EM,,"Licensed Theme","http://www.ipdb.org/machine.cgi?id=2803",2803,,"Greg Kmiec","Popotte",1.21,,,C-RYBt0pFE
 "Wizard! (Bally 1975)","Wizard! (Bally 1975)",Bally,1975,4,EM,,"Licensed Theme","http://www.ipdb.org/machine.cgi?id=2803",2803,,"Greg Kmiec","Pinball58",1.03,,,bIfkmE1j
+"Wolf Man (Peyper 1987)","Wolf Man (Peyper 1987)",Peyper,1987,4,SS,,"Mythology, Horror","http://www.ipdb.org/machine.cgi?id=4435",4435,,,"DarthVito, Goldchicco, Rajo Joey, Ext2tk",1.0.0,wolfman,"VR",HwtiTmYLRw
 "Wolf Man (Peyper 1987)","Wolf Man (Peyper 1987)",Peyper,1987,4,SS,,"Mythology, Horror","http://www.ipdb.org/machine.cgi?id=4435",4435,,,"Goldchicco, Mfuegemann, 32assassin, Batch",2.0,wolfman,"nFozzy, LUT, Fleep",wOhjkgM3
-"Wolf Man (Peyper 1987)","Wolf Man (Peyper 1987)",Peyper,1987,4,SS,,"Mythology, Horror","http://www.ipdb.org/machine.cgi?id=4435",4435,,,"DarthVito, Goldchicco, RajoJoey, Ext2tk",1.0.0,wolfman,"VR",HwtiTmYLRw
 "Wolfenstein 3D (Original 2015)","Wolfenstein 3D (Original 2015)",Original,2015,,SS,,"Video Game",,,,,"Onemanproject, Reggio Demasi",1.2,,,8lhpLjrv
 "Wolfenstein 3D (Original 2015)","Wolfenstein 3D (Original 2015)",Original,2015,,SS,,"Video Game",,,,,"Onemanproject, Reggio Demasi",1.15,,,jUfeAHc1
 "Table 71","Wolverine (Zen Studios 2010)",Zen Studios,2010,4,,,"Licensed Theme, Comics, Superheroes",,,,"Zoltan Vari","Zen Studios, Zoltan Vari",,,,jWDvc-YooJ
