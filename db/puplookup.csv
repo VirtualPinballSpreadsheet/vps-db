@@ -151,7 +151,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Aliens (Original 2020)","Aliens (Original 2020)",Original,2020,4,SS,,"Licensed Theme, Horror, Science Fiction, Movie",,,,,"BurtMacklin, Bombaj344, Delta23, JPSalas",1.0,sorcr_l1,"MOD",QYoIw_87bH
 "Aliens (Original 2020)","Aliens (Original 2020)",Original,2020,4,SS,,"Licensed Theme, Horror, Science Fiction, Movie",,,,,"Bombaj344, Delta23",1.0,sorcr_l1,"MOD, Music, LUT",2m2xM6aM
 "Aliens (Original 2020)","Aliens (Original 2020)",Original,2020,4,SS,,"Licensed Theme, Horror, Science Fiction, Movie",,,,,"Delta23, JPSalas, Siggi",2.0,sorcr_l1,"MOD, Music",n52iT05p
-"Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,,,,"Movie, Licensed Theme, Science Fiction",,,,,"TerryRed, Steve Paradis (Polygame), SLAMT1LT, Paolo (Wild), David Eisner (Pinballwzd)",1.1,,"SSF, Fleep, MOD",_i1IjV1yps
+"Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,,,,"Movie, Licensed Theme, Science Fiction",,,,,"TerryRed, Steve Paradis (Polygame), SLAMT1LT, Paolo (Wild), David Eisner (Pinballwzd)",1.2,,"SSF, Fleep, MOD",_i1IjV1yps
 "Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,,,,"Movie, Licensed Theme, Science Fiction",,,,,"TerryRed, SLAMT1LT, David Eisner (Pinballwzd)",1.12,,"MOD",6m6hBKvJrN
 "Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,,,,"Movie, Licensed Theme, Science Fiction",,,,,"SLAMT1LT, Paolo (Wild), David Eisner (Pinballwzd)",1.03,,"MOD",DF9Qa8pxHi
 "Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,,,,"Movie, Licensed Theme, Science Fiction",,,,,"SLAMT1LT, David Eisner (Pinballwzd), Destruk, Steve Paradis (Polygame), Tom Niwinski",1.07,,"MOD",7w2VUcHA-1
@@ -1811,12 +1811,12 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "James Bond 007 (Gottlieb 1980)","James Bond 007 (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Licensed Theme, Movie, Espionage","http://www.ipdb.org/machine.cgi?id=1286",1286,,"Allen Edwall","Teisen, Rajo Joey, 32assassin, Mfuegemann",1.1.0,jamesb,"MOD, Hybrid, LUT, VR",Z5yroNaS20
 "James Bond 007 (Gottlieb 1980)","James Bond 007 (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Licensed Theme, Movie, Espionage","http://www.ipdb.org/machine.cgi?id=1286",1286,,"Allen Edwall","Rajo Joey, 32assassin, Mfuegemann",1.0.0,jamesb,"VR, Hybrid, LUT",u8H6qxh2
 "James Bond 007 (Gottlieb 1980)","James Bond 007 (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Licensed Theme, Movie, Espionage","http://www.ipdb.org/machine.cgi?id=1286",1286,,"Allen Edwall","32assassin, Mfuegemann",1.0,jamesb,"Music",A1wxTjE3
-"Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,,SS,,"Movie, Horror",,,,,"SLAMT1LT, rom",1.08,,,f48eiu1kom
-"Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,,SS,,"Movie, Horror",,,,,"TerryRed, SLAMT1LT, rom, Schlabber34, Fleep, JLou",1.5,,"MOD, SSF, Fleep",9cDtSQAyqF
+"Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,,SS,,"Movie, Horror",,,,,"TerryRed, SLAMT1LT, rom, Schlabber34, Fleep, JLou",1.6,,"MOD, SSF, Fleep",9cDtSQAyqF
 "Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,,SS,,"Movie, Horror",,,,,"Balutito, Randr, SLAMT1LT, rom",1.6,,"MOD, Music, SSF",dmCFED9jMi
 "Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,,SS,,"Movie, Horror",,,,,"Solters, Randr, SLAMT1LT, rom",1.0,,"VR, MOD, SSF",xRd-rAVln7
 "Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,,SS,,"Movie, Horror",,,,,"Chepas, Rompin, HorsePin",0.95a,,,K_n9FyQ5ee
 "Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,,SS,,"Movie, Horror",,,,,"Randr, SLAMT1LT, rom",1.0c,,"SSF",ULqUHOvG
+"Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,,SS,,"Movie, Horror",,,,,"SLAMT1LT, rom",1.08,,,f48eiu1kom
 "Table 95","Jaws Pinball (Zen Studios 2017)",Zen Studios,2017,4,,,"Licensed Theme, Fantasy, Nautical, Movie",,,,"Szucs David","Zen Studios, Szucs David",,,,PZ6BlwYjl9
 "UNIVERSAL_Jaws","Jaws Pinball (Zen Studios 2017)",Zen Studios,2017,4,,,"Licensed Theme, Fantasy, Nautical, Movie",,,,"Szucs David","Zen Studios",,,,3EzxXw-D
 "Jet Set Radio Pinball (Original 2020)","Jet Set Radio Pinball (Original 2020)",Original,2020,,SS,,"Video Game",,,,,"Donuts10, JPSalas",1.1,,"MOD",90g_yVUr
@@ -2764,7 +2764,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Resident Evil (Original 2022)","Resident Evil (Original 2022)",Original,2022,1,SS,,"Horror, Movie, Video Game",,,,,"Crutch, Javier1515, Ivantba",1.0.0,,"MOD, FlexDMD",BCQf5qj_e2
 "Resident Evil VII (Original 2019)","Resident Evil VII (Original 2019)",Original,2019,4,SS,,"Horror, Video Game",,,,,"Ivantba, JPSalas",1.0,fireactd,,q5OB_eYM
 "Retro Zombie Adventure Land (Original 2016)","Retro Zombie Adventure Land (Original 2016)",Original,2016,,SS,,"Horror, Supernatural",,,,,"TheGhost787, Ben Heck, Zidware John",1.0,,,0pVhzZWa
-"RetroFlair (Original 2012)","RetroFlair (Original 2012)",Original,2012,,,,"Video Game, Nostalgia",,,,,"TerryRed, rom",2.0,,"MOD, SSF, Fleep",LPlspaI_aS
+"RetroFlair (Original 2012)","RetroFlair (Original 2012)",Original,2012,,,,"Video Game, Nostalgia",,,,,"TerryRed, rom",2.1,,"MOD, SSF, Fleep",LPlspaI_aS
 "RetroFlair (Original 2012)","RetroFlair (Original 2012)",Original,2012,,,,"Video Game, Nostalgia",,,,,"rom",3.1,,,NquQKxYfqP
 "Return of the Living Dead (Original 2021)","Return of the Living Dead (Original 2021)",Original,2021,4,SS,,"Horror, Movie",,,,,"Bossman72, Bigus1, JPSalas",1.1,faeton,"Music",v0wdgqZh
 "Rey de Diamantes (Petaco 1967)","Rey de Diamantes (Petaco 1967)",Petaco,1967,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=4368",4368,,,"Loserman76, GNance",1.0.0f,,,1Sawx7aL
@@ -3038,7 +3038,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Solitaire (Gottlieb 1967)","Solitaire (Gottlieb 1967)",Gottlieb,1967,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=2241",2241,,"Ed Krynski","Loserman76, GNance",1.0,,,NCIZFoFK
 "Table 80","Son of Zeus (Zen Studios 2017)",Zen Studios,2017,4,,,"Legends",,,,"Peter Grafl","Zen Studios",,,,0bhVMQbKlm
 "Hercules","Son of Zeus (Zen Studios 2017)",Zen Studios,2017,4,,,"Legends",,,,"Peter Grafl","Zen Studios",,,,2A-nOl5G
-"Sonic Pinball Mania (Original 2022)","Sonic Pinball Mania (Original 2022)",Original,2022,,SS,,"Video Game, Kids",,,,"","TerryRed, SLAMT1LT, Brendan Bailey (Pinwizkid)",1.8,,"SSF, Music, Kids, MOD",Cc-r8YrYBI
+"Sonic Pinball Mania (Original 2022)","Sonic Pinball Mania (Original 2022)",Original,2022,,SS,,"Video Game, Kids",,,,"","TerryRed, SLAMT1LT, Brendan Bailey (Pinwizkid)",1.9,,"SSF, Music, Kids, MOD",Cc-r8YrYBI
 "Sonic the Hedgehog (Original 2005)","Sonic the Hedgehog (Original 2005)",Original,2005,,SS,,"Video Game, Kids",,,,,"Panasony, DCrosby, Javier1515, Brendan Bailey (Pinwizkid)",1.21,,"MOD, Kids",TYVVL51gSe
 "Sonic the Hedgehog (Original 2005)","Sonic the Hedgehog (Original 2005)",Original,2005,,SS,,"Video Game, Kids",,,,,"DCrosby, Javier1515, Brendan Bailey (Pinwizkid)",1.10,,"FlexDMD, Kids, MOD",f5q3HhqW
 "Sonic the Hedgehog (Original 2005)","Sonic the Hedgehog (Original 2005)",Original,2005,,SS,,"Video Game, Kids",,,,,"SLAMT1LT, Atros, Brendan Bailey (Pinwizkid)",1.02,,"MOD",vxmVY4bPId
