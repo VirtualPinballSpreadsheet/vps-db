@@ -1,6 +1,7 @@
 GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,WebLinkURL,IPDBNum,AltRunMode,DesignedBy,Author,GAMEVER,Rom,Tags,VPS-ID
 " Dava's Everquest II - Pinball Tribute (Original 2023)"," Dava's Everquest II - Pinball Tribute (Original 2023)",Original,2023,,SS,,"Fantasy, Roleplaying",,,,,"Davadruix, JPSalas",1.1.1,,"MOD",UYWJJ45WDd
 " Jolly Park Oktoberfest (Original 2024)"," Jolly Park Oktoberfest (Original 2024)",Original,2024,,SS,,"Amusement Park, Funfair, Oktoberfest",,,,,"Oly2, JPSalas, Akiles50000, Dark, Destruk",1.0.0,jolypark,"Music",ULjArOtFrP
+" Spooky Wednesday (Original 2024)"," Spooky Wednesday (Original 2024)",Original,2024,4,SS,,"Supernatural, TV Show, Fantasy",,,,,"Retrorommy6604",0.0.1,,"FlexDMD",tYqg-vDGJT
 "1-2-3 (Talleres del Llobregat (Automaticos) 1973)","1-2-3 (Talleres del Llobregat (Automaticos) 1973)",Talleres del Llobregat (Automaticos),1973,1,EM,,"TV Show, Game Show","https://www.ipdb.org/machine.cgi?id=5247",5247,,,"JPSalas",4.0.0,,,Saxn4nV9
 "1024 Bytes (Original 2006)","1024 Bytes (Original 2006)",Original,2006,1,SS,,"Technology",,,,,"NorthernPinballTeam",1.0,,,R_qTJYElLc
 "2 in 1 (Bally 1964)","2 in 1 (Bally 1964)",Bally,1964,2,EM,,"Cards","http://www.ipdb.org/machine.cgi?id=2698",2698,,"Ted Zale","Margoni",1.0,,,sfa5Y-wOJj
@@ -164,9 +165,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Alle Neune (NSM 1969)","Alle Neune (NSM 1969)",NSM,1969,1,EM,,"Sports, Bowling, Flipperless","http://www.ipdb.org/machine.cgi?id=6037",6037,,,"Stefanaustria (STAT), Hmueck, Bord",1.1,,,OkP8AIGY
 "Alley Cats (Williams 1985)","Alley Cats (Williams 1985)",Williams,1985,,SS,,"Arcade, Bowling",,,,,"Rascal",1.1.0,alcat_l7,"VR, MOD",3siMUqV_g0
 "Alley Cats (Williams 1985)","Alley Cats (Williams 1985)",Williams,1985,,SS,,"Arcade, Bowling",,,,,"Rascal",1.1,alcat_l7,,D-fr2bD-
-"Aloha (Gottlieb 1961)","Aloha (Gottlieb 1961)",Gottlieb,1961,2,EM,,"American Places, Hawaii","https://www.ipdb.org/machine.cgi?id=62",62,,"Wayne Neyens","MauiPunter, Popotte, Jino0372",1.1.0,,"Music, MOD",Vr2qgLad8K
-"Aloha (Gottlieb 1961)","Aloha (Gottlieb 1961)",Gottlieb,1961,2,EM,,"American Places, Hawaii","https://www.ipdb.org/machine.cgi?id=62",62,,"Wayne Neyens","Popotte",1.00,,,k11etpm7LK
+"Aloha (Gottlieb 1961)","Aloha (Gottlieb 1961)",Gottlieb,1961,2,EM,,"American Places, Hawaii","https://www.ipdb.org/machine.cgi?id=62",62,,"Wayne Neyens","MauiPunter, Popotte, Jino0372",1.2.0,,"Music, MOD",Vr2qgLad8K
 "Aloha (Gottlieb 1961)","Aloha (Gottlieb 1961)",Gottlieb,1961,2,EM,,"American Places, Hawaii","https://www.ipdb.org/machine.cgi?id=62",62,,"Wayne Neyens","Jino0372, Popotte",1.1,,,Y9i4ZIclqd
+"Aloha (Gottlieb 1961)","Aloha (Gottlieb 1961)",Gottlieb,1961,2,EM,,"American Places, Hawaii","https://www.ipdb.org/machine.cgi?id=62",62,,"Wayne Neyens","Popotte",1.00,,,k11etpm7LK
 "Amazon Hunt (Gottlieb 1983)","Amazon Hunt (Gottlieb 1983)",Gottlieb,1983,4,SS,,"Hunting, Jungle","http://www.ipdb.org/machine.cgi?id=66",66,,"Ed Krynski","Batch, JPSalas, Kds70, Thalamus, Arngrim, 32assassin, HauntFreaks",1.6,,"SSF",5nZWcwTL
 "Amazon Hunt (Gottlieb 1983)","Amazon Hunt (Gottlieb 1983)",Gottlieb,1983,4,SS,,"Hunting, Jungle","http://www.ipdb.org/machine.cgi?id=66",66,,"Ed Krynski","Rajo Joey, Batch, Sixtoe, Rawd",1.0,,"MOD, VR, LUT",QmWt74HfkV
 "America 1492 (Juegos Populares 1986)","America 1492 (Juegos Populares 1986)",Juegos Populares,1986,4,SS,,"Historical","http://www.ipdb.org/machine.cgi?id=5013",5013,,,"Ext2k, 32assassin, Goldchicco, TastyWasps",1.1,america,"VR",FD6iIPLxj2
@@ -174,7 +175,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "America's Most Haunted (Spooky Pinball 2014)","America's Most Haunted (Spooky Pinball 2014)",Spooky Pinball,2014,4,SS,,"Horror, Supernatural",,,,,"Bigus1, Freneticamnesic, Shoopity",2.0,,"MOD, FlexDMD, Music",FZh34vREg6
 "America's Most Haunted (Spooky Pinball 2014)","America's Most Haunted (Spooky Pinball 2014)",Spooky Pinball,2014,4,SS,,"Horror, Supernatural",,,,,"Drhotwing, Bigus1, Freneticamnesic, Shoopity",1.0.0,,"VR, FlexDMD, Music",8WUSUcL3Ea
 "America's Most Haunted (Spooky Pinball 2014)","America's Most Haunted (Spooky Pinball 2014)",Spooky Pinball,2014,4,SS,,"Horror, Supernatural",,,,,"Freneticamnesic, Shoopity",062718a,,"Music, FlexDMD",Ci5Gq3Uc
-"American Country (Original 2024)","American Country (Original 2024)",Original,2024,4,,,"Music",,,,,"linojon, VPin Workshop (VPW), Ninuzzu",1.0.1,,"MOD, Fleep, nFozzy",4Z17QM5WhA
+"American Country (Original 2024)","American Country (Original 2024)",Original,2024,4,,,"Music",,,,,"linojon, VPin Workshop (VPW), Ninuzzu, ext2k, Ext2k",1.0.1,,"MOD, Fleep, nFozzy, Hybrid, VR",4Z17QM5WhA
 "AmericanDad","American Dad! Pinball (Zen Studios 2015)",Zen Studios,2015,4,,,"Licensed Theme, TV Show",,,,,"Zen Studios",,,,xfnLSrgD
 "Amigo (Bally 1974)","Amigo (Bally 1974)",Bally,1974,4,EM,,"Dancing, Happiness, Music, Singing, World Culture","https://www.ipdb.org/machine.cgi?id=71",71,,"Greg Kmiec","Teisen, Loserman76",1.0,,"MOD, SSF",jf_1J5jsNf
 "Amigo (Bally 1974)","Amigo (Bally 1974)",Bally,1974,4,EM,,"Dancing, Happiness, Music, Singing, World Culture","https://www.ipdb.org/machine.cgi?id=71",71,,"Greg Kmiec","Leeoneil, Loserman76",1.1.0,,"SSF",0UnXiQLav3
@@ -928,7 +929,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Defender (Williams 1982)","Defender (Williams 1982)",Williams,1982,2,SS,,"Outer Space, Fantasy, Video Game","http://www.ipdb.org/machine.cgi?id=651",651,,"Barry Oursler","Takut, GTXJoe",1.0.0,dfndr_l4,"VR",OIUHRT-c
 "Defender (Williams 1982)","Defender (Williams 1982)",Williams,1982,2,SS,,"Outer Space, Fantasy, Video Game","http://www.ipdb.org/machine.cgi?id=651",651,,"Barry Oursler","32assassin, GTXJoe",1.0,dfndr_l4,,T9udbILn
 "Demogorgon (Original 2020)","Demogorgon (Original 2020)",Original,2020,,SS,,"Science Fiction, Licensed Theme",,,,,"Fastdraw (Granit), Fastdraw (Granit)",1.0,,,oBmm_18A
-"Demolition Man (Williams 1994)","Demolition Man (Williams 1994)",Williams,1994,4,SS,,"Science Fiction, Licensed Theme","http://www.ipdb.org/machine.cgi?id=662",662,,"Dennis Nordman","Knorr, Kiwi, Flupper1, Shoopity, Mfuegemann, Freneticamnesic, Toxie, Gigalula, Bigus1, ClarkKent",1.2,dm_lx4,"MOD",uN4crZzX
+"Demolition Man (Williams 1994)","Demolition Man (Williams 1994)",Williams,1994,4,SS,,"Science Fiction, Licensed Theme","http://www.ipdb.org/machine.cgi?id=662",662,,"Dennis Nordman","Knorr, Kiwi, Flupper1, Shoopity, Mfuegemann, Freneticamnesic, Toxie, Gigalula, Bigus1, ClarkKent",2.0,dm_lx4,"MOD",uN4crZzX
 "Demolition Man (Williams 1994)","Demolition Man (Williams 1994)",Williams,1994,4,SS,,"Science Fiction, Licensed Theme","http://www.ipdb.org/machine.cgi?id=662",662,,"Dennis Nordman","Arconovum, Knorr, Kiwi",1.2-2.6,dm_lx4,"FastFlips, FSS, MOD",ifVdLU3h
 "Demolition Man (Williams 1994)","Demolition Man (Williams 1994)",Williams,1994,4,SS,,"Science Fiction, Licensed Theme","http://www.ipdb.org/machine.cgi?id=662",662,,"Dennis Nordman","Knorr, Kiwi, Mjr, Zany, nFozzy, Flupper, ClarkKent",1.3.1,dm_lx4,"FastFlips",l8B0QJLS
 "Dennis Lillee's Howzat! (Hankin 1980)","Dennis Lillee's Howzat! (Hankin 1980)",Hankin,1980,,SS,,"Sports, Cricket","https://www.ipdb.org/machine.cgi?id=3909",3909,,,"JPSalas, Destruk, Assie34, Tom Tower",1.0.1,1.0,"LUT",dzVmTBQejX
@@ -1854,6 +1855,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Joker Poker (Gottlieb 1978)","Joker Poker (Gottlieb 1978)",Gottlieb,1978,4,SS,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1306",1306,,"Ed Krynski","BorgDog",2.04,jokrpokr,,LIBKcdGg
 "Joker Poker (Gottlieb 1978)","Joker Poker (Gottlieb 1978)",Gottlieb,1978,4,SS,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1306",1306,,"Ed Krynski","Rajo Joey, 32assassin, Sixtoe, Rawd",1.0,jokrpokr,"MOD, VR, LUT",Yv-m8Mg7Qo
 "Joker Poker (Gottlieb 1978)","Joker Poker (Gottlieb 1978)",Gottlieb,1978,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=5078",5078,,"Ed Krynski","HiRez00, BorgDog, Apophis",1.6,,"Music",UImLRY66p7
+"Joker Poker (Gottlieb 1978)","Joker Poker (Gottlieb 1978)",Gottlieb,1978,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=5078",5078,,"Ed Krynski","DarthVito, BorgDog, Wildman, Rajo Joey",1.0.0,,"VR",zmFetDWkx-
 "Joker Wild (Bally 1970)","Joker Wild (Bally 1970)",Bally,1970,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=3573",3573,,,"HSM, Updon719",1.0,,,dO0lEYS5
 "Jokerz! (Williams 1988)","Jokerz! (Williams 1988)",Williams,1988,4,SS,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1308",1308,,"Barry Oursler","JPSalas, Arngrim, Rothbauerw",4.3.0,jokrz_l6,"SSF, LUT",aO9-J9AX
 "Jokerz! (Williams 1988)","Jokerz! (Williams 1988)",Williams,1988,4,SS,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1308",1308,,"Barry Oursler","VPin Workshop (VPW), Tomate, Fluffhead35, Walter Whitmer, DJRobX, Chris, Leojreimroc, Iaakki, Sixtoe, Apophis, JPSalas, Bord, Bord, ClarkKent",1.2,jokrz_l6,"VR, Hybrid, SSF, FSS, LUT",ZRBFZJ3xDT
@@ -2012,8 +2014,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Lawman (Gottlieb 1971)","Lawman (Gottlieb 1971)",Gottlieb,1971,2,EM,,"American West, Law Enforcement","http://www.ipdb.org/machine.cgi?id=1419",1419,,"Ed Krynski","GauGau, Loserman76, GNance, Popotte",1.1.0,,"MOD",-X1to84K8q
 "League Champ (Williams 1996)","League Champ (Williams 1996)",Williams,1996,,SS,,"Arcade, Bowling",,,,,"Rascal, VPW Crew",1.1.0,lc_11,"VR",LR2F3xtc5d
 "League Champ (Williams 1996)","League Champ (Williams 1996)",Williams,1996,,SS,,"Arcade, Bowling",,,,,"Rascal, Roccodimarco",1.1.0,lc_11,,GQOPKRRw
-"Lectronamo (Stern 1978)","Lectronamo (Stern 1978)",Stern,1978,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1429",1429,,"Mike Kubin","Styx, DomiKamu, Destruk, Tab, Skalar, Nedo, Ezepov, JPSalas",1.21,lectrono,,VVdIGu7nGR
 "Lectronamo (Stern 1978)","Lectronamo (Stern 1978)",Stern,1978,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1429",1429,,"Mike Kubin","DomiKamu, 32assassin, Francisco666, Alvaro",1.01,lectrono,,yie4Pa7c
+"Lectronamo (Stern 1978)","Lectronamo (Stern 1978)",Stern,1978,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1429",1429,,"Mike Kubin","Styx, DomiKamu, Destruk, Tab, Skalar, Nedo, Ezepov, JPSalas",1.22,lectrono,"FSS, Hybrid",VVdIGu7nGR
 "Led Zeppelin (Original 2017)","Led Zeppelin (Original 2017)",Original,2017,,SS,,"Music",,,,,"Mofstedahl",1.0,,"Music",kzfpeK0F
 "Led Zeppelin (Original 2020)","Led Zeppelin (Original 2020)",Original,2020,,EM,,"Music",,,,,"iDigStuff, David Peck, Brad Albright, Loserman76, Pinballfan2018, Apophis, Allknowing2012, Bord",2.5,,"Music, SSF, nFozzy, Fleep",_zdNC4YT
 "Legend - A Pinball Adventure (Original 2023)","Legend - A Pinball Adventure (Original 2023)",Original,2023,,SS,,"Movie, Fantasy",,,,,"Jagandy82, Joe Picasso, HauntFreaks, BurtMacklin, Gman77",2.0,,,MpXNDD58qI
@@ -2396,7 +2398,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "NOBS (Original 2016)","NOBS (Original 2016)",Original,2016,,SS,,"Cards",,,,,"BorgDog, Arngrim",1.2,,"Music",Q0FmmEmE
 "Nagatoro Pinball (Original 2023)","Nagatoro Pinball (Original 2023)",Original,2023,,SS,,"Anime",,,,,"Akirasan, JPSalas",1.0.0,,"MOD",wOuRELVX2_
 "Nairobi (Maresa 1966)","Nairobi (Maresa 1966)",Maresa,1966,1,EM,,"Hunting, Safari, World Places","https://www.ipdb.org/machine.cgi?id=6229",6229,,,"Loserman76, Kiwi, Jose Navarro, Basilio Garcia, Leeoneil, Akiles50000, JPSalas",4.0.0,,,6lp0OIj9
-"Naruto Pinball (Original 2024)","Naruto Pinball (Original 2024)",Original,2024,4,SS,,,,,,,"Marcoolpops, UncleReamus",1.0.1,,"Kids",mF-gcvdF-7
+"Naruto Pinball (Original 2024)","Naruto Pinball (Original 2024)",Original,2024,4,SS,,,,,,,"Marcoolpops, UncleReamus",1.0.1,,"Kids, MOD",mF-gcvdF-7
 "National Lampoon's Christmas Vacation (Original 2019)","National Lampoon's Christmas Vacation (Original 2019)",Original,2019,4,SS,,"Christmas, Movie",,,,,"Meatballsaucey, Stevegooner1234, Xenonph, Lizard, Wildman",1.0.0,playboy,,YTeLcdz7Up
 "National Lampoon's Christmas Vacation (Original 2019)","National Lampoon's Christmas Vacation (Original 2019)",Original,2019,4,SS,,"Christmas, Movie",,,,,"Stevegooner1234, Wildman, Lizard, Xenonph",1.0,playboy,"Music, MOD",v4DVUQGS
 "Nautilus (Playmatic 1984)","Nautilus (Playmatic 1984)",Playmatic,1984,4,SS,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=822",822,,,"Ballstuck, Goldchicco, Mfuegemann, Akiles50000",1.0.0,nautilus,"Adult, MOD",YY6UsX30ud
@@ -2876,6 +2878,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Royal Pair (Gottlieb 1974)","Royal Pair (Gottlieb 1974)",Gottlieb,1974,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=2038",2038,,"Jeff Brenner","Loserman76",1.0.0f,,"MOD",ixJAt2Q3
 "Running Horse  (Inder 1976)","Running Horse  (Inder 1976)",Inder,1976,1,EM,,"Sports, Horse Racing",,,,,"JPSalas, Pedator, Koke, Pachecas, Akiles50000",4.0.1,,"LUT",5eafJgd5w0
 "Rush 2112 (Original 2012)","Rush 2112 (Original 2012)",Original,2012,,SS,,"Music",,,,,"Goldchicco, JPSalas, Grizz, Destruk, Doogie, Arngrim, Movieguru",1.1,,"SSF, Music, FlexDMD, MOD",7kd-Lnuu
+"Safe Australia (Original 2024)","Safe Australia (Original 2024)",Original,2024,1,SS,,,,,,,"Slugger000, Loserman76",1.0.0,,"MOD",qd6wWc1yEM
 "Table 122","Safe Cracker (Bally 1996)",Bally,1996,4,SS,,"Crime, Money, Police","http://www.ipdb.org/machine.cgi?id=3782",3782,,"Pat Lawlor","Zen Studios",,sc_18,,1iWyWYi-oJ
 "Safe Cracker (Bally 1996)","Safe Cracker (Bally 1996)",Bally,1996,4,SS,,"Crime, Money, Police","http://www.ipdb.org/machine.cgi?id=3782",3782,,"Pat Lawlor","Flupper, Fuzzel, Destruk, UncleWilly, Arconovum, HauntFreaks, JPSalas, Rothbauerw",1.0.1-2.5,sc_18,"FSS, MOD",TOIa6lPX
 "Safe Cracker (Bally 1996)","Safe Cracker (Bally 1996)",Bally,1996,4,SS,,"Crime, Money, Police","http://www.ipdb.org/machine.cgi?id=3782",3782,,"Pat Lawlor","Fuzzel, Flupper, OldSkoolGamer, Herweh, Destruk, UncleWilly, Arconovum, HauntFreaks, JPSalas, Rothbauerw, ICPjuggla",1.0,sc_18,"FastFlips",CB1vT03d
@@ -3083,6 +3086,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Space Jam (Sega 1996)","Space Jam (Sega 1996)",Sega,1996,6,SS,,"Sports, Basketball, Celebrities, Licensed Theme, Kids",,,,"Joe Kaminkow, Orin Day, Lonnie D. Ropp","DevaL, Destruk, Dboyrecords, Edizzle",1.0,spacejam,"Kids",9pTQh92P
 "Space Mission (Williams 1976)","Space Mission (Williams 1976)",Williams,1976,4,EM,,"Outer Space","http://www.ipdb.org/machine.cgi?id=2253",2253,,"Steve Kordek","AnonTet, Martin Brunker, Popotte, Denis",1.4,,"Fleep, SSF, MOD",rvb-W2JWjI
 "Space Mission (Williams 1976)","Space Mission (Williams 1976)",Williams,1976,4,EM,,"Outer Space","http://www.ipdb.org/machine.cgi?id=2253",2253,,"Steve Kordek","Loserman76, Pbecker, Itchigo, Bord",1.0.0f,,,J1N-CEpH
+"Space Mission (Williams 1976)","Space Mission (Williams 1976)",Williams,1976,4,EM,,"Outer Space","http://www.ipdb.org/machine.cgi?id=2253",2253,,"Steve Kordek","JCalhoun, Loserman76",1.1.0,,"Fleep",LWkg94hnJm
 "Space Oddity  (Original 2022)","Space Oddity  (Original 2022)",Original,2022,,SS,,"Music, Science Fiction",,,,,"Balutito, nFozzy, MaX",1.3,spstn_l5,"MOD, SSF",_-1GvxdS1k
 "Space Odyssey (Williams 1976)","Space Odyssey (Williams 1976)",Williams,1976,2,EM,,"Outer Space","https://www.ipdb.org/machine.cgi?id=2254",2254,,"Steve Kordek","Loserman76, Pbecker, Itchigo, HiRez00, Bord",1.0.0f,,,4so9iQqQ
 "Space Orbit (Gottlieb 1972)","Space Orbit (Gottlieb 1972)",Gottlieb,1972,1,EM,,"Outer Space","https://www.ipdb.org/machine.cgi?id=2255",2255,,"Ed Krynski","Teisen, Loserman76, GNance",1.0.0,,,i-4SJWXKVT
@@ -3170,6 +3174,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Stage Door Canteen (Gottlieb 1945)","Stage Door Canteen (Gottlieb 1945)",Gottlieb,1945,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=2338",2338,,,"Okobojimusky, Francisco Pozo",,,"MOD",S79bxOOZKw
 "Stage Door Canteen (Gottlieb 1945)","Stage Door Canteen (Gottlieb 1945)",Gottlieb,1945,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=2338",2338,,,"Francisco Pozo",,,,yUQGbN9JdJ
 "Stampede (Stern 1977)","Stampede (Stern 1977)",Stern,1977,2,EM,,"American West","https://www.ipdb.org/machine.cgi?id=5232",5232,,"Albin Peters, Jerry Koci, Wendell McAdams","JPSalas, Halen, Parick2610",1.0.1,,,GRhY1ouMsK
+"Star Action (Williams 1973)","Star Action (Williams 1973)",Williams,1973,1,EM,,"Show Business","https://www.ipdb.org/machine.cgi?id=2342",2342,,"Steve Kordek","Loserman76",1.0a,,,LKZPmyoIzI
 "Star Fire (Playmatic 1985)","Star Fire (Playmatic 1985)",Playmatic,1985,4,SS,,"Science Fiction","http://www.ipdb.org/machine.cgi?id=3453",3453,,,"Goldchicco, Mfuegemann, Arrestis, 32assassin, Thalamus, Movieguru, Arngrim, Batch",1.1,starfire,,ty8be241
 "Star Gazer (Stern 1980)","Star Gazer (Stern 1980)",Stern,1980,4,SS,,"Astrology","http://www.ipdb.org/machine.cgi?id=2346",2346,,"Brian Poklacki","Rajo Joey, Felsir, HauntFreaks, Allknowing2012",1.0.0,stargzr,"VR, Hybrid, nFozzy, Fleep, LUT, MOD",4y40cEBDzM
 "Star Gazer (Stern 1980)","Star Gazer (Stern 1980)",Stern,1980,4,SS,,"Astrology","http://www.ipdb.org/machine.cgi?id=2346",2346,,"Brian Poklacki","Felsir",1.0.1,stargzr,,BKNMChON
@@ -3537,7 +3542,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Amazing Spider-Man, The (Gottlieb 1980)","Amazing Spider-Man, The (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Celebrities, Fictional, Licensed Theme, Superheroes","http://www.ipdb.org/machine.cgi?id=2285",2285,,"Ed Krynski","GTXJoe, Bob5453, Gaston",1.0,spiderm7,,wSAPHaD6
 "Atarians, The (Atari 1976)","Atarians, The (Atari 1976)",Atari,1976,,SS,,"Adventure","https://www.ipdb.org/machine.cgi?id=102",102,,"Bob Jonesi","Wiesshund, Ash, George Opperman, Patrick2610",1.02,atarians, atarianb,"SSF",yJBmL66XXA
 "Atarians, The (Atari 1976)","Atarians, The (Atari 1976)",Atari,1976,,SS,,"Adventure","https://www.ipdb.org/machine.cgi?id=102",102,,"Bob Jonesi","Dboyrecords, Stefanaustria (STAT), Kiwi, Ash, Arngrim",1.2,atarians, atarianb,,1MHNQ4qsaq
-"Avengers, The (Original 2023)","Avengers, The (Original 2023)",Original,2023,,,,"TV Show, Spies, Action, Comedy",,,,,"Stevegooner123, VLive, Iceman, JPSalas",1.5.0,,"MOD",Zx5W0BmVHn
+"Avengers, The (Original 2023)","Avengers, The (Original 2023)",Original,2023,,,,"TV Show, Spies, Action, Comedy",,,,,"Stevegooner123, VLive, Iceman, JPSalas",Final,,"MOD",Zx5W0BmVHn
 "Avengers, The (Original 2023)","Avengers, The (Original 2023)",Original,2023,,,,"TV Show, Spies, Action, Comedy",,,,,"VLive, Iceman",1.01,,"FlexDMD",LGFAsFgty5
 "Avengers, The (Stern 2012)","Avengers, The (Stern 2012)",Stern,2012,4,SS,,"Comics, Fantasy, Licensed Theme, Superheroes","http://www.ipdb.org/machine.cgi?id=5938",5938,,"George Gomez","TastyWasps, Masonm, Bigus1, Diemonik, Neofr45, Stout, Freneticamnesic, GTXJoe",1.48,avs_170,"Hybrid, VR, nFozzy, Fleep",HCkwtrxM14
 "Avengers, The (Stern 2012)","Avengers, The (Stern 2012)",Stern,2012,4,SS,,"Comics, Fantasy, Licensed Theme, Superheroes","http://www.ipdb.org/machine.cgi?id=5938",5938,,"George Gomez","Masonm, Bigus1, Diemonik, Neofr45, Stout, Freneticamnesic, GTXJoe",1.5,avs_170,"MOD, LUT",nARNJ2mo51
@@ -3804,7 +3809,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Top of the Pops Xmas Pinball (Original 2020)","Top of the Pops Xmas Pinball (Original 2020)",Original,2020,4,SS,,"Christmas, Music",,,,,"Stevegooner1234, Wildman, Lizard, Xenonph",1.0,,"Music, MOD",7kjope_e
 "Topaz (Inder 1979)","Topaz (Inder 1979)",Inder,1979,,SS,,"Outer Space, Fantasy, Women",,,,,"Margoni",1.0,tpazi,,h6s-Xib_sd
 "Topaz (Inder 1979)","Topaz (Inder 1979)",Inder,1979,,SS,,"Outer Space, Fantasy, Women",,,,,"Roosta, JPSalas, Nestorgian, Bord, Apophis, VPW Team",1.0,tpazi,"Hybrid, VR, FSS, Fleep, LUT",s4wU8MGh7o
-"Torch (Gottlieb 1980)","Torch (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Sports, Olympic Games","http://www.ipdb.org/machine.cgi?id=2595",2595,,"John Buras","Styx, Tab ,Dboyrecords, Noah, Fentz, BorgDog, JPSalas",1.0,,,ekI2QiaFQ6
+"Torch (Gottlieb 1980)","Torch (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Sports, Olympic Games","http://www.ipdb.org/machine.cgi?id=2595",2595,,"John Buras","Styx, Tab ,Dboyrecords, Noah, Fentz, BorgDog, JPSalas",1.1,,,ekI2QiaFQ6
 "Torch (Gottlieb 1980)","Torch (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Sports, Olympic Games","http://www.ipdb.org/machine.cgi?id=2595",2595,,"John Buras","Rajo Joey, Rawd, Rascal, BorgDog, Sixtoe",1.0.0,,"VR, MOD, LUT",pB-5LBWv2f
 "Torch (Gottlieb 1980)","Torch (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Sports, Olympic Games","http://www.ipdb.org/machine.cgi?id=2595",2595,,"John Buras","BorgDog",1.01,,"Music",xnJ3RrQ5
 "Torpedo Alley (Data East 1988)","Torpedo Alley (Data East 1988)",Data East,1988,4,SS,,"Adventure, Combat, Nautical","http://www.ipdb.org/machine.cgi?id=2603",2603,,"Claude Fernandez","Bigus1, Dozer, Dboyrecords, TAB",3.1,torp_e21,"MOD",GgJ00Ad0
@@ -4065,6 +4070,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Young Frankenstein (Original 2016)","Young Frankenstein (Original 2016)",Original,2016,,SS,,"Movie",,,,,"Gabrom, UltraPeepi",2.0,,"FlexDMD",rcjsv2h9
 "Young Frankenstein (Original 2021)","Young Frankenstein (Original 2021)",Original,2021,4,SS,,"Movie, Comedy",,,,"HauntFreaks","HauntFreaks, Rawd, Fluffhead35, Scampa123, AstroNasty, Leojreimroc, BorgDog",1.0.1,,"FSS, Hybrid, VR",wrBI7RTr
 "Yukon (Williams 1971)","Yukon (Williams 1971)",Williams,1971,,EM,,"Canadian West","https://www.ipdb.org/machine.cgi?id=2829",2829,,"Norm Clark","Loserman76",1.0.0f,,,BeQwg_XY
+"Yukon (Special) (Williams 1971)","Yukon (Special) (Williams 1971)",Williams,1971,1,EM,,"Canadian West","https://www.ipdb.org/machine.cgi?id=3533",3533,,"Norm Clark","Loserman76",1.0.0f,,,jc1tuYIv8F
 "ZZ Top (Original 2021)","ZZ Top (Original 2021)",Original,2021,,EM,,"Music",,,,,"Fordy, Hawkeyez88",1.0.0,startreb,"MOD, Music",UCpWufnwis
 "Zarza (Taito do Brasil 1982)","Zarza (Taito do Brasil 1982)",Taito do Brasil,1982,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4584",4584,,,"Rodrigo Ataguile (RoAtaguile), Exegeta",1.4,zarza,,iYcI52uOdE
 "Zarza (Taito do Brasil 1982)","Zarza (Taito do Brasil 1982)",Taito do Brasil,1982,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4584",4584,,,"JPSalas, Carlos Guizzo, Luiz Culik, Pmax65, Akiles50000, Rothbauerw",4.0.0,zarza,"FastFlips, SSF, LUT",RYlwkBae
