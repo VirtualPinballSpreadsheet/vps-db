@@ -174,7 +174,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "America's Most Haunted (Spooky Pinball 2014)","America's Most Haunted (Spooky Pinball 2014)",Spooky Pinball,2014,4,SS,,"Horror, Supernatural",,,,,"Bigus1, Freneticamnesic, Shoopity",2.0,,"MOD, FlexDMD, Music",FZh34vREg6
 "America's Most Haunted (Spooky Pinball 2014)","America's Most Haunted (Spooky Pinball 2014)",Spooky Pinball,2014,4,SS,,"Horror, Supernatural",,,,,"Drhotwing, Bigus1, Freneticamnesic, Shoopity",1.0.0,,"VR, FlexDMD, Music",8WUSUcL3Ea
 "America's Most Haunted (Spooky Pinball 2014)","America's Most Haunted (Spooky Pinball 2014)",Spooky Pinball,2014,4,SS,,"Horror, Supernatural",,,,,"Freneticamnesic, Shoopity",062718a,,"Music, FlexDMD",Ci5Gq3Uc
-"American Country (Original 2024)","American Country (Original 2024)",Original,2024,4,,,"Music",,,,,"Linojon, VPin Workshop (VPW), Ninuzzu",1.0.1,,"MOD, Fleep, nFozzy",4Z17QM5WhA
+"American Country (Original 2024)","American Country (Original 2024)",Original,2024,4,,,"Music",,,,,"linojon, VPin Workshop (VPW), Ninuzzu",1.0.1,,"MOD, Fleep, nFozzy",4Z17QM5WhA
 "AmericanDad","American Dad! Pinball (Zen Studios 2015)",Zen Studios,2015,4,,,"Licensed Theme, TV Show",,,,,"Zen Studios",,,,xfnLSrgD
 "Amigo (Bally 1974)","Amigo (Bally 1974)",Bally,1974,4,EM,,"Dancing, Happiness, Music, Singing, World Culture","https://www.ipdb.org/machine.cgi?id=71",71,,"Greg Kmiec","Teisen, Loserman76",1.0,,"MOD, SSF",jf_1J5jsNf
 "Amigo (Bally 1974)","Amigo (Bally 1974)",Bally,1974,4,EM,,"Dancing, Happiness, Music, Singing, World Culture","https://www.ipdb.org/machine.cgi?id=71",71,,"Greg Kmiec","Leeoneil, Loserman76",1.1.0,,"SSF",0UnXiQLav3
@@ -1425,6 +1425,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Gold Mine (Williams 1988)","Gold Mine (Williams 1988)",Williams,1988,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal",1.0.0,gmine_l2,,nDcrUuaK
 "Gold Rush (Williams 1971)","Gold Rush (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1036",1036,,"Norm Clark","Drinkcristal, Loserman76, -=Kees=-",1.0.0,,"VR",BGRTNgYWX6
 "Gold Rush (Williams 1971)","Gold Rush (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1036",1036,,"Norm Clark","HSM, Loserman76, -=Kees=-",1.0,,,DT15YkI7
+"Gold Rush (Williams 1971)","Gold Rush (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1036",1036,,"Norm Clark","Loserman76",1.0.0f,,,WHbEvhG0RV
 "Gold Strike (Gottlieb 1975)","Gold Strike (Gottlieb 1975)",Gottlieb,1975,1,EM,,"American West, Prospecting","http://www.ipdb.org/machine.cgi?id=1042",1042,,"Ed Krynski","Rajo Joey, Loserman76",1.0.0,,"VR, Hybrid, LUT, MOD",nRVA_Qe0oG
 "Gold Strike (Gottlieb 1975)","Gold Strike (Gottlieb 1975)",Gottlieb,1975,1,EM,,"American West, Prospecting","http://www.ipdb.org/machine.cgi?id=1042",1042,,"Ed Krynski","Loserman76",1.0a,,,B-O2uiHF
 "Gold Wings (Gottlieb 1986)","Gold Wings (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Aviation, Combat","http://www.ipdb.org/machine.cgi?id=1043",1043,,"John Trudeau","Versins77, 32assassin",1.0,,"nFozzy, Fleep, LUT, SSF, MOD",YTkL9wXQoG
