@@ -617,7 +617,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Bumper (Bill Port 1977)","Bumper (Bill Port 1977)",Bill Port,1977,1,EM,,"Outer Space, Science Fiction, Space Fantasy","https://www.ipdb.org/machine.cgi?id=6194",6194,,,"Loserman76, Kiwi, Akiles50000, JPSalas",4.0.1,,,WkQG5xIa
 "Bumper Pool (Gottlieb 1969)","Bumper Pool (Gottlieb 1969)",Gottlieb,1969,1,EM,,"Billiards","https://www.ipdb.org/machine.cgi?id=406",406,,"Ed Krynski","Loserman76",1.0.0f,,,btMwxcqs
 "Bumper Pool (Gottlieb 1969)","Bumper Pool (Gottlieb 1969)",Gottlieb,1969,1,EM,,"Billiards","https://www.ipdb.org/machine.cgi?id=406",406,,"Ed Krynski","Margoni",2.0,,,y330eMGK37
-"Bunnyboard (Marble Games Company 1932)","Bunnyboard (Marble Games Company 1932)",Marble Games Company,1932,,EM,,"Flipperless",,,,,"Tom, Loserman76, Mlager8, Thalamus, Armyaviation, 32assassin",1.0,,,MGTRwK6r
+"Bunnyboard (Marble Games Company 1932)","Bunnyboard (Marble Games Company 1932)",Marble Games Company,1932,,EM,,"Flipperless",,,,,"Tom, Loserman76, Mlager, Thalamus, Armyaviation, 32assassin",1.0,,,MGTRwK6r
 "Bushido (Inder 1993)","Bushido (Inder 1993)",Inder,1993,4,SS,,"World Culture","http://www.ipdb.org/machine.cgi?id=4481",4481,,,"Ext2k, Pachecas, Goldchicco, 32assassin",1.0.0,bushidoa,"VR",Nhj_hdo2N-
 "Bushido (Inder 1993)","Bushido (Inder 1993)",Inder,1993,4,SS,,"World Culture","http://www.ipdb.org/machine.cgi?id=4481",4481,,,"Goldchicco, 32assassin, Pachecas, Movieguru, Vogliadicane, Pedator, Arngrim",1.2,bushidoa,"LUT",dnpFcXOQ
 "Bushido (Inder 1993)","Bushido (Inder 1993)",Inder,1993,4,SS,,"World Culture","http://www.ipdb.org/machine.cgi?id=4481",4481,,,"Arconovum, Morttis, Pachecas, Movieguru, Vogliadicane, Pedator, Victor, PCTeknic, Arngrim, 32assassin, Goldchicco",1.2-1.0,bushidoa,"FSS, MOD",k4ytvysp
@@ -2464,8 +2464,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Now (Gottlieb 1971)","Now (Gottlieb 1971)",Gottlieb,1971,4,EM,,"Psychedelic","http://www.ipdb.org/machine.cgi?id=1685",1685,,"Ed Krynski","Leeoneil, Loserman76, GNance, Thalamus, Outhere, Bord",1.2.0,,"SSF",qb6in55G
 "Now (Gottlieb 1971)","Now (Gottlieb 1971)",Gottlieb,1971,4,EM,,"Psychedelic","http://www.ipdb.org/machine.cgi?id=1685",1685,,"Ed Krynski","Loserman76, GNance",1.0.0f,,,7vFY61-XyL
 "Now (Gottlieb 1971)","Now (Gottlieb 1971)",Gottlieb,1971,4,EM,,"Psychedelic","http://www.ipdb.org/machine.cgi?id=1685",1685,,"Ed Krynski","Loserman76, Arconovum, Bord",1.0-2.6,,"FSS, MOD",vIPq3wym
+"Nudge-It (Gottlieb 1990)","Nudge-It (Gottlieb 1990)",Gottlieb,1990,1,SS,,"Prospecting","http://www.ipdb.org/machine.cgi?id=3454",3454,,"Ray Tanzer","Armyaviation, Matt Lager (Mlager8), Thalamus",1.0.0,,"SSF",FpQcpi5GeZ
 "Nudge-It (Gottlieb 1990)","Nudge-It (Gottlieb 1990)",Gottlieb,1990,1,SS,,"Prospecting","http://www.ipdb.org/machine.cgi?id=3454",3454,,"Ray Tanzer","Lizard",1.1,,,k57OC5yZ
-"Nudge-It (Gottlieb 1990)","Nudge-It (Gottlieb 1990)",Gottlieb,1990,1,SS,,"Prospecting","http://www.ipdb.org/machine.cgi?id=3454",3454,,"Ray Tanzer","Mlager8, Thalamus, Armyaviation",1.0.0,,"SSF",FpQcpi5GeZ
 "Nudgy (Bally 1947)","Nudgy (Bally 1947)",Bally,1947,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=1686",1686,,,"Scottacus, Onevox, Bord",1.05,,"SSF, VR, Hybrid, LUT",hlNyRKQyca
 "Nudgy (Bally 1947)","Nudgy (Bally 1947)",Bally,1947,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=1686",1686,,,"Francisco Pozo",1.0,,,FVQ9lsfWa3
 "Nugent (Stern 1978)","Nugent (Stern 1978)",Stern,1978,4,SS,,"Celebrities, Music","http://www.ipdb.org/machine.cgi?id=1687",1687,,"Mike Kubin","Wed21, Flupper, nFozzy, Inkochnito, GTXJoe, Allknowing2012, 32assassin, HauntFreaks",2.2,nugent,"SSF, Fleep",tasKxPmz
