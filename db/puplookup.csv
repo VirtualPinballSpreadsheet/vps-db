@@ -152,7 +152,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Aliens (Original 2020)","Aliens (Original 2020)",Original,2020,4,SS,,"Licensed Theme, Horror, Science Fiction, Movie",,,,,"BurtMacklin, Bombaj344, Delta23, JPSalas",1.0,sorcr_l1,"MOD",QYoIw_87bH
 "Aliens (Original 2020)","Aliens (Original 2020)",Original,2020,4,SS,,"Licensed Theme, Horror, Science Fiction, Movie",,,,,"Bombaj344, Delta23",1.0,sorcr_l1,"MOD, Music, LUT",2m2xM6aM
 "Aliens (Original 2020)","Aliens (Original 2020)",Original,2020,4,SS,,"Licensed Theme, Horror, Science Fiction, Movie",,,,,"Delta23, JPSalas, Siggi",2.0,sorcr_l1,"MOD, Music",n52iT05p
-"Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"TerryRed, Steve Paradis (Polygame), SLAMT1LT, Paolo (Wild), David Eisner (Pinballwzd)",1.2,,"SSF, Fleep, MOD",_i1IjV1yps
+"Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"TerryRed, Steve Paradis (Polygame), SLAMT1LT, Paolo (Wild), David Eisner (Pinballwzd)",1.2,,"SSF, Fleep, MOD, BAM, FizX",_i1IjV1yps
 "Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"TerryRed, SLAMT1LT, David Eisner (Pinballwzd)",1.12,,"MOD",6m6hBKvJrN
 "Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"SLAMT1LT, Paolo (Wild), David Eisner (Pinballwzd)",1.03,,"MOD",DF9Qa8pxHi
 "Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"SLAMT1LT, David Eisner (Pinballwzd), Destruk, Steve Paradis (Polygame), Tom Niwinski",1.07,,"MOD",7w2VUcHA-1
@@ -517,8 +517,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Blackwater 100 (Bally 1988)","Blackwater 100 (Bally 1988)",Bally,1988,4,SS,,"Sports, Motorcycles, Motocross","http://www.ipdb.org/machine.cgi?id=319",319,,"Dennis Nordman","Goldchicco, Sindbad, Elvinu, 32assassin",1.1,black100,,XJFLeAxM
 "Table 45","Blade (Zen Studios 2013)",Zen Studios,2013,4,,,"Licensed Theme, Comics, Superheroes",,,,"Imre Szigeti","Zen Studios, Imre Szigeti",,,,r5OwEQWeRj
 "MARVEL_Blade","Blade (Zen Studios 2013)",Zen Studios,2013,4,,,"Licensed Theme, Comics, Superheroes",,,,"Imre Szigeti","Zen Studios",,,,YxfZF4b9
-"Blade Runner (Original 2020)","Blade Runner (Original 2020)",Original,2020,1,SS,,"Movie, Science Fiction",,,,,"TerryRed, SLAMT1LT",1.2,,"SSF, MOD",NiRdYX2g6k
-"Blade Runner (Original 2020)","Blade Runner (Original 2020)",Original,2020,1,SS,,"Movie, Science Fiction",,,,,"SLAMT1LT",1.04,,,OfrrtT9SU5
+"Blade Runner (Original 2020)","Blade Runner (Original 2020)",Original,2020,1,SS,,"Movie, Science Fiction",,,,,"TerryRed, SLAMT1LT",1.2,,"SSF, MOD, BAM, FizX",NiRdYX2g6k
+"Blade Runner (Original 2020)","Blade Runner (Original 2020)",Original,2020,1,SS,,"Movie, Science Fiction",,,,,"SLAMT1LT",1.04,,"BAM",OfrrtT9SU5
 "Blade Runner 2049 (Original 2020)","Blade Runner 2049 (Original 2020)",Original,2020,,SS,,"Science Fiction, Movie",,,,,"Ahr1man, Mark Paulik (WPilot), Rawd, Studlygoorite, Solters, Rajo Joey, Sixtoe, JPSalas",2.0,,"VR, FlexDMD, MOD, LUT",gd7UTVkvre
 "Blade Runner 2049 (Original 2020)","Blade Runner 2049 (Original 2020)",Original,2020,,SS,,"Science Fiction, Movie",,,,,"Pinmafia, Mark Paulik (WPilot), TCDeez, JPSalas",3.0,,"MOD",f5d792njkA
 "Blade Runner 2049 (Original 2020)","Blade Runner 2049 (Original 2020)",Original,2020,,SS,,"Science Fiction, Movie",,,,,"Mark Paulik (WPilot), JPSalas",1.3,,"MOD",6EaJ-DE3
@@ -531,7 +531,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Blue Note (Gottlieb 1978)","Blue Note (Gottlieb 1978)",Gottlieb,1978,1,EM,,"Music, Singing","http://www.ipdb.org/machine.cgi?id=328",328,,"John Osborne","Rajo Joey, Loserman76, GNance",1.0.1,,"VR, Hybrid, FSS, MOD, LUT",eEyEIPZWJk
 "Blue Note (Gottlieb 1978)","Blue Note (Gottlieb 1978)",Gottlieb,1978,1,EM,,"Music, Singing","http://www.ipdb.org/machine.cgi?id=328",328,,"John Osborne","Leeoneil, Thalamus, Loserman76, GNance, Pinuck, BorgDog, Armyaviation, Arngrim, HauntFreaks, JPSalas, Bord",1.1.0,,,XFHsaY7hrt
 "Blue Note (Gottlieb 1978)","Blue Note (Gottlieb 1978)",Gottlieb,1978,1,EM,,"Music, Singing","http://www.ipdb.org/machine.cgi?id=328",328,,"John Osborne","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,kP1QfvFo
-"Blue vs Pink (Original 2009)","Blue vs Pink (Original 2009)",Original,2009,1,SS,,,,,,,"TerryRed, Brendan Bailey (Pinwizkid), Schlabber34, Fleep, JLou, Ravarcade, Chris Leathley, Nailbuster",2.0,,"Music, MOD, Fleep",XVoPsDVysV
+"Blue vs Pink (Original 2009)","Blue vs Pink (Original 2009)",Original,2009,1,SS,,,,,,,"TerryRed, Brendan Bailey (Pinwizkid), Schlabber34, Fleep, JLou, Ravarcade, Chris Leathley, Nailbuster",2.0,,"Music, MOD, Fleep, BAM, FizX",XVoPsDVysV
 "Blue vs Pink (Original 2009)","Blue vs Pink (Original 2009)",Original,2009,1,SS,,,,,,,"Brendan Bailey (Pinwizkid)",1.0,,,1fYH6sMrml
 "Blues Brothers 40th Anniversary (Original 2020)","Blues Brothers 40th Anniversary (Original 2020)",Original,2020,4,SS,,"Music",,,,,"Marty02, JPSalas",2.0,,"Music",XaKQp-UQ
 "Bluey (Original 2021)","Bluey (Original 2021)",Original,2021,4,EM,,"Cartoon, Kids",,,,,"Phenom, Dvs626, Pinballfan2018, JPSalas, Goldchicco",1.0,,"Music, Kids",67fuXDV9
@@ -2772,7 +2772,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Resident Evil (Original 2022)","Resident Evil (Original 2022)",Original,2022,1,SS,,"Horror, Movie, Video Game",,,,,"Crutch, Javier1515, Ivantba",1.0.0,,"MOD, FlexDMD",BCQf5qj_e2
 "Resident Evil VII (Original 2019)","Resident Evil VII (Original 2019)",Original,2019,4,SS,,"Horror, Video Game",,,,,"Ivantba, JPSalas",1.0,fireactd,,q5OB_eYM
 "Retro Zombie Adventure Land (Original 2016)","Retro Zombie Adventure Land (Original 2016)",Original,2016,,SS,,"Horror, Supernatural",,,,,"TheGhost787, Ben Heck, Zidware John",1.0,,,0pVhzZWa
-"RetroFlair (Original 2012)","RetroFlair (Original 2012)",Original,2012,1,,,"Video Game, Nostalgia",,,,,"TerryRed, rom",2.1,,"MOD, SSF, Fleep",LPlspaI_aS
+"RetroFlair (Original 2012)","RetroFlair (Original 2012)",Original,2012,1,,,"Video Game, Nostalgia",,,,,"TerryRed, rom",2.1,,"MOD, SSF, Fleep, BAM, FizX",LPlspaI_aS
 "RetroFlair (Original 2012)","RetroFlair (Original 2012)",Original,2012,1,,,"Video Game, Nostalgia",,,,,"rom",3.1,,,NquQKxYfqP
 "Return of the Living Dead (Original 2021)","Return of the Living Dead (Original 2021)",Original,2021,4,SS,,"Horror, Movie",,,,,"Bossman72, Bigus1, JPSalas",1.1,faeton,"Music",v0wdgqZh
 "Rey de Diamantes (Petaco 1967)","Rey de Diamantes (Petaco 1967)",Petaco,1967,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=4368",4368,,,"Loserman76, GNance",1.0.0f,,,1Sawx7aL
