@@ -111,7 +111,6 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Airport (Gottlieb 1969)","Airport (Gottlieb 1969)",Gottlieb,1969,2,EM,,"Travel","http://www.ipdb.org/machine.cgi?id=35",35,,"Ed Krynski","Mustang1961, Loserman76",1.0b,,"MOD",RJ6i1Xo0Vc
 "Airport (Gottlieb 1969)","Airport (Gottlieb 1969)",Gottlieb,1969,2,EM,,"Travel","http://www.ipdb.org/machine.cgi?id=35",35,,"Ed Krynski","Loserman76",1.0.0f,,,zZ6n7was
 "Airport (Gottlieb 1969)","Airport (Gottlieb 1969)",Gottlieb,1969,2,EM,,"Travel","http://www.ipdb.org/machine.cgi?id=35",35,,"Ed Krynski","Popotte",2.0,,,1ybsJAoKRm
-"Airport (Gottlieb 1969)","Airport (Gottlieb 1969)",Gottlieb,1969,2,EM,,"Travel","http://www.ipdb.org/machine.cgi?id=35",35,,"Ed Krynski","JCalhoun, Loserman76, Teisen",1.2,,"Fleep",3R6RY8BfG5
 "Airwolf (Original 2020)","Airwolf (Original 2020)",Original,2020,,SS,,"TV Show, Aviation",,,,,"Chucky87, Ivantba, JPJ, JLouLou, JPSalas",1.1,cosmic,"Music, MOD",sW8EUxm4
 "Airwolf (Original 2020)","Airwolf (Original 2020)",Original,2020,,SS,,"TV Show, Aviation",,,,,"Ivantba, JPSalas",1.0,cosmic,"Music, MOD",AMMUKkyeY5
 "Akira (Original 2021)","Akira (Original 2021)",Original,2021,,SS,,"Anime, Movie",,,,,"7he S4ge, 32assassin, Atros",1.0,,"Music, MOD",slnxn2Qq
@@ -846,9 +845,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Cover Girl (Gottlieb 1962)","Cover Girl (Gottlieb 1962)",Gottlieb,1962,1,EM,,"Glamour, Modeling, Women","https://www.ipdb.org/machine.cgi?id=580",580,,"Wayne Neyens","Margoni",1.0,,,cqoFB8hgvz
 "Cover Girl (Keeney 1947)","Cover Girl (Keeney 1947)",Keeney,1947,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=459",459,,,"AnonTet",1.3,,"MOD",ZnEr7C3Ebn
 "Cover Girl (Keeney 1947)","Cover Girl (Keeney 1947)",Keeney,1947,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=459",459,,,"Francisco Pozo",1.0,,,MK1KGzKwgO
+"Cow Poke (Gottlieb 1965)","Cow Poke (Gottlieb 1965)",Gottlieb,1965,1,EM,,"American West","http://www.ipdb.org/machine.cgi?id=581",581,,"Wayne Neyens","FranzLeo, Margoni",3.1,,,dtRctO8zm2
 "Cow Poke (Gottlieb 1965)","Cow Poke (Gottlieb 1965)",Gottlieb,1965,1,EM,,"American West","http://www.ipdb.org/machine.cgi?id=581",581,,"Wayne Neyens","Xenonph, Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0a,,"MOD",-Lgd1UTvNG
 "Cow Poke (Gottlieb 1965)","Cow Poke (Gottlieb 1965)",Gottlieb,1965,1,EM,,"American West","http://www.ipdb.org/machine.cgi?id=581",581,,"Wayne Neyens","Loserman76, GNance, Pinuck, Scorpion, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,-uF0SaGo
-"Cow Poke (Gottlieb 1965)","Cow Poke (Gottlieb 1965)",Gottlieb,1965,1,EM,,"American West","http://www.ipdb.org/machine.cgi?id=581",581,,"Wayne Neyens","FranzLeo, Margoni",3.1,,,dtRctO8zm2
 "CowBoy Bebop (Original 2024)","CowBoy Bebop (Original 2024)",Original,2024,,SS,,"Anime, Science Fiction",,,,,"Wedge, Bigus1, 32assassin",2.0,genie,"MOD, Music",rASwgtPBvd
 "Cowboy Eight Ball (LTD do Brasil 1981)","Cowboy Eight Ball (LTD do Brasil 1981)",LTD do Brasil,1981,3,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=5132",5132,,"George Christian","JPSalas, Carlos Guizzo, Mfuegemann, Nasa, Stefanaustria (STAT)",4.0.0,,"LUT",LAxl5M9f
 "Cowboy Eight Ball 2 (LTD do Brasil 1981)","Cowboy Eight Ball 2 (LTD do Brasil 1981)",LTD do Brasil,1981,,SS,,"Billiards","https://www.ipdb.org/machine.cgi?id=5734",5734,,,"JPSalas, Carlos Guizzo, Nasa, Stefanaustria (STAT), Destruk, Akiles50000, TAB",4.0.0,cowboy,"FastFlips",IbxhSMtlDW
@@ -1428,9 +1427,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Gold Crown (Pierce Tool and Manufacturing Co 1932)","Gold Crown (Pierce Tool and Manufacturing Co 1932)",Pierce Tool and Manufacturing Co,1932,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=1026",1026,,,"Druadic",1.1,,,WUkSApIGgG
 "Gold Mine (Williams 1988)","Gold Mine (Williams 1988)",Williams,1988,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal",1.0,gmine_l2,"VR, MOD",HihfxRhrvw
 "Gold Mine (Williams 1988)","Gold Mine (Williams 1988)",Williams,1988,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal",1.0.0,gmine_l2,,nDcrUuaK
+"Gold Rush (Williams 1971)","Gold Rush (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1036",1036,,"Norm Clark","Loserman76",1.0.0f,,,WHbEvhG0RV
 "Gold Rush (Williams 1971)","Gold Rush (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1036",1036,,"Norm Clark","Drinkcristal, Loserman76, -=Kees=-",1.0.0,,"VR",BGRTNgYWX6
 "Gold Rush (Williams 1971)","Gold Rush (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1036",1036,,"Norm Clark","HSM, Loserman76, -=Kees=-",1.0,,,DT15YkI7
-"Gold Rush (Williams 1971)","Gold Rush (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1036",1036,,"Norm Clark","Loserman76",1.0.0f,,,WHbEvhG0RV
 "Gold Strike (Gottlieb 1975)","Gold Strike (Gottlieb 1975)",Gottlieb,1975,1,EM,,"American West, Prospecting","http://www.ipdb.org/machine.cgi?id=1042",1042,,"Ed Krynski","Rajo Joey, Loserman76",1.0.0,,"VR, Hybrid, LUT, MOD",nRVA_Qe0oG
 "Gold Strike (Gottlieb 1975)","Gold Strike (Gottlieb 1975)",Gottlieb,1975,1,EM,,"American West, Prospecting","http://www.ipdb.org/machine.cgi?id=1042",1042,,"Ed Krynski","Loserman76",1.0a,,,B-O2uiHF
 "Gold Wings (Gottlieb 1986)","Gold Wings (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Aviation, Combat","http://www.ipdb.org/machine.cgi?id=1043",1043,,"John Trudeau","Versins77, 32assassin",1.0,,"nFozzy, Fleep, LUT, SSF, MOD",YTkL9wXQoG
