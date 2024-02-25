@@ -712,9 +712,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Champions League - Season 2017 (Original 2017)","Champions League - Season 2017 (Original 2017)",Original,2017,4,SS,,"Sports, Soccer",,,,,"Ninuzzu, Tom Tower",1.4,,"FlexDMD, Music",A8Ksdzpm
 "Champions League - Season 2018 (Original 2017)","Champions League - Season 2018 (Original 2017)",Original,2017,4,SS,,"Sports, Soccer",,,,,"Ninuzzu, Tom Tower, Shoopity, Flupper, Knorr, UltraPeepi, VPX Dev Team, Arngrim, JPSalas",1.0,,"FlexDMD, Music",cYw3ydyE
 "Champions League - Season 2018 - St. Pauli (Original 2018)","Champions League - Season 2018 - St. Pauli (Original 2018)",Original,2018,4,SS,,"Sports, Soccer",,,,,"Bambi Plattfuss, Tom Tower, Dids666, Jorg, Ninuzzu, HauntFreaks, Nailbuster",1.0,,"MOD, FlexDMD",3BBgrMEX
-"Champions League 2020 (Original 2020)","Champions League 2020 (Original 2020)",Original,2020,4,SS,,"Sports, Soccer",,,,,"Donuts10, Tom Tower, Ninuzzu",1.1,,"Music, MOD, FlexDMD",3elhDm0e
-"Champions League 2021 (Original 2020)","Champions League 2021 (Original 2020)",Original,2020,4,SS,,"Sports, Soccer",,,,,"Solters, Donuts10, Tom Tower, Ninuzzu, Nailbuster",1.0,,"VR, FlexDMD, MOD",eyDbgM42PP
-"Champions League 2021 (Original 2020)","Champions League 2021 (Original 2020)",Original,2020,4,SS,,"Sports, Soccer",,,,,"Donuts10, Tom Tower, Ninuzzu, Nailbuster",1.0.0,,"FSS, FlexDMD",y66OwYVI
+"Champions League 2020 (Original 2020)","Champions League 2020 (Original 2020)",Original,2020,4,SS,,"Sports, Soccer",,,,,"Donuts, Tom Tower, Ninuzzu",1.1,,"Music, MOD, FlexDMD",3elhDm0e
+"Champions League 2021 (Original 2020)","Champions League 2021 (Original 2020)",Original,2020,4,SS,,"Sports, Soccer",,,,,"Solters, Donuts, Tom Tower, Ninuzzu, Nailbuster",1.0,,"VR, FlexDMD, MOD",eyDbgM42PP
+"Champions League 2021 (Original 2020)","Champions League 2021 (Original 2020)",Original,2020,4,SS,,"Sports, Soccer",,,,,"Donuts, Tom Tower, Ninuzzu, Nailbuster",1.0.0,,"FSS, FlexDMD",y66OwYVI
 "Champions League 2023 (Original 2023)","Champions League 2023 (Original 2023)",Original,2023,,SS,,"Sports, Soccer",,,,,"Donuts",1.0.0,,"Music, FlexDMD",iFxghtiFM5
 "Chance (Playmatic 1974)","Chance (Playmatic 1974)",Playmatic,1974,1,EM,,"Magic, Witchcraft","https://www.ipdb.org/machine.cgi?id=4878",4878,,,"JPSalas, Loserman76, Kiwi, Jose Navarro, Akiles50000",4.1.1,,"LUT",ecY3qBdR
 "Chance (Playmatic 1978)","Chance (Playmatic 1978)",Playmatic,1978,4,SS,,"Happiness, Circus, Carnival","http://www.ipdb.org/machine.cgi?id=491",491,,,"JPSalas, Pedator, Destruk, Inkochnito",4.0.1,chance,"LUT",4hb7AVjh
@@ -896,7 +896,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Cyclopes (Game Plan 1985)","Cyclopes (Game Plan 1985)",Game Plan,1985,4,SS,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=619",619,,"Roger Sharpe","Goldchicco, Destruk, 2borG, Arngrim, Batch, Thalamus",1.1,cyclopes,"Fleep",vF855_4Y
 "Cyclopes (Game Plan 1985)","Cyclopes (Game Plan 1985)",Game Plan,1985,4,SS,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=619",619,,"Roger Sharpe","Rajo Joey, Goldchicco, Sixtoe, Rawd",,cyclopes,"MOD, VR, LUT",8LIyIJGKkJ
 "DOF Test Table (Original 2017)","DOF Test Table (Original 2017)",Original,2017,,,,"Testing, Example",,,,"BorgDog","BorgDog",1.6,,,QD06vr79Cp
-"Daft Punk (Original 2020)","Daft Punk (Original 2020)",Original,2020,4,SS,,"Music",,,,,"Donuts10",1.1,,"Music",zx-__ko_
+"Daft Punk (Original 2020)","Daft Punk (Original 2020)",Original,2020,4,SS,,"Music",,,,,"Donuts",1.1,,"Music",zx-__ko_
 "Daisy May (Gottlieb 1954)","Daisy May (Gottlieb 1954)",Gottlieb,1954,1,EM,,"Happiness","https://www.ipdb.org/machine.cgi?id=631",631,,"Wayne Neyens","Okobojimusky, Francisco Pozo",1.1.1,,"MOD",7fpiLbaYaB
 "Daisy May (Gottlieb 1954)","Daisy May (Gottlieb 1954)",Gottlieb,1954,1,EM,,"Happiness","https://www.ipdb.org/machine.cgi?id=631",631,,"Wayne Neyens","Francisco Pozo",1.0.0,,,upVgRA3rvz
 "Dale Jr. NASCAR (Stern 2007)","Dale Jr. NASCAR (Stern 2007)",Stern,2007,4,SS,,"Sports, Auto Racing, Cars","http://www.ipdb.org/machine.cgi?id=5292",5292,,,"Morttis, Arconovum, Requiem, 32assassin, JPSalas",1.01-3.0, dalejr,"FSS, MOD",GcUVzfau
@@ -1256,7 +1256,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Fish Tales (Williams 1992)","Fish Tales (Williams 1992)",Williams,1992,4,SS,,"Sports, Fishing","http://www.ipdb.org/machine.cgi?id=861",861,,"Mark Ritchie","RustyCardores, Pinball58, Tom Tower, Melon, LoadedWeapon, Zany, Ninuzzu, PacDude, ICPjuggla",1.1,ft_l5p,"SSF, MOD",QuXlciw7
 "WMS_Fish_Tales","Fish Tales (Williams 1992)",Williams,1992,4,SS,,"Sports, Fishing","http://www.ipdb.org/machine.cgi?id=861",861,,"Mark Ritchie","Zen Studios",,ft_l5p,,2YdpwiGg
 "Fish Town (Original 2022)","Fish Town (Original 2022)",Original,2022,,,,"Wild Life",,,,,"Mark1",1.0.0,,,36t_tBT94y
-"Five Finger Death Punch (Original 2023)","Five Finger Death Punch (Original 2023)",Original,2023,,SS,,"Music, Heavy Metal",,,,,"doivelspack, HiRez00, JPSalas",1.0.4,,"Music",ub9TLw08Cu
+"Five Finger Death Punch (Original 2023)","Five Finger Death Punch (Original 2023)",Original,2023,,SS,,"Music, Heavy Metal",,,,,"Doivelspack, HiRez00, JPSalas",1.0.4,,"Music",ub9TLw08Cu
 "Five Nights at Freddy (Original 2021)","Five Nights at Freddy (Original 2021)",Original,2021,,SS,,"Video Game",,,,,"Remdwaas1986, Drjameshouse, Godisnothere, Uers1983, Tartzani, Tomate, Mrtr32, Visnoskyarc, HauntFreaks, JPSalas",1.4,,,MezX2thG
 "Five Nights at Freddy's Pizza Party (Original 2020)","Five Nights at Freddy's Pizza Party (Original 2020)",Original,2020,4,SS,,"Video Game",,,,,"Gamemodder",2.0,,"Music, MOD",zWUdnhw4
 "Flash (Williams 1979)","Flash (Williams 1979)",Williams,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=871",871,,"Steve Ritchie","JPSalas",4.0.0,flash_l1,"SSF, LUT",fKFw0GWT
@@ -1828,7 +1828,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,3,SS,,"Movie, Horror",,,,,"SLAMT1LT, rom",1.08,,,f48eiu1kom
 "Table 95","Jaws Pinball (Zen Studios 2017)",Zen Studios,2017,4,,,"Licensed Theme, Fantasy, Nautical, Movie",,,,"Szucs David","Zen Studios, Szucs David",,,,PZ6BlwYjl9
 "UNIVERSAL_Jaws","Jaws Pinball (Zen Studios 2017)",Zen Studios,2017,4,,,"Licensed Theme, Fantasy, Nautical, Movie",,,,"Szucs David","Zen Studios",,,,3EzxXw-D
-"Jet Set Radio Pinball (Original 2020)","Jet Set Radio Pinball (Original 2020)",Original,2020,,SS,,"Video Game",,,,,"Donuts10, JPSalas",1.1,,"MOD",90g_yVUr
+"Jet Set Radio Pinball (Original 2020)","Jet Set Radio Pinball (Original 2020)",Original,2020,,SS,,"Video Game",,,,,"Donuts, JPSalas",1.1,,"MOD",90g_yVUr
 "Jet Spin (Gottlieb 1977)","Jet Spin (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Fantasy, Recreation","http://www.ipdb.org/machine.cgi?id=1290",1290,,"Ed Krynski","Teisen, Loserman76, GNance, JPSalas, Pinuck, HauntFreaks, BorgDog, Arngrim",1.0.0,,"MOD",bTu7IRtgmH
 "Jet Spin (Gottlieb 1977)","Jet Spin (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Fantasy, Recreation","http://www.ipdb.org/machine.cgi?id=1290",1290,,"Ed Krynski","Rajo Joey, Loserman76",1.0.0,,"Hybrid, VR, LUT",9rm3HymXzH
 "Jet Spin (Gottlieb 1977)","Jet Spin (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Fantasy, Recreation","http://www.ipdb.org/machine.cgi?id=1290",1290,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,8zraF4R7
@@ -2117,7 +2117,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Married with Children (Original 2021)","Married with Children (Original 2021)",Original,2021,,SS,,"TV Show, Comedy",,,,,"Hawkeyez88, Phenom, Opeckie, David, Peter, Joey Beaulieu (Joe Picasso)",1.0,,"Music, FlexDMD",iH-s8XUb-M
 "Married with Children (Original 2021)","Married with Children (Original 2021)",Original,2021,,SS,,"TV Show, Comedy",,,,,"Phenom, Hawkeyez88, Opeckie, David, Peter, Joey Beaulieu (Joe Picasso)",1.0,,"FlexDMD, Music",_Q0mEZ5qBW
 "Mars","Mars (Zen Studios 2013)",Zen Studios,2013,4,,,"Science Fiction",,,,,"Zen Studios",,,,6g8ojW7r
-"Mars Attacks (Original 2022)","Mars Attacks (Original 2022)",Original,2022,,SS,,"Aliens, Martians, Fantasy",,,,,"Donuts10, JPSalas",1.0.0,afm_113b,"MOD",fvY_MOnW9O
+"Mars Attacks (Original 2022)","Mars Attacks (Original 2022)",Original,2022,,SS,,"Aliens, Martians, Fantasy",,,,,"Donuts, JPSalas",1.0.0,afm_113b,"MOD",fvY_MOnW9O
 "Mars God of War (Gottlieb 1981)","Mars God of War (Gottlieb 1981)",Gottlieb,1981,,EM,,"Mythology, Fantasy","https://www.ipdb.org/machine.cgi?id=1549",1549,,,"TheGhost787",1.0,,,GXxmHFGgZo
 "Mars God of War (Gottlieb 1981)","Mars God of War (Gottlieb 1981)",Gottlieb,1981,4,SS,,"Mythology","http://www.ipdb.org/machine.cgi?id=1549",1549,,"John Buras","Cyberpez",1.0,,,viIWkJNo
 "Mars Trek (Sonic 1977)","Mars Trek (Sonic 1977)",Sonic,1977,,EM,,"Outer Space, Fantasy","https://www.ipdb.org/machine.cgi?id=1550",1550,,,"Klodo81, JPSalas",1.2,,"LUT",LTCTjTai0i
@@ -2519,7 +2519,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "PDC World Darts Pinball (Original 2020)","PDC World Darts Pinball (Original 2020)",Original,2020,4,SS,,"Sports, Darts",,,,,"Stevegooner1234, PQ4, Ruud56, JPSalas",1.0,,"Music, MOD",OqDGyUpw
 "PIN-BOT (Williams 1986)","PIN-BOT (Williams 1986)",Williams,1986,4,SS,,"Fantasy, Outer Space","http://www.ipdb.org/machine.cgi?id=1796",1796,,"Barry Oursler, Python Anghelo","Bord",2.1.1,pb_l5,"VR, SSF, Hybrid, FSS",232sR2Et
 "PIN-BOT (Williams 1986)","PIN-BOT (Williams 1986)",Williams,1986,4,SS,,"Fantasy, Outer Space","http://www.ipdb.org/machine.cgi?id=1796",1796,,"Barry Oursler, Python Anghelo","Arconovum, Bord",1.0-2.6,pb_l5,"FastFlips, FSS, MOD",A_QiSnbC
-"PJ Masks (Original 2020)","PJ Masks (Original 2020)",Original,2020,4,SS,,,,,,,"Donuts10, Franck Hollinger (Mussinger)",1.3,,"MOD",ixRfHhP7
+"PJ Masks (Original 2020)","PJ Masks (Original 2020)",Original,2020,4,SS,,,,,,,"Donuts, Franck Hollinger (Mussinger)",1.3,,"MOD",ixRfHhP7
 "PT01 (Original 2023)","PT01 (Original 2023)",Original,2023,,,,,,,,,"0x3e",0.03,,,LR6ZnYHhWY
 "PacMan (Original 2021)","PacMan (Original 2021)",Original,2021,,SS,,"Video Game",,,,,"Segovia11",1.33,,,YUZkHTWY
 "Paddock (Williams 1969)","Paddock (Williams 1969)",Williams,1969,1,EM,,"Sports, Horse Racing","https://www.ipdb.org/machine.cgi?id=1735",1735,,"Norm Clark","Bord, Scottacus",1.0.2,,,CPCbI05D
