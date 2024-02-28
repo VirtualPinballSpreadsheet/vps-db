@@ -105,6 +105,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Airborne (Capcom 1996)","Airborne (Capcom 1996)",Capcom,1996,4,SS,,"Aviation","http://www.ipdb.org/machine.cgi?id=3783",3783,,"Claude Fernandez","Versins77, Robbo43, DCrosby, Bodydump, TAB, Destruk",1.0,abv106,"SSF, nFozzy, Fleep, LUT, MOD",um2mEgU3gx
 "Airborne (Capcom 1996)","Airborne (Capcom 1996)",Capcom,1996,4,SS,,"Aviation","http://www.ipdb.org/machine.cgi?id=3783",3783,,"Claude Fernandez","Morttis, Arconovum, Robbo43, DCrosby, Bodydump, TAB, Destruk",1.0-2.0,abv106,"FSS, MOD",rbWS_86F
 "Airborne (Capcom 1996)","Airborne (Capcom 1996)",Capcom,1996,4,SS,,"Aviation","http://www.ipdb.org/machine.cgi?id=3783",3783,,"Claude Fernandez","Robbo43, DCrosby, Bodydump, TAB, Destruk",1.0,abv106,,RqUjS70P
+"Airborne (Capcom 1996)","Airborne (Capcom 1996)",Capcom,1996,4,SS,,"Aviation","http://www.ipdb.org/machine.cgi?id=3783",3783,,"Claude Fernandez","Hmueck, Versins77, Robbo43, DCrosby, Bodydump, TAB, Destruk",1.0.0,abv106,"VR",EriktO-Xz2
+"Airborne (Capcom 1996)","Airborne (Capcom 1996)",Capcom,1996,4,SS,,"Aviation","http://www.ipdb.org/machine.cgi?id=3783",3783,,"Claude Fernandez",,,abv106,,JMCDen6jlM
 "Airborne Avenger (Atari 1977)","Airborne Avenger (Atari 1977)",Atari,1977,4,SS,,"Adventure, Combat, Aviation","http://www.ipdb.org/machine.cgi?id=33",33,,"Steve Ritchie","Balater",1.00,,,eVG1WB9PHW
 "Airborne Avenger (Atari 1977)","Airborne Avenger (Atari 1977)",Atari,1977,4,SS,,"Adventure, Combat, Aviation","http://www.ipdb.org/machine.cgi?id=33",33,,"Steve Ritchie","DarthMarino, Destruk, John Shepherd, Dboyrecords, BlackPredator72, 32assassin",1.4,,,KICM9nRF
 "Airport (Gottlieb 1969)","Airport (Gottlieb 1969)",Gottlieb,1969,2,EM,,"Travel","http://www.ipdb.org/machine.cgi?id=35",35,,"Ed Krynski","Teisen, Loserman76, GNance, JPSalas, Pinuck, HauntFreaks, BorgDog, Arngrim",1.0,,"MOD",t1SZxheXLx
@@ -545,9 +547,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Bond 60th (Original 2022)","Bond 60th (Original 2022)",Original,2022,,SS,,"Movie, Espionage",,,,,"Ext2k, Marty02, Timblo",1.0.0,,"VR",FmfSnIAiFP
 "Bond 60th (Original 2022)","Bond 60th (Original 2022)",Original,2022,,SS,,"Movie, Espionage",,,,,"Marty02, JPSalas",4.3,,,fWVDMQSE0p
 "Bond 60th (Original 2022)","Bond 60th (Original 2022)",Original,2022,,SS,,"Movie, Espionage",,,,,"Timblo, Marty02",1.1.0,,"MOD, LUT",_xt4j3-2S6
-"Bond 60th - Limited Edition (Original 2023)","Bond 60th - Limited Edition (Original 2023)",Original,2023,,,,"Movie, Espionage",,,,,"Ext2k, Marty02, JPSalas",1.0.0,,"MOD, VR",gs550G6Re3
-"Bond 60th - Limited Edition (Original 2023)","Bond 60th - Limited Edition (Original 2023)",Original,2023,,,,"Movie, Espionage",,,,,"Gman77, Marty02, Jagandy82, Rjclarkee, SergioSouza, Jshanon, Larouillas",,,"MOD",jqWKqFsEES
-"Bond 60th - Limited Edition (Original 2023)","Bond 60th - Limited Edition (Original 2023)",Original,2023,,,,"Movie, Espionage",,,,,"Marty02, JPSalas",2.2,,,7p9eGKNTR5
+"Bond 60th - Limited Edition (Original 2023)","Bond 60th - Limited Edition (Original 2023)",Original,2023,4,,,"Movie, Espionage",,,,,"Ext2k, Marty02, JPSalas",1.0.0,,"MOD, VR",gs550G6Re3
+"Bond 60th - Limited Edition (Original 2023)","Bond 60th - Limited Edition (Original 2023)",Original,2023,4,,,"Movie, Espionage",,,,,"Gman77, Marty02, Jagandy82, Rjclarkee, SergioSouza, Jshanon, Larouillas, ZandysArcade, BurtMacklin, GauGau, Timblo, GoodTwist, Migs",2.0.0,,"MOD",jqWKqFsEES
+"Bond 60th - Limited Edition (Original 2023)","Bond 60th - Limited Edition (Original 2023)",Original,2023,4,,,"Movie, Espionage",,,,,"Marty02, JPSalas",2.2,,,7p9eGKNTR5
 "Bone Busters Inc. (Gottlieb 1989)","Bone Busters Inc. (Gottlieb 1989)",Gottlieb,1989,4,SS,,"Horror, Supernatural","http://www.ipdb.org/machine.cgi?id=347",347,,"Ray Tanzer","Bigus1, Hmueck",2.1,,"MOD, Hybrid, VR, FSS",47BkVfO7
 "Bone Busters Inc. (Gottlieb 1989)","Bone Busters Inc. (Gottlieb 1989)",Gottlieb,1989,4,SS,,"Horror, Supernatural","http://www.ipdb.org/machine.cgi?id=347",347,,"Ray Tanzer","Aubrel, Hmueck",1.6,,"MOD",p6uueMTE
 "Bone Busters Inc. (Gottlieb 1989)","Bone Busters Inc. (Gottlieb 1989)",Gottlieb,1989,4,SS,,"Horror, Supernatural","http://www.ipdb.org/machine.cgi?id=347",347,,"Ray Tanzer","Hmueck",1.0,,,1FY7wgPy
@@ -1043,6 +1045,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Dragon Ball Z The Pinball (Original 2019)","Dragon Ball Z The Pinball (Original 2019)",Original,2019,,SS,,"Anime",,,,,"Javier1515",1.06,,,wBrV24MW
 "Dragon Flames (Original 2024)","Dragon Flames (Original 2024)",Original,2024,,EM,,"Fantasy",,,,,"Wildlifewizard, Jogrady7",2.0,,,GW7_boODg6
 "Dragon's Lair (Original 2023)","Dragon's Lair (Original 2023)",Original,2023,,EM,,"Video Game",,,,,"Cez60, Jmx, JPSalas",1.0.0,,"MOD",u6kSJiJi_D
+"Dragon's Lair (Original 2023)","Dragon's Lair (Original 2023)",Original,2023,,EM,,"Video Game",,,,,"LTek, Cez60, Jmx, JPSalas",1.1.0,,"MOD",mU_KvAiDAO
 "DragonFire  (Original 2021)","DragonFire  (Original 2021)",Original,2021,,EM,,"Dragons, Fantasy",,,,,"Rosve",1.1.0,,,bWXYgQoG
 "Dragoon  (Recreativos Franco 1977)","Dragoon  (Recreativos Franco 1977)",Recreativos Franco,1977,1,EM,,"Fantasy, Dragons","https://www.ipdb.org/machine.cgi?id=4872",4872,,"","Thalamus, JPSalas",1.1.0,,,q9esdcQK
 "Drakor (Taito do Brasil 1979)","Drakor (Taito do Brasil 1979)",Taito do Brasil,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4569",4569,,"Barry Oursler","JPSalas, Carlos Guizzo, Tio Italo, Pmax65, Rothbauerw",4.0.0,drakor,"FastFlips, SSF, LUT",YkGaSy1Y
@@ -3337,6 +3340,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Stranger Things - Stranger Edition (OrbitalPin 2018)","Stranger Things - Stranger Edition (OrbitalPin 2018)",OrbitalPin,2018,4,SS,,"TV Show, Science Fiction, Fantasy, Horror",,,,"ScottyWic","Retropinhead6604, ScottyWic, TCDeez",1.0,,"FlexDMD, MOD",VSk77qUEdw
 "Stranger Things - Stranger Edition (OrbitalPin 2018)","Stranger Things - Stranger Edition (OrbitalPin 2018)",OrbitalPin,2018,4,SS,,"TV Show, Science Fiction, Fantasy, Horror",,,,"ScottyWic","TCDeez, ScottyWic, Hawkeyez88, Picasso85, Nanuk",2.0,,"FlexDMD, MOD",6XI62bI04Y
 "Stranger Things - Stranger Edition (OrbitalPin 2018)","Stranger Things - Stranger Edition (OrbitalPin 2018)",OrbitalPin,2018,4,SS,,"TV Show, Science Fiction, Fantasy, Horror",,,,"ScottyWic","ScottyWic, ScottyWic's wife, TerryRed, DJRobX, Flupper, Lauminet, Jrsprad, Stefanaustria (STAT), Ryan H, Ninuzzu, HauntFreaks, JPSalas, NailBuster, Tom Tower",1.47,,"SSF, FlexDMD",HPPhsjl-
+"Stranger Things - Stranger Edition (OrbitalPin 2018)","Stranger Things - Stranger Edition (OrbitalPin 2018)",OrbitalPin,2018,4,SS,,"TV Show, Science Fiction, Fantasy, Horror",,,,"ScottyWic","DaRdog81, ScottyWic, Sixtoe",1.0.0,,"VR",paKBB23lJ-
 "Strato-Flite (Williams 1974)","Strato-Flite (Williams 1974)",Williams,1974,4,EM,,"Aviation, Outer Space","https://www.ipdb.org/machine.cgi?id=2398",2398,,"Norm Clark","Mustang1961, Loserman76",1.0d,,,OQZspomaOR
 "Strato-Flite (Williams 1974)","Strato-Flite (Williams 1974)",Williams,1974,4,EM,,"Aviation, Outer Space","https://www.ipdb.org/machine.cgi?id=2398",2398,,"Norm Clark","Loserman76",1.0.0f,,,gKw9MaBE
 "Street Fighter II (Gottlieb 1993)","Street Fighter II (Gottlieb 1993)",Gottlieb,1993,4,SS,,"Martial Arts, Video Game","http://www.ipdb.org/machine.cgi?id=2403",2403,,"Ray Tanzer, Mike Vettros, Bill Parker, Jon Norris","Pattyg234, Roccodimarco, JPSalas",1.3,,"VR",mDS4OQ4V83
