@@ -80,11 +80,11 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Aces & Kings (Williams 1970)","Aces & Kings (Williams 1970)",Williams,1970,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=11",11,,"Steve Kordek","Mustang1961, Albert, -=Kees=-",1.11,,"MOD",XeD4nblFnd
 "Aces & Kings (Williams 1970)","Aces & Kings (Williams 1970)",Williams,1970,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=11",11,,"Steve Kordek","Albert, -=Kees=-",1.0,,"MOD",SUU4-B4o
 "Aces & Kings (Williams 1970)","Aces & Kings (Williams 1970)",Williams,1970,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=11",11,,"Steve Kordek","-=Kees=-",1.11,,,RYeImzsV
+"Aces High (Bally 1965)","Aces High (Bally 1965)",Bally,1965,4,EM,,"Cards, Gambling, Poker, Riverboat","http://www.ipdb.org/machine.cgi?id=9",9,,"Ted Zale","Margoni",1.0,,,Fco5S3Izx7
 "Aces High (Bally 1965)","Aces High (Bally 1965)",Bally,1965,4,EM,,"Cards, Gambling, Poker, Riverboat","http://www.ipdb.org/machine.cgi?id=9",9,,"Ted Zale","Mustang1961, Loserman76, -=Kees=-",2.1,,"MOD",0SGree1V
+"Aces High (Bally 1965)","Aces High (Bally 1965)",Bally,1965,4,EM,,"Cards, Gambling, Poker, Riverboat","http://www.ipdb.org/machine.cgi?id=9",9,,"Ted Zale","Dakarx, -=Kees=-",1.10,,"MOD",YhgwKQxZ
 "Aces High (Bally 1965)","Aces High (Bally 1965)",Bally,1965,4,EM,,"Cards, Gambling, Poker, Riverboat","http://www.ipdb.org/machine.cgi?id=9",9,,"Ted Zale","Loserman76, -=Kees=-",1.0,,"MOD",UgZui8Mfwk
 "Aces High (Bally 1965)","Aces High (Bally 1965)",Bally,1965,4,EM,,"Cards, Gambling, Poker, Riverboat","http://www.ipdb.org/machine.cgi?id=9",9,,"Ted Zale","-=Kees=-",1.00,,,9nVwCL1T
-"Aces High (Bally 1965)","Aces High (Bally 1965)",Bally,1965,4,EM,,"Cards, Gambling, Poker, Riverboat","http://www.ipdb.org/machine.cgi?id=9",9,,"Ted Zale","Dakarx, -=Kees=-",1.10,,"MOD",YhgwKQxZ
-"Aces High (Bally 1965)","Aces High (Bally 1965)",Bally,1965,4,EM,,"Cards, Gambling, Poker, Riverboat","http://www.ipdb.org/machine.cgi?id=9",9,,"Ted Zale",,1.0,,,Fco5S3Izx7
 "Action (Exhibit Supply Company 1943)","Action (Exhibit Supply Company 1943)",Exhibit Supply Company,1943,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=3839",3839,,,"Francisco Pozo",1.1,,,mJc8qRkO49
 "Table 29","Adventure Land (Zen Studios 2017)",Zen Studios,2017,4,,,"Fantasy",,,,"Thomas Crofts","Zen Studios",,,,xFgomm2pwP
 "Amusement_Park","Adventure Land (Zen Studios 2017)",Zen Studios,2017,4,,,"Fantasy",,,,"Thomas Crofts","Zen Studios",,,,bYA3xjuh
@@ -2464,7 +2464,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "North Star (Gottlieb 1964)","North Star (Gottlieb 1964)",Gottlieb,1964,1,EM,,"World Places","https://www.ipdb.org/machine.cgi?id=1683",1683,,"Wayne Neyens","Ext2k, Teisen, Loserman76, Pbecker1946, Itchigo",1.0,,"VR",_9JCGHiBY0
 "North Star (Gottlieb 1964)","North Star (Gottlieb 1964)",Gottlieb,1964,1,EM,,"World Places","https://www.ipdb.org/machine.cgi?id=1683",1683,,"Wayne Neyens","Teisen, Loserman76, Pbecker1946, Itchigo",1.1.0,,"MOD",6W2M97qsGO
 "North Star (Gottlieb 1964)","North Star (Gottlieb 1964)",Gottlieb,1964,1,EM,,"World Places","https://www.ipdb.org/machine.cgi?id=1683",1683,,"Wayne Neyens","Loserman76, Pbecker1946, Itchigo",2.0.0f,,,-9Tihh8Y
-"Nosferatu 1922 (Original 2023)","Nosferatu 1922 (Original 2023)",Original,2023,,EM,,"Horror",,,,,"Damonra, JPSalas",1.0.0,,,sIghlRPN0S
+"Nosferatu 1922 (Original 2023)","Nosferatu 1922 (Original 2023)",Original,2023,,EM,,"Horror",,,,,"Dea TEE (DAMONRA), JPSalas",1.0.0,,,sIghlRPN0S
 "Nova Pinball (Original 2024)","Nova Pinball (Original 2024)",Original,2024,,SS,,"Pinball",,,,,"Xpheres",0.1,,,D-RTgX6SE9
 "Now (Gottlieb 1971)","Now (Gottlieb 1971)",Gottlieb,1971,4,EM,,"Psychedelic","http://www.ipdb.org/machine.cgi?id=1685",1685,,"Ed Krynski","Leeoneil, Loserman76, GNance, Thalamus, Outhere, Bord",1.2.0,,"SSF",qb6in55G
 "Now (Gottlieb 1971)","Now (Gottlieb 1971)",Gottlieb,1971,4,EM,,"Psychedelic","http://www.ipdb.org/machine.cgi?id=1685",1685,,"Ed Krynski","Loserman76, GNance",1.0.0f,,,7vFY61-XyL
@@ -2897,8 +2897,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Salsa (Original 2021)","Salsa (Original 2021)",Original,2021,,EM,,"Music",,,,,"Loloallo, Jogrady7",0.7.0,,"Music",yI6HNS4E
 "San Francisco (Williams 1964)","San Francisco (Williams 1964)",Williams,1964,2,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=2049",2049,,"Steve Kordek","Loserman76, Pbecker1946, Itchigo",1.0.0f,,,7qDFGMv8
 "San Ku Kai (Original 2022)","San Ku Kai (Original 2022)",Original,2022,,SS,,"Science Fiction, Anime, TV Show",,,,,"Hanakin, Cez60, JPSalas",1.1.0,,"MOD",KK8QAbkQS1
-"Sands of the Aton (Original 2023)","Sands of the Aton (Original 2023)",Original,2023,,SS,,"Mythology",,,,,"DGrimmReaper, JPSalas, Dea TEE",1.1,,"VR, MOD",csAFDthAC1
-"Sands of the Aton (Original 2023)","Sands of the Aton (Original 2023)",Original,2023,,SS,,"Mythology",,,,,"JPSalas, Dea TEE",1.0.0,,"FlexDMD",7TpU6EgObk
+"Sands of the Aton (Original 2023)","Sands of the Aton (Original 2023)",Original,2023,,SS,,"Mythology",,,,,"DGrimmReaper, JPSalas, Dea TEE (DAMONRA)",1.1,,"VR, MOD",csAFDthAC1
+"Sands of the Aton (Original 2023)","Sands of the Aton (Original 2023)",Original,2023,,SS,,"Mythology",,,,,"JPSalas, Dea TEE (DAMONRA)",1.0.0,,"FlexDMD",7TpU6EgObk
 "Satin Doll (Williams 1975)","Satin Doll (Williams 1975)",Williams,1975,2,EM,,"Music, Singing","https://www.ipdb.org/machine.cgi?id=2057",2057,,"Norm Clark","Loserman76, Tom, Chinzman93, Wildman, Griz",1.0.0f,,,IHYtsDV-
 "Saw 2022 Edition (Original 2022)","Saw 2022 Edition (Original 2022)",Original,2022,,SS,,"Horror, Movie",,,,,"Icepinball, JPSalas",1.0.0,tmfnt_l5,"MOD",2fABdKt-cp
 "Scared Stiff (Bally 1996)","Scared Stiff (Bally 1996)",Bally,1996,4,SS,,"Licensed Theme, Horror, Supernatural","http://www.ipdb.org/machine.cgi?id=3915",3915,,"Dennis Nordman","Bigus1, nFozzy, Shoopity, ICPjuggla, ClarkKent",2.0,ss_15,"MOD",VfopIX1N
@@ -3562,10 +3562,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Avengers, The (Stern 2012)","Avengers, The (Stern 2012)",Stern,2012,4,SS,,"Comics, Fantasy, Licensed Theme, Superheroes","http://www.ipdb.org/machine.cgi?id=5938",5938,,"George Gomez","Morttis, Arconovum, 32assassin, Freneticamnesic, GTXJoe",0.9.1-1,avs_170,"FSS, MOD",b5OUtq9l
 "Avengers, The (Stern 2012)","Avengers, The (Stern 2012)",Stern,2012,4,SS,,"Comics, Fantasy, Licensed Theme, Superheroes","http://www.ipdb.org/machine.cgi?id=5938",5938,,"George Gomez","32assassin, Freneticamnesic, GTXJoe",0.9.1,avs_170,"FastFlips",Q9weKXC9
 "Avengers Infinity Quest, The (Stern 2020)","Avengers Infinity Quest, The (Stern 2020)",Stern,2020,,SS,,"Comics, Fantasy, Licensed Theme, Superheroes",,,,"Keith Elwin","Fastdraw (Granit)",1.0.1,,,JQwYSJ0Jjm
-"Bally Game Show, The (Bally 1990)","Bally Game Show, The (Bally 1990)",Bally,1990,4,SS,,"Comedy, Game Show","http://www.ipdb.org/machine.cgi?id=985",985,,"Dan Langlois, Peter Perry","Bigus1, 32assassin, Irata",3.0,gs_l4,"MOD",PGQ7zs8u
-"Bally Game Show, The (Bally 1990)","Bally Game Show, The (Bally 1990)",Bally,1990,4,SS,,"Comedy, Game Show","http://www.ipdb.org/machine.cgi?id=985",985,,"Dan Langlois, Peter Perry","Wed21, Bigus1, 32assassin",1.1,gs_l4,"MOD, Fleep, LUT",D8Ta3NZdkc
-"Bally Game Show, The (Bally 1990)","Bally Game Show, The (Bally 1990)",Bally,1990,4,SS,,"Comedy, Game Show","http://www.ipdb.org/machine.cgi?id=985",985,,"Dan Langlois, Peter Perry","Rajo Joey, 32assassin, Sixtoe, Rawd",1.0,gs_l4,"MOD, VR",-jywpNhu9J
-"Bally Game Show, The (Bally 1990)","Bally Game Show, The (Bally 1990)",Bally,1990,4,SS,,"Comedy, Game Show","http://www.ipdb.org/machine.cgi?id=985",985,,"Dan Langlois, Peter Perry","32assassin",0.91,gs_l4,,D7XvKi6-
+"Bally Game Show, The (Bally 1990)","Bally Game Show, The (Bally 1990)",Bally,1990,4,SS,,"Comedy, Game Show","http://www.ipdb.org/machine.cgi?id=985",985,,"Dan Langlois, Peter Perry","Bigus1, 32assassin, Irata",3.0,gs_lu4,"MOD",PGQ7zs8u
+"Bally Game Show, The (Bally 1990)","Bally Game Show, The (Bally 1990)",Bally,1990,4,SS,,"Comedy, Game Show","http://www.ipdb.org/machine.cgi?id=985",985,,"Dan Langlois, Peter Perry","Wed21, Bigus1, 32assassin",1.1,gs_lu4,"MOD, Fleep, LUT",D8Ta3NZdkc
+"Bally Game Show, The (Bally 1990)","Bally Game Show, The (Bally 1990)",Bally,1990,4,SS,,"Comedy, Game Show","http://www.ipdb.org/machine.cgi?id=985",985,,"Dan Langlois, Peter Perry","Rajo Joey, 32assassin, Sixtoe, Rawd",1.0,gs_lu4,"MOD, VR",-jywpNhu9J
+"Bally Game Show, The (Bally 1990)","Bally Game Show, The (Bally 1990)",Bally,1990,4,SS,,"Comedy, Game Show","http://www.ipdb.org/machine.cgi?id=985",985,,"Dan Langlois, Peter Perry","32assassin",0.91,gs_lu4,,D7XvKi6-
 "Batman, The (Original 2022)","Batman, The (Original 2022)",Original,2022,,SS,,"Licensed Theme, Movie, Superheroes, Comics",,,,,"Miguel Roche, Trino7, Skitso, Lord Hiryu, DJRobX, Ninuzzu, Tom Tower",1.0.0,bdk_240,"MOD, Fleep, nFozzy",PD-noMpv3v
 "Beastmaster, The (Original 2021)","Beastmaster, The (Original 2021)",Original,2021,2,SS,,"Movie",,,,,"Balutito, Joshua Milrad",1.0.2,blakpyra,"Music, MOD",iN0a9uCT
 "Beatles, The (Original 2018)","Beatles, The (Original 2018)",Original,2018,,SS,,"Music",,,,,"ScottyWic",0.07,,"Music",oO-Hofw7
@@ -4070,10 +4070,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "X-Men (Stern 2012)","X-Men (Stern 2012)",Stern,2012,4,SS,,"Comics, Fantasy, Licensed Theme, Superheroes","https://www.ipdb.org/machine.cgi?id=5822",5822,,"John Borg","Freneticamnesic",1.0,xmn_151h,,fX42kbrX
 "Table 59","X-men (Zen Studios 2013)",Zen Studios,2013,4,,,"Licensed Theme, Comics, Superheroes",,,,"Thomas Crofts","Zen Studios, Thomas Crofts",,,,rUCLqwOcPZ
 "MARVEL_XMen","X-men (Zen Studios 2013)",Zen Studios,2013,4,,,"Licensed Theme, Comics, Superheroes",,,,"Thomas Crofts","Zen Studios",,,,L2epL7LU
+"Xenon (Bally 1980)","Xenon (Bally 1980)",Bally,1980,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2821",2821,,"Greg Kmiec","JPSalas",4.3.1,xenon,"LUT",HYC5lJhy
 "Xenon (Bally 1980)","Xenon (Bally 1980)",Bally,1980,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2821",2821,,"Greg Kmiec","HauntFreaks, Bord, BorgDog, JPSalas, TastyWasps, Schlabber34, Apophis, Wrd1972",2.5.2,xenon,"MOD, nFozzy, Fleep, Hybrid, VR",YSu2m-x3
 "Xenon (Bally 1980)","Xenon (Bally 1980)",Bally,1980,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2821",2821,,"Greg Kmiec","Bigus1, nFozzy, HauntFreaks, JPSalas, Bord",2.0,xenon,"MOD",bWyEHTUSag
-"Xenon (Bally 1980)","Xenon (Bally 1980)",Bally,1980,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2821",2821,,"Greg Kmiec","JPSalas",4.3.1,xenon,"LUT",HYC5lJhy
-"Xenon (Bally 1980)","Xenon (Bally 1980)",Bally,1980,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2821",2821,,"Greg Kmiec","Runner, Docam, SLAMT1LT, AnonTet, Gimli",1.02g,xenon,"Fleep",QzxYtemvBb
+"Xenon (Bally 1980)","Xenon (Bally 1980)",Bally,1980,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2821",2821,,"Greg Kmiec","Runner, Docam, SLAMT1LT, AnonTet, Gimli",1.02g,xenon,"Fleep, BAM, FizX",QzxYtemvBb
 "Xenon (Bally 1980)","Xenon (Bally 1980)",Bally,1980,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2821",2821,,"Greg Kmiec","Rajo Joey, UnclePaulie, Rawd, Rascal, HauntFreaks, JPSalas, Bord",1.0.0,xenon,"VR, MOD, LUT",aQuoB8Um0K
 "Yamanobori (Komaya 1981)","Yamanobori (Komaya 1981)",Komaya,1981,,EM,,"Mountain Climbing, Flipperless",,,,,"JPSalas, PinballFan, Stefanaustria (STAT)",1.0.0,,,gOq3VVOY
 "Yellow Submarine (Original 2020)","Yellow Submarine (Original 2020)",Original,2020,4,EM,,"Music",,,,,"Justthebest, Nestorgian, JPSalas",1.0.1,,"MOD",H8iahIcRZH
