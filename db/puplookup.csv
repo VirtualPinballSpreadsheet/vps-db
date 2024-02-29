@@ -153,7 +153,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Aliens (Original 2020)","Aliens (Original 2020)",Original,2020,4,SS,,"Licensed Theme, Horror, Science Fiction, Movie",,,,,"BurtMacklin, Bombaj344, Delta23, JPSalas",1.0,sorcr_l1,"MOD",QYoIw_87bH
 "Aliens (Original 2020)","Aliens (Original 2020)",Original,2020,4,SS,,"Licensed Theme, Horror, Science Fiction, Movie",,,,,"Bombaj344, Delta23",1.0,sorcr_l1,"MOD, Music, LUT",2m2xM6aM
 "Aliens (Original 2020)","Aliens (Original 2020)",Original,2020,4,SS,,"Licensed Theme, Horror, Science Fiction, Movie",,,,,"Delta23, JPSalas, Siggi",2.0,sorcr_l1,"MOD, Music",n52iT05p
-"Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"TerryRed, Steve Paradis (Polygame), SLAMT1LT, Paolo (Wild), David Eisner (Pinballwzd)",1.2,,"SSF, Fleep, MOD, BAM, FizX",_i1IjV1yps
+"Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"TerryRed, Steve Paradis (Polygame), SLAMT1LT, Paolo (Wild), David Eisner (Pinballwzd)",1.3,,"SSF, Fleep, MOD, BAM, FizX",_i1IjV1yps
 "Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"TerryRed, SLAMT1LT, David Eisner (Pinballwzd)",1.12,,"MOD",6m6hBKvJrN
 "Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"SLAMT1LT, Paolo (Wild), David Eisner (Pinballwzd)",1.03,,"MOD",DF9Qa8pxHi
 "Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"SLAMT1LT, David Eisner (Pinballwzd), Destruk, Steve Paradis (Polygame), Tom Niwinski",1.07,,"MOD",7w2VUcHA-1
@@ -519,7 +519,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Blackwater 100 (Bally 1988)","Blackwater 100 (Bally 1988)",Bally,1988,4,SS,,"Sports, Motorcycles, Motocross","http://www.ipdb.org/machine.cgi?id=319",319,,"Dennis Nordman","Goldchicco, Sindbad, 32assassin",1.1,black100,,XJFLeAxM
 "Table 45","Blade (Zen Studios 2013)",Zen Studios,2013,4,,,"Licensed Theme, Comics, Superheroes",,,,"Imre Szigeti","Zen Studios, Imre Szigeti",,,,r5OwEQWeRj
 "MARVEL_Blade","Blade (Zen Studios 2013)",Zen Studios,2013,4,,,"Licensed Theme, Comics, Superheroes",,,,"Imre Szigeti","Zen Studios",,,,YxfZF4b9
-"Blade Runner (Original 2020)","Blade Runner (Original 2020)",Original,2020,1,SS,,"Movie, Science Fiction",,,,,"TerryRed, SLAMT1LT",1.2,,"SSF, MOD, BAM, FizX",NiRdYX2g6k
+"Blade Runner (Original 2020)","Blade Runner (Original 2020)",Original,2020,1,SS,,"Movie, Science Fiction",,,,,"TerryRed, SLAMT1LT",1.3,,"SSF, MOD, BAM, FizX",NiRdYX2g6k
 "Blade Runner (Original 2020)","Blade Runner (Original 2020)",Original,2020,1,SS,,"Movie, Science Fiction",,,,,"SLAMT1LT",1.04,,"BAM",OfrrtT9SU5
 "Blade Runner 2049 (Original 2020)","Blade Runner 2049 (Original 2020)",Original,2020,,SS,,"Science Fiction, Movie",,,,,"Ahr1man, Mark Paulik (WPilot), Rawd, Studlygoorite, Solters, Rajo Joey, Sixtoe, JPSalas",2.0,,"VR, FlexDMD, MOD, LUT",gd7UTVkvre
 "Blade Runner 2049 (Original 2020)","Blade Runner 2049 (Original 2020)",Original,2020,,SS,,"Science Fiction, Movie",,,,,"Pinmafia, Mark Paulik (WPilot), TCDeez, JPSalas",3.0,,"MOD",f5d792njkA
@@ -533,7 +533,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Blue Note (Gottlieb 1978)","Blue Note (Gottlieb 1978)",Gottlieb,1978,1,EM,,"Music, Singing","http://www.ipdb.org/machine.cgi?id=328",328,,"John Osborne","Rajo Joey, Loserman76, GNance",1.0.1,,"VR, Hybrid, FSS, MOD, LUT",eEyEIPZWJk
 "Blue Note (Gottlieb 1978)","Blue Note (Gottlieb 1978)",Gottlieb,1978,1,EM,,"Music, Singing","http://www.ipdb.org/machine.cgi?id=328",328,,"John Osborne","Leeoneil, Thalamus, Loserman76, GNance, Pinuck, BorgDog, Armyaviation, Arngrim, HauntFreaks, JPSalas, Bord",1.1.0,,,XFHsaY7hrt
 "Blue Note (Gottlieb 1978)","Blue Note (Gottlieb 1978)",Gottlieb,1978,1,EM,,"Music, Singing","http://www.ipdb.org/machine.cgi?id=328",328,,"John Osborne","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,kP1QfvFo
-"Blue vs Pink (Original 2009)","Blue vs Pink (Original 2009)",Original,2009,1,SS,,,,,,,"TerryRed, Brendan Bailey (Pinwizkid), Schlabber34, Fleep, JLou, Ravarcade, Chris Leathley, NailBuster",2.0,,"Music, MOD, Fleep, BAM, FizX",XVoPsDVysV
+"Blue vs Pink (Original 2009)","Blue vs Pink (Original 2009)",Original,2009,1,SS,,,,,,,"TerryRed, Brendan Bailey (Pinwizkid), Schlabber34, Fleep, JLou, Ravarcade, Chris Leathley, NailBuster",2.1,,"Music, MOD, Fleep, BAM, FizX",XVoPsDVysV
 "Blue vs Pink (Original 2009)","Blue vs Pink (Original 2009)",Original,2009,1,SS,,,,,,,"Brendan Bailey (Pinwizkid)",1.0,,,1fYH6sMrml
 "Blues Brothers 40th Anniversary (Original 2020)","Blues Brothers 40th Anniversary (Original 2020)",Original,2020,4,SS,,"Music",,,,,"Marty02, JPSalas",2.0,,"Music",XaKQp-UQ
 "Bluey (Original 2021)","Bluey (Original 2021)",Original,2021,4,EM,,"Cartoon, Kids",,,,,"Phenom, Devious626, Pinballfan2018, JPSalas, Goldchicco",1.0,,"Music, Kids",67fuXDV9
@@ -1166,7 +1166,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Extremoduro Pinball (Original 2021)","Extremoduro Pinball (Original 2021)",Original,2021,,SS,,"Music",,,,,"Defcon Norris, Marty02, Ivantba, Delta23, Cuclis Soriano, Ramone, JPSalas",1.03,,"Music, MOD",652e4XLI
 "Eye of the Beholder (Original 2023)","Eye of the Beholder (Original 2023)",Original,2023,,SS,,"Video Game",,,,,"Icepinball, Ivantba, 32assassin, GauGau",1.2.0,,"MOD",87vf86Xz8k
 "F-14 Tomcat (Williams 1987)","F-14 Tomcat (Williams 1987)",Williams,1987,4,SS,,"Adventure, Combat, Aviation","http://www.ipdb.org/machine.cgi?id=804",804,,"Steve Ritchie","Hanibal, 32assassin, Flupper, Ganjafarmer, Wrd1972, Vogliadicane, Senseless, Nemo, Bjschneider93, Bassgeige",1.6,f14_l1,"MOD, Music",0Qepbg-3mI
-"F-14 Tomcat (Williams 1987)","F-14 Tomcat (Williams 1987)",Williams,1987,4,SS,,"Adventure, Combat, Aviation","http://www.ipdb.org/machine.cgi?id=804",804,,"Steve Ritchie","TerryRed, Chaos, SLAMT1LT",1.8,f14_l1,"MOD, Fleep, SSF, BAM, FizX",CyC-yYX28c
+"F-14 Tomcat (Williams 1987)","F-14 Tomcat (Williams 1987)",Williams,1987,4,SS,,"Adventure, Combat, Aviation","http://www.ipdb.org/machine.cgi?id=804",804,,"Steve Ritchie","TerryRed, Chaos, SLAMT1LT",1.9,f14_l1,"MOD, Fleep, SSF, BAM, FizX",CyC-yYX28c
 "F-14 Tomcat (Williams 1987)","F-14 Tomcat (Williams 1987)",Williams,1987,4,SS,,"Adventure, Combat, Aviation","http://www.ipdb.org/machine.cgi?id=804",804,,"Steve Ritchie","Wrd1972, Ganjafarmer",1.0,f14_l1,"VR",wBgHhBU6
 "F-14 Tomcat (Williams 1987)","F-14 Tomcat (Williams 1987)",Williams,1987,4,SS,,"Adventure, Combat, Aviation","http://www.ipdb.org/machine.cgi?id=804",804,,"Steve Ritchie","Arconovum, Ganjafarmer",1.0-2.6,f14_l1,"FSS, MOD",5nqBzx_E
 "F-14 Tomcat (Williams 1987)","F-14 Tomcat (Williams 1987)",Williams,1987,4,SS,,"Adventure, Combat, Aviation","http://www.ipdb.org/machine.cgi?id=804",804,,"Steve Ritchie","Ganjafarmer",1.0,f14_l1,,3mc1YJJO
@@ -1519,7 +1519,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Gunship (Original 2023)","Gunship (Original 2023)",Original,2023,,SS,,"Music",,,,,"Jagandy82, JPSalas, Joe Picasso, BurtMacklin",1.0.0,lostwrld,,OW53xAVz9d
 "Half-Life (Original 2019)","Half-Life (Original 2019)",Original,2019,,SS,,"Video Game",,,,,"Ivantba, Javier",1.0,,,4cLZAfQz
 "Halloween (Original 2019)","Halloween (Original 2019)",Original,2019,,SS,,"Supernatural, Horror",,,,,"Fastdraw (Granit)",1.0.0,,,68mNMvWU
-"Halloween (Original 2022)","Halloween (Original 2022)",Original,2022,1,,,"Horror",,,,,"TerryRed, SLAMT1LT",1.8,,"MOD, SSF, Fleep, BAM, FizX",6eh39WdnU5
+"Halloween (Original 2022)","Halloween (Original 2022)",Original,2022,1,,,"Horror",,,,,"TerryRed, SLAMT1LT",1.9,,"MOD, SSF, Fleep, BAM, FizX",6eh39WdnU5
 "Halloween (Original 2022)","Halloween (Original 2022)",Original,2022,1,,,"Horror",,,,,"SLAMT1LT",,,,vgPKwijwaT
 "Halloween (Original 2023)","Halloween (Original 2023)",Original,2023,,SS,,"Horror",,,,,"Marty02, JPSalas",3.1,,"Adult, LUT",CK9P8JB4AY
 "Halloween 1978-1981 (Original 2022)","Halloween 1978-1981 (Original 2022)",Original,2022,,SS,,"Horror, Movie",,,,,"Ahr1man, HiRez00, Apophis",1.03,1.0,"VR, MOD, 4k, Music, SSF",wahov_aZH6
@@ -1823,7 +1823,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "James Bond 007 (Gottlieb 1980)","James Bond 007 (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Licensed Theme, Movie, Espionage","http://www.ipdb.org/machine.cgi?id=1286",1286,,"Allen Edwall","Teisen, Rajo Joey, 32assassin, Mfuegemann",1.1.0,jamesb,"MOD, Hybrid, LUT, VR",Z5yroNaS20
 "James Bond 007 (Gottlieb 1980)","James Bond 007 (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Licensed Theme, Movie, Espionage","http://www.ipdb.org/machine.cgi?id=1286",1286,,"Allen Edwall","Rajo Joey, 32assassin, Mfuegemann",1.0.0,jamesb,"VR, Hybrid, LUT",u8H6qxh2
 "James Bond 007 (Gottlieb 1980)","James Bond 007 (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Licensed Theme, Movie, Espionage","http://www.ipdb.org/machine.cgi?id=1286",1286,,"Allen Edwall","32assassin, Mfuegemann",1.0,jamesb,"Music",A1wxTjE3
-"Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,3,SS,,"Movie, Horror",,,,,"TerryRed, SLAMT1LT, rom, Schlabber34, Fleep, JLou",1.6,,"MOD, SSF, Fleep, BAM, FizX",9cDtSQAyqF
+"Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,3,SS,,"Movie, Horror",,,,,"TerryRed, SLAMT1LT, rom, Schlabber34, Fleep, JLou",1.7,,"MOD, SSF, Fleep, BAM, FizX",9cDtSQAyqF
 "Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,3,SS,,"Movie, Horror",,,,,"Balutito, Randr, SLAMT1LT, rom",1.6,,"MOD, Music, SSF",dmCFED9jMi
 "Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,3,SS,,"Movie, Horror",,,,,"Solters, Randr, SLAMT1LT, rom",1.0,,"VR, MOD, SSF",xRd-rAVln7
 "Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,3,SS,,"Movie, Horror",,,,,"Horsepin (Chepas), Rompin, Horsepin (Chepas)",0.95a,,,K_n9FyQ5ee
@@ -1910,7 +1910,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Junk Yard (Williams 1996)","Junk Yard (Williams 1996)",Williams,1996,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4014",4014,,"Barry Oursler","Arconovum, Mfuegemann, Fuzzel, Dark, HauntFreaks",1.3-2.6,jy_12,"Music, MOD",eRkft2ME
 "Junk Yard (Williams 1996)","Junk Yard (Williams 1996)",Williams,1996,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4014",4014,,"Barry Oursler","Mfuegemann, Fuzzel, Dark, HauntFreaks",1.3,jy_12,"FastFlips",KaV1f7u3
 "WMS_Junkyard","Junk Yard (Williams 1996)",Williams,1996,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4014",4014,,"Barry Oursler","Zen Studios",,jy_12,,7tR5UMpq
-"Junkyard Cats (Original 2012)","Junkyard Cats (Original 2012)",Original,2012,1,SS,,"Apocalyptic, Science Fiction",,,,,"TerryRed, Brendan Bailey (Pinwizkid)",2.0,,"Music, Fleep, SSF, MOD, BAM, FizX",yL4rRRj1_a
+"Junkyard Cats (Original 2012)","Junkyard Cats (Original 2012)",Original,2012,1,SS,,"Apocalyptic, Science Fiction",,,,,"TerryRed, Brendan Bailey (Pinwizkid)",2.1,,"Music, Fleep, SSF, MOD, BAM, FizX",yL4rRRj1_a
 "Junkyard Cats (Original 2012)","Junkyard Cats (Original 2012)",Original,2012,1,SS,,"Apocalyptic, Science Fiction",,,,,"Javier1515, Brendan Bailey (Pinwizkid)",1.07,,"MOD",xeylUmHWGL
 "Junkyard Cats (Original 2012)","Junkyard Cats (Original 2012)",Original,2012,1,SS,,"Apocalyptic, Science Fiction",,,,,"Brendan Bailey (Pinwizkid)",1.0,,,T3jUV2lk25
 "Jupiter (Original 2023)","Jupiter (Original 2023)",Original,2023,,,,,,,,,,1.104,,"FizX",Ijs8mEINqC
@@ -2779,7 +2779,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Resident Evil (Original 2022)","Resident Evil (Original 2022)",Original,2022,1,SS,,"Horror, Movie, Video Game",,,,,"Crutch, Javier1515, Ivantba",1.0.0,,"MOD, FlexDMD",BCQf5qj_e2
 "Resident Evil VII (Original 2019)","Resident Evil VII (Original 2019)",Original,2019,4,SS,,"Horror, Video Game",,,,,"Ivantba, JPSalas",1.0,fireactd,,q5OB_eYM
 "Retro Zombie Adventure Land (Original 2016)","Retro Zombie Adventure Land (Original 2016)",Original,2016,,SS,,"Horror, Supernatural",,,,,"TheGhost787, Ben Heck, Zidware John",1.0,,,0pVhzZWa
-"RetroFlair (Original 2012)","RetroFlair (Original 2012)",Original,2012,1,,,"Video Game, Nostalgia",,,,,"TerryRed, rom",2.1,,"MOD, SSF, Fleep, BAM, FizX",LPlspaI_aS
+"RetroFlair (Original 2012)","RetroFlair (Original 2012)",Original,2012,1,,,"Video Game, Nostalgia",,,,,"TerryRed, rom",2.2,,"MOD, SSF, Fleep, BAM, FizX",LPlspaI_aS
 "RetroFlair (Original 2012)","RetroFlair (Original 2012)",Original,2012,1,,,"Video Game, Nostalgia",,,,,"rom",3.1,,,NquQKxYfqP
 "Return of the Living Dead (Original 2021)","Return of the Living Dead (Original 2021)",Original,2021,4,SS,,"Horror, Movie",,,,,"Bossman72, Bigus1, JPSalas",1.1,faeton,"Music",v0wdgqZh
 "Rey de Diamantes (Petaco 1967)","Rey de Diamantes (Petaco 1967)",Petaco,1967,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=4368",4368,,,"Loserman76, GNance",1.0.0f,,,1Sawx7aL
@@ -2811,7 +2811,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Robo-War (Gottlieb 1988)","Robo-War (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=1975",1975,,"John Trudeau","Bigus1, Balater",1.5,,"MOD, FlexDMD",hklzPs6S
 "Robo-War (Gottlieb 1988)","Robo-War (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=1975",1975,,"John Trudeau","Balater",1.0.0,,,4syqH3bP
 "Robo-War (Gottlieb 1988)","Robo-War (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=1975",1975,,"John Trudeau","Dozer",1.0,,,an0Nk7Tt
-"RoboCop (Original 2013)","RoboCop (Original 2013)",Original,2013,,SS,,"Licensed Theme, Science Fiction, Movie",,,,,"TerryRed, SLAMT1LT, rom",1.2,,"SSF, MOD, BAM, FizX",0p-f5gJMVb
+"RoboCop (Original 2013)","RoboCop (Original 2013)",Original,2013,,SS,,"Licensed Theme, Science Fiction, Movie",,,,,"TerryRed, SLAMT1LT, rom",1.3,,"SSF, MOD, BAM, FizX",0p-f5gJMVb
 "RoboCop (Original 2013)","RoboCop (Original 2013)",Original,2013,,SS,,"Licensed Theme, Science Fiction, Movie",,,,,"SLAMT1LT, rom",1.03,,"MOD, BAM",iwzoHeLUJr
 "RoboCop (Original 2013)","RoboCop (Original 2013)",Original,2013,,SS,,"Licensed Theme, Science Fiction, Movie",,,,,"TerryRed, SLAMT1LT, rom",1.05,,"MOD",LsP753HULI
 "RoboCop (Original 2013)","RoboCop (Original 2013)",Original,2013,,SS,,"Licensed Theme, Science Fiction, Movie",,,,,"SLAMT1LT, rom",1.02,,"MOD",WVCEpsPArl
@@ -3023,11 +3023,11 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Skyrocket (Bally 1971)","Skyrocket (Bally 1971)",Bally,1971,2,EM,,"Happiness, Circus, Carnival","https://www.ipdb.org/machine.cgi?id=2204",2204,,"Harry Williams","Rosve",1.02,,,6L4NUXUF
 "Skyway (Williams 1954)","Skyway (Williams 1954)",Williams,1954,1,EM,,"Space Age, Travel, Aquatic, Women","https://www.ipdb.org/machine.cgi?id=2206",2206,,"Harry Williams","Bord",2.02,,"VR, Hybrid",qo-m1I-F
 "Slayer (Original 2022)","Slayer (Original 2022)",Original,2022,,SS,,"Music, Heavy Metal",,,,,"HauntFreaks, RetroG33k, Rawd, Unsavory, Rik, Scampa123, Darkstar, Fluffhead35, Leojreimroc, VPW Team",1.0.0,,"VR, Music, Hybrid",0ZPsV_8g3z
+"Slick Chick (Gottlieb 1963)","Slick Chick (Gottlieb 1963)",Gottlieb,1963,1,EM,,"Women","http://www.ipdb.org/machine.cgi?id=2208",2208,,"Wayne Neyens","JCalhoun, HauntFreaks, Cliffy, Loserman76, GNance, Pinuck, BorgDog, Arngrim, JPSalas",1.1,,"SSF, Fleep",BqWBCGtKLq
 "Slick Chick (Gottlieb 1963)","Slick Chick (Gottlieb 1963)",Gottlieb,1963,1,EM,,"Women","http://www.ipdb.org/machine.cgi?id=2208",2208,,"Wayne Neyens","Martin Brunker, Carlucci",2.2,,"MOD",mK6z38nPgk
 "Slick Chick (Gottlieb 1963)","Slick Chick (Gottlieb 1963)",Gottlieb,1963,1,EM,,"Women","http://www.ipdb.org/machine.cgi?id=2208",2208,,"Wayne Neyens","Okobojimusky, FranzLeo",1.2,,"MOD",YLjIVKHXPt
 "Slick Chick (Gottlieb 1963)","Slick Chick (Gottlieb 1963)",Gottlieb,1963,1,EM,,"Women","http://www.ipdb.org/machine.cgi?id=2208",2208,,"Wayne Neyens","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0b,,,7JIWiXW6
 "Slick Chick (Gottlieb 1963)","Slick Chick (Gottlieb 1963)",Gottlieb,1963,1,EM,,"Women","http://www.ipdb.org/machine.cgi?id=2208",2208,,"Wayne Neyens","FranzLeo",1.0,,,dBl0gI0iuy
-"Slick Chick (Gottlieb 1963)","Slick Chick (Gottlieb 1963)",Gottlieb,1963,1,EM,,"Women","http://www.ipdb.org/machine.cgi?id=2208",2208,,"Wayne Neyens","JCalhoun, HauntFreaks, Cliffy, Loserman76, GNance, Pinuck, BorgDog, Arngrim, JPSalas",1.1,,"SSF, Fleep",BqWBCGtKLq
 "Slipknot (Original 2021)","Slipknot (Original 2021)",Original,2021,,SS,,"Music, Heavy Metal",,,,,"Team Tuga",1.0.0,,"Music",OOXtK7R0
 "Smart Set (Williams 1969)","Smart Set (Williams 1969)",Williams,1969,4,EM,,"Boats, Recreation, Affluence, Aquatic","http://www.ipdb.org/machine.cgi?id=2215",2215,,"Norm Clark","-=Kees=-",1.00,,,cmsm8qnOu5
 "Smart Set (Williams 1969)","Smart Set (Williams 1969)",Williams,1969,4,EM,,"Boats, Recreation, Affluence, Aquatic","http://www.ipdb.org/machine.cgi?id=2215",2215,,"Norm Clark","Loserman76, -=Kees=-",1.0,,"MOD",lYa0qoLn
@@ -3056,7 +3056,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Solitaire (Gottlieb 1967)","Solitaire (Gottlieb 1967)",Gottlieb,1967,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=2241",2241,,"Ed Krynski","Loserman76, GNance",1.0,,,NCIZFoFK
 "Table 80","Son of Zeus (Zen Studios 2017)",Zen Studios,2017,4,,,"Legends",,,,"Peter Grafl","Zen Studios",,,,0bhVMQbKlm
 "Hercules","Son of Zeus (Zen Studios 2017)",Zen Studios,2017,4,,,"Legends",,,,"Peter Grafl","Zen Studios",,,,2A-nOl5G
-"Sonic Pinball Mania (Original 2022)","Sonic Pinball Mania (Original 2022)",Original,2022,1,SS,,"Video Game, Kids",,,,,"TerryRed, SLAMT1LT, Brendan Bailey (Pinwizkid)",1.9,,"SSF, Music, Kids, MOD, Fleep, BAM, FizX",Cc-r8YrYBI
+"Sonic Pinball Mania (Original 2022)","Sonic Pinball Mania (Original 2022)",Original,2022,1,SS,,"Video Game, Kids",,,,,"TerryRed, SLAMT1LT, Brendan Bailey (Pinwizkid)",2.0,,"SSF, Music, Kids, MOD, Fleep, BAM, FizX",Cc-r8YrYBI
 "Sonic the Hedgehog (Original 2005)","Sonic the Hedgehog (Original 2005)",Original,2005,,SS,,"Video Game, Kids",,,,,"Panasony, DCrosby, Javier1515, Brendan Bailey (Pinwizkid)",1.21,,"MOD, Kids",TYVVL51gSe
 "Sonic the Hedgehog (Original 2005)","Sonic the Hedgehog (Original 2005)",Original,2005,,SS,,"Video Game, Kids",,,,,"DCrosby, Javier1515, Brendan Bailey (Pinwizkid)",1.10,,"FlexDMD, Kids, MOD",f5q3HhqW
 "Sonic the Hedgehog (Original 2005)","Sonic the Hedgehog (Original 2005)",Original,2005,,SS,,"Video Game, Kids",,,,,"SLAMT1LT, Atros, Brendan Bailey (Pinwizkid)",1.02,,"MOD",vxmVY4bPId
@@ -3242,7 +3242,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Star Wars - The Empire Strikes Back (Hankin 1980)","Star Wars - The Empire Strikes Back (Hankin 1980)",Hankin,1980,4,SS,,"Licensed Theme, Science Fiction, Space Fantasy, Movie","http://www.ipdb.org/machine.cgi?id=2868",2868,,,"Xenonph, 32assassin",3.1,empsback,"Music, MOD",2wgAfsy3
 "Star Wars - The Empire Strikes Back (Hankin 1980)","Star Wars - The Empire Strikes Back (Hankin 1980)",Hankin,1980,4,SS,,"Licensed Theme, Science Fiction, Space Fantasy, Movie","http://www.ipdb.org/machine.cgi?id=2868",2868,,,"32assassin",1.4,empsback,,-LTc5vxS
 "Star Wars - Tribute (Original 2021)","Star Wars - Tribute (Original 2021)",Original,2021,,SS,,"Licensed Theme, Science Fiction, Space Fantasy, Movie",,,,,"Shamrock1980, JPSalas, Siggi",1.3.0,alpok_l6,"Music",OcD2pQ06
-"Star Wars Death Star Assault (Original 2011)","Star Wars Death Star Assault (Original 2011)",Original,2011,4,SS,,"Licensed Theme, Science Fiction, Space Fantasy, Movie",,,,,"TerryRed, SLAMT1LT, Matt Ellis",1.6,,"MOD, Music, SSF, Fleep, BAM, FizX",w-0IPdiVQA
+"Star Wars Death Star Assault (Original 2011)","Star Wars Death Star Assault (Original 2011)",Original,2011,4,SS,,"Licensed Theme, Science Fiction, Space Fantasy, Movie",,,,,"TerryRed, SLAMT1LT, Matt Ellis",1.7,,"MOD, Music, SSF, Fleep, BAM, FizX",w-0IPdiVQA
 "Star Wars Death Star Assault (Original 2011)","Star Wars Death Star Assault (Original 2011)",Original,2011,4,SS,,"Licensed Theme, Science Fiction, Space Fantasy, Movie",,,,,"TerryRed, SLAMT1LT, Matt Ellis",1.06 - ESB,,"SSF, MOD, BAM",Jau7Ccbvo7
 "Star Wars Death Star Assault (Original 2011)","Star Wars Death Star Assault (Original 2011)",Original,2011,4,SS,,"Licensed Theme, Science Fiction, Space Fantasy, Movie",,,,,"SLAMT1LT, Matt Ellis",1.06,,"BAM",bD2CM_AjOX
 "Star Wars Death Star Assault (Original 2011)","Star Wars Death Star Assault (Original 2011)",Original,2011,4,SS,,"Licensed Theme, Science Fiction, Space Fantasy, Movie",,,,,"SLAMT1LT, Matt Ellis",1.01,,,ubrypO8rNY
