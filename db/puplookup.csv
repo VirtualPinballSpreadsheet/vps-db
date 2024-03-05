@@ -1064,7 +1064,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Drunken Santa (Original 2020)","Drunken Santa (Original 2020)",Original,2020,,SS,,"Christmas",,,,,"Remdwaas1986, Davor Lipovac",1.3,,"FlexDMD",UqxQ7Vvs
 "DuckTales (Original 2014)","DuckTales (Original 2014)",Original,2014,,,,"Cartoon",,,,,"Mark1",1.5,,,TFcefpZOLX
 "DuckTales (Original 2014)","DuckTales (Original 2014)",Original,2014,,,,"Cartoon",,,,,"Mark1",2.0SE,,"MOD",SdbwynJV6Y
-"DuckTales (Original 2020)","DuckTales (Original 2020)",Original,2020,,SS,,"Animation, Kids, Video Game",,,,,"Remdwaas1986, Ivantba, JPSalas, Wyk82, Outhere",1.6,,"FlexDMD, Kids, Music",Ei0X_rAG
+"DuckTales (Original 2020)","DuckTales (Original 2020)",Original,2020,,SS,,"Animation, Kids, Video Game",,,,,"Remdwaas1986, Ivantba, JPSalas, Outhere",1.6,,"FlexDMD, Kids, Music",Ei0X_rAG
 "Duke Nukem 3D (Original 2020)","Duke Nukem 3D (Original 2020)",Original,2020,4,SS,,"Video Game",,,,,"Ivantba, JPSalas, Siggi",1.0,skatebll,"MOD",OQ7hzDVr
 "Dukes Of Hazzard Pinball (Original 2022)","Dukes Of Hazzard Pinball (Original 2022)",Original,2022,,SS,,"TV Show",,,,,"Capnclaw, 32assassin, Chokeee, Hawkeyez88, NailBuster, Smaug, Sixtoe, Bord, Tomate",1.0,hs_l4,"MOD, nFozzy, Fleep",g1WwIyskTw
 "Dungeons & Dragons (Bally 1987)","Dungeons & Dragons (Bally 1987)",Bally,1987,4,SS,,"Licensed Theme, Fantasy","http://www.ipdb.org/machine.cgi?id=743",743,,"Ward Pemberton","Zobou, TheGhost787, Happycab",1.0,dungdrag.zip,,m2Qichh6Yp
@@ -1830,7 +1830,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,3,SS,,"Movie, Horror",,,,,"TerryRed, SLAMT1LT, rom, Schlabber34, Fleep, JLou",1.7,,"MOD, SSF, Fleep, BAM, FizX",9cDtSQAyqF
 "Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,3,SS,,"Movie, Horror",,,,,"Balutito, Randr, SLAMT1LT, rom",1.6,,"MOD, Music, SSF",dmCFED9jMi
 "Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,3,SS,,"Movie, Horror",,,,,"Solters, Randr, SLAMT1LT, rom",1.0,,"VR, MOD, SSF",xRd-rAVln7
-"Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,3,SS,,"Movie, Horror",,,,,"Horsepin (Chepas), Rompin, Horsepin (Chepas)",0.95a,,,K_n9FyQ5ee
+"Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,3,SS,,"Movie, Horror",,,,,"Horsepin (Chepas), Rompin",0.95a,,,K_n9FyQ5ee
 "Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,3,SS,,"Movie, Horror",,,,,"Randr, SLAMT1LT, rom",1.0c,,"SSF",ULqUHOvG
 "Jaws (Original 2018)","Jaws (Original 2018)",Original,2018,3,SS,,"Movie, Horror",,,,,"SLAMT1LT, rom",1.08,,,f48eiu1kom
 "Table 95","Jaws Pinball (Zen Studios 2017)",Zen Studios,2017,4,,,"Licensed Theme, Fantasy, Nautical, Movie",,,,"Szucs David","Zen Studios, Szucs David",,,,PZ6BlwYjl9
@@ -1987,7 +1987,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Kiss (Stern 2015)","Kiss (Stern 2015)",Stern,2015,,SS,,"Licensed Theme, Celebrities, Music","https://www.ipdb.org/machine.cgi?id=6267",6267,,"John Borg","Allknowing2012, JPSalas",20161122,,"Music, FlexDMD",E-RHgwloOn
 "Klondike (Williams 1971)","Klondike (Williams 1971)",Williams,1971,1,EM,,"Canadian West","https://www.ipdb.org/machine.cgi?id=1388",1388,,"Norm Clark","Kiwi",1.0.2,,"MOD",1ew1MX4XOA
 "Klondike (Williams 1971)","Klondike (Williams 1971)",Williams,1971,1,EM,,"Canadian West","https://www.ipdb.org/machine.cgi?id=1388",1388,,"Norm Clark","Loserman76",1.0.0f,,,yclmpzRv
-"Knight Rider (Original 2021)","Knight Rider (Original 2021)",Original,2021,,SS,,"TV Show",,,,,"Horsepin (Chepas), Horsepin (Chepas), eMBee, Rompin",0.98,,,C6Zb4Vlj
+"Knight Rider (Original 2021)","Knight Rider (Original 2021)",Original,2021,,SS,,"TV Show",,,,,"Horsepin (Chepas), eMBee, Rompin",0.98,,,C6Zb4Vlj
 "Knockout (Gottlieb 1950)","Knockout (Gottlieb 1950)",Gottlieb,1950,1,EM,,"Sports, Boxing","https://www.ipdb.org/machine.cgi?id=1391",1391,,"Harry Mabs","Shannon, Loserman76, Bord",1.0.2,,,N5rzjyE_
 "Table 153","Kong Pinball (Zen Studios 2023)",Zen Studios,2023,,,,"Licensed Theme, Monsters",,,,,"Zen Studios",,,,ZRB4lMcfMS
 "Kong vs Godzilla (Original 2023)","Kong vs Godzilla (Original 2023)",Original,2023,,SS,,"Movie, Fantasy, Monsters",,,,,"Balutito, 32assassin",1.3,godzilla,"MOD",o9JlGXC1YL
@@ -2157,7 +2157,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Masters of the Universe (Original 2018)","Masters of the Universe (Original 2018)",Original,2018,,SS,,"Animation, Kids, TV Show",,,,,"TerryRed, Hyperion, rom",1.0.0,,"SSF, Music, Kids, MOD",0txzr_V9
 "Masters of the Universe (Original 2018)","Masters of the Universe (Original 2018)",Original,2018,,SS,,"Animation, Kids, TV Show",,,,,"TerryRed, Hyperion, rom",1.0.0,,"Kids, Music, MOD",4rOPu3T5GZ
 "Masters of the Universe (Original 2018)","Masters of the Universe (Original 2018)",Original,2018,,SS,,"Animation, Kids, TV Show",,,,,"Open6l, rom",1.0.0,,"MOD",z0l3GFPVgM
-"Masters of the Universe (Original 2021)","Masters of the Universe (Original 2021)",Original,2021,,,,"Animation, Kids, TV Show",,,,,"Horsepin (Chepas), Horsepin (Chepas), Rompin",0.9,,,gcOLfu0bjy
+"Masters of the Universe (Original 2021)","Masters of the Universe (Original 2021)",Original,2021,,,,"Animation, Kids, TV Show",,,,,"Horsepin (Chepas), Rompin",0.9,,,gcOLfu0bjy
 "Mata Hari (Bally 1978)","Mata Hari (Bally 1978)",Bally,1978,4,SS,,"Historical, Espionage","http://www.ipdb.org/machine.cgi?id=4501",4501,,"Jim Patla","Bigus1, ItchiRobot, Allknowing2012",2.1,matahari,"MOD",yQ0r4Lwj
 "Mata Hari (Bally 1978)","Mata Hari (Bally 1978)",Bally,1978,4,SS,,"Historical, Espionage","http://www.ipdb.org/machine.cgi?id=4501",4501,,"Jim Patla","RandoHondo, Bigus1, Allknowing2012",1.7,matahari,"FlexDMD, MOD",CDdRYYnGMx
 "Mata Hari (Bally 1978)","Mata Hari (Bally 1978)",Bally,1978,4,SS,,"Historical, Espionage","http://www.ipdb.org/machine.cgi?id=4501",4501,,"Jim Patla","Rajo Joey, Allknowing2012",1.0.0,matahari,"VR, LUT",_ZTG3koE
@@ -3366,7 +3366,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Strikes 'N Spares (Gottlieb 1995)","Strikes 'N Spares (Gottlieb 1995)",Gottlieb,1995,4,SS,,"Bowling","http://www.ipdb.org/machine.cgi?id=4336",4336,,"Ray Tanzer, John Buras","CactusDude (Warbler33), Mfuegemann",1.0.0,,,He_w7gT6
 "Strikes 'N Spares (Gottlieb 1995)","Strikes 'N Spares (Gottlieb 1995)",Gottlieb,1995,4,SS,,"Bowling","http://www.ipdb.org/machine.cgi?id=4336",4336,,"Ray Tanzer, John Buras","32assassin, Mfuegemann",0.9,,,X8zmv4hO
 "Strikes and Spares (Bally 1978)","Strikes and Spares (Bally 1978)",Bally,1978,4,SS,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2406",2406,,"Gary Gayton","Larouillas, HiRez00, Apophis",1.0.0,stk_sprs,"MOD",addTKqh06-
-"Strikes and Spares (Bally 1978)","Strikes and Spares (Bally 1978)",Bally,1978,4,SS,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2406",2406,,"Gary Gayton","Gamer7, rom, SLAMT1LT, Rich, TerryRed",1.0.1 v2,stk_sprs,"MOD, Fleep, SSF",_9Vm2Rxwgm
+"Strikes and Spares (Bally 1978)","Strikes and Spares (Bally 1978)",Bally,1978,4,SS,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2406",2406,,"Gary Gayton","Gamer7, rom, SLAMT1LT, TerryRed",1.0.1 v2,stk_sprs,"MOD, Fleep, SSF",_9Vm2Rxwgm
 "Strikes and Spares (Bally 1978)","Strikes and Spares (Bally 1978)",Bally,1978,4,SS,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2406",2406,,"Gary Gayton","HiRez00, Apophis",2.0,stk_sprs,"nFozzy, LUT",0j5X3VbYoD
 "Strikes and Spares (Bally 1978)","Strikes and Spares (Bally 1978)",Bally,1978,4,SS,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2406",2406,,"Gary Gayton","Sixtoe, 32assassin",1.0.0,stk_sprs,"VR",PofZy_V2s3
 "Strip Joker Poker (Gottlieb 1978)","Strip Joker Poker (Gottlieb 1978)",Gottlieb,1978,4,EM,,"Cards, Gambling, Adult, Poker","https://www.ipdb.org/machine.cgi?id=1306",1306,,"Ed Krynski","HiRez00, Pinballfan2018, HiRez00's wife, BorgDog, Apophis, Goldchicco",1.5,,"MOD, Adult",wDdUcP3JNb
