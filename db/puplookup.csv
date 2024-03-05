@@ -952,7 +952,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Diablo Pinball (OrbitalPin 2017)","Diablo Pinball (OrbitalPin 2017)",OrbitalPin,2017,4,SS,,"Fantasy, Video Game",,,,"ScottyWic","JPSalas, ScottyWic, Stefanaustria (STAT), Arngrim",4.3.0,,"FlexDMD, SSF, LUT",W2O2IpMHYf
 "Diablo Pinball (OrbitalPin 2017)","Diablo Pinball (OrbitalPin 2017)",OrbitalPin,2017,4,SS,,"Fantasy, Video Game",,,,"ScottyWic","Solters, ScottyWic, Stefanaustria (STAT), Arngrim, JPSalas",1.0,,"VR",ZENabYbDTT
 "Diablo Pinball (OrbitalPin 2017)","Diablo Pinball (OrbitalPin 2017)",OrbitalPin,2017,4,SS,,"Fantasy, Video Game",,,,"ScottyWic","ScottyWic, Stefanaustria (STAT), Arngrim, JPSalas",1.0.3,,"FlexDMD",ZYHTqanh
-"Diadem (Original 2023)","Diadem (Original 2023)",Original,2023,,SS,,,,,,,"Joust 7800, VonKrafte, Derek Fiechter",1.1,,,ximTjF2eH3
+"Diadem (Original 2023)","Diadem (Original 2023)",Original,2023,,SS,,,,,,,"VonKrafte (Joust7800), Derek Fiechter",1.1,,,ximTjF2eH3
 "Diamond Jack (Gottlieb 1967)","Diamond Jack (Gottlieb 1967)",Gottlieb,1967,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=676",676,,"Ed Krynski","Loserman76, GNance",1.0.0f,,,2uFODTjY
 "Diamond Lady (Gottlieb 1988)","Diamond Lady (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=678",678,,"Jon Norris","JPSalas, Arngrim",4.3.0,,"LUT",3okr-FRI
 "Diamond Lady (Gottlieb 1988)","Diamond Lady (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=678",678,,"Jon Norris","Solters, Arngrim, JPSalas",1.0,,"VR",6qyM9fdlj6
@@ -1216,7 +1216,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Fathom (Bally 1981)","Fathom (Bally 1981)",Bally,1981,4,SS,,"Fantasy, Scuba Diving, Sports, Aquatic","http://www.ipdb.org/machine.cgi?id=829",829,,"Ward Pemberton","32assassin, UncleWilly",2.0,fathom,,E551pHQO
 "Table 5","Fear Itself (Zen Studios 2012)",Zen Studios,2012,4,,,"Licensed Theme, Comics",,,,"Zoltan Vari","Zen Studios, Zoltan Vari",,,,Xyi0qB9Vnc
 "MARVEL_FearItSelf","Fear Itself (Zen Studios 2012)",Zen Studios,2012,4,,,"Licensed Theme, Comics",,,,"Zoltan Vari","Zen Studios",,,,Xgz6W5te
-"Feiseanna II - Dream Worlds (Original 2022)","Feiseanna II - Dream Worlds (Original 2022)",Original,2022,,,,"Dancing",,,,,"VonKrafte, Jogrady7",2.0,,,okVb4ZnmKn
+"Feiseanna II - Dream Worlds (Original 2022)","Feiseanna II - Dream Worlds (Original 2022)",Original,2022,,,,"Dancing",,,,,"VonKrafte (Joust7800), Jogrady7",2.0,,,okVb4ZnmKn
 "Ferris Bueller's Day Off (Original 2022)","Ferris Bueller's Day Off (Original 2022)",Original,2022,,,,"Movie, Comedy",,,,,"Charlespinball, Carl Son, TerryRed",1.0.0,,"BAM",C57khfCome
 "Fifteen (Inder 1974)","Fifteen (Inder 1974)",Inder,1974,1,EM,,"Women","https://www.ipdb.org/machine.cgi?id=4409",4409,,,"Loserman76, Leeoneil, Akiles50000, JPSalas",4.0,,,6akT02Lq
 "Fight Night (Original 2014)","Fight Night (Original 2014)",Original,2014,,EM,,"Sports, Boxing",,,,,"Jogrady7",1.1,,"MOD",vcAZSLi-
@@ -1308,7 +1308,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Force (LTD do Brasil 1979)","Force (LTD do Brasil 1979)",LTD do Brasil,1979,,SS,,"Outer Space, Science Fiction, Space Fantasy","https://www.ipdb.org/machine.cgi?id=5893",5893,,,"Wiesshund, Mfuegemann",4.0,force,,k26cLZY1Vu
 "Force II (Gottlieb 1981)","Force II (Gottlieb 1981)",Gottlieb,1981,4,SS,,"Combat, Aliens, Outer Space","http://www.ipdb.org/machine.cgi?id=916",916,,"John Osborne","Rascal, Kristian, Inkochnito, TAB",1.1,,,doA4O1o9
 "Force II (Gottlieb 1981)","Force II (Gottlieb 1981)",Gottlieb,1981,4,SS,,"Combat, Aliens, Outer Space","http://www.ipdb.org/machine.cgi?id=916",916,,"John Osborne","HSM, Rascal, Kristian, Inkochnito, TAB",1.1 1.1,,,HYofGN40
-"Forge (Original 2023)","Forge (Original 2023)",Original,2023,,SS,,,,,,,"VonKrafte, Karl Casey, Jogrady7",2.1.0,,"Music",1mYC1bqZex
+"Forge (Original 2023)","Forge (Original 2023)",Original,2023,,SS,,,,,,,"VonKrafte (Joust7800), Karl Casey, Jogrady7",2.1.0,,"Music",1mYC1bqZex
 "Forrest Gump (Original 2023)","Forrest Gump (Original 2023)",Original,2023,,SS,,"Movie",,,,,"Jagandy82, Nesta78, Joe Picasso",2.0.0,,,620RhMAmqM
 "Four Million B.C. (Bally 1971)","Four Million B.C. (Bally 1971)",Bally,1971,4,EM,,"Dinosaurs, Historical","http://www.ipdb.org/machine.cgi?id=935",935,,"Ted Zale","Scottacus, Whirlwind, Onevox, Bord",2.0.8,,"SSF, VR, FSS",oGQExHwR
 "Four Million B.C. (Bally 1971)","Four Million B.C. (Bally 1971)",Bally,1971,4,EM,,"Dinosaurs, Historical","http://www.ipdb.org/machine.cgi?id=935",935,,"Ted Zale","Scottacus, Slydog43, Kds70, Arconovum, Bord",1.0-2.6,,"FastFlips, FSS, MOD",ltsQUFtk
@@ -1900,7 +1900,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jungle King (Gottlieb 1973)","Jungle King (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Jungle","https://www.ipdb.org/machine.cgi?id=1336",1336,,"Ed Krynski","Rajo Joey, Loserman76, GNance",1.0.0,,"VR, FSS, Hybrid, LUT",Gkl5C5B259
 "Jungle King (Gottlieb 1973)","Jungle King (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Jungle","https://www.ipdb.org/machine.cgi?id=1336",1336,,"Ed Krynski","Loserman76, GNance",1.0.0f,,,edfE4OXf
 "Jungle Life (Gottlieb 1972)","Jungle Life (Gottlieb 1972)",Gottlieb,1972,1,EM,,"Jungle","https://www.ipdb.org/machine.cgi?id=1337",1337,,"Ed Krynski","Rajo Joey, Loserman76",1.0.0,,"VR, Hybrid, FSS",KUfsTkjBWu
-"Jungle Life (Gottlieb 1972)","Jungle Life (Gottlieb 1972)",Gottlieb,1972,1,EM,,"Jungle","https://www.ipdb.org/machine.cgi?id=1337",1337,,"Ed Krynski","Mustang1961, Leoneil, GNance, Popotte, Loserman76",1.0c,,,p0W3Mv_WWG
+"Jungle Life (Gottlieb 1972)","Jungle Life (Gottlieb 1972)",Gottlieb,1972,1,EM,,"Jungle","https://www.ipdb.org/machine.cgi?id=1337",1337,,"Ed Krynski","Mustang1961, Leeoneil, GNance, Popotte, Loserman76",1.0c,,,p0W3Mv_WWG
 "Jungle Life (Gottlieb 1972)","Jungle Life (Gottlieb 1972)",Gottlieb,1972,1,EM,,"Jungle","https://www.ipdb.org/machine.cgi?id=1337",1337,,"Ed Krynski","Loserman76",1.0.0f,,,MQ1fkeFU
 "Jungle Lord (Williams 1981)","Jungle Lord (Williams 1981)",Williams,1981,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1338",1338,,"Barry Oursler","UnclePaulie, TonyTheWrench, VPW Team",2.01,jngld_l2,"VR, SSF, FSS, MOD, Hybrid, LUT, nFozzy",_0fhXbhm3h
 "Jungle Lord (Williams 1981)","Jungle Lord (Williams 1981)",Williams,1981,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1338",1338,,"Barry Oursler","Bigus1, TonyTheWrench",1.0,jngld_l2,"MOD",na2zsEnO
@@ -3179,7 +3179,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Split Second (Stern 1981)","Split Second (Stern 1981)",Stern,1981,,SS,,"Carnival, Circus",,,,"Harry Williams","JPSalas, Marcelo Blanco, Destruk, TAB, Inkochnito, StrangeLeo72, Arngrim",4.0.1,,"LUT",4Ne8jb8t_k
 "SpongeBob (Original 2020)","SpongeBob (Original 2020)",Original,2020,4,SS,,"TV Show, Animation, Kids",,,,,"Davor Lipovac, Stevegooner1234, 32assassin",1.1,fathom,"MOD",7e4bBYB_
 "SpongeBob Squarepants (Original 2008)","SpongeBob Squarepants (Original 2008)",Original,2008,,,,"Cartoon, TV Show",,,,,"Zobou, Joe99",0.8,,,KNbv2BfMIy
-"SpongeBob Squarepants Pinball Adventure (Original 2023)","SpongeBob Squarepants Pinball Adventure (Original 2023)",Original,2023,,EM,,"TV Show, Animation, Kids",,,,,"Ljv12343",1.0.0,,"Kids",IEIGK9tK_-
+"SpongeBob Squarepants Pinball Adventure (Original 2023)","SpongeBob Squarepants Pinball Adventure (Original 2023)",Original,2023,,EM,,"TV Show, Animation, Kids",,,,,"LJV12343",1.0.0,,"Kids",IEIGK9tK_-
 "SpongeBob's Bikini Bottom Pinball (Original 2021)","SpongeBob's Bikini Bottom Pinball (Original 2021)",Original,2021,,SS,,"TV Show, Animation, Kids",,,,,"VPin Workshop (VPW), Skillshot, Schreibi34, G5k, Rosve, JPSalas",2.1,,"Kids, MOD, Hybrid, VR, Scorbit, nFozzy, Fleep, LUT, FlexDMD, SSF",hTwgaH56vw
 "SpongeBob's Bikini Bottom Pinball (Original 2021)","SpongeBob's Bikini Bottom Pinball (Original 2021)",Original,2021,,SS,,"TV Show, Animation, Kids",,,,,"Skillshot, Schreibi34, G5k, Rosve, JPSalas",1.01,,"Kids, MOD",R3POPsVG
 "Spot A Card (Gottlieb 1960)","Spot A Card (Gottlieb 1960)",Gottlieb,1960,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=2318",2318,,"Wayne Neyens","Loserman76",1.0.0f,,,nyQBB5h1
@@ -3432,7 +3432,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Sweet Sioux (Gottlieb 1959)","Sweet Sioux (Gottlieb 1959)",Gottlieb,1959,,EM,,"Native Americans","https://www.ipdb.org/machine.cgi?id=2475",2475,,"Wayne Neyens","JPSalas, Halen, BleedinFingers",1.0.0,,,ARdJgsGeZL
 "Swing-Along (Gottlieb 1963)","Swing-Along (Gottlieb 1963)",Gottlieb,1963,2,EM,,"Music, Dancing","https://www.ipdb.org/machine.cgi?id=2484",2484,,"Wayne Neyens","JamieP, Leeoneil",1.3.0,,,WimBSiuZ
 "Swinger (Williams 1972)","Swinger (Williams 1972)",Williams,1972,2,EM,,"Music, Dancing, People, Singing","https://www.ipdb.org/machine.cgi?id=2485",2485,,"Norm Clark","PinPlayer",1.3,,,l58ILF9u
-"Sword Dancer (Original 2023)","Sword Dancer (Original 2023)",Original,2023,,,,"Fantasy",,,,,"VonKrafte",1.1,,,bIqu0GQmw9
+"Sword Dancer (Original 2023)","Sword Dancer (Original 2023)",Original,2023,,,,"Fantasy",,,,,"VonKrafte (Joust7800)",1.1,,,bIqu0GQmw9
 "Table 149","Swords of Fury (Williams 1988)",Williams,1988,4,SS,,"Fantasy, Knights, Wizards, Magic, Medieval","http://www.ipdb.org/machine.cgi?id=2486",2486,,"Steve Kirk, Tony Kraemer","Zen Studios, Thomas Crofts",,swrds_l2,,FofEFf56mF
 "Swords of Fury (Williams 1988)","Swords of Fury (Williams 1988)",Williams,1988,4,SS,,"Fantasy, Knights, Wizards, Magic, Medieval","http://www.ipdb.org/machine.cgi?id=2486",2486,,"Steve Kirk, Tony Kraemer","Bord, UnclePaulie",1.0.1,swrds_l2,"Hybrid, FSS, SSF, VR",T0IHdM4dhw
 "Swords of Fury (Williams 1988)","Swords of Fury (Williams 1988)",Williams,1988,4,SS,,"Fantasy, Knights, Wizards, Magic, Medieval","http://www.ipdb.org/machine.cgi?id=2486",2486,,"Steve Kirk, Tony Kraemer","Takut",2.1,swrds_l2,,41xyUbUW
