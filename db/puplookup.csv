@@ -3013,8 +3013,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Simpsons Treehouse of Horror (Original 2020)","Simpsons Treehouse of Horror (Original 2020)",Original,2020,4,SS,,"Licensed Theme, TV Show","http://www.ipdb.org/machine.cgi?id=4674",4674,,"Keith P. Johnson, Joe Balcer","Apophis, Coindropper, Dark, 32assassin",1.0,simpprty,,upTwChms
 "Sin City (Original 2022)","Sin City (Original 2022)",Original,2022,,SS,,"Noir, Comics, Movie",,,,,"BurtMacklin, Bombaj344, Francisco666, HiRez00, Pin666, Bigus1, 32assassin",1.1.0,elektraa,"MOD, Music",ovQSilyb7r
 "Sin City (Original 2022)","Sin City (Original 2022)",Original,2022,,SS,,"Noir, Comics, Movie",,,,,"BurtMacklin, Bombaj344, Francisco666, HiRez00, Pin666, Bigus1, 32assassin",1.1.0,elektraa,"Music, MOD",AjCXD21F__
-"Sinbad (Gottlieb 1978)","Sinbad (Gottlieb 1978)",Gottlieb,1978,4,SS,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=2159",2159,,"Ed Krynski","Arconovum, Kruge99, Pinuck",1.0.0-2.5,,"FSS, MOD",ggvJ2oy-
-"Sinbad (Gottlieb 1978)","Sinbad (Gottlieb 1978)",Gottlieb,1978,4,SS,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=2159",2159,,"Ed Krynski","Kruge99",1.0.0,,,OMK09HUn
+"Sinbad (Gottlieb 1978)","Sinbad (Gottlieb 1978)",Gottlieb,1978,4,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=2159",2159,,"Ed Krynski","Arconovum, Kruge99, Pinuck",1.0.0R2.5,,"FSS, MOD",ggvJ2oy-
+"Sinbad (Gottlieb 1978)","Sinbad (Gottlieb 1978)",Gottlieb,1978,4,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=2159",2159,,"Ed Krynski","Kruge99",1.0.0,,,OMK09HUn
 "Sing Along (Gottlieb 1967)","Sing Along (Gottlieb 1967)",Gottlieb,1967,1,EM,,"Music, Singing","http://www.ipdb.org/machine.cgi?id=2160",2160,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0a,,,1Ib9PsvH
 "Sir Lancelot (Peyper 1994)","Sir Lancelot (Peyper 1994)",Peyper,1994,,SS,,"Medieval, Fantasy","http://www.ipdb.org/machine.cgi?id=4949",4949,,"Eulogio Pingarrón","GauGau, Goldchicco, 32assassin, Mfuegemann, Movieguru, Batch",1.1.0,lancelot,"MOD",obiNdITnv1
 "Sir Lancelot (Peyper 1994)","Sir Lancelot (Peyper 1994)",Peyper,1994,,SS,,"Medieval, Fantasy","http://www.ipdb.org/machine.cgi?id=4949",4949,,"Eulogio Pingarrón","Goldchicco, Mfuegemann, Movieguru, Batch, 32assassin",1.0,lancelot,,y5_RGoq_
@@ -3687,7 +3687,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Mandalorian, The (Original 2020)","Mandalorian, The (Original 2020)",Original,2020,4,SS,,"Science Fiction, Space Fantasy, TV Show",,,,,"iDigStuff, Addestratore, Mistermixer, William Hammond, HiRez00",1.1,,"Music, MOD",1b-C4Uc8
 "Maple Leaf, The (Automatic Industries 1932)","Maple Leaf, The (Automatic Industries 1932)",Automatic Industries,1932,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=5321",5321,,,"Druadic",1.0,,,yHACqkIv4R
 "Mask, The (Original 2019)","Mask, The (Original 2019)",Original,2019,4,,,"Movie",,,,,"Ivantba, Mfuegemann",1.0,lortium,,d_0iIM0Q
-"Matrix, The (Original 2023)","Matrix, The (Original 2023)",Original,2023,,SS,,"Movie, Science Fiction",,,,,"Enthusiast, VP_Cooks, JPSalas, MerlinRTP",1.0.7,,"MOD, nFozzy, Scorbit, Hybrid, VR",r5a2h31Gz8
+"Matrix, The (Original 2023)","Matrix, The (Original 2023)",Original,2023,,SS,,"Movie, Science Fiction",,,,,"Enthusiast, VP_Cooks, JPSalas, MerlinRTP",1.0.14,,"MOD, nFozzy, Scorbit, Hybrid, VR",r5a2h31Gz8
 "Matrix, The (Original 2023)","Matrix, The (Original 2023)",Original,2023,,SS,,"Movie, Science Fiction",,,,,"VP_Cooks, JPSalas",1.0.0,,,Z6TQHOOYU-
 "Moon Walking Dead, The (Original 2017)","Moon Walking Dead, The (Original 2017)",Original,2017,4,SS,,"Licensed Theme, Supernatural, Zombies","http://www.ipdb.org/machine.cgi?id=6156",6156,,"John Borg","Diemonik, Dozer",1.1,,,ToQ_Vlt8
 "Munsters, The (Original 2020)","Munsters, The (Original 2020)",Original,2020,,SS,,"TV Show",,,,,"Allknowing2012",1.06b,,"VR, Scorbit, Hybrid",zCQzLAaBSC
