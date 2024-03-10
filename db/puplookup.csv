@@ -410,7 +410,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Beat the Clock (Bally 1985)","Beat the Clock (Bally 1985)",Bally,1985,4,SS,,"Sports","http://www.ipdb.org/machine.cgi?id=212",212,,"George Christian","Jino0372, Goldchicco, Dboyrecords",1.3,beatclc2,"LUT",oxkpOGK3O8
 "Beat the Clock (Bally 1985)","Beat the Clock (Bally 1985)",Bally,1985,4,SS,,"Sports","http://www.ipdb.org/machine.cgi?id=212",212,,"George Christian","Goldchicco, Dboyrecords",1.0-wip,beatclc2,,grYVrWxO
 "Beavis And Butthead Pinball Stupidity (Original 2023)","Beavis And Butthead Pinball Stupidity (Original 2023)",Original,2023,,SS,,"Animation, TV Show, Movie",,,,,"cHuGaLaeFoo",1.2,,"nFozzy, Fleep, LUT",JCnmBfOopT
-"Beavis and Butt-head Pinballed (Original 2024)","Beavis and Butt-head Pinballed (Original 2024)",Original,2024,,SS,,"Animation, TV Show, Movie",,,,,"Watacaractr, JPSalas",1.0,1.0,"Music",LeutE8df4g
+"Beavis and Butt-head Pinballed (Original 2024)","Beavis and Butt-head Pinballed (Original 2024)",Original,2024,,SS,,"Animation, TV Show, Movie",,,,,"Watacaractr, JPSalas, Foreheadvcr",1.1,1.0,"Music",LeutE8df4g
 "Beetlejuice (Original 2021)","Beetlejuice (Original 2021)",Original,2021,4,SS,,"Movie, Horror, Supernatural","http://www.ipdb.org/machine.cgi?id=2396",2396,,"Dan Langlois","Sebastiendelf, AgentEighty6, Balutito",1.0.0,strngsci,"Music",sVvami0J
 "Beetlejuice (Original 2023)","Beetlejuice (Original 2023)",Original,2023,,SS,,"Movie, Horror, Supernatural",,,,,"Doivelspack, JPSalas, Destruk, Flupper, Scutters",1.0.2,ironmaid,"MOD, FlexDMD, LUT",4W651LZTSI
 "Beisbol (Maresa 1971)","Beisbol (Maresa 1971)",Maresa,1971,1,EM,,"Sports, Baseball","https://www.ipdb.org/machine.cgi?id=5320",5320,,,"CactusDude (Warbler33), Loserman76, GNance, Foxyt",0.04,,"nFozzy",FcpQ4ZUKRw
@@ -1050,7 +1050,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Dragon Ball Z Budokai (Original 2023)","Dragon Ball Z Budokai (Original 2023)",Original,2023,,,,"Anime",,,,,"Masonou, JPSalas",1.0.0,,"Kids, MOD",ehHkc5K5aJ
 "Dragon Ball Z The Pinball (Original 2019)","Dragon Ball Z The Pinball (Original 2019)",Original,2019,,SS,,"Anime",,,,,"Javier1515",1.06,,,wBrV24MW
 "Dragon Flames (Original 2024)","Dragon Flames (Original 2024)",Original,2024,,EM,,"Fantasy",,,,,"Wildlifewizard, Jogrady7",2.0,,,GW7_boODg6
-"Dragon's Lair (Original 2023)","Dragon's Lair (Original 2023)",Original,2023,,EM,,"Video Game",,,,,"LTek, Cez60, Jmx, JPSalas, Cliffy",1.1.2,,"MOD",mU_KvAiDAO
+"Dragon's Lair (Original 2023)","Dragon's Lair (Original 2023)",Original,2023,,EM,,"Video Game",,,,,"LTek, Cez60, Jmx, JPSalas, Cliffy",1.1.3,,"MOD",mU_KvAiDAO
 "Dragon's Lair (Original 2023)","Dragon's Lair (Original 2023)",Original,2023,,EM,,"Video Game",,,,,"Cez60, Jmx, JPSalas",1.0.0,,"MOD, FlexDMD",u6kSJiJi_D
 "DragonFire  (Original 2021)","DragonFire  (Original 2021)",Original,2021,,EM,,"Dragons, Fantasy",,,,,"Rosve",1.1.0,,,bWXYgQoG
 "Dragoon  (Recreativos Franco 1977)","Dragoon  (Recreativos Franco 1977)",Recreativos Franco,1977,1,EM,,"Fantasy, Dragons","https://www.ipdb.org/machine.cgi?id=4872",4872,,"","Thalamus, JPSalas",1.1.0,,,q9esdcQK
@@ -1842,10 +1842,11 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Table 95","Jaws Pinball (Zen Studios 2017)",Zen Studios,2017,4,,,"Licensed Theme, Fantasy, Nautical, Movie",,,,"Szucs David","Zen Studios, Szucs David",,,,PZ6BlwYjl9
 "UNIVERSAL_Jaws","Jaws Pinball (Zen Studios 2017)",Zen Studios,2017,4,,,"Licensed Theme, Fantasy, Nautical, Movie",,,,"Szucs David","Zen Studios",,,,3EzxXw-D
 "Jet Set Radio Pinball (Original 2020)","Jet Set Radio Pinball (Original 2020)",Original,2020,,SS,,"Video Game",,,,,"Donuts, JPSalas",1.1,,"MOD",90g_yVUr
+"Jet Spin (Gottlieb 1977)","Jet Spin (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Fantasy, Recreation","http://www.ipdb.org/machine.cgi?id=1290",1290,,"Ed Krynski","JCalhoun, Teisen, Cliffy, Loserman76, GNance, Pinuck, BorgDog, Arngrim",1.2.0,,"SSF, MOD, Fleep",1vR3lGJi1E
 "Jet Spin (Gottlieb 1977)","Jet Spin (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Fantasy, Recreation","http://www.ipdb.org/machine.cgi?id=1290",1290,,"Ed Krynski","Teisen, Loserman76, GNance, JPSalas, Pinuck, HauntFreaks, BorgDog, Arngrim",1.0.0,,"MOD",bTu7IRtgmH
 "Jet Spin (Gottlieb 1977)","Jet Spin (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Fantasy, Recreation","http://www.ipdb.org/machine.cgi?id=1290",1290,,"Ed Krynski","Rajo Joey, Loserman76",1.0.0,,"Hybrid, VR, LUT",9rm3HymXzH
 "Jet Spin (Gottlieb 1977)","Jet Spin (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Fantasy, Recreation","http://www.ipdb.org/machine.cgi?id=1290",1290,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,8zraF4R7
-"Jet Spin (Gottlieb 1977)","Jet Spin (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Fantasy, Recreation","http://www.ipdb.org/machine.cgi?id=1290",1290,,"Ed Krynski","JCalhoun, Teisen, Cliffy, Loserman76, GNance, Pinuck, BorgDog, Arngrim",1.2.0,,"SSF, MOD, Fleep",1vR3lGJi1E
+"Jet Spin (Gottlieb 1977)","Jet Spin (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Fantasy, Recreation","http://www.ipdb.org/machine.cgi?id=1290",1290,,"Ed Krynski","Mustang1961, Loserman76, GNance, JPSalas, Pinuck, HauntFreaks, BorgDog, Arngrim",1.0a,,,SzyYNJV0SR
 "Jets (Original 2023)","Jets (Original 2023)",Original,2023,,SS,,"Sports, American Football",,,,,"Spisi69, Bossman72, JPSalas",1.0,,"MOD, Music",BiQlTJ66Xo
 "Jimi Hendrix (Original 2021)","Jimi Hendrix (Original 2021)",Original,2021,4,SS,,"Music",,,,,"Balutito, JPSalas",1.2,,"Music, MOD",jfHL4B4v
 "Jive Time (Williams 1970)","Jive Time (Williams 1970)",Williams,1970,1,EM,,"Music, Singing","http://www.ipdb.org/machine.cgi?id=1298",1298,,"Norm Clark","Pdrum, Rothbauerw",2.0,,"MOD, Fleep",I8GuHLgLrr
@@ -3650,6 +3651,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Incredible Hulk, The (Gottlieb 1979)","Incredible Hulk, The (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Licensed Theme, Comics, Superheroes","http://www.ipdb.org/machine.cgi?id=1266",1266,,"Ed Krynski","Schreibi34, 32assassin",1.1.1,,"MOD",g5MbAqb1
 "Incredible Hulk, The (Gottlieb 1979)","Incredible Hulk, The (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Licensed Theme, Comics, Superheroes","http://www.ipdb.org/machine.cgi?id=1266",1266,,"Ed Krynski","HauntFreaks, BorgDog, 32assassin",1.0,,"MOD",TFdJy_gH
 "Incredible Hulk, The (Gottlieb 1979)","Incredible Hulk, The (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Licensed Theme, Comics, Superheroes","http://www.ipdb.org/machine.cgi?id=1266",1266,,"Ed Krynski","32assassin",1.2,,,QMIFlbdGy7
+"Incredible Hulk, The (Gottlieb 1979)","Incredible Hulk, The (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Licensed Theme, Comics, Superheroes","http://www.ipdb.org/machine.cgi?id=1266",1266,,"Ed Krynski","Styx, Dboyrecords, Batch, 32assassin, Destruk, JPSalas, DesAngel, Plumb, Mr.Fixx, EalaDubhSidhe",1.31,,,bBFpBE0jtM
 "MARVEL_InfinityGauntlet","Infinity Gauntlet, The (Zen Studios 2014)",Zen Studios,2014,4,,,"Licensed Theme, Comics, Superheroes",,,,"Peter Grafl","Zen Studios",,,,65_UJ3Ll
 "Table 60","Infinity Gauntlet, The (Zen Studios 2014)",Zen Studios,2014,4,,,"Licensed Theme, Comics, Superheroes",,,,"Peter Grafl","Zen Studios, Peter Grafl",,,,7z3TLOXoTc
 "Labyrinth, The (Original 2023)","Labyrinth, The (Original 2023)",Original,2023,,SS,,"Movie, Fantasy",,,,,"Jagandy82, JPSalas, Balutito, Nesta78, Joe Picasso",3.0,skatebll,,kiBIoviC9t
@@ -3867,7 +3869,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Touchdown (Williams 1967)","Touchdown (Williams 1967)",Williams,1967,1,EM,,"Sports, American Football","https://www.ipdb.org/machine.cgi?id=2609",2609,,"Steve Kordek","Teisen, Loserman76, Jon Osborne, GNance",1.1.0,,"MOD",U881VeUOqT
 "Touchdown (Williams 1967)","Touchdown (Williams 1967)",Williams,1967,1,EM,,"Sports, American Football","https://www.ipdb.org/machine.cgi?id=2609",2609,,"Steve Kordek","Loserman76, GNance, Jon Osborne",1.0.0f,,,byEFYfph
 "Toxic Tattoo (Original 2020)","Toxic Tattoo (Original 2020)",Original,2020,4,SS,,"Fantasy",,,,,"Davor Lipovac, HiRez00, 32assassin",1.0,mysticb,,5EgHryzS
-"Toy Story 90s Pinball (Original 2024)","Toy Story 90s Pinball (Original 2024)",Original,2024,4,SS,,"Animation, Kids",,,,,"Marcoolpops, Lotso, Icepinball, Dicentim, Jejepinball",1.0.1,,"Kids, MOD",jv59nu-WNs
+"Toy Story 90s Pinball (Original 2024)","Toy Story 90s Pinball (Original 2024)",Original,2024,4,SS,,"Animation, Kids",,,,,"Marcoolpops, Lotso, Icepinball, Dicentim, Jejepinball",1.0.2,,"Kids, MOD",jv59nu-WNs
 "Trade Winds (Williams 1962)","Trade Winds (Williams 1962)",Williams,1962,1,EM,,"Boats, Nautical, Aquatic","http://www.ipdb.org/machine.cgi?id=2621",2621,,"Steve Kordek","Wrd1972, Cyberpez, BorgDog",2.0-beta,,,ajca1wnW
 "Trailer (Playmatic 1985)","Trailer (Playmatic 1985)",Playmatic,1985,4,SS,,"Travel, Transportation, Truck Driving","http://www.ipdb.org/machine.cgi?id=3276",3276,,,"Goldchicco, Mrcmrc, Arngrim, 32assassin",1.1,trailer,,xtuFBf0V
 "Tramway (Williams 1973)","Tramway (Williams 1973)",Williams,1973,2,EM,,"Travel, Tramways, Transportation","https://www.ipdb.org/machine.cgi?id=2627",2627,,,"Alois",1.2,,,e_9xR9Lp
