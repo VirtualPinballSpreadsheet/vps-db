@@ -771,7 +771,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Knorr, JPSalas",1.1,cv_20h,"Music",HzjXZ64l
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Arconovum, Dozer, JPSalas",1.0-2.6,cv_20h,"FSS, MOD",wDUeA4fw
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Sixtoe, Knorr, JPSalas",1.0,cv_20h,"VR, SSF, MOD",Mgv-Ox3vF9
-"Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Hanibal, Dozer, JPSalas",3.6,cv_20h,"FastFlips, MOD, 4k",k0DU19nq
+"Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Hanibal, Dozer, JPSalas",3.7,cv_20h,"FastFlips, MOD, 4k",k0DU19nq
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Dozer, JPSalas",2.1,cv_20h,"FastFlips",cSKS2UMd
 "BALLY_Cirqus_Voltaire","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Zen Studios",,cv_20h,,YXT6zmZu
 "City Slicker (Bally 1987)","City Slicker (Bally 1987)",Bally,1987,4,SS,,"Crime, Mobsters, Police","http://www.ipdb.org/machine.cgi?id=527",527,,"Greg Kmiec","Mistermixer, Destruk, Kiwi, Tom, Arngrim, Bord, TAB",1.0,cityslck,,4cV9S736
@@ -1084,6 +1084,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Dungeons & Dragons (Bally 1987)","Dungeons & Dragons (Bally 1987)",Bally,1987,4,SS,,"Licensed Theme, Fantasy","http://www.ipdb.org/machine.cgi?id=743",743,,"Ward Pemberton","Morttis, Arconovum, AgentEighty6",2.1.0-2.6,dungdrag.zip,"FSS, MOD",T-7KDCS-
 "Dungeons & Dragons (Bally 1987)","Dungeons & Dragons (Bally 1987)",Bally,1987,4,SS,,"Licensed Theme, Fantasy","http://www.ipdb.org/machine.cgi?id=743",743,,"Ward Pemberton","Leojreimroc, AgentEighty6, Dillman, UnclePaulie, Rawd, Arvid, Sixtoe, 3rdAxis",1.0.0,dungdrag.zip,"VR, MOD",U0x9S1Dl07
 "Dungeons & Dragons (Bally 1987)","Dungeons & Dragons (Bally 1987)",Bally,1987,4,SS,,"Licensed Theme, Fantasy","http://www.ipdb.org/machine.cgi?id=743",743,,"Ward Pemberton","AgentEighty6, Mfuegemann, Herweh, Flupper, Sheltemke, BrandonLaw, nFozzy",2.1.0,dungdrag.zip,"nFozzy",9iv-xn8_
+"Dungeons & Dragons (Bally 1987)","Dungeons & Dragons (Bally 1987)",Bally,1987,4,SS,,"Licensed Theme, Fantasy","http://www.ipdb.org/machine.cgi?id=743",743,,"Ward Pemberton","Siggi, AgentEighty6",1.0.0,dungdrag.zip,"MOD",gURVtswy_Y
 "Duotron (Gottlieb 1974)","Duotron (Gottlieb 1974)",Gottlieb,1974,2,EM,,"Fantasy","http://www.ipdb.org/machine.cgi?id=744",744,,"Ed Krynski","Rajo Joey, Loserman76, GNance, Popotte",1.0.0,,"VR, Hybrid, FSS, LUT, MOD",YgqvZPco-G
 "Duotron (Gottlieb 1974)","Duotron (Gottlieb 1974)",Gottlieb,1974,2,EM,,"Fantasy","http://www.ipdb.org/machine.cgi?id=744",744,,"Ed Krynski","Xenonph, Loserman76, GNance, Popotte, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.01,,"LUT, MOD",FzLbqQT6mn
 "Duotron (Gottlieb 1974)","Duotron (Gottlieb 1974)",Gottlieb,1974,2,EM,,"Fantasy","http://www.ipdb.org/machine.cgi?id=744",744,,"Ed Krynski","Loserman76, GNance, Popotte, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,i0c0IGoe
@@ -2016,6 +2017,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Krull (Gottlieb 1983)","Krull (Gottlieb 1983)",Gottlieb,1983,4,SS,,"Fantasy, Licensed Theme","http://www.ipdb.org/machine.cgi?id=1397",1397,,"John Trudeau","Bigus1, Rascal, Kevinleedrum, Mfuegemann",1.0,,"MOD",S5FdP15R
 "Krull (Gottlieb 1983)","Krull (Gottlieb 1983)",Gottlieb,1983,4,SS,,"Fantasy, Licensed Theme","http://www.ipdb.org/machine.cgi?id=1397",1397,,"John Trudeau","Morttis, Rascal, Mfuegemann, Kevinleedrum, Hysteric, Arconovum, JPSalas",1.2-1.0,,"FSS, MOD",us6X9cua
 "Kung Fu (LTD do Brasil 1975)","Kung Fu (LTD do Brasil 1975)",LTD do Brasil,1975,2,EM,,"Martial Arts",,,,,"JPSalas, Halen",1.0.1,,,rGntrHV3bg
+"Kung Fu Hustle (Original 2024)","Kung Fu Hustle (Original 2024)",Original,2024,,,,"Movie, Kung Fu",,,,,"Balutito, JPSalas, Ise Ananphada",1.0.0,,"MOD",Gyq3bzPSLQ
 "Lady Death (Geiger 1983)","Lady Death (Geiger 1983)",Geiger,1983,4,SS,,"Fantasy, Vampires","http://www.ipdb.org/machine.cgi?id=3972",3972,,,"Allknowing2012, JPSalas, Siggi",1.0,,"MOD",jCB3MUYL
 "Lady Luck (Recel 1976)","Lady Luck (Recel 1976)",Recel,1976,4,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1405",1405,,,"Wed21, Mfuegemann, Loserman76, Herweh, HauntFreaks",1.5,,"SSF",rF_jhweD
 "Lady Luck (Taito do Brasil 1978)","Lady Luck (Taito do Brasil 1978)",Taito do Brasil,1978,4,SS,,"Gambling","http://www.ipdb.org/machine.cgi?id=5010",5010,,"George Christian","JPSalas, Carlos Guizzo, Tio Italo, Markrock76, Akiles50000, Allknowing2012",4.0.0,ladylukt,"SSF, Music, LUT",Msbi1r7g
@@ -2599,7 +2601,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Phase II (J. Esteban 1975)","Phase II (J. Esteban 1975)",J. Esteban,1975,,EM,,"Mysticism","https://www.ipdb.org/machine.cgi?id=5787",5787,,,"Teisen, Loserman76, Carlos Guizzo, Halen",1.0,,"MOD",bHYR0mLQv3
 "Phase II (J. Esteban 1975)","Phase II (J. Esteban 1975)",J. Esteban,1975,,EM,,"Mysticism","https://www.ipdb.org/machine.cgi?id=5787",5787,,,"Loserman76",1.0a,,,iyIWDkZX
 "Phil Collins (Original 2023)","Phil Collins (Original 2023)",Original,2023,,SS,,,,,,,"Marty02, JPSalas",3.3,,"LUT",m1BSlAyBqI
-"Phish (Original 2024)","Phish (Original 2024)",Original,2024,1,EM,,"Music, Rock",,,,,"Neekzz",1.0.0,,"MOD, Music",H9_s-kv83_
+"Phish (Original 2024)","Phish (Original 2024)",Original,2024,1,EM,,"Music, Rock",,,,,"Neekzz",1.1,,"MOD, Music",H9_s-kv83_
 "Phoenix (Williams 1978)","Phoenix (Williams 1978)",Williams,1978,,SS,,"Mythology","https://www.ipdb.org/machine.cgi?id=1780",1780,,"Barry Oursler","JPSalas, Halen, Arngrim",4.0.0,phnix_l1,,yZMbDIKg
 "Piggy Bank Blitz (Original 2023)","Piggy Bank Blitz (Original 2023)",Original,2023,,,,"Flipperless",,,,,"Arelyel, Kevin MacLeod, Studlygoorite, Iwantpinball, Movieg1",2.1.0,,"FlexDMD",ws_hvA6-iT
 "Pin-Up (Gottlieb 1975)","Pin-Up (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=1789",1789,,"Ed Krynski","Rajo Joey, Popotte, GNance, Loserman76",1.0.0,,"VR, Hybrid, MOD, LUT",NJLO0GIrG6
@@ -3572,7 +3574,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "12 Days of Christmas 2016, The (Original 2016)","12 Days of Christmas 2016, The (Original 2016)",Original,2016,,SS,,"Christmas",,,,,"James Wiser",1.0,,,sAKHj272
 "5th Element, The (Original 2011)","5th Element, The (Original 2011)",Original,2011,,,,,,,,,"Zobou, rom",1.0,,,8CXiYfA4_0
 "A-Team, The (Original 2023)","A-Team, The (Original 2023)",Original,2023,,SS,,"TV Show",,,,,"Franck, Jicho2003",1.0.0,,"FlexDMD",HreE9IcatP
-"A-Team, The (Original 2023)","A-Team, The (Original 2023)",Original,2023,,SS,,"TV Show, Action",,,,,"Jicho2003, JPSalas, Joe Hadesbeck",2.0.7,,"FlexDMD, nFozzy, Fleep",qcCYQYUoow
+"A-Team, The (Original 2023)","A-Team, The (Original 2023)",Original,2023,,SS,,"TV Show, Action",,,,,"Jicho2003, JPSalas, Joe Hadesbeck",2.0.8,,"FlexDMD, nFozzy, Fleep",qcCYQYUoow
 "Addams Family, The (Bally 1992)","Addams Family, The (Bally 1992)",Bally,1992,4,SS,,"Celebrities, Fictional, Licensed Theme, Movie","http://www.ipdb.org/machine.cgi?id=20",20,,"Pat Lawlor","Arconovum, SliderPoint",2.3.2R2.6,taf_l7,"FSS, MOD",mgqPiBaL
 "Table 156","Addams Family, The (Bally 1992)",Bally,1992,4,SS,,"Celebrities, Fictional, Licensed Theme, Movie","http://www.ipdb.org/machine.cgi?id=20",20,,"Pat Lawlor","Zen Studios, Zoltan Pataki",,taf_l7,,GFvTT7qldQ
 "Addams Family, The (Bally 1992)","Addams Family, The (Bally 1992)",Bally,1992,4,SS,,"Celebrities, Fictional, Licensed Theme, Movie","http://www.ipdb.org/machine.cgi?id=20",20,,"Pat Lawlor","G5k, 3rdAxis, SliderPoint",2.3.2,taf_l7,"SSF",Wq40ng8f
@@ -3681,8 +3683,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Last Starfighter, The (Original 2020)","Last Starfighter, The (Original 2020)",Original,2020,,,,"Science Fiction, Movie",,,,,"Djchiccomix",1.0,,"FlexDMD",RJAblUYK
 "Last Unicorn, The (Original 2020)","Last Unicorn, The (Original 2020)",Original,2020,,EM,,"Fantasy, Movie",,,,,"Mark Paulik (WPilot), JPSalas",1.0,,"Music, MOD",S2sg-TqU
 "Last Unicorn, The (Original 2020)","Last Unicorn, The (Original 2020)",Original,2020,,EM,,"Fantasy, Movie",,,,,"Jagandy82, Mark Paulik (WPilot), Joe Picasso, BurtMacklin, Gman77",1.0.0,,,c35AJ4SBt2
-"Legend of Zelda, The (Original 2013)","Legend of Zelda, The (Original 2013)",Original,2013,,SS,,"Video Game, Kids",,,,,"Gman77, JPSalas, ZandysArcade, SergioSouza, Davadruix, Nevvyboy, PIPAllah, LoadedWeapon",1.0.0,,"MOD",bXHeqghM0a
 "Legend of Zelda, The (Original 2013)","Legend of Zelda, The (Original 2013)",Original,2013,,SS,,"Video Game, Kids",,,,,"JPSalas, LoadedWeapon, Arngrim",4.3.1,,"FlexDMD, Kids, SSF, LUT, MOD",B2jf8UVK
+"Legend of Zelda, The (Original 2013)","Legend of Zelda, The (Original 2013)",Original,2013,,SS,,"Video Game, Kids",,,,,"Gman77, JPSalas, ZandysArcade, SergioSouza, Davadruix, Nevvyboy, PIPAllah, LoadedWeapon",1.2.0,,"MOD",bXHeqghM0a
 "Legend of Zelda, The (Original 2013)","Legend of Zelda, The (Original 2013)",Original,2013,,SS,,"Video Game, Kids",,,,,"LoadedWeapon, Roney Pinball",2.5,,"MOD",I36NlujvZ7
 "Leprechaun King, The (OrbitalPin 2019)","Leprechaun King, The (OrbitalPin 2019)",OrbitalPin,2019,4,SS,,"Fantasy",,,,"ScottyWic","ScottyWic, Victoria Fernandez, Danny Tieger, Sofia Silva, Frank Heming, Orbital Creators Club",0.35,,"FlexDMD",65U2ADbg
 "Lion King, The (Original 2020)","Lion King, The (Original 2020)",Original,2020,4,SS,,"Animation, Kids",,,,,"Ivantba, Shamrock1980, JPSalas, Siggi",1.0,alpok_l6,"Kids",3xGXn_NP
