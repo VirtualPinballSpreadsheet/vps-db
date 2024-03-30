@@ -765,6 +765,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Circus (Bally 1973)","Circus (Bally 1973)",Bally,1973,,EM,,"Happiness, Circus, Carnival","https://www.ipdb.org/machine.cgi?id=521",521,,"Jim Patla","Loserman76",1.0a,,,rf4BbpWC
 "Circus (Brunswick 1980)","Circus (Brunswick 1980)",Brunswick,1980,4,SS,,"Happiness, Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4937",4937,,,"JPSalas, Redwings13, Leeoneil",4.0.0,,"LUT",f2kVMXHx
 "Circus Starr (Original 2016)","Circus Starr (Original 2016)",Original,2016,,,,"Circus",,,,,"VP1000, Mark Bouchard",1.2,,"MOD",1EdP-G6quL
+"Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Hanibal, Dozer, JPSalas",3.7,cv_20h,"FastFlips, MOD, 4k",k0DU19nq
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","VPin Workshop (VPW), Sixtoe, Dark, Randr, Knorr, ClarkKent",1.1,cv_20h,"Hybrid, VR, nFozzy, Fleep",rEHR1gcLVn
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Bigus1, Dozer, JPSalas",1.0,cv_20h,"MOD",guQp-qpZgQ
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","LtJazz, Rwl, Gimli, GeorgeH, Gin",3.0b,cv_20h,,c-RCSldYUf
@@ -772,7 +773,6 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Knorr, JPSalas",1.1,cv_20h,"Music",HzjXZ64l
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Arconovum, Dozer, JPSalas",1.0-2.6,cv_20h,"FSS, MOD",wDUeA4fw
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Sixtoe, Knorr, JPSalas",1.0,cv_20h,"VR, SSF, MOD",Mgv-Ox3vF9
-"Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Hanibal, Dozer, JPSalas",3.7,cv_20h,"FastFlips, MOD, 4k",k0DU19nq
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Dozer, JPSalas",2.1,cv_20h,"FastFlips",cSKS2UMd
 "BALLY_Cirqus_Voltaire","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Zen Studios",,cv_20h,,YXT6zmZu
 "City Slicker (Bally 1987)","City Slicker (Bally 1987)",Bally,1987,4,SS,,"Crime, Mobsters, Police","http://www.ipdb.org/machine.cgi?id=527",527,,"Greg Kmiec","Mistermixer, Destruk, Kiwi, Tom, Arngrim, Bord, TAB",1.0,cityslck,,4cV9S736
@@ -1238,7 +1238,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Fifteen (Inder 1974)","Fifteen (Inder 1974)",Inder,1974,1,EM,,"Women","https://www.ipdb.org/machine.cgi?id=4409",4409,,,"Loserman76, Leeoneil, Akiles50000, JPSalas",4.0,,,6akT02Lq
 "Fight Night (Original 2014)","Fight Night (Original 2014)",Original,2014,,EM,,"Sports, Boxing",,,,,"Jogrady7",1.1,,"MOD",vcAZSLi-
 "Fight Night (Original 2014)","Fight Night (Original 2014)",Original,2014,,EM,,"Sports, Boxing",,,,,"Bigus1, Chris La Mantia",1.0,,"MOD",Z90Jj7zr
-"Fire Action (Taito do Brasil 1980)","Fire Action (Taito do Brasil 1980)",Taito do Brasil,1980,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=4570",4570,,"Steve Ritchie","JPSalas, Carlos Guizzo, Pmax65, Akiles50000, Rothbauerw",4.0.0,fireact,"FastFlips, SSF",sr2RAaJp
+"Fire Action (Taito do Brasil 1980)","Fire Action (Taito do Brasil 1980)",Taito do Brasil,1980,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=4570",4570,,"Steve Ritchie","JPSalas, Carlos Guizzo, Pmax65, Akiles50000, Rothbauerw",4.0.1,fireact,"FastFlips, SSF",sr2RAaJp
 "Fire Action (Taito do Brasil 1980)","Fire Action (Taito do Brasil 1980)",Taito do Brasil,1980,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=4570",4570,,"Steve Ritchie","Morttis, Wildman, HiRez00, Arconovum, Akiles50000, JPSalas",3.0 -1.0,fireact,"FSS, MOD",bL5MHbwA
 "Fire Action De Luxe (Taito do Brasil 1983)","Fire Action De Luxe (Taito do Brasil 1983)",Taito do Brasil,1983,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=4552",4552,,"Mark Ritchie","JPSalas, Carlos Guizzo, Pmax65, Xenonph, Akiles50000, Rothbauerw",4.0.1,fireactd,"FastFlips, SSF",lu90hcDV
 "Fire Queen (Gottlieb 1977)","Fire Queen (Gottlieb 1977)",Gottlieb,1977,2,EM,,"Fantasy","http://www.ipdb.org/machine.cgi?id=851",851,,"Ed Krynski","BorgDog, HauntFreaks, Bord",2.0,,,ueo7zTeJ
@@ -1960,8 +1960,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Kill Bill (Original 2022)","Kill Bill (Original 2022)",Original,2022,,SS,,"Movie",,,,,"VP_Cooks, Joe Picasso, JPSalas",1.0.1,,"SSF",FC2Lf58DrB
 "Killer Klowns (Original 2023)","Killer Klowns (Original 2023)",Original,2023,,SS,,"Movie, Horror",,,,,"Gman77, Balutito, Herweh",1.0.0,hurr_l2,,uME0ZK9dZF
 "Killer Klowns (Original 2023)","Killer Klowns (Original 2023)",Original,2023,,SS,,"Movie, Horror",,,,,"Balutito, Herweh",1.2,hurr_l2,"Music",mi3NyppPHr
+"Killers Hall of Fame (Original 2023)","Killers Hall of Fame (Original 2023)",Original,2023,,,,"Horror",,,,,"Capnclaw, JPSalas, Smaug, Joey Beaulieu (Joe Picasso), Jo Gandy",1.2,,"VR, FlexDMD",wBakclyqTE
 "Killers Hall of Fame (Original 2023)","Killers Hall of Fame (Original 2023)",Original,2023,,,,"Horror",,,,,"Capnclaw, JPSalas, Smaug, Joey Beaulieu (Joe Picasso), Jo Gandy",1.1.0,,"FlexDMD",SMzlb0NiWN
-"Killers Hall of Fame (Original 2023)","Killers Hall of Fame (Original 2023)",Original,2023,,,,"Horror",,,,,"Capnclaw, JPSalas, Smaug, Joey Beaulieu (Joe Picasso), Jo Gandy",1.1.0,,"VR, FlexDMD",wBakclyqTE
 "Killzone - Be A Helghast Trooper (Original 2019)","Killzone - Be A Helghast Trooper (Original 2019)",Original,2019,4,SS,,"Video Game",,,,,"Ivantba, JPSalas",1.0,freefall,"MOD",A19yqLZj
 "Kilroy (Chicago Coin 1947)","Kilroy (Chicago Coin 1947)",Chicago Coin,1947,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=1366",1366,,"Jerry Koci","Francisco Pozo",1.1,,,gE4NX1xchi
 "Kim Wilde (Original 2020)","Kim Wilde (Original 2020)",Original,2020,,EM,,"Music",,,,,"SuperEd, Arngrim",3.26,,"SSF, Music, FlexDMD",YTNvsrdb
@@ -1987,6 +1987,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "King of Diamonds (Gottlieb 1967)","King of Diamonds (Gottlieb 1967)",Gottlieb,1967,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1372",1372,,"Ed Krynski","JCalhoun, Teisen, Loserman76, GNance, Cliffy",1.2.1,,"Fleep, SSF, MOD",W3LEVsLE07
 "King of Diamonds (Gottlieb 1967)","King of Diamonds (Gottlieb 1967)",Gottlieb,1967,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1372",1372,,"Ed Krynski","Teisen, Loserman76",1.0.0,,"MOD",ZEJv0cQGMU
 "King of Diamonds (Gottlieb 1967)","King of Diamonds (Gottlieb 1967)",Gottlieb,1967,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1372",1372,,"Ed Krynski","Loserman76",1.0.0f,,,PhwalUEo
+"King of Diamonds (Gottlieb 1967)","King of Diamonds (Gottlieb 1967)",Gottlieb,1967,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1372",1372,,"Ed Krynski","EMUnderdogs, Loserman76",1.3,,,Ae4Rj1P3-M
 "King of Rock and Roll (Original 2022)","King of Rock and Roll (Original 2022)",Original,2022,,SS,,"Music",,,,,"Marty02, JPSalas",2.1,,"Music, MOD",6C2L6mOx
 "Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","Bigus1, ICPjuggla, Noitbe11, Kiwi",2.2,kpv106,"MOD",ASgpE6Yx
 "Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","SG1bsoN, ICPjuggla",1.1,kpv106,"MOD",XgH1k98-
@@ -4000,7 +4001,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Voltan Escapes Cosmic Doom (Bally 1979)","Voltan Escapes Cosmic Doom (Bally 1979)",Bally,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2744",2744,,"George Christian","Scotty VH, Arconovum, Bord",2.02,voltan,,gKfe6hi_
 "VooDoo's Carnival pinball (Original 2022)","VooDoo's Carnival pinball (Original 2022)",Original,2022,,,,"Supernatural",,,,,"Kcron666, Godrulox, Buffalo Pin Bro, Joe Picasso",1.0.0,,"VR",KuAleE0m2e
 "VooDoo's Carnival pinball (Original 2022)","VooDoo's Carnival pinball (Original 2022)",Original,2022,,,,"Supernatural",,,,,"Kcron666, Scampa123, Wylte, Apophis",1.0.0,,,yTl763VWR7
-"Vortex (Taito do Brasil 1983)","Vortex (Taito do Brasil 1983)",Taito do Brasil,1983,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4576",4576,,,"JPSalas, Carlos Guizzo, Tio Italo, Pmax65, Rothbauerw",4.0.0,vortex,"FastFlips, SSF, LUT",KYrNzKyz
+"Vortex (Taito do Brasil 1983)","Vortex (Taito do Brasil 1983)",Taito do Brasil,1983,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4576",4576,,,"JPSalas, Carlos Guizzo, Tio Italo, Pmax65, Rothbauerw",4.0.1,vortex,"FastFlips, SSF, LUT",KYrNzKyz
 "Vpin Workshop Example and Resource Table (Original 2021)","Vpin Workshop Example and Resource Table (Original 2021)",Original,2021,,EM,,"Educational, Example, Testing",,,,,"VPin Workshop (VPW), Wylte, Wrd1972, Fleep, Flupper, Benji, Oqqsan, Scampa123, Iaakki, Sixtoe, Apophis, 3rdAxis, Rothbauerw, nFozzy",1.5.7.1,,"FlexDMD, VR, Hybrid, nFozzy, Fleep",3JSONYdl
 "Vulcan (Gottlieb 1977)","Vulcan (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Roman Mythology","https://www.ipdb.org/machine.cgi?id=2745",2745,,"Ed Krynski","Hmueck, BorgDog, HauntFreaks, SliderPoint",1.1,,,fdhhS1EO
 "WHO dunnit (Bally 1995)","WHO dunnit (Bally 1995)",Bally,1995,4,SS,,"Detective, Crime","http://www.ipdb.org/machine.cgi?id=3685",3685,,"Barry Oursler","Gwyllion, Versins77, Ninuzzu, DJRobX",1.0,wd_12,"MOD, VR, nFozzy, Fleep, LUT, SSF",ng29lcaxWo
