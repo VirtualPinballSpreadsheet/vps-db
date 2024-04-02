@@ -913,6 +913,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Cyclopes (Game Plan 1985)","Cyclopes (Game Plan 1985)",Game Plan,1985,4,SS,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=619",619,,"Roger Sharpe","Rajo Joey, Goldchicco, Sixtoe, Rawd",,cyclopes,"MOD, VR, LUT",8LIyIJGKkJ
 "DOF Test Table (Original 2017)","DOF Test Table (Original 2017)",Original,2017,,,,"Testing, Example",,,,"BorgDog","BorgDog",1.6,,,QD06vr79Cp
 "Daft Punk (Original 2020)","Daft Punk (Original 2020)",Original,2020,4,SS,,"Music",,,,,"Donuts",1.1,,"Music",zx-__ko_
+"Daft Punk Interstella 5555 (Original 2024)","Daft Punk Interstella 5555 (Original 2024)",Original,2024,,SS,,"Music, Anime",,,,,"Mlaw, JPSalas",1.0.0,,,FFP3WL00JW
 "Daho (Original 2024)","Daho (Original 2024)",Original,2024,4,SS,,"Music",,,,,"VLive, Icepinball, Goldchicco",1.0.3,fpwr2_l2,,9TSYLMUglM
 "Daisy May (Gottlieb 1954)","Daisy May (Gottlieb 1954)",Gottlieb,1954,1,EM,,"Happiness","https://www.ipdb.org/machine.cgi?id=631",631,,"Wayne Neyens","Okobojimusky, Francisco Pozo",1.1.1,,"MOD",7fpiLbaYaB
 "Daisy May (Gottlieb 1954)","Daisy May (Gottlieb 1954)",Gottlieb,1954,1,EM,,"Happiness","https://www.ipdb.org/machine.cgi?id=631",631,,"Wayne Neyens","Francisco Pozo",1.0.0,,,upVgRA3rvz
@@ -1792,7 +1793,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "JP's Mephisto (Cirsa 1987)","JP's Mephisto (Cirsa 1987)",Cirsa,1987,4,SS,,"Supernatural, Horror","http://www.ipdb.org/machine.cgi?id=4077",4077,,,"JPSalas, Joshua, Berk104, Leonard",4.3.0,,"FlexDMD, LUT",jmG_D1rC
 "JP's Motor Show (Original 1989)","JP's Motor Show (Original 1989)",Original,1989,4,SS,,"Monster Truck Rally, Motorcycles","http://www.ipdb.org/machine.cgi?id=3631",3631,,"Tony Ramunni, Mauro Ferrari","JPSalas, Destruk, Rothbauerw, TAB",4.0.0,motrshow,"SSF, LUT",RS8rIAuG
 "JP's Papa Smurf (Original 2015)","JP's Papa Smurf (Original 2015)",Original,2015,,SS,,"Animation, Kids",,,,,"JPSalas, Fuzzel, Toxie, BrandNew, Mukuste, BorgDog",4.0.2,,"Kids, FlexDMD",Z94VT6XA
-"JP's Pokemon Pinball (Original 2016)","JP's Pokemon Pinball (Original 2016)",Original,2016,,SS,,"Cartoon, Kids","http://www.ipdb.org/machine.cgi?id=6265",6265,,"JPSalas","JPSalas",4.3.0,,"SSF, FlexDMD, Kids, LUT",4n_WCwJ3
+"JP's Pokemon Pinball (Original 2016)","JP's Pokemon Pinball (Original 2016)",Original,2016,,SS,,"Cartoon, Kids","http://www.ipdb.org/machine.cgi?id=6265",6265,,"JPSalas","JPSalas, Funkatron101, Chug",4.3.0,,"SSF, FlexDMD, Kids, LUT",4n_WCwJ3
 "JP's Pokemon Pinball (Original 2016)","JP's Pokemon Pinball (Original 2016)",Original,2016,,SS,,"Cartoon, Kids","http://www.ipdb.org/machine.cgi?id=6265",6265,,"JPSalas","DGrimmReaper, JPSalas",1.0,,"VR, Kids",BX0tyP9Cw0
 "JP's Pokemon Pinball (Original 2016)","JP's Pokemon Pinball (Original 2016)",Original,2016,,SS,,"Cartoon, Kids","http://www.ipdb.org/machine.cgi?id=6265",6265,,"JPSalas","Fraesh, JPSalas",1.0.0,,"MOD, Kids",q5fvfLEi
 "JP's Pokemon Pinball (Original 2016)","JP's Pokemon Pinball (Original 2016)",Original,2016,,SS,,"Cartoon, Kids","http://www.ipdb.org/machine.cgi?id=6265",6265,,"JPSalas","DiMercurio, Mario, John Memeo, David Deakin, Opeckie Derpenstein, Joey Beaulieu (Joe Picasso), JPSalas",1.0,,"MOD, FlexDMD, Kids",dyoYyK7l93
@@ -2124,7 +2125,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Magic City (Williams 1967)","Magic City (Williams 1967)",Williams,1967,,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1514",1514,,"Norm Clark","Bord, Loserman76",1.0a,,"MOD",j4n_OHWqAp
 "Magic City (Williams 1967)","Magic City (Williams 1967)",Williams,1967,,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1514",1514,,"Norm Clark","Loserman76",1.0.0f,,,zIeopOUx
 "Magic Clock (Williams 1960)","Magic Clock (Williams 1960)",Williams,1960,2,EM,,"Dancing, Outdoor Activities","https://www.ipdb.org/machine.cgi?id=1515",1515,,"Harry Mabs","Loserman76, Pbecker1946, Itchigo",1.0a,,,TuDJsu_q
-"Magic The Gathering (Original 2020)","Magic The Gathering (Original 2020)",Original,2020,4,SS,,"Fantasy",,,,,"Addestratore, JPSalas",1.0.0,blakpyra,"Music, MOD",5YAbfD_Q
+"Magic The Gathering (Original 2020)","Magic The Gathering (Original 2020)",Original,2020,4,SS,,"Fantasy",,,,,"Addestratore, JPSalas",1.0.1,blakpyra,"Music, MOD",5YAbfD_Q
 "Magic Town (Williams 1967)","Magic Town (Williams 1967)",Williams,1967,,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1518",1518,,"Norm Clark","Loserman76",1.0.0f,,,3xzEux1s
 "Magnotron (Gottlieb 1974)","Magnotron (Gottlieb 1974)",Gottlieb,1974,4,EM,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1519",1519,,"Ed Krynski","Teisen, Loserman76, GNance, Popotte, JPSalas, Pinuck, HauntFreaks, BorgDog, Arngrim",1.0.0,,"MOD",IsKP_sp6Qo
 "Magnotron (Gottlieb 1974)","Magnotron (Gottlieb 1974)",Gottlieb,1974,4,EM,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1519",1519,,"Ed Krynski","Rajo Joey, Loserman76, GNance, Popotte",1.0.0,,"VR, Hybrid, LUT",SbHamUXGf2
