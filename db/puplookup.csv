@@ -1375,7 +1375,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Frozen (Original 2016)","Frozen (Original 2016)",Original,2016,,SS,,"Animation, Kids",,,,,"Lodger",1.1,,"Kids",VaqqJGuW
 "Full (Recreativos Franco 1977)","Full (Recreativos Franco 1977)",Recreativos Franco,1977,1,EM,,"Sports, Bowling","https://www.ipdb.org/machine.cgi?id=4707",4707,,,"Teisen, Loserman76, Popotte",1.0,,"MOD",6-UQP4kVjq
 "Full (Recreativos Franco 1977)","Full (Recreativos Franco 1977)",Recreativos Franco,1977,1,EM,,"Sports, Bowling","https://www.ipdb.org/machine.cgi?id=4707",4707,,,"Loserman76, Popotte",1.0.0,,,fjQOoZz6
-"Full House (Williams 1966)","Full House (Williams 1966)",Williams,1966,1,EM,,"American West, Cards, Gambling","https://www.ipdb.org/machine.cgi?id=961",961,,"Norm Clark","Drinkcristal",1.0.0,,"VR, Hybrid",VeXMsbPECW
+"Full House (Williams 1966)","Full House (Williams 1966)",Williams,1966,1,EM,,"American West, Cards, Gambling","https://www.ipdb.org/machine.cgi?id=961",961,,"Norm Clark","Drinkcristal",1.1.0,,"VR, Hybrid, LUT",VeXMsbPECW
 "Full Metal Jacket (Original 2022)","Full Metal Jacket (Original 2022)",Original,2022,,SS,,"Movie, Combat",,,,,"Balutito, Armyaviation",1.2,,,LAmyc7E-1-
 "Full Throttle  (Original 2023)","Full Throttle  (Original 2023)",Original,2023,,SS,,"Sports, Motorcycle Racing","https://www.ipdb.org/machine.cgi?id=6301",6301,,,"Ryguy417, JPSalas",1.0.0,ind250cc,"LUT, Music, MOD",Pl6L2obzhd
 "Fun Fair (Gottlieb 1968)","Fun Fair (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Carnival, Shooting Gallery","https://www.ipdb.org/machine.cgi?id=964",964,,"Ed Krynski","Loserman76, GNance",1.0.0f,,,MFvYSojn
@@ -3035,8 +3035,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Ship-Mates (Gottlieb 1964)","Ship-Mates (Gottlieb 1964)",Gottlieb,1964,4,EM,,"Nautical","https://www.ipdb.org/machine.cgi?id=2120",2120,,"Wayne Neyens","Loserman76, GNance, Editoy, Bord",1.0.0f,,,dD3kFUpc
 "Shock (Taito do Brasil 1979)","Shock (Taito do Brasil 1979)",Taito do Brasil,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4573",4573,,"Steve Ritchie","JPSalas, Carlos Guizzo, Tio Italo, Pmax65",4.0.0,shock,"FastFlips, SSF, LUT",HOcMpkPP
 "Shooting Star (Junior) (Daval Mfg Company 1934)","Shooting Star (Junior) (Daval Mfg Company 1934)",Daval Mfg Company,1934,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=6021",6021,,,"Druadic",1.1,,,TJfEmlHSfU
-"Shooting the Rapids (Zaccaria 1979)","Shooting the Rapids (Zaccaria 1979)",Zaccaria,1979,4,SS,,"Canoeing, Native Americans, Water Sports","https://www.ipdb.org/machine.cgi?id=3606",3606,,,"JPSalas",1.0.0,strapids,,16nPFvO252
 "Shooting the Rapids (Zaccaria 1979)","Shooting the Rapids (Zaccaria 1979)",Zaccaria,1979,4,SS,,"Canoeing, Native Americans, Water Sports","https://www.ipdb.org/machine.cgi?id=3606",3606,,,"Hmueck, JPSalas",1.0,strapids,"VR, Hybrid",WuXzpIuBF-
+"Shooting the Rapids (Zaccaria 1979)","Shooting the Rapids (Zaccaria 1979)",Zaccaria,1979,4,SS,,"Canoeing, Native Americans, Water Sports","https://www.ipdb.org/machine.cgi?id=3606",3606,,,"JPSalas",1.0.0,strapids,,16nPFvO252
 "Shovel Knight (Original 2017)","Shovel Knight (Original 2017)",Original,2017,,SS,,"Video Game",,,,"Videogame","Wizball, Joe Picasso",1.2.0,,"Hybrid, VR, nFozzy, Fleep",EXfw_RJj
 "Shovel Knight (Original 2017)","Shovel Knight (Original 2017)",Original,2017,,SS,,"Video Game",,,,"Videogame","Russell Tolhurst (RusstyT), Wizball",1.0.0,,"MOD, Music",vuJP-3P1
 "Shrek (Stern 2008)","Shrek (Stern 2008)",Stern,2008,4,SS,,"Licensed Theme, Fictional, Animation, Movie, Kids","http://www.ipdb.org/machine.cgi?id=5301",5301,,"Pat Lawlor","Bigus1, Ninuzzu",2.0,shr_141,"MOD, Kids",OhEH6PFe
