@@ -774,7 +774,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Circus (Bally 1973)","Circus (Bally 1973)",Bally,1973,,EM,,"Happiness, Circus, Carnival","https://www.ipdb.org/machine.cgi?id=521",521,,"Jim Patla","Teisen, Loserman76",1.1,,"MOD",emIiln-EY-
 "Circus (Bally 1973)","Circus (Bally 1973)",Bally,1973,,EM,,"Happiness, Circus, Carnival","https://www.ipdb.org/machine.cgi?id=521",521,,"Jim Patla","Loserman76",1.0a,,,rf4BbpWC
 "Circus (Brunswick 1980)","Circus (Brunswick 1980)",Brunswick,1980,4,SS,,"Happiness, Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4937",4937,,,"JPSalas, Redwings13, Leeoneil",4.0.0,,"LUT",f2kVMXHx
-"Circus Starr (Original 2016)","Circus Starr (Original 2016)",Original,2016,,,,"Circus",,,,,"VP1000, Mark Bouchard",1.2,,"MOD",1EdP-G6quL
+"Circus Starr (Original 2016)","Circus Starr (Original 2016)",Original,2016,,,,"Circus",,,,,"VP1000, Mark Bouchard",1.3,,"MOD",1EdP-G6quL
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Hanibal, Dozer, JPSalas",3.7,cv_20h,"FastFlips, MOD, 4k",k0DU19nq
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","VPin Workshop (VPW), Sixtoe, Dark, Randr, Knorr, ClarkKent",1.1,cv_20h,"Hybrid, VR, nFozzy, Fleep",rEHR1gcLVn
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Bigus1, Dozer, JPSalas",1.0,cv_20h,"MOD",guQp-qpZgQ
@@ -1450,6 +1450,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Ghostbusters (Stern 2016)","Ghostbusters (Stern 2016)",Stern,2016,4,SS,,"Licensed Theme, Science Fiction","http://www.ipdb.org/machine.cgi?id=6334",6334,,,"Ninuzzu, Tom Tower, DJRobX",1.0,,"MOD",Td6MZEFqbQ
 "Ghostbusters (Stern 2016)","Ghostbusters (Stern 2016)",Stern,2016,4,SS,,"Licensed Theme, Science Fiction","http://www.ipdb.org/machine.cgi?id=6334",6334,,,"Smoke, SLAMT1LT, JPSalas",1.3,,"MOD, BAM",SUIbRxB-Mh
 "Ghostbusters (Stern 2016)","Ghostbusters (Stern 2016)",Stern,2016,4,SS,,"Licensed Theme, Science Fiction","http://www.ipdb.org/machine.cgi?id=6334",6334,,,"Ninuzzu, Tom Tower, DJRobX",1.2,,,T70qtkCCa1
+"Ghostbusters (Stern 2016)","Ghostbusters (Stern 2016)",Stern,2016,4,SS,,"Licensed Theme, Science Fiction","http://www.ipdb.org/machine.cgi?id=6334",6334,,,"VP1000, Smoke, SLAMT1LT, JPSalas",1.0,,"BAM",05wisipl7v
 "Ghosts 'n Goblins (Original 2018)","Ghosts 'n Goblins (Original 2018)",Original,2018,4,SS,,"Video Game","http://www.ipdb.org/machine.cgi?id=1800",1800,,"","Ivantba, Bord, Xenonph",1.2,pnkpnthr,,cyEeoLfN
 "Giana Sisters (Original 2018)","Giana Sisters (Original 2018)",Original,2018,,SS,,"Video Game",,,,,"Ivantba, Wizball",1.2,,,FgSHk5Uh
 "Gigi (Gottlieb 1963)","Gigi (Gottlieb 1963)",Gottlieb,1963,1,EM,,"Circus, Carnival","http://www.ipdb.org/machine.cgi?id=1003",1003,,"Wayne Neyens","Ext2k, HiRez00, TastyWasps, Teisen, Loserman76",1.0.0,,"VR, Music, MOD",Xjz2_qKL8D
@@ -4093,6 +4094,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Table 124","White Water (Williams 1993)",Williams,1993,4,SS,,"Sports, Rafting, Aquatic, Mythology","http://www.ipdb.org/machine.cgi?id=2768",2768,,"Dennis Nordman","Zen Studios, Peter Grafl",,ww_lh6,,MIWL_WAY2J
 "White Water (Williams 1993)","White Water (Williams 1993)",Williams,1993,4,SS,,"Sports, Rafting, Aquatic, Mythology","http://www.ipdb.org/machine.cgi?id=2768",2768,,"Dennis Nordman","Sixtoe, Flupper, Dark, Lobotomy, Wrd1972, DJRobX, ClarkKent",1.0.0,ww_lh6,"VR",Lh2yEU5p
 "WMS_White_Water","White Water (Williams 1993)",Williams,1993,4,SS,,"Sports, Rafting, Aquatic, Mythology","http://www.ipdb.org/machine.cgi?id=2768",2768,,"Dennis Nordman","Zen Studios",,ww_lh6,,MGSsVMlD
+"White Water (Williams 1993)","White Water (Williams 1993)",Williams,1993,4,SS,,"Sports, Rafting, Aquatic, Mythology","http://www.ipdb.org/machine.cgi?id=2768",2768,,"Dennis Nordman","VP1000",1.1,ww_lh6,"MOD",rr42JPjLi9
 "Who Framed Roger Rabbit (Original 2021)","Who Framed Roger Rabbit (Original 2021)",Original,2021,,SS,,"Animation, Kids, Movie",,,,,"Sebastiendelf, Lio",1.2,bk2k_l4,"Music, Kids",FMtZqXc_
 "Whoa Nellie! Big Juicy Melons (Stern 2015)","Whoa Nellie! Big Juicy Melons (Stern 2015)",Stern,2015,4,SS,,"Agriculture, Fantasy, Women, Adult","http://www.ipdb.org/machine.cgi?id=6252",6252,,"Dennis Nordman","HauntFreaks, Allknowing2012, Dids666, Scott, BorgDog, Batch",2.1.4,WN-1_55_0.spk,,xgKVaHD7
 "Whoa Nellie! Big Juicy Melons (Stern 2015)","Whoa Nellie! Big Juicy Melons (Stern 2015)",Stern,2015,4,SS,,"Agriculture, Fantasy, Women, Adult","http://www.ipdb.org/machine.cgi?id=6252",6252,,"Dennis Nordman","UncleWilly, HauntFreaks, Allknowing2012",2.1.4,WN-1_55_0.spk,"VR, MOD",1fmcIchL7K
