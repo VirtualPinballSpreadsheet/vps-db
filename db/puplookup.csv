@@ -929,9 +929,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Daho (Original 2024)","Daho (Original 2024)",Original,2024,4,SS,,"Music",,,,,"VLive, Icepinball, Goldchicco",1.0.3,fpwr2_l2,,9TSYLMUglM
 "Daisy May (Gottlieb 1954)","Daisy May (Gottlieb 1954)",Gottlieb,1954,1,EM,,"Happiness","https://www.ipdb.org/machine.cgi?id=631",631,,"Wayne Neyens","Okobojimusky, Francisco Pozo",1.1.1,,"MOD",7fpiLbaYaB
 "Daisy May (Gottlieb 1954)","Daisy May (Gottlieb 1954)",Gottlieb,1954,1,EM,,"Happiness","https://www.ipdb.org/machine.cgi?id=631",631,,"Wayne Neyens","Francisco Pozo",1.0.0,,,upVgRA3rvz
-"Dale Jr. NASCAR (Stern 2007)","Dale Jr. NASCAR (Stern 2007)",Stern,2007,4,SS,,"Sports, Auto Racing, Cars","http://www.ipdb.org/machine.cgi?id=5292",5292,,,"Morttis, Arconovum, Requiem, 32assassin, JPSalas",1.01-3.0, dalejr,"FSS, MOD",GcUVzfau
-"Dale Jr. NASCAR (Stern 2007)","Dale Jr. NASCAR (Stern 2007)",Stern,2007,4,SS,,"Sports, Auto Racing, Cars","http://www.ipdb.org/machine.cgi?id=5292",5292,,,"JPSalas",3.0.0, dalejr,,fafD0SULJG
-"Dale Jr. NASCAR (Stern 2007)","Dale Jr. NASCAR (Stern 2007)",Stern,2007,4,SS,,"Sports, Auto Racing, Cars","http://www.ipdb.org/machine.cgi?id=5292",5292,,,"Zedonius, 32assassin, JPSalas",1.0, dalejr,,S3oiJYNlKP
+"Dale Jr. (Stern 2007)","Dale Jr. (Stern 2007)",Stern,2007,4,SS,,"Sports, Auto Racing, Cars","http://www.ipdb.org/machine.cgi?id=5292",5292,,,"Morttis, Arconovum, Requiem, 32assassin, JPSalas",1.01-3.0, dalejr,"FSS, MOD",GcUVzfau
+"Dale Jr. (Stern 2007)","Dale Jr. (Stern 2007)",Stern,2007,4,SS,,"Sports, Auto Racing, Cars","http://www.ipdb.org/machine.cgi?id=5292",5292,,,"JPSalas",3.0.0, dalejr,,fafD0SULJG
+"Dale Jr. (Stern 2007)","Dale Jr. (Stern 2007)",Stern,2007,4,SS,,"Sports, Auto Racing, Cars","http://www.ipdb.org/machine.cgi?id=5292",5292,,,"Zedonius, 32assassin, JPSalas",1.0, dalejr,,S3oiJYNlKP
 "Dante's Inferno (Original 2022)","Dante's Inferno (Original 2022)",Original,2022,,SS,,"Fantasy, Horror",,,,,"Bombaj344, Timo Behrens, Scutters, Batch, Goldchicco",1.1a,nemesis,"Music, MOD, FlexDMD",dah_hFPs
 "Daredevil and The Defenders (Original 2024)","Daredevil and The Defenders (Original 2024)",Original,2024,,SS,,"Superheroes",,,,,"ZandysArcade, JPSalas",1.2,,"MOD",Ejy2hgO_3r
 "Dark (1986) (Original 2024)","Dark (1986) (Original 2024)",Original,2024,4,SS,,"Time Travel",,,,,"Marcoolpops, Kiwi",1.0.0,,"MOD",IXQvQ32HLk
@@ -1801,7 +1801,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "JP's Captain Fantastic (Bally 1976)","JP's Captain Fantastic (Bally 1976)",Bally,1976,4,EM,,"Celebrities, Fictional, Licensed Theme","http://www.ipdb.org/machine.cgi?id=438",438,,"Greg Kmiec","JPSalas",4.0.0,,"LUT",0oWtEKJP
 "JP's Cyclone  (Williams 1988)","JP's Cyclone  (Williams 1988)",Williams,1988,,SS,,"Happiness, Amusement Park, Roller Coasters","https://www.ipdb.org/machine.cgi?id=617",617,,"Barry Oursler","Mike DA Spike, JPSalas",1.2,cycln_l5,"VR, Hybrid, FSS, MOD",gGCkE0N1gK
 "JP's Cyclone  (Williams 1988)","JP's Cyclone  (Williams 1988)",Williams,1988,,SS,,"Happiness, Amusement Park, Roller Coasters","https://www.ipdb.org/machine.cgi?id=617",617,,"Barry Oursler","JPSalas",4.3.0,cycln_l5,"MOD, LUT",OCpeW-vQIW
-"JP's Dale Jr. NASCAR (Original 2020)","JP's Dale Jr. NASCAR (Original 2020)",Original,2020,4,SS,,"Sports, Auto Racing",,,,,"JPSalas",4.3.0,dalejr,"SSF, LUT",JSd2NV7M
+"JP's Dale Jr. (Original 2020)","JP's Dale Jr. (Original 2020)",Original,2020,4,SS,,"Sports, Auto Racing",,,,,"JPSalas",4.3.0,dalejr,"SSF, LUT",JSd2NV7M
 "JP's Deadpool (Original 2021)","JP's Deadpool (Original 2021)",Original,2021,,SS,,"Comics, Fantasy, Licensed Theme, Superheroes",,,,,"Team Tuga, Pedro Pires, Joey Beaulieu (Joe Picasso), JPSalas, Pedro Peres",5.1.2,,"MOD, LUT, FlexDMD",Pq6V2NCBno
 "JP's Deadpool (Original 2021)","JP's Deadpool (Original 2021)",Original,2021,,SS,,"Comics, Fantasy, Licensed Theme, Superheroes",,,,,"JPSalas, EBisLit, JLouLoulou, Vbousquet, Thalamus, OneSharpEdge, Outhere",5.1.2,,"FlexDMD, LUT",FsGFGZC_
 "JP's Deadpool (Original 2021)","JP's Deadpool (Original 2021)",Original,2021,,SS,,"Comics, Fantasy, Licensed Theme, Superheroes",,,,,"Masonm, EBisLit, Gedankekojote97, JPSalas",1.1,,"MOD, nFozzy, Fleep, LUT",-BL5EGFzFE
