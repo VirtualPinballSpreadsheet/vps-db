@@ -1008,8 +1008,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Disco Fever (Williams 1978)","Disco Fever (Williams 1978)",Williams,1978,,SS,,"Happiness, Dancing",,,,"Tony Kraemer","Drinkcristal, Gilrock, Dak38, Bord, Rothbauerw",2.0.3,,"VR",veGC70ND
 "Disney Descendants (Original 2020)","Disney Descendants (Original 2020)",Original,2020,4,SS,,"Animation, Movie, Kids",,,,,"Phenom, Pinballfan2018, Hawkeyez88, Kenswift, Joey, Jason, iDigStuff, JPSalas, Goldchicco, NailBuster",1.3,,"Music, MOD, Kids",2AndLEcx
 "Disney Encanto  (Original 2022)","Disney Encanto  (Original 2022)",Original,2022,,SS,,"Animation, Kids",,,,,"Manbearpig, JPSalas",1.0,,"MOD, Music, Kids",ljhUi_Fj
-"Disney Moana (Original 2021)","Disney Moana (Original 2021)",Original,2021,,SS,,"Animation, Kids",,,,,"TeamTuga, Pedro Pires, Phenom, pedroperes02",1.0.0,,"Kids",-EGY-76lct
-"Disney Moana (Original 2021)","Disney Moana (Original 2021)",Original,2021,,SS,,"Animation, Kids",,,,,"Phenom, Devious626, DigitalJedi084, Hawkeyez88, NJ, Pinball Picasso, PEandS1Ws, JPSalas, Goldchicco, TCDeez",1.1,,"FlexDMD, Kids, Music",dXEc3K6j
+"Disney Moana (Original 2021)","Disney Moana (Original 2021)",Original,2021,4,SS,,"Animation, Kids",,,,,"TeamTuga, Pedro Pires, Phenom, pedroperes02, Floeschng, ZandysArcade",1.3,,"Kids",-EGY-76lct
+"Disney Moana (Original 2021)","Disney Moana (Original 2021)",Original,2021,4,SS,,"Animation, Kids",,,,,"Phenom, Devious626, DigitalJedi084, Hawkeyez88, NJ, Pinball Picasso, PEandS1Ws, JPSalas, Goldchicco, TCDeez",1.1,,"FlexDMD, Kids, Music",dXEc3K6j
 "Disney Pixar Brave (Original 2021)","Disney Pixar Brave (Original 2021)",Original,2021,,SS,,"Animation, Kids",,,,,"Phenom, Danvor, Devious626, Hawkeyez88, Pinball Picasso, PEandS1Ws, TCDeez, Goldchicco",1.0,,"Kids, Music",Y_xZYQdB
 "Disney Pixar Luca (Original 2021)","Disney Pixar Luca (Original 2021)",Original,2021,,SS,,"Animation, Kids",,,,,"Phenom, DigitalJedi084, iDigStuff, Jbg4208, HauntFreaks, Goldchicco",1.1,,"Music, Kids",Vdykbo08
 "Disney Pixar Onward (Original 2021)","Disney Pixar Onward (Original 2021)",Original,2021,,SS,,"Animation, Kids",,,,,"Manbearpig, ScottyWic, Phenom, JPSalas",1.1,skatebll,"Music, MOD, Kids",hnkB8ni5
@@ -2075,8 +2075,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Kung Fu (LTD do Brasil 1975)","Kung Fu (LTD do Brasil 1975)",LTD do Brasil,1975,2,EM,,"Martial Arts",,,,,"JPSalas, Halen",1.0.1,,,rGntrHV3bg
 "Kung Fu Hustle (Original 2024)","Kung Fu Hustle (Original 2024)",Original,2024,,,,"Movie, Kung Fu",,,,,"Balutito, JPSalas, Ise Ananphada",1.2,,"MOD",Gyq3bzPSLQ
 "Lady Death (Geiger 1983)","Lady Death (Geiger 1983)",Geiger,1983,4,SS,,"Fantasy, Vampires","http://www.ipdb.org/machine.cgi?id=3972",3972,,,"Allknowing2012, JPSalas, Siggi",1.0,,"MOD",jCB3MUYL
+"Lady Luck (Recel 1976)","Lady Luck (Recel 1976)",Recel,1976,4,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1405",1405,,,"Ext2k, Wed21",1.0.2,,"VR, LUT",vxcY1rLOwR
 "Lady Luck (Recel 1976)","Lady Luck (Recel 1976)",Recel,1976,4,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1405",1405,,,"Wed21, Mfuegemann, Loserman76, Herweh, HauntFreaks",1.5,,"SSF",rF_jhweD
-"Lady Luck (Recel 1976)","Lady Luck (Recel 1976)",Recel,1976,4,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1405",1405,,,"Ext2k, Wed21",1.0.1,,"VR, LUT",vxcY1rLOwR
 "Lady Luck (Taito do Brasil 1980)","Lady Luck (Taito do Brasil 1980)",Taito do Brasil,1980,4,SS,,"Gambling","http://www.ipdb.org/machine.cgi?id=5010",5010,,"George Christian","JPSalas, Carlos Guizzo, Tio Italo, Markrock76, Akiles50000, Allknowing2012",4.0.0,ladylukt,"SSF, Music, LUT",Msbi1r7g
 "Lady Luck (Bally 1986)","Lady Luck (Bally 1986)",Bally,1986,4,SS,,"Gambling, Cards, Poker","http://www.ipdb.org/machine.cgi?id=1402",1402,,,"Goldchicco, AgentEighty6, Batch, Kalavera3",1.1,ladyluck,"MOD",y42jZ-5U
 "Lady Luck (Bally 1986)","Lady Luck (Bally 1986)",Bally,1986,4,SS,,"Gambling, Cards, Poker","http://www.ipdb.org/machine.cgi?id=1402",1402,,,"Kalavera3, Destruk, Xenonph, Arngrim",1.1,ladyluck,,OYHthvEu
@@ -2871,6 +2871,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Red Hot Pinball (Original 2021)","Red Hot Pinball (Original 2021)",Original,2021,,SS,,"Music",,,,"","Balutito, Bigbeefr, ScottyWic, Gaetan joly, Ludovic Denis, Rénald Thomas, VroOnsh Rajdam ladiv, Hugh Berney",1.0.0,,"MOD, Music",a1z8i5RZP6
 "Red Hot Pinball (Original 2021)","Red Hot Pinball (Original 2021)",Original,2021,,SS,,"Music",,,,"","Bigbeefr, ScottyWic, Gaetan joly, Ludovic Denis, Rénald Thomas, VroOnsh Rajdam ladiv, Hugh Berney",1.1.0,,,wo5G3F3r
 "Red Sonja (Original 2019)","Red Sonja (Original 2019)",Original,2019,4,SS,,"Movie, Fantasy",,,,,"Ivantba, JPSalas",1.0,ngndshkr,,pYIIvdg_
+"Ren & Stimpy Space Madness (Original 2024)","Ren & Stimpy Space Madness (Original 2024)",Original,2024,4,SS,,"Animation, Kids",,,,,"Clairvius, Wrd1972, Gman77, Wildman",1.0.0,,,FCx6-tAH4c
 "Rescue 911 (Gottlieb 1994)","Rescue 911 (Gottlieb 1994)",Gottlieb,1994,4,SS,,"Rescue, Fire Fighting, Police","http://www.ipdb.org/machine.cgi?id=1951",1951,,"Bill Parker","DigitalJedi084, Antisect, Dozer, DJRobX, Sixtoe",1.0.2,,"VR, nFozzy, Fleep, MOD",3Spmq69S8d
 "Rescue 911 (Gottlieb 1994)","Rescue 911 (Gottlieb 1994)",Gottlieb,1994,4,SS,,"Rescue, Fire Fighting, Police","http://www.ipdb.org/machine.cgi?id=1951",1951,,"Bill Parker","Antisect, Dozer, DJRobX",1.0.0,,"nFozzy, Fleep",BzkddwC8
 "Rescue 911 (Gottlieb 1994)","Rescue 911 (Gottlieb 1994)",Gottlieb,1994,4,SS,,"Rescue, Fire Fighting, Police","http://www.ipdb.org/machine.cgi?id=1951",1951,,"Bill Parker","Dozer, DJRobX, Zany, Ninuzzu, Bord, ICPjuggla",1.3,,"Music",mZT99t-q
