@@ -242,6 +242,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Teisen, Loserman76",1.1,,"MOD",nRwKQNft2F
 "Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Loserman76",1.0.0f,,,yl1YFKlw
 "Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Margoni",1.0,,,yC8HU7YjL0
+"Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Bigus1, Loserman76",1.0,,"MOD",5YUit0UGuU
 "Atlantis (LTD do Brasil 1978)","Atlantis (LTD do Brasil 1978)",LTD do Brasil,1978,2,SS,,"Fantasy","https://www.ipdb.org/machine.cgi?id=6712",6712,,,"Mfuegemann, Carlos Guizzo",1.0,atla_ltd,,J6VuW7MU
 "Atlantis (Bally 1989)","Atlantis (Bally 1989)",Bally,1989,4,SS,,"Mythology, Aquatic","http://www.ipdb.org/machine.cgi?id=106",106,,"Jeff Brenner","UnclePaulie, Herweh, VPW Team",2.0.0,atlantis,"VR, Hybrid, MOD, nFozzy, Fleep",rfiQb9C3vk
 "Atlantis (Bally 1989)","Atlantis (Bally 1989)",Bally,1989,4,SS,,"Mythology, Aquatic","http://www.ipdb.org/machine.cgi?id=106",106,,"Jeff Brenner","Morttis, Arconovum, Herweh",1.1-2.6,atlantis,"FSS, MOD",PL9RbsEk
@@ -810,7 +811,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Cleopatra (Gottlieb 1977)","Cleopatra (Gottlieb 1977)",Gottlieb,1977,4,SS,,"Historical","http://www.ipdb.org/machine.cgi?id=532",532,,"Ed Krynski","Goldchicco, 32assassin, Thalamus",1.0b,,"LUT, nFozzy, MOD",BfR8VwhE
 "Cleopatra (Gottlieb 1977)","Cleopatra (Gottlieb 1977)",Gottlieb,1977,4,SS,,"Historical","http://www.ipdb.org/machine.cgi?id=532",532,,"Ed Krynski","Flash, Shane5734",1.1,,,yez6_x0mx_
 "Cleopatra (Gottlieb 1977)","Cleopatra (Gottlieb 1977)",Gottlieb,1977,4,SS,,"Historical","http://www.ipdb.org/machine.cgi?id=532",532,,"Ed Krynski","32assassin",1.0,,,fdJAoNpE
-"Clock of Eternal Fog (Original 2024)","Clock of Eternal Fog (Original 2024)",Original,2024,,SS,,"Time Travel, Fantasy",,,,,"CrimsonTurtle8, Spectrowhirl",1.0,,,STKj6XJEoc
+"Clock of Eternal Fog (Original 2024)","Clock of Eternal Fog (Original 2024)",Original,2024,,SS,,"Time Travel, Fantasy",,,,,"CrimsonTurtle8, Spectrowhirl",1.1,,,STKj6XJEoc
 "Clockwork Orange Edition 1.00 (Original 2022)","Clockwork Orange Edition 1.00 (Original 2022)",Original,2022,,SS,,"Movie",,,,"Juegos Populares","Icepinball, Akiles50000, Mfuegemann, Ivantba",1.0,lortium,"MOD",LebSSspqMe
 "Close Encounters of the Third Kind (Gottlieb 1978)","Close Encounters of the Third Kind (Gottlieb 1978)",Gottlieb,1978,4,SS,,"Licensed Theme, Movie, Science Fiction","http://www.ipdb.org/machine.cgi?id=536",536,,"Ed Krynski","Wiesshund, Serpiko, Pinuck",4.0,closeenc,,DSSSv_ttSK
 "Close Encounters of the Third Kind (Gottlieb 1978)","Close Encounters of the Third Kind (Gottlieb 1978)",Gottlieb,1978,4,SS,,"Licensed Theme, Movie, Science Fiction","http://www.ipdb.org/machine.cgi?id=536",536,,"Ed Krynski","Gman77, BorgDog, HauntFreaks",1.0.1,closeenc,,dv0LxaZ8wk
@@ -1519,6 +1520,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Gold Wings (Gottlieb 1986)","Gold Wings (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Aviation, Combat","http://www.ipdb.org/machine.cgi?id=1043",1043,,"John Trudeau","Versins77, 32assassin",1.0,,"nFozzy, Fleep, LUT, SSF, MOD",YTkL9wXQoG
 "Gold Wings (Gottlieb 1986)","Gold Wings (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Aviation, Combat","http://www.ipdb.org/machine.cgi?id=1043",1043,,"John Trudeau","Morttis, Arconovum, 32assassin",1.1-1.0,,"FSS, MOD",JD0cNat9
 "Gold Wings (Gottlieb 1986)","Gold Wings (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Aviation, Combat","http://www.ipdb.org/machine.cgi?id=1043",1043,,"John Trudeau","32assassin",1.1,,,pmncg9cT
+"Gold Wings (Gottlieb 1986)","Gold Wings (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Aviation, Combat","http://www.ipdb.org/machine.cgi?id=1043",1043,,"John Trudeau","Bigus1, Versins77, 32assassin",1.0,,,eIzj9aFm1H
 "GoldWing (Original 2018)","GoldWing (Original 2018)",Original,2018,,EM,,"Motorcycles",,,,,"HSM, BorgDog",1.0,,,qUko3qC8
 "Golden Arrow (Gottlieb 1977)","Golden Arrow (Gottlieb 1977)",Gottlieb,1977,1,EM,,"American West, Native Americans, Warriors","http://www.ipdb.org/machine.cgi?id=1044",1044,,"Ed Krynski","BorgDog, HauntFreaks, SliderPoint",2.1,,,aEPF2r1g
 "Golden Axe (Original 2018)","Golden Axe (Original 2018)",Original,2018,,SS,,"Video Game",,,,,"Ivantba, Xenonph, Batch, JPSalas",2.0,,"MOD",SR-tIid3
@@ -2029,14 +2031,15 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jurassic Park (Data East 1993)","Jurassic Park (Data East 1993)",Data East,1993,4,SS,,"Fantasy, Licensed Theme, Movie, Dinosaurs","https://www.ipdb.org/machine.cgi?id=1338",1338,,"John Borg","Siggi, Dark, Bodydump, Rothbauerw",1.0,jupk_513,,5FSNncE9mS
 "Jurassic Park (Data East 1993)","Jurassic Park (Data East 1993)",Data East,1993,4,SS,,"Fantasy, Licensed Theme, Movie, Dinosaurs","https://www.ipdb.org/machine.cgi?id=1338",1338,,"John Borg","Dark, Bodydump, Randr, Flupper, Lobotomy, Jkimbrell, Jim, Thalamus, HauntFreaks, SliderPoint, Siggi, Rothbauerw, ICPjuggla",1.0,jupk_513,"SSF, MOD",p_rrsPb4
 "Jurassic Park (Data East 1993)","Jurassic Park (Data East 1993)",Data East,1993,4,SS,,"Fantasy, Licensed Theme, Movie, Dinosaurs","https://www.ipdb.org/machine.cgi?id=1338",1338,,"John Borg","Dark, Bodydump, Rothbauerw, Randr, Flupper, Lobotomy, Jkimbrell, Jim, HauntFreaks, SliderPoint, ICPjuggla",1.03,jupk_513,,2aJU8y9P
-"Jurassic Park (Tribute) (Original 2022)","Jurassic Park (Tribute) (Original 2022)",Original,2022,4,SS,,"Licensed Theme, Movie, Dinosaurs",,,,,"Marty02, ScottyWic",1.0,,"Music",suKwLaMi
 "Table 100","Jurassic Park Pinball (Zen Studios 2018)",Zen Studios,2018,4,,,"Licensed Theme, Fantasy, Movie, Dinosaurs",,,,"Zoltan Vari","Zen Studios, Zoltan Vari",,,,k9paxeToG8
 "UNIVERSAL_Jurassic_Park","Jurassic Park Pinball (Zen Studios 2018)",Zen Studios,2018,4,,,"Licensed Theme, Fantasy, Movie, Dinosaurs",,,,"Zoltan Vari","Zen Studios",,,,qDfmI9Qm
 "Table 102","Jurassic Park Pinball Mayhem (Zen Studios 2018)",Zen Studios,2018,4,,,"Licensed Theme, Fantasy, Movie, Dinosaurs",,,,"Peter Horvath","Zen Studios, Peter Horvath",,,,Td3EVlOBgD
 "UNIVERSAL_Jurassic_Theme_Park","Jurassic Park Pinball Mayhem (Zen Studios 2018)",Zen Studios,2018,4,,,"Licensed Theme, Fantasy, Movie, Dinosaurs",,,,"Peter Horvath","Zen Studios",,,,giOTxEfa
+"Jurassic Park Pro LE (Original 2022)","Jurassic Park Pro LE (Original 2022)",Original,2022,4,SS,,"Licensed Theme, Movie, Dinosaurs",,,,,"Marty02, ScottyWic",1.0,,"Music",suKwLaMi
+"Jurassic Park Pro LE (Original 2022)","Jurassic Park Pro LE (Original 2022)",Original,2022,4,SS,,"Licensed Theme, Movie, Dinosaurs",,,,,"Marty02, JPSalas, HauntFreaks",3.2,,,M1xaS4sTX2
 "Table 101","Jurassic World Pinball (Zen Studios 2018)",Zen Studios,2018,4,,,"Licensed Theme, Fantasy, Movie, Dinosaurs",,,,"Thomas Crofts","Zen Studios, Thomas Crofts",,,,0DjxO_l2Sy
 "UNIVERSAL_Jurassic_World","Jurassic World Pinball (Zen Studios 2018)",Zen Studios,2018,4,,,"Licensed Theme, Fantasy, Movie, Dinosaurs",,,,"Thomas Crofts","Zen Studios",,,,FQlI5tp1
-"Jurrasic Park 30th LE (Original 2024)","Jurrasic Park 30th LE (Original 2024)",Original,2024,4,SS,,"Dinosaurs, Fantasy",,,,,"RebelB",1.0.0,,,hXWmfcKgAt
+"Jurrasic Park 30th LE (Original 2024)","Jurrasic Park 30th LE (Original 2024)",Original,2024,4,SS,,"Dinosaurs, Fantasy",,,,,"RebelB, RetroG33k",1.1,,,hXWmfcKgAt
 "Justin Timberlake (Original 2021)","Justin Timberlake (Original 2021)",Original,2021,,SS,,"Music",,,,,"Phenom, DigitalJedi084, Hawkeyez88, Pinball Picasso, Devious626, PEandS1Ws, Chucky87, JPSalas, Goldchicco, TCDeez",1.0,,"Music",ukmgDZpw
 "KISS (Bally 1979)","KISS (Bally 1979)",Bally,1979,4,SS,,"Celebrities, Licensed, Music","http://www.ipdb.org/machine.cgi?id=1386",1386,,"John Borg","Popotte",1.00,kissc,,q6vv2C5Kog
 "KISS (Bally 1979)","KISS (Bally 1979)",Bally,1979,4,SS,,"Celebrities, Licensed, Music","http://www.ipdb.org/machine.cgi?id=1386",1386,,"John Borg","Bigus1, Jbg4208, Popotte, BorgDog, Arngrim, 32assassin, JPSalas",3.0,kissc,"MOD",tv4E4yqc
@@ -2055,8 +2058,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Kickoff (Williams 1967)","Kickoff (Williams 1967)",Williams,1967,1,EM,,"Sports, American Football","https://www.ipdb.org/machine.cgi?id=1362",1362,,"Steve Kordek","Loserman76, GNance, Jon Osborne",1.0.0f,,,4N08ydR3
 "Kidnap (CIC Play 1986)","Kidnap (CIC Play 1986)",CIC Play,1986,,SS,,"Fantasy",,,,,"Mfuegemann, Pinball/Broker, Dark, GTXJoe, Akiles50000",1.0,kidnap,,0C74w0ay
 "Kill Bill (Original 2022)","Kill Bill (Original 2022)",Original,2022,,SS,,"Movie",,,,,"VP_Cooks, JoePicasso, JPSalas",1.0.1,,"SSF",FC2Lf58DrB
+"Killer Instinct (Original 2024)","Killer Instinct (Original 2024)",Original,2024,4,,,"Video Game, Martial Arts",,,,,"TeamTuga, Mario Joao Paulo, Pedro Peres, ZandysArcade, Darrin Chamberlain, Dom",1.1,,,vX0S8CF_DZ
 "Killer Instinct (Original 2024)","Killer Instinct (Original 2024)",Original,2024,4,,,"Video Game, Martial Arts",,,,,"ZandysArcade, TastyWasps, JoePicasso, Oqqsan, Supergibson, Purcho, Floeschng, JPSalas",1.0.0,,"nFozzy, Fleep, VR",yXsqhMH3VR
-"Killer Instinct (Original 2024)","Killer Instinct (Original 2024)",Original,2024,4,,,"Video Game, Martial Arts",,,,,"TeamTuga, Mario Joao Paulo, Pedro Peres, ZandysArcade, Darrin Chamberlain, Dom",1.0.0,,,vX0S8CF_DZ
 "Killer Klowns (Original 2023)","Killer Klowns (Original 2023)",Original,2023,,SS,,"Movie, Horror",,,,,"Gman77, Balutito, Herweh",1.0.0,hurr_l2,,uME0ZK9dZF
 "Killer Klowns (Original 2023)","Killer Klowns (Original 2023)",Original,2023,,SS,,"Movie, Horror",,,,,"Balutito, Herweh",1.2,hurr_l2,"Music",mi3NyppPHr
 "Killers Hall of Fame (Original 2023)","Killers Hall of Fame (Original 2023)",Original,2023,,,,"Horror",,,,,"Capnclaw, JPSalas, Smaug, JoePicasso, Jo Gandy",1.2,,"VR, FlexDMD",wBakclyqTE
@@ -3606,6 +3609,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Superman (Atari 1979)","Superman (Atari 1979)",Atari,1979,4,SS,,"Fictional, Licensed Theme, Comics, Superheroes","http://www.ipdb.org/machine.cgi?id=2454",2454,,"Steve Ritchie","RajoJoey, Goldchicco, 32assassin, Tomasaco, Chucky87, Sixtoe, Rawd",1.2.0,superman,"VR, MOD, nFozzy, Fleep, LUT",k6NCm6Z_Gn
 "Superman (Atari 1979)","Superman (Atari 1979)",Atari,1979,4,SS,,"Fictional, Licensed Theme, Comics, Superheroes","http://www.ipdb.org/machine.cgi?id=2454",2454,,"Steve Ritchie","Arconovum, 32assassin",1.0-2.6,superman,"FSS, MOD",lHni53Ma
 "Superman (Atari 1979)","Superman (Atari 1979)",Atari,1979,4,SS,,"Fictional, Licensed Theme, Comics, Superheroes","http://www.ipdb.org/machine.cgi?id=2454",2454,,"Steve Ritchie","32assassin, Tomasaco, Arngrim",1.0,superman,"Music",1hsp9ByZ
+"Superman (Atari 1979)","Superman (Atari 1979)",Atari,1979,4,SS,,"Fictional, Licensed Theme, Comics, Superheroes","http://www.ipdb.org/machine.cgi?id=2454",2454,,"Steve Ritchie","Bigus1, Goldchicco, 32assassin",1.0,superman,,ERdeGR6A-N
 "Superman (Original 2009)","Superman (Original 2009)",Original,2009,,,,"Comics, Superheroes",,,,,"TerryRed, SLAMT1LT",,,"MOD",PTf5o6vbZ5
 "Superman (Original 2009)","Superman (Original 2009)",Original,2009,,,,"Comics, Superheroes",,,,,"SLAMT1LT",1.04,,,OIgvnrw7LO
 "Superman - The Animated Series (Original 2020)","Superman - The Animated Series (Original 2020)",Original,2020,,EM,,"Comics, Superheroes",,,,,"Dunriwikan45",1.0.0,,,PSGPiAErXZ
