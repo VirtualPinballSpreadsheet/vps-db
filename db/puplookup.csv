@@ -41,7 +41,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "4 Square (Gottlieb 1971)","4 Square (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Dancing, Happiness, Music, Psychedelic","https://www.ipdb.org/machine.cgi?id=940",940,,"Ed Krynski","Margoni",2.0,,,U-UujoV7WY
 "4X4 (Atari 1983)","4X4 (Atari 1983)",Atari,1983,4,SS,,"Cars","http://www.ipdb.org/machine.cgi?id=3111",3111,,"Milt Loper","TheGhost787",1.0,fourx4,,QavDV54N
 "50_50 (Bally 1965)","50_50 (Bally 1965)",Bally,1965,2,EM,,"Fun Park","https://www.ipdb.org/machine.cgi?id=842",842,,"Ted Zale","Leon Spalding",1.a,,,kMelEC_hFi
-"8 Ball (Williams 1966)","8 Ball (Williams 1966)",Williams,1966,2,EM,,"Billiards","https://www.ipdb.org/machine.cgi?id=764",764,,"Norm Clark","EMUnderdogs, Cliffy, Silversurfer, Loserman76",1.3,,"Fleep",2LWxp-2_An
+"8 Ball (Williams 1966)","8 Ball (Williams 1966)",Williams,1966,2,EM,,"Billiards","https://www.ipdb.org/machine.cgi?id=764",764,,"Norm Clark","EMUnderdogs, Cliffy, Silversurfer, Loserman76",1.3.1,,"Fleep",2LWxp-2_An
 "8 Ball (Williams 1966)","8 Ball (Williams 1966)",Williams,1966,2,EM,,"Billiards","https://www.ipdb.org/machine.cgi?id=764",764,,"Norm Clark","DarthVito, JCalhoun, Teisen, Loserman76, RajoJoey",1.2.1,,"Hybrid, VR, MOD, Fleep",hvGuvPJexN
 "8 Ball (Williams 1966)","8 Ball (Williams 1966)",Williams,1966,2,EM,,"Billiards","https://www.ipdb.org/machine.cgi?id=764",764,,"Norm Clark","JCalhoun, Teisen, Loserman76, Cliffy",1.2.1,,"Fleep",PqioucndW5
 "8 Ball (Williams 1966)","8 Ball (Williams 1966)",Williams,1966,2,EM,,"Billiards","https://www.ipdb.org/machine.cgi?id=764",764,,"Norm Clark","Teisen, Loserman76, Wrd1972, GNance, Wildman, Cliffy",1.0.0,,"MOD",ZlIrhVTRij
@@ -239,10 +239,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Atari 2600 Edition (Original 2022)","Atari 2600 Edition (Original 2022)",Original,2022,,SS,,"Video Game, Game Console",,,,,"Icepinball, Fiftysounds, JPSalas",1.01,,"MOD",6i3-20eepR
 "Atari Centipede Pinball (Original 2020)","Atari Centipede Pinball (Original 2020)",Original,2020,,SS,,"Video Game",,,,,"Mitchell",0.7,,,E7KkzK1S
 "Atari Centipede Pinball (Original 2020)","Atari Centipede Pinball (Original 2020)",Original,2020,,SS,,"Video Game",,,,,"Mitchell",0.7,,,4bgjShr8kP
+"Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Bigus1, Loserman76",1.1,,"MOD",5YUit0UGuU
 "Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Teisen, Loserman76",1.1,,"MOD",nRwKQNft2F
 "Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Loserman76",1.0.0f,,,yl1YFKlw
 "Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Margoni",1.0,,,yC8HU7YjL0
-"Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Bigus1, Loserman76",1.0,,"MOD",5YUit0UGuU
 "Atlantis (LTD do Brasil 1978)","Atlantis (LTD do Brasil 1978)",LTD do Brasil,1978,2,SS,,"Fantasy","https://www.ipdb.org/machine.cgi?id=6712",6712,,,"Mfuegemann, Carlos Guizzo",1.0,atla_ltd,,J6VuW7MU
 "Atlantis (Bally 1989)","Atlantis (Bally 1989)",Bally,1989,4,SS,,"Mythology, Aquatic","http://www.ipdb.org/machine.cgi?id=106",106,,"Jeff Brenner","UnclePaulie, Herweh, VPW Team",2.0.0,atlantis,"VR, Hybrid, MOD, nFozzy, Fleep",rfiQb9C3vk
 "Atlantis (Bally 1989)","Atlantis (Bally 1989)",Bally,1989,4,SS,,"Mythology, Aquatic","http://www.ipdb.org/machine.cgi?id=106",106,,"Jeff Brenner","Morttis, Arconovum, Herweh",1.1-2.6,atlantis,"FSS, MOD",PL9RbsEk
@@ -280,6 +280,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Austin Powers (Stern 2001)","Austin Powers (Stern 2001)",Stern,2001,4,SS,,"Licensed Theme, Movie","http://www.ipdb.org/machine.cgi?id=109",109,,"John Trudeau","VPW, Javier15, Destruk, TAB",1.0.3,austin,"MOD, VR, Hybrid, SSF, FSS, nFozzy, Fleep",OH-PKb4h
 "Austin Powers (Stern 2001)","Austin Powers (Stern 2001)",Stern,2001,4,SS,,"Licensed Theme, Movie","http://www.ipdb.org/machine.cgi?id=109",109,,"John Trudeau","Javier15, Destruk, TAB",1.01,austin,,z7ov9r5U
 "Auto Race (Gottlieb 1956)","Auto Race (Gottlieb 1956)",Gottlieb,1956,,EM,,"Sports, Auto Racing","https://www.ipdb.org/machine.cgi?id=112",112,,"Wayne Neyens","Popotte",1.0,,,jbN8YZvrNj
+"Avatar - The Last Airbender (Original 2024)","Avatar - The Last Airbender (Original 2024)",Original,2024,4,SS,,"Kids, Adventure, TV Show, Animation, Action",,,,,"Tombg",1.0.0,,"FlexDMD, Kids",ePZRCp90yq
 "Avenged Sevenfold (Original 2022)","Avenged Sevenfold (Original 2022)",Original,2022,,EM,,"Music, Heavy Metal",,,,"","Fabouh, Ivantba, Lodger",1.0.4,,"MOD, Music",K2LfgrOOgB
 "Avengers (Original 2020)","Avengers (Original 2020)",Original,2020,,,,"Superheroes, Comics, Movie",,,,,"Stargazer16",0.28,,,j4NAOJLSXD
 "Aztec (Williams 1976)","Aztec (Williams 1976)",Williams,1976,4,EM,,"Historical, World Places","http://www.ipdb.org/machine.cgi?id=119",119,,,"Texascompadre, JPJ, TeamPP, Chucky87, Arngrim",1.0,,"MOD",fKmPMjN8Bp
@@ -1517,10 +1518,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Gold Rush (Williams 1971)","Gold Rush (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1036",1036,,"Norm Clark","HSM, Loserman76, Kees",1.0,,,DT15YkI7
 "Gold Strike (Gottlieb 1975)","Gold Strike (Gottlieb 1975)",Gottlieb,1975,1,EM,,"American West, Prospecting","http://www.ipdb.org/machine.cgi?id=1042",1042,,"Ed Krynski","RajoJoey, Loserman76",1.0.0,,"VR, Hybrid, LUT, MOD",nRVA_Qe0oG
 "Gold Strike (Gottlieb 1975)","Gold Strike (Gottlieb 1975)",Gottlieb,1975,1,EM,,"American West, Prospecting","http://www.ipdb.org/machine.cgi?id=1042",1042,,"Ed Krynski","Loserman76",1.0a,,,B-O2uiHF
+"Gold Wings (Gottlieb 1986)","Gold Wings (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Aviation, Combat","http://www.ipdb.org/machine.cgi?id=1043",1043,,"John Trudeau","Bigus1, Versins77, 32assassin",1.1,,,eIzj9aFm1H
 "Gold Wings (Gottlieb 1986)","Gold Wings (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Aviation, Combat","http://www.ipdb.org/machine.cgi?id=1043",1043,,"John Trudeau","Versins77, 32assassin",1.0,,"nFozzy, Fleep, LUT, SSF, MOD",YTkL9wXQoG
 "Gold Wings (Gottlieb 1986)","Gold Wings (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Aviation, Combat","http://www.ipdb.org/machine.cgi?id=1043",1043,,"John Trudeau","Morttis, Arconovum, 32assassin",1.1-1.0,,"FSS, MOD",JD0cNat9
 "Gold Wings (Gottlieb 1986)","Gold Wings (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Aviation, Combat","http://www.ipdb.org/machine.cgi?id=1043",1043,,"John Trudeau","32assassin",1.1,,,pmncg9cT
-"Gold Wings (Gottlieb 1986)","Gold Wings (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Aviation, Combat","http://www.ipdb.org/machine.cgi?id=1043",1043,,"John Trudeau","Bigus1, Versins77, 32assassin",1.0,,,eIzj9aFm1H
 "GoldWing (Original 2018)","GoldWing (Original 2018)",Original,2018,,EM,,"Motorcycles",,,,,"HSM, BorgDog",1.0,,,qUko3qC8
 "Golden Arrow (Gottlieb 1977)","Golden Arrow (Gottlieb 1977)",Gottlieb,1977,1,EM,,"American West, Native Americans, Warriors","http://www.ipdb.org/machine.cgi?id=1044",1044,,"Ed Krynski","BorgDog, HauntFreaks, SliderPoint",2.1,,,aEPF2r1g
 "Golden Axe (Original 2018)","Golden Axe (Original 2018)",Original,2018,,SS,,"Video Game",,,,,"Ivantba, Xenonph, Batch, JPSalas",2.0,,"MOD",SR-tIid3
@@ -2060,7 +2061,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Kidnap (CIC Play 1986)","Kidnap (CIC Play 1986)",CIC Play,1986,,SS,,"Fantasy",,,,,"Mfuegemann, Pinball/Broker, Dark, GTXJoe, Akiles50000",1.0,kidnap,,0C74w0ay
 "Kill Bill (Original 2022)","Kill Bill (Original 2022)",Original,2022,,SS,,"Movie",,,,,"VP_Cooks, JoePicasso, JPSalas",1.0.1,,"SSF",FC2Lf58DrB
 "Killer Instinct (Original 2024)","Killer Instinct (Original 2024)",Original,2024,4,,,"Video Game, Martial Arts",,,,,"TeamTuga, Mario Joao Paulo, Pedro Peres, ZandysArcade, Darrin Chamberlain, Dom",1.1,,,vX0S8CF_DZ
-"Killer Instinct (Original 2024)","Killer Instinct (Original 2024)",Original,2024,4,,,"Video Game, Martial Arts",,,,,"ZandysArcade, TastyWasps, JoePicasso, Oqqsan, Supergibson, Purcho, Floeschng, JPSalas",1.0.0,,"nFozzy, Fleep, VR",yXsqhMH3VR
+"Killer Instinct (Original 2024)","Killer Instinct (Original 2024)",Original,2024,4,,,"Video Game, Martial Arts",,,,,"ZandysArcade, TastyWasps, JoePicasso, Oqqsan, Supergibson, Purcho, Floeschng, JPSalas",1.2.0,,"nFozzy, Fleep, VR",yXsqhMH3VR
 "Killer Klowns (Original 2023)","Killer Klowns (Original 2023)",Original,2023,,SS,,"Movie, Horror",,,,,"Gman77, Balutito, Herweh",1.0.0,hurr_l2,,uME0ZK9dZF
 "Killer Klowns (Original 2023)","Killer Klowns (Original 2023)",Original,2023,,SS,,"Movie, Horror",,,,,"Balutito, Herweh",1.2,hurr_l2,"Music",mi3NyppPHr
 "Killers Hall of Fame (Original 2023)","Killers Hall of Fame (Original 2023)",Original,2023,,,,"Horror",,,,,"Capnclaw, JPSalas, Smaug, JoePicasso, Jo Gandy",1.2,,"VR, FlexDMD",wBakclyqTE
@@ -2329,7 +2330,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Merry-Go-Round (Gottlieb 1960)","Merry-Go-Round (Gottlieb 1960)",Gottlieb,1960,2,EM,,"Amusement Park","https://www.ipdb.org/machine.cgi?id=1578",1578,,"Wayne Neyens","HSM, Margoni, Albert, Loserman76",1.2,,,RKVwh3es
 "Metal Man (Inder 1992)","Metal Man (Inder 1992)",Inder,1992,,SS,,"Fantasy","https://www.ipdb.org/machine.cgi?id=4092",4092,,,"Ext2k, JPSalas",1.0.0,metalman,"VR",ZXXS00ZagM
 "Metal Man (Inder 1992)","Metal Man (Inder 1992)",Inder,1992,,SS,,"Fantasy","https://www.ipdb.org/machine.cgi?id=4092",4092,,,"JPSalas, Destruk, TAB",4.0.1,metalman,,bPkIYMsc9O
-"Metal Slug (Original 2017)","Metal Slug (Original 2017)",Original,2017,1,SS,,"Video Game",,,,,"Fudgeycaca, Javier15, Arngrim, Brendan Bailey (Pinwizkid)",1.0.4,,"FlexDMD, MOD",5W_USYcNJN
+"Metal Slug (Original 2017)","Metal Slug (Original 2017)",Original,2017,1,SS,,"Video Game",,,,,"Fudgeycaca, Javier15, Arngrim, Brendan Bailey (Pinwizkid), HauntFreaks",1.0.5,,"FlexDMD, MOD",5W_USYcNJN
 "Metal Slug (Original 2017)","Metal Slug (Original 2017)",Original,2017,1,SS,,"Video Game",,,,,"AnonTet, Brendan Bailey (Pinwizkid), JLou",3.2,,"BAM, FizX",qsNmhaNajB
 "Metal Slug (Original 2017)","Metal Slug (Original 2017)",Original,2017,1,SS,,"Video Game",,,,,"Wolfanoz, AnonTet, Brendan Bailey (Pinwizkid)",3.5,,"MOD, SSF, BAM, FizX",D9SyGjQ_r1
 "Metal Slug (Original 2017)","Metal Slug (Original 2017)",Original,2017,1,SS,,"Video Game",,,,,"Javier15, Brendan Bailey (Pinwizkid)",1.03,,"FlexDMD, MOD",ZWY-HOwq
@@ -3704,6 +3705,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Taxi (Williams 1988)","Taxi (Williams 1988)",Williams,1988,4,SS,,"Cars, Transportation","http://www.ipdb.org/machine.cgi?id=2505",2505,,"Mark Ritchie","Psiomicron, Sixtoe, ICPjuggla, Ben Logan, Dark, Mfuegemann",1.0.0,taxi_l4,"VR, MOD, SSF",506U5zrnSp
 "Taxi (Williams 1988)","Taxi (Williams 1988)",Williams,1988,4,SS,,"Cars, Transportation","http://www.ipdb.org/machine.cgi?id=2505",2505,,"Mark Ritchie","ICPjuggla, Dark, Mfuegemann",1.2,taxi_l4,,ERaIYy1e
 "Taxi (Williams 1988)","Taxi (Williams 1988)",Williams,1988,4,SS,,"Cars, Transportation","http://www.ipdb.org/machine.cgi?id=2505",2505,,"Mark Ritchie","32assassin, Drakko",2.0,taxi_l4,,D3o3q9sKP1
+"Taxi Driver (Original 2024)","Taxi Driver (Original 2024)",Original,2024,4,SS,,"Movie",,,,,"Icepinball, JPSalas, Martin Brunker, BabyBackBitch084, Balutito",1.0.0,seawitch,"MOD, Music, VR",Byi2sXGnOd
 "Taylor Swift (Original 2021)","Taylor Swift (Original 2021)",Original,2021,,SS,,"Music",,,,,"Hawkeyez88, Phenom, DigitalJedi084, Pinball Picasso, Goldchicco",1.1,fpwr2_l2,,BBdaEbHdeZ
 "Taylor Swift (Original 2021)","Taylor Swift (Original 2021)",Original,2021,,SS,,"Music",,,,,"Phenom, DigitalJedi084, Hawkeyez88, Pinball Picasso, Goldchicco",1.1,fpwr2_l2,,fmwdVZWI
 "Taylor Swift Eras Tour Pinball (Original 2024)","Taylor Swift Eras Tour Pinball (Original 2024)",Original,2024,1,EM,,"Music",,,,,"JSKroll, JPSalas, HiRez00",2.0.0,,"MOD, Fleep, nFozzy",ieNtKIuvLm
@@ -4010,6 +4012,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Three Angels (Original 2018)","Three Angels (Original 2018)",Original,2018,,SS,,"Fantasy",,,,,"Solters, Randr, Blindmankind Games",1.3,,"FlexDMD, VR, FSS, MOD, SSF",IRgxyCix
 "Thunderbirds (Original 2022)","Thunderbirds (Original 2022)",Original,2022,,SS,,"Adventure, Aviation, Science Fiction, TV Show, Kids","https://www.ipdb.org/machine.cgi?id=6617",6617,,,"Drinkcristal, Wildman, Rawd, VPW Team",1.0.2,,"FlexDMD, VR, Hybrid, Kids",1y0NVRDr_C
 "Thundercats Pinball (Original 2023)","Thundercats Pinball (Original 2023)",Original,2023,,SS,,"TV Show, Animation, Kids",,,,,"MerlinRTP, Capnclaw, ScottyWic, JPSalas, Hawkeyez88, TeamTuga, PinstratsDan, Pegula, AStirling21, Dr.Nobody, DarrinVPCLE, JoePicasso, 0x3e",1.09,,"FlexDMD, Kids, Scorbit",xhpcI1231-
+"Ticket Tac Toe (Williams 1996)","Ticket Tac Toe (Williams 1996)",Williams,1996,1,SS,,"Children's Games, Kids","https://www.ipdb.org/machine.cgi?id=4334",4334,,"Steve Kordek","Kiwi, JPSalas, DJRobX, Rothbauerw, Hmueck",1.0.0,ttt_10,"Kids, Hybrid, VR",mOjHtjDe9m
 "Tiger (Gottlieb 1975)","Tiger (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Circus","https://www.ipdb.org/machine.cgi?id=2560",2560,,"Ed Krynski","HauntFreaks, Loserman76, GNance, TastyWasps, JCalhoun",2.0,,"nFozzy, Fleep, VR, Hybrid",9A48adK-D7
 "Tiger (Gottlieb 1975)","Tiger (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Circus","https://www.ipdb.org/machine.cgi?id=2560",2560,,"Ed Krynski","Teisen, Loserman76",1.0,,"MOD",lvdQc7Eb0j
 "Tiger (Gottlieb 1975)","Tiger (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Circus","https://www.ipdb.org/machine.cgi?id=2560",2560,,"Ed Krynski","RajoJoey, GNance, Loserman76",1.0.0,,"VR, Hybrid, MOD, LUT",8hlWFoo4H3
