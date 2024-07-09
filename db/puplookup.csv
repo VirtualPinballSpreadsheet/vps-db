@@ -236,7 +236,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Astro (Gottlieb 1971)","Astro (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Outer Space","http://www.ipdb.org/machine.cgi?id=99",99,,"Ed Krynski","BorgDog",1.2,,,2XJqy5NS
 "Astronaut (Chicago Coin 1969)","Astronaut (Chicago Coin 1969)",Chicago Coin,1969,2,EM,,"Astronauts, Outer Space","https://www.ipdb.org/machine.cgi?id=101",101,,"Al Schlappa, Jerry Koci, John Gore","Friel01, Loserman76",1.1.0,,,KykMmMlAwX
 "Astronaut (Chicago Coin 1969)","Astronaut (Chicago Coin 1969)",Chicago Coin,1969,2,EM,,"Astronauts, Outer Space","https://www.ipdb.org/machine.cgi?id=101",101,,"Al Schlappa, Jerry Koci, John Gore","Margoni",1.0,,,YDS9FYcDz3
-"Atari 2600 Edition (Original 2022)","Atari 2600 Edition (Original 2022)",Original,2022,,SS,,"Video Game, Game Console",,,,,"Icepinball, Fiftysounds, JPSalas",1.01,,"MOD",6i3-20eepR
+"Atari 2600 (Original 2022)","Atari 2600 (Original 2022)",Original,2022,,SS,,"Video Game, Game Console",,,,,"Icepinball, Fiftysounds, JPSalas",1.01,,"MOD",6i3-20eepR
 "Atari Centipede Pinball (Original 2020)","Atari Centipede Pinball (Original 2020)",Original,2020,,SS,,"Video Game",,,,,"Mitchell",0.7,,,E7KkzK1S
 "Atari Centipede Pinball (Original 2020)","Atari Centipede Pinball (Original 2020)",Original,2020,,SS,,"Video Game",,,,,"Mitchell",0.7,,,4bgjShr8kP
 "Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Bigus1, Loserman76",1.1,,"MOD",5YUit0UGuU
@@ -250,7 +250,6 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Atlantis (Bally 1989)","Atlantis (Bally 1989)",Bally,1989,4,SS,,"Mythology, Aquatic","http://www.ipdb.org/machine.cgi?id=106",106,,"Jeff Brenner","TheGhost787",1.0,atlantis,,KOwCZeHrfY
 "Atleta (Inder 1991)","Atleta (Inder 1991)",Inder,1991,4,SS,,"Sports, Olympic Games","http://www.ipdb.org/machine.cgi?id=4095",4095,,,"Goldchicco, 32assassin, Pachecas",1.0,atleta,"MOD",B4V4AUI_
 "Atleta (Inder 1991)","Atleta (Inder 1991)",Inder,1991,4,SS,,"Sports, Olympic Games","http://www.ipdb.org/machine.cgi?id=4095",4095,,,"Hmueck",1.0,atleta,,t1zIsnJn
-"Attack On Titan (Original 2022)","Attack On Titan (Original 2022)",Original,2022,,SS,,"TV Show",,,,"JP Salas","cHuGaLaeFoo, Enomao, pedroperes02, Arngrim, JPSalas",1.4,,"MOD, Music, FlexDMD",zHtxZ8_cbI
 "Attack and Revenge from Mars (Original 2015)","Attack and Revenge from Mars (Original 2015)",Original,2015,,SS,,"Aliens, Martians, Science Fiction",,,,,"JPSalas, Kiwi, Arngrim",4.3.1,afm_113,"SSF, LUT",vPZfotSL
 "Attack and Revenge from Mars (Original 2015)","Attack and Revenge from Mars (Original 2015)",Original,2015,,SS,,"Aliens, Martians, Science Fiction",,,,,"Morttis, Arconovum, HiRez00, JPSalas",3.0-1.0,afm_113,"SSF, VR, FSS, MOD",XdhJ9wO9
 "Attack from Mars (Bally 1995)","Attack from Mars (Bally 1995)",Bally,1995,4,SS,,"Aliens, Martians, Fantasy",,,,"Brian Eddy","Arconovum, G5k",1.1-2.6,afm_113b,"MOD, FSS",3EaYlY-Lw5
@@ -272,6 +271,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "BALLY_Attack_From_Mars","Attack from Mars (Bally 1995)",Bally,1995,4,SS,,"Aliens, Martians, Fantasy",,,,"Brian Eddy","Zen Studios",,afm_113b,,RZ228N1t
 "Attack of the Killer Tomatoes (Original 2023)","Attack of the Killer Tomatoes (Original 2023)",Original,2023,,SS,,"Horror, Comedy",,,,,"Nagaidevil, Icepinball, JPSalas",1.0.0,seawitch,"MOD, Music",VGg0qWOpjv
 "Attack of the Killer Tomatoes (Original 2023)","Attack of the Killer Tomatoes (Original 2023)",Original,2023,,SS,,"Horror, Comedy",,,,,"Icepinball, JPSalas",1.0.0,seawitch,"MOD",1HpX8lzP7b
+"Attack on Titan (Original 2022)","Attack on Titan (Original 2022)",Original,2022,,SS,,"TV Show",,,,"JP Salas","cHuGaLaeFoo, Enomao, pedroperes02, Arngrim, JPSalas",1.4,,"MOD, Music, FlexDMD",zHtxZ8_cbI
 "Attila the Hun (Game Plan 1984)","Attila the Hun (Game Plan 1984)",Game Plan,1984,4,SS,,"Historical","http://www.ipdb.org/machine.cgi?id=109",109,,"John Trudeau","Ivantba, HSM",1.0,attila,"MOD",jc17knOj
 "Attila the Hun (Game Plan 1984)","Attila the Hun (Game Plan 1984)",Game Plan,1984,4,SS,,"Historical","http://www.ipdb.org/machine.cgi?id=109",109,,"John Trudeau","HSM, Xenonph, Dboyrecords, Destruk",1.0a,attila,,YIPTzaeg
 "Austin Powers (Stern 2001)","Austin Powers (Stern 2001)",Stern,2001,4,SS,,"Licensed Theme, Movie","http://www.ipdb.org/machine.cgi?id=109",109,,"John Trudeau","Bigus1, Javier15, Destruk, TAB",3.0,austin,"MOD",LMBHaBou
@@ -310,7 +310,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Back to the Future (Original 2013)","Back to the Future (Original 2013)",Original,2013,,SS,,"Science Fiction, Time Travel",,,,,"SLAMT1LT",1.15,,,5Ys2oXHWAG
 "Table 97","Back to the Future Pinball (Zen Studios 2017)",Zen Studios,2017,4,,,"Licensed Theme, Science Fiction, Time Travel, Movie",,,,"Peter Grafl","Zen Studios, Peter Grafl",,,,sBX2rAopFh
 "UNIVERSAL_BTTF","Back to the Future Pinball (Zen Studios 2017)",Zen Studios,2017,4,,,"Licensed Theme, Science Fiction, Time Travel, Movie",,,,"Peter Grafl","Zen Studios, Peter Grafl",,,,VSp-ud62
-"Bad  (Original 2022)","Bad  (Original 2022)",Original,2022,,SS,,"Music",,,,"","Ryguy417, Bodydump, 32assassin",1.1.1,,,prbriwuT5e
+"Bad (Original 2022)","Bad (Original 2022)",Original,2022,,SS,,"Music",,,,"","Ryguy417, Bodydump, 32assassin",1.1.1,,,prbriwuT5e
 "Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","VPW, UncleWilly, Benji, Brad1X, Tomate, Flupper, nFozzy, Wrd1972, Iaakki, Sixtoe, Rothbauerw",3.0,bcats_tcm,"MOD, VR, Hybrid, SSF, nFozzy, Fleep",AlOFdxml
 "Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","Arconovum, UncleWilly, ClarkKent, Dark",1.2-2.6,bcats_tcm,"FastFlips, FSS, MOD",3H8SvyBz
 "Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","NitroNimbus, UncleWilly",2.0,bcats_tcm,"MOD",RkwEXLk-hq
