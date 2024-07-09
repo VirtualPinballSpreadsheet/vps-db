@@ -1767,8 +1767,6 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Hyperball (Williams 1981)","Hyperball (Williams 1981)",Williams,1981,2,SS,,"Outer Space, Fantasy","http://www.ipdb.org/machine.cgi?id=3169",3169,,"Steve Ritchie","DarthMarino, Lizard",2.1,hypbl_l6,,DIahnJnu
 "Hyperball (Williams 1981)","Hyperball (Williams 1981)",Williams,1981,2,SS,,"Outer Space, Fantasy","http://www.ipdb.org/machine.cgi?id=3169",3169,,"Steve Ritchie","DarthMarino, Lizard",2.1,hypbl_l6,,o-2Xgts1n_
 "Hyperball (Williams 1981)","Hyperball (Williams 1981)",Williams,1981,2,SS,,"Outer Space, Fantasy","http://www.ipdb.org/machine.cgi?id=3169",3169,,"Steve Ritchie","Lizard",1.0,hypbl_l6,,Z_Md2XIW
-"I Cavalieri dello Zodiaco - Saint Seiya (Original 2022)","I Cavalieri dello Zodiaco - Saint Seiya (Original 2022)",Original,2022,,SS,,"Anime",,,,,"Giorgio83, Jicho2003, JPSalas",1.3,,"MOD, FSS, 4k",Ad18zRvauU
-"I Cavalieri dello Zodiaco - Saint Seiya (Original 2022)","I Cavalieri dello Zodiaco - Saint Seiya (Original 2022)",Original,2022,,SS,,"Anime",,,,,"Giorgio83, Jicho2003, JPSalas",1.3,,"MOD, 4k",nYN685W_fi
 "I Dream of Jeannie (Original 2019)","I Dream of Jeannie (Original 2019)",Original,2019,4,SS,,"TV Show",,,,,"Cryptdoctor21, Xenonph, 32assassin",1.0,,,_ovvVJVX
 "Ice Age - A Mammoth Xmas Pinball (Original 2020)","Ice Age - A Mammoth Xmas Pinball (Original 2020)",Original,2020,4,SS,,"Christmas, Animation, Kids, Movie",,,,,"Stevegooner1234, Wildman, Lizard, Xenonph",1.0,,"Music, MOD, Kids",hhuzWT64
 "Ice Age Christmas (Original 2021)","Ice Age Christmas (Original 2021)",Original,2021,,SS,,"Christmas, Animation, Kids, Movie",,,,,"Balutito, JPSalas",1.0.0,skatebll,"MOD, Kids",OaMJaHHq
@@ -3089,6 +3087,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Safe Cracker (Bally 1996)","Safe Cracker (Bally 1996)",Bally,1996,4,SS,,"Crime, Money, Police","http://www.ipdb.org/machine.cgi?id=3782",3782,,"Pat Lawlor","Arconovum, Flupper, Fuzzel, Destruk, UncleWilly, HauntFreaks, JPSalas, Rothbauerw",1.0.1-2.5,sc_18n11,"FSS, MOD",TOIa6lPX
 "Safe Cracker (Bally 1996)","Safe Cracker (Bally 1996)",Bally,1996,4,SS,,"Crime, Money, Police","http://www.ipdb.org/machine.cgi?id=3782",3782,,"Pat Lawlor","Fuzzel, Flupper, OldSkoolGamer, Herweh, Destruk, UncleWilly, Arconovum, HauntFreaks, JPSalas, Rothbauerw, ICPjuggla",1.0,sc_18n11,"FastFlips",CB1vT03d
 "BALLY_Safe_Cracker","Safe Cracker (Bally 1996)",Bally,1996,4,SS,,"Crime, Money, Police","http://www.ipdb.org/machine.cgi?id=3782",3782,,"Pat Lawlor","Zen Studios",,sc_18n11,,_ELCbKmu
+"Saint Seiya - I Cavalieri dello zodiaco (Original 2022)","Saint Seiya - I Cavalieri dello zodiaco (Original 2022)",Original,2022,,SS,,"Anime",,,,,"Giorgio83, Jicho2003, JPSalas",1.3,,"MOD, FSS, 4k",Ad18zRvauU
+"Saint Seiya - I Cavalieri dello zodiaco (Original 2022)","Saint Seiya - I Cavalieri dello zodiaco (Original 2022)",Original,2022,,SS,,"Anime",,,,,"Giorgio83, Jicho2003, JPSalas",1.3,,"MOD, 4k",nYN685W_fi
 "Saloon (Taito do Brasil 1978)","Saloon (Taito do Brasil 1978)",Taito do Brasil,1978,,SS,,"American West",,,,,"Margoni",1.0,,,FkiHbPBrvu
 "Saloon (Taito do Brasil 1978)","Saloon (Taito do Brasil 1978)",Taito do Brasil,1978,,SS,,"American West",,,,,"JPSalas, Rodrigo Ataguile (RoAtaguile), Halen",1.0.1,,"LUT",9PjC1pWGIG
 "Saloon (Taito do Brasil 1978)","Saloon (Taito do Brasil 1978)",Taito do Brasil,1978,,SS,,"American West",,,,,"Rodrigo Ataguile (RoAtaguile), Exegeta",1.1,,,uobLjBMgRF
@@ -3201,7 +3201,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Sir Lancelot (Peyper 1994)","Sir Lancelot (Peyper 1994)",Peyper,1994,,SS,,"Medieval, Fantasy","http://www.ipdb.org/machine.cgi?id=4949",4949,,"Eulogio Pingarrón","GauGau, Goldchicco, 32assassin, Mfuegemann, Movieguru, Batch",1.1.0,lancelot,"MOD",obiNdITnv1
 "Sir Lancelot (Peyper 1994)","Sir Lancelot (Peyper 1994)",Peyper,1994,,SS,,"Medieval, Fantasy","http://www.ipdb.org/machine.cgi?id=4949",4949,,"Eulogio Pingarrón","Goldchicco, Mfuegemann, Movieguru, Batch, 32assassin",1.0,lancelot,,y5_RGoq_
 "Sittin' Pretty (Gottlieb 1958)","Sittin' Pretty (Gottlieb 1958)",Gottlieb,1958,1,EM,,"Happiness, Circus, Carnival","https://www.ipdb.org/machine.cgi?id=2164",2164,,"Wayne Neyens","Hmueck, MaX, Furio, Dinocostas, Robair",1.0,,"VR, Hybrid",OqImqNXjYO
-"Skate And Destroy (Original 2019)","Skate And Destroy (Original 2019)",Original,2019,4,SS,,"Skateboarding",,,,,"Kenji, 32assassin, JPSalas",1.0,,"Music, MOD",DTp_TBsK
+"Skate and Destroy (Original 2019)","Skate and Destroy (Original 2019)",Original,2019,4,SS,,"Skateboarding",,,,,"Kenji, 32assassin, JPSalas",1.0,,"Music, MOD",DTp_TBsK
 "Skateball (Bally 1980)","Skateball (Bally 1980)",Bally,1980,4,SS,,"Sports, Skateboarding","http://www.ipdb.org/machine.cgi?id=2170",2170,,"Claude Fernandez","JPSalas",4.0.1,skatebll,"LUT, SSF",LPXu85AO
 "Skateball (Bally 1980)","Skateball (Bally 1980)",Bally,1980,4,SS,,"Sports, Skateboarding","http://www.ipdb.org/machine.cgi?id=2170",2170,,"Claude Fernandez","RajoJoey, HauntFreaks, JPSalas",1.1.0,skatebll,"VR, LUT, MOD",4hvYIIMZWe
 "Skateball (Bally 1980)","Skateball (Bally 1980)",Bally,1980,4,SS,,"Sports, Skateboarding","http://www.ipdb.org/machine.cgi?id=2170",2170,,"Claude Fernandez","HauntFreaks, JPSalas",1.0.4,skatebll,"MOD",rH0oXSnv
