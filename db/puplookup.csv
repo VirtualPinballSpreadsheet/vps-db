@@ -420,7 +420,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Beat the Clock (Bally 1985)","Beat the Clock (Bally 1985)",Bally,1985,4,SS,,"Sports","http://www.ipdb.org/machine.cgi?id=212",212,,"George Christian","VPW, Apophis, Armyaviation, TastyWasps, Primetime5k, HauntFreaks, DarthVito, Bord, Flux, Tomate",1.0,beatclc2,"Hybrid, VR, nFozzy, Fleep",M_-abOpiP4
 "Beat the Clock (Bally 1985)","Beat the Clock (Bally 1985)",Bally,1985,4,SS,,"Sports","http://www.ipdb.org/machine.cgi?id=212",212,,"George Christian","Jino0372, Goldchicco, Dboyrecords",1.3,beatclc2,"LUT",oxkpOGK3O8
 "Beat the Clock (Bally 1985)","Beat the Clock (Bally 1985)",Bally,1985,4,SS,,"Sports","http://www.ipdb.org/machine.cgi?id=212",212,,"George Christian","Goldchicco, Dboyrecords",1.0-wip,beatclc2,,grYVrWxO
-"Beavis And Butthead Pinball Stupidity (Original 2023)","Beavis And Butthead Pinball Stupidity (Original 2023)",Original,2023,,SS,,"Animation, TV Show, Movie",,,,,"cHuGaLaeFoo",1.2,,"nFozzy, Fleep, LUT",JCnmBfOopT
+"Beavis and Butt-Head Pinball Stupidity (Original 2023)","Beavis and Butt-Head Pinball Stupidity (Original 2023)",Original,2023,,SS,,"Animation, TV Show, Movie",,,,,"cHuGaLaeFoo",1.2,,"nFozzy, Fleep, LUT",JCnmBfOopT
 "Beavis and Butt-head Pinballed (Original 2024)","Beavis and Butt-head Pinballed (Original 2024)",Original,2024,,SS,,"Animation, TV Show, Movie",,,,,"Watacaractr, JPSalas, Foreheadvcr",1.1,beav_butt,"Music",LeutE8df4g
 "Beetlejuice (Original 2021)","Beetlejuice (Original 2021)",Original,2021,4,SS,,"Movie, Horror, Supernatural","http://www.ipdb.org/machine.cgi?id=2396",2396,,"Dan Langlois","Sebastiendelf, AgentEighty6, Balutito",1.0.0,strngsci,"Music",sVvami0J
 "Beetlejuice (Original 2023)","Beetlejuice (Original 2023)",Original,2023,,SS,,"Movie, Horror, Supernatural",,,,,"Doivelspack, JPSalas, Destruk, Flupper, Scutters",1.0.2,ironmaid,"MOD, FlexDMD, LUT",4W651LZTSI
@@ -429,7 +429,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Bella Dama (Original 2023)","Bella Dama (Original 2023)",Original,2023,,SS,,"Women",,,,,"Garcia1968, Schlabber34",1.3,httip_l1,"Music",UaTkWjVJ56
 "Ben Hur (Staal 1977)","Ben Hur (Staal 1977)",Staal,1977,4,SS,,"Fictional Characters, World Places","https://www.ipdb.org/machine.cgi?id=2855",2855,,,"Klodo81, JPSalas, Goldchicco",1.0,,"LUT",I71olqHtkd
 "Ben Ten (Original 2024)","Ben Ten (Original 2024)",Original,2024,,,,"Cartoon",,,,,"Mark1",3.0.0,,,sDtbtgUS8C
-"Berzerk The Pinball Game (Original 2016)","Berzerk The Pinball Game (Original 2016)",Original,2016,,SS,,"Video Game",,,,,"Lodger",2.0,,,gRk9Tyy5
+"Berzerk (Original 2016)","Berzerk (Original 2016)",Original,2016,,SS,,"Video Game",,,,,"Lodger",2.0,,,gRk9Tyy5
 "Beverly Hills Cop (Original 2019)","Beverly Hills Cop (Original 2019)",Original,2019,4,SS,,"Licensed Theme, Movie, Police",,,,,"Ivantba, JPSalas",1.0,faeton,"Music, MOD",cWPmZKXR
 "Biene Maja (Original 2022)","Biene Maja (Original 2022)",Original,2022,,SS,,"Animation, Kids",,,,,"Icepinball",1.0.0,seawitch,"Kids, MOD",S170U4eyiV
 "Big Bang Bar (Capcom 1996)","Big Bang Bar (Capcom 1996)",Capcom,1996,4,SS,,"Science Fiction, Aliens","http://www.ipdb.org/machine.cgi?id=4001",4001,,"Rob Morrison","VPW, ClarkKent, Ninuzzu, UncleWilly, Gedankekojote97, Apophis, Rawd, Leojreimroc, Jsm174, Toxie, Sixtoe, nFozzy, Niwak, Steely, CarnyPriest",2.1,bbb109,"Hybrid, VR, FSS, 4k, MOD, SSF, nFozzy, Fleep",Ds1b7cXKb2
@@ -512,10 +512,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Black Hole (Gottlieb 1981)","Black Hole (Gottlieb 1981)",Gottlieb,1981,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=307",307,,"John Buras, Adolf Seitz Jr.","Bigus1, Cyberpez",1.0,blckhole,"MOD",OlytaBJ7e3
 "Black Hole (Gottlieb 1981)","Black Hole (Gottlieb 1981)",Gottlieb,1981,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=307",307,,"John Buras, Adolf Seitz Jr.","Cyberpez",1.1,blckhole,,g5bgoRp7
 "Black Hole (LTD do Brasil 1982)","Black Hole (LTD do Brasil 1982)",LTD do Brasil,1982,2,SS,,"Outer Space, Space Fantasy","https://www.ipdb.org/machine.cgi?id=5891",5891,,,"Wiesshund, Halen, Gaston, Scutters, JPSalas",4.0, bhol_ltd,,m9Dqv4YIs6
-"Black Jack (Bally 1978)","Black Jack (Bally 1978)",Bally,1978,4,SS,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=309",309,,"Jim Patla","Ext2k, Allknowing2012, Bigus1",1.0,blackjck,"VR",7u21Aec5Lb
-"Black Jack (Bally 1978)","Black Jack (Bally 1978)",Bally,1978,4,SS,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=309",309,,"Jim Patla","Bigus1, Allknowing2012, Arngrim, HauntFreaks, Hmueck",3.0,blackjck,"MOD",rRGYE_Gy
-"Black Jack (Bally 1978)","Black Jack (Bally 1978)",Bally,1978,4,SS,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=309",309,,"Jim Patla","Allknowing2012",1.1,blackjck,,r8mP6lcV
-"Black Jack (Bally 1978)","Black Jack (Bally 1978)",Bally,1978,4,SS,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=309",309,,"Jim Patla","eXentric, Rob046",3.0,blackjck,,jP37249wk_
+"Black Jack (SS) (Bally 1978)","Black Jack (SS) (Bally 1978)",Bally,1978,4,SS,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=309",309,,"Jim Patla","Ext2k, Allknowing2012, Bigus1",1.0,blackjck,"VR",7u21Aec5Lb
+"Black Jack (SS) (Bally 1978)","Black Jack (SS) (Bally 1978)",Bally,1978,4,SS,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=309",309,,"Jim Patla","Bigus1, Allknowing2012, Arngrim, HauntFreaks, Hmueck",3.0,blackjck,"MOD",rRGYE_Gy
+"Black Jack (SS) (Bally 1978)","Black Jack (SS) (Bally 1978)",Bally,1978,4,SS,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=309",309,,"Jim Patla","Allknowing2012",1.1,blackjck,,r8mP6lcV
+"Black Jack (SS) (Bally 1978)","Black Jack (SS) (Bally 1978)",Bally,1978,4,SS,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=309",309,,"Jim Patla","eXentric, Rob046",3.0,blackjck,,jP37249wk_
 "Black Knight (Williams 1980)","Black Knight (Williams 1980)",Williams,1980,4,SS,,"Medieval, Knights","http://www.ipdb.org/machine.cgi?id=310",310,,"Steve Ritchie","Arconovum, Bord",1.0.2-2.6,bk_l4,"FastFlips, FSS, MOD",H5XacaHf
 "Black Knight (Williams 1980)","Black Knight (Williams 1980)",Williams,1980,4,SS,,"Medieval, Knights","http://www.ipdb.org/machine.cgi?id=310",310,,"Steve Ritchie","JPSalas",4.0.0,bk_l4,"LUT",_eRa2WXT
 "Black Knight (Williams 1980)","Black Knight (Williams 1980)",Williams,1980,4,SS,,"Medieval, Knights","http://www.ipdb.org/machine.cgi?id=310",310,,"Steve Ritchie","Bord",3.0,bk_l4,"VR, SSF, Hybrid, FSS, nFozzy",EeMZzrFG
