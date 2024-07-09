@@ -1058,7 +1058,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Django Unchained (Original 2022)","Django Unchained (Original 2022)",Original,2022,,SS,,"American West, Movie",,,,,"Balutito, Ninuzzu, Tom Tower",1.2,,"MOD, Music",bx_SLr8nlg
 "Table 30","Doctor Strange (Zen Studios 2013)",Zen Studios,2013,4,,,"Licensed Theme, Comics, Superheroes",,,,"Ivan Nicoara","Zen Studios, Ivan Nicoara",,,,rGKz9LgA2G
 "MARVEL_DrStrange","Doctor Strange (Zen Studios 2013)",Zen Studios,2013,4,,,"Licensed Theme, Comics, Superheroes",,,,"Ivan Nicoara","Zen Studios",,,,N-s_SIR0
-"Doctor Strange Pinball (Original 2023)","Doctor Strange Pinball (Original 2023)",Original,2023,,SS,,"Comics, Superheroes, Movie",,,,,"Balutito, UncleWilly, Thalamus, Ise Ananphada, SliderPoint, oooPlayer1ooo",1.0.0,dw_l2,"MOD",8C3LSbZgp6
+"Doctor Strange (Original 2023)","Doctor Strange (Original 2023)",Original,2023,,SS,,"Comics, Superheroes, Movie",,,,,"Balutito, UncleWilly, Thalamus, Ise Ananphada, SliderPoint, oooPlayer1ooo",1.0.0,dw_l2,"MOD",8C3LSbZgp6
 "Doctor Who (Bally 1992)","Doctor Who (Bally 1992)",Bally,1992,4,SS,,"Licensed Theme, TV Show","http://www.ipdb.org/machine.cgi?id=738",738,,"Barry Oursler","Arconovum, SliderPoint, oooPlayer1ooo",2.2-2.6,dw_l2,"FSS, MOD",WVMIWDmz
 "Doctor Who (Bally 1992)","Doctor Who (Bally 1992)",Bally,1992,4,SS,,"Licensed Theme, TV Show","http://www.ipdb.org/machine.cgi?id=738",738,,"Barry Oursler","Bigus1, SliderPoint, Rothbauerw, oooPlayer1ooo",2.0,dw_l2,"MOD",1ym9HpnI
 "Doctor Who (Bally 1992)","Doctor Who (Bally 1992)",Bally,1992,4,SS,,"Licensed Theme, TV Show","http://www.ipdb.org/machine.cgi?id=738",738,,"Barry Oursler","GeorgeH, Ian, oooPlayer1ooo, NitroNimbus, Popotte, Gimli, Paolo (Wild)",2.6.6,dw_l2,,t3c56eEKYf
@@ -1098,7 +1098,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Dr. Dude and His Excellent Ray (Bally 1990)","Dr. Dude and His Excellent Ray (Bally 1990)",Bally,1990,4,SS,,"Celebrities, Fictional","http://www.ipdb.org/machine.cgi?id=737",737,,"Dennis Nordman","NitroNimbus, Francisco666, rom, Gimli",2.1,dd_l2,"MOD",JL8xevSB7V
 "Dr. Dude and His Excellent Ray (Bally 1990)","Dr. Dude and His Excellent Ray (Bally 1990)",Bally,1990,4,SS,,"Celebrities, Fictional","http://www.ipdb.org/machine.cgi?id=737",737,,"Dennis Nordman","Senseless, Wrd1972, Caligula",1.1.6,dd_l2,"VR",e6ngyasAh8
 "BALLY_Dr_Dude","Dr. Dude and His Excellent Ray (Bally 1990)",Bally,1990,4,SS,,"Celebrities, Fictional","http://www.ipdb.org/machine.cgi?id=737",737,,"Dennis Nordman","Zen Studios",,dd_l2,,Rpe37kzf
-"Dr. Jekyll and Mr. Hyde (Original 2022)","Dr. Jekyll and Mr. Hyde (Original 2022)",Original,2022,,SS,,"Horror",,,,,"Bombaj344, BurtMacklin, Bigus1, 32assassin, Francisco666",1.3.1,elektra,"Music, MOD",jLfgyOFvAP
+"Dr. Jekyll and Mr. Hyde (Original 2022)","Dr. Jekyll and Mr. Hyde (Original 2022)",Original,2022,,SS,,"Horror",,,,,"BurtMacklin, Bombaj344, Bigus1, 32assassin, Francisco666",1.3.1,elektra,"Music, MOD",jLfgyOFvAP
 "Dracula (Stern 1979)","Dracula (Stern 1979)",Stern,1979,4,SS,,"Fictional, Supernatural, Horror","http://www.ipdb.org/machine.cgi?id=728",728,,"Harry Williams","10mmSocket, Bord",1.0.0,draculfp,"MOD, Music",0Nzgy9GgX9
 "Dracula (Stern 1979)","Dracula (Stern 1979)",Stern,1979,4,SS,,"Fictional, Supernatural, Horror","http://www.ipdb.org/machine.cgi?id=728",728,,"Harry Williams","Bord",2.1.1,draculfp,"SSF, nFozzy, Fleep",6pssSgrZ
 "Dracula (Stern 1979)","Dracula (Stern 1979)",Stern,1979,4,SS,,"Fictional, Supernatural, Horror","http://www.ipdb.org/machine.cgi?id=728",728,,"Harry Williams","NitroNimbus, Miownkhan",2.0,draculfp,"MOD",w5DdzzJBfA
@@ -1257,7 +1257,6 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Faeton (Juegos Populares 1985)","Faeton (Juegos Populares 1985)",Juegos Populares,1985,4,SS,,"Outer Space, Science Fiction, Space Fantasy","http://www.ipdb.org/machine.cgi?id=3087",3087,,,"Ext2k, JPSalas, Rascal, Lighthouse, Arngrim",1.0.0,faeton,"Hybrid, VR, FSS, MOD, Mixed Reality",VY1ICdIQE_
 "Fair Fight (Recel 1978)","Fair Fight (Recel 1978)",Recel,1978,,SS,,"Medieval, Combat","https://www.ipdb.org/machine.cgi?id=808",808,,,"JPSalas, Editoy, Halen",4.3.0,,,9k38chYycL
 "Fairy Favors (Original 2024)","Fairy Favors (Original 2024)",Original,2024,,EM,,"Fantasy",,,,,"CrimsonTurtle8, Spectrowhirl",1.0,,,9Si1Zv8KQm
-"Faith - George Michael (Original 2023)","Faith - George Michael (Original 2023)",Original,2023,,SS,,"Music",,,,,"VLive",1.02,,"Music, MOD",sSobZIMQ6W
 "BETHESDA_Fallout","Fallout Pinball (Zen Studios 2016)",Zen Studios,2016,4,,,"Licensed Theme, Video Game",,,,,"Zen Studios",,,,UFFpuobs
 "Fallout Season 1 (Original 2024)","Fallout Season 1 (Original 2024)",Original,2024,4,SS,,"Science Fiction, TV Show, Video Game",,,,,"Clairvius, GtecArcade, Takut, TilterIllussions, Masonm, Dr.Nobody, Dave Barnes, Nevvyboy, Guet35",1.0.0,swrds_l2,"LUT, MOD",RzYEuMHUTR
 "Family Guy (Stern 2007)","Family Guy (Stern 2007)",Stern,2007,4,SS,,"Licensed Theme, Animation, TV Show","http://www.ipdb.org/machine.cgi?id=5219",5219,,"Pat Lawlor","Arconovum, Ninuzzu",1.1-2.6,fg_1200af,"FSS, MOD",GtaEBfR_um
@@ -1480,6 +1479,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Genie (Gottlieb 1979)","Genie (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=997",997,,"Ed Krynski","Bigus1, 32assassin",2.0,,"MOD",w2f18S9a
 "Genie (Gottlieb 1979)","Genie (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=997",997,,"Ed Krynski","Bord, Rothbauerw",2.0.0,,"VR, FSS, Hybrid, SSF, nFozzy, Fleep",es74KTIZ
 "Genie (Gottlieb 1979)","Genie (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=997",997,,"Ed Krynski","32assassin",1.0,,,ONx0NORQ
+"George Michael - Faith (Original 2023)","George Michael - Faith (Original 2023)",Original,2023,,SS,,"Music",,,,,"VLive",1.02,,"Music, MOD",sSobZIMQ6W
 "Get Smart (Original 2021)","Get Smart (Original 2021)",Original,2021,,SS,,"TV Show",,,,,"Drinkcristal, Rawd, WillyCWonka, Leojreimroc",2.0.2,,"VR, Hybrid, FSS",XhvsKHRD
 "Ghost (Original 2023)","Ghost (Original 2023)",Original,2023,,SS,,"Music, Rock",,,,,"Jonpfeiler, TastyWasps, iDigStuff",1.25, poto_a32,,Zd_pZAszOC
 "Table 21","Ghost Rider (Zen Studios 2011)",Zen Studios,2011,4,,,"Licensed Theme, Comics, Superheroes",,,,"Zoltan Vari","Zen Studios, Zoltan Vari",,,,ET54Igt7DE
