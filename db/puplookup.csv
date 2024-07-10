@@ -272,7 +272,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "BALLY_Attack_From_Mars","Attack from Mars (Bally 1995)",Bally,1995,4,SS,,"Aliens, Martians, Fantasy",,,,"Brian Eddy","Zen Studios",,afm_113b,,RZ228N1t
 "Attack of the Killer Tomatoes (Original 2023)","Attack of the Killer Tomatoes (Original 2023)",Original,2023,,SS,,"Horror, Comedy",,,,,"Nagaidevil, Icepinball, JPSalas",1.0.0,seawitch,"MOD, Music",VGg0qWOpjv
 "Attack of the Killer Tomatoes (Original 2023)","Attack of the Killer Tomatoes (Original 2023)",Original,2023,,SS,,"Horror, Comedy",,,,,"Icepinball, JPSalas",1.0.0,seawitch,"MOD",1HpX8lzP7b
-"Attack on Titan (Original 2022)","Attack on Titan (Original 2022)",Original,2022,,SS,,"TV Show",,,,"JP Salas","cHuGaLaeFoo, Enomao, pedroperes02, Arngrim, JPSalas",1.4,,"MOD, Music, FlexDMD",zHtxZ8_cbI
+"Attack on Titan (Original 2022)","Attack on Titan (Original 2022)",Original,2022,,SS,,"TV Show",,,,"JP Salas","chug, Enomao, pedroperes02, Arngrim, JPSalas",1.4,,"MOD, Music, FlexDMD",zHtxZ8_cbI
 "Attila the Hun (Game Plan 1984)","Attila the Hun (Game Plan 1984)",Game Plan,1984,4,SS,,"Historical","http://www.ipdb.org/machine.cgi?id=109",109,,"John Trudeau","Ivantba, HSM",1.0,attila,"MOD",jc17knOj
 "Attila the Hun (Game Plan 1984)","Attila the Hun (Game Plan 1984)",Game Plan,1984,4,SS,,"Historical","http://www.ipdb.org/machine.cgi?id=109",109,,"John Trudeau","HSM, Xenonph, Dboyrecords, Destruk",1.0a,attila,,YIPTzaeg
 "Austin Powers (Stern 2001)","Austin Powers (Stern 2001)",Stern,2001,4,SS,,"Licensed Theme, Movie","http://www.ipdb.org/machine.cgi?id=109",109,,"John Trudeau","Bigus1, Javier15, Destruk, TAB",3.0,austin,"MOD",LMBHaBou
@@ -421,7 +421,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Beat the Clock (Bally 1985)","Beat the Clock (Bally 1985)",Bally,1985,4,SS,,"Sports","http://www.ipdb.org/machine.cgi?id=212",212,,"George Christian","VPW, Apophis, Armyaviation, TastyWasps, Primetime5k, HauntFreaks, DarthVito, Bord, Flux, Tomate",1.0,beatclc2,"Hybrid, VR, nFozzy, Fleep",M_-abOpiP4
 "Beat the Clock (Bally 1985)","Beat the Clock (Bally 1985)",Bally,1985,4,SS,,"Sports","http://www.ipdb.org/machine.cgi?id=212",212,,"George Christian","Jino0372, Goldchicco, Dboyrecords",1.3,beatclc2,"LUT",oxkpOGK3O8
 "Beat the Clock (Bally 1985)","Beat the Clock (Bally 1985)",Bally,1985,4,SS,,"Sports","http://www.ipdb.org/machine.cgi?id=212",212,,"George Christian","Goldchicco, Dboyrecords",1.0-wip,beatclc2,,grYVrWxO
-"Beavis and Butt-Head Pinball Stupidity (Original 2023)","Beavis and Butt-Head Pinball Stupidity (Original 2023)",Original,2023,,SS,,"Animation, TV Show, Movie",,,,,"cHuGaLaeFoo",1.2,,"nFozzy, Fleep, LUT",JCnmBfOopT
+"Beavis and Butt-Head Pinball Stupidity (Original 2023)","Beavis and Butt-Head Pinball Stupidity (Original 2023)",Original,2023,,SS,,"Animation, TV Show, Movie",,,,,"chug",1.2,,"nFozzy, Fleep, LUT",JCnmBfOopT
 "Beavis and Butt-head Pinballed (Original 2024)","Beavis and Butt-head Pinballed (Original 2024)",Original,2024,,SS,,"Animation, TV Show, Movie",,,,,"Watacaractr, JPSalas, Foreheadvcr",1.1,beav_butt,"Music",LeutE8df4g
 "Beetlejuice (Original 2021)","Beetlejuice (Original 2021)",Original,2021,4,SS,,"Movie, Horror, Supernatural","http://www.ipdb.org/machine.cgi?id=2396",2396,,"Dan Langlois","Sebastiendelf, AgentEighty6, Balutito",1.0.0,strngsci,"Music",sVvami0J
 "Beetlejuice (Original 2023)","Beetlejuice (Original 2023)",Original,2023,,SS,,"Movie, Horror, Supernatural",,,,,"Doivelspack, JPSalas, Destruk, Flupper, Scutters",1.0.2,ironmaid,"MOD, FlexDMD, LUT",4W651LZTSI
@@ -2893,7 +2893,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Punk! (Gottlieb 1982)","Punk! (Gottlieb 1982)",Gottlieb,1982,4,SS,,"Music","http://www.ipdb.org/machine.cgi?id=1877",1877,,"Tom Szafransky","Balater, 32assassin, Mfuegemann, roccodimarco, Robotron1969, Arngrim",1.31,,,zoUvYY-x
 "Punk! (Gottlieb 1982)","Punk! (Gottlieb 1982)",Gottlieb,1982,4,SS,,"Music","http://www.ipdb.org/machine.cgi?id=1877",1877,,"Tom Szafransky","ScottyVH",0.9-wip,,,bAu-4FIe
 "Puscifer Pinball (Original 2022)","Puscifer Pinball (Original 2022)",Original,2022,,SS,,"Music",,,,,"Rrreed, JPSalas",1.0.0,,,e7_0-CogeQ
-"Putin Vodka Mania (Original 2022)","Putin Vodka Mania (Original 2022)",Original,2022,,EM,,"Historical, Drinking, Parody",,,,,"Remdwaas1986, DonkeyKlonk, Tomato, Oqqsan, Apophis, JoePicasso, RetroG33k, Smaug, cHuGaLaeFoo, Bennaboo, Wylte, PinstratsDan, Outhere, GauGau",1.2,,,lAnZOQKhyx
+"Putin Vodka Mania (Original 2022)","Putin Vodka Mania (Original 2022)",Original,2022,,EM,,"Historical, Drinking, Parody",,,,,"Remdwaas1986, DonkeyKlonk, Tomato, Oqqsan, Apophis, JoePicasso, RetroG33k, Smaug, chug, Bennaboo, Wylte, PinstratsDan, Outhere, GauGau",1.2,,,lAnZOQKhyx
 "Pyramid (Gottlieb 1978)","Pyramid (Gottlieb 1978)",Gottlieb,1978,2,EM,,"World Places","http://www.ipdb.org/machine.cgi?id=1881",1881,,"Ed Krynski","BorgDog, Loserman76, HauntFreaks, JPSalas",1.1,,,af6TFO8c
 "Q-Bert's Quest (Gottlieb 1983)","Q-Bert's Quest (Gottlieb 1983)",Gottlieb,1983,4,SS,,"Video Game",,,,"John Trudeau","Bord",2.2,,"VR",CfGaTNWc
 "Queen (Original 2021)","Queen (Original 2021)",Original,2021,4,SS,,"Music",,,,,"Marty02, Ivantba, JPSalas",2.0,,"Music, MOD",CfPb7XL7
