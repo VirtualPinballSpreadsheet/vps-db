@@ -82,7 +82,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Ace High (Gottlieb 1957)","Ace High (Gottlieb 1957)",Gottlieb,1957,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=7",7,,"Wayne Neyens","JPSalas, Halen",1.0.1,,,TOF-LubuVs
 "Ace High (Gottlieb 1957)","Ace High (Gottlieb 1957)",Gottlieb,1957,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=7",7,,"Wayne Neyens","Popotte, Carlos Guizzo, Luiz Culik",1.02,,,s-0YrAh4lu
 "Ace Ventura - Pet Detective (Original 2019)","Ace Ventura - Pet Detective (Original 2019)",Original,2019,4,SS,,"Movie, Comedy",,,,,"Ivantba, JPSalas",1.0,stest,"MOD",kXXV7M26
-"Ace of Speed (Original 2019)","Ace of Speed (Original 2019)",Original,2019,4,SS,,"Auto Racing",,,,,"Takut, Franck Hollinger (Mussinger)",1.1,mousn_l4,"VR",xGPfkywEpw
+"Ace of Speed (Original 2019)","Ace of Speed (Original 2019)",Original,2019,4,SS,,"Auto Racing",,,,,"Takut, mussinger",1.1,mousn_l4,"VR",xGPfkywEpw
 "Ace of Speed (Original 2019)","Ace of Speed (Original 2019)",Original,2019,4,SS,,"Auto Racing",,,,,"mussinger, Herweh, David Vicente, David Maldonado, JPJ, ScottyWic, Rik Laubach, Vero, Vogliadicane, NailBuster",1.0.1,mousn_l4,"MOD",LMOYSJWc
 "Aces & Kings (Williams 1970)","Aces & Kings (Williams 1970)",Williams,1970,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=11",11,,"Steve Kordek","Mustang1961, Albert, Kees",1.11,,"MOD",XeD4nblFnd
 "Aces & Kings (Williams 1970)","Aces & Kings (Williams 1970)",Williams,1970,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=11",11,,"Steve Kordek","Albert, Kees",1.0,,"MOD",SUU4-B4o
@@ -875,9 +875,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Corsario (Inder 1989)","Corsario (Inder 1989)",Inder,1989,4,SS,,"Pirates","http://www.ipdb.org/machine.cgi?id=4090",4090,,,"Ext2k, Pachecas, Goldchicco",1.1,corsario,"VR",IxgETG3d_E
 "Corvette (Bally 1994)","Corvette (Bally 1994)",Bally,1994,4,SS,,"Cars","http://www.ipdb.org/machine.cgi?id=570",570,,"George Gomez","Bigus1, Balater, 85vett",2.0,corv_21,"MOD",lCSCCNew
 "Corvette (Bally 1994)","Corvette (Bally 1994)",Bally,1994,4,SS,,"Cars","http://www.ipdb.org/machine.cgi?id=570",570,,"George Gomez","UnclePaulie, Sixtoe, Goldchicco",1.1,corv_21,"VR",_oYAKWopuG
-"Corvette (Bally 1994)","Corvette (Bally 1994)",Bally,1994,4,SS,,"Cars","http://www.ipdb.org/machine.cgi?id=570",570,,"George Gomez","Goldchicco, 32assassin, Franck Hollinger (Mussinger), DJLunchbox, Thalamus, Sheltemke, Movieguru, DarthMarino, 85vett, Arngrim",1.4.2,corv_21,"FastFlips, SSF, MOD",UzRb9WVZ
+"Corvette (Bally 1994)","Corvette (Bally 1994)",Bally,1994,4,SS,,"Cars","http://www.ipdb.org/machine.cgi?id=570",570,,"George Gomez","Goldchicco, 32assassin, mussinger, DJLunchbox, Thalamus, Sheltemke, Movieguru, DarthMarino, 85vett, Arngrim",1.4.2,corv_21,"FastFlips, SSF, MOD",UzRb9WVZ
 "Corvette (Bally 1994)","Corvette (Bally 1994)",Bally,1994,4,SS,,"Cars","http://www.ipdb.org/machine.cgi?id=570",570,,"George Gomez","Balater, 85vett",1.00,corv_21,,MpMqrqoH
-"Corvette (Bally 1994)","Corvette (Bally 1994)",Bally,1994,4,SS,,"Cars","http://www.ipdb.org/machine.cgi?id=570",570,,"George Gomez","Morttis, Arconovum, Franck Hollinger (Mussinger), Wildman, 32assassin, Goldchicco",1.2-1.0,corv_21,"FSS, MOD",N-fRLIEe
+"Corvette (Bally 1994)","Corvette (Bally 1994)",Bally,1994,4,SS,,"Cars","http://www.ipdb.org/machine.cgi?id=570",570,,"George Gomez","Morttis, Arconovum, mussinger, Wildman, 32assassin, Goldchicco",1.2-1.0,corv_21,"FSS, MOD",N-fRLIEe
 "Cosmic (Taito do Brasil 1980)","Cosmic (Taito do Brasil 1980)",Taito do Brasil,1980,4,SS,,"Outer Space, Fantasy","http://www.ipdb.org/machine.cgi?id=4567",4567,,,"JPSalas",4.0.0,cosmic,"FastFlips, SSF, LUT",KeJ-pS3E
 "Cosmic (Taito do Brasil 1980)","Cosmic (Taito do Brasil 1980)",Taito do Brasil,1980,4,SS,,"Outer Space, Fantasy","http://www.ipdb.org/machine.cgi?id=4567",4567,,,"Morttis, Arconovum, JPSalas",3.0.0-2.6,cosmic,"FSS, MOD",h8XuA2uf
 "Cosmic (Taito do Brasil 1980)","Cosmic (Taito do Brasil 1980)",Taito do Brasil,1980,4,SS,,"Outer Space, Fantasy","http://www.ipdb.org/machine.cgi?id=4567",4567,,,"32assassin",1.1,cosmic,,ta-gzB8U
@@ -964,7 +964,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Dante's Inferno (Original 2022)","Dante's Inferno (Original 2022)",Original,2022,,SS,,"Fantasy, Horror",,,,,"Bombaj344, Timo Behrens, Scutters, Batch, Goldchicco",1.1a,nemesis,"Music, MOD, FlexDMD",dah_hFPs
 "Daredevil and the Defenders (Original 2024)","Daredevil and the Defenders (Original 2024)",Original,2024,,SS,,"Superheroes",,,,,"ZandysArcade, JPSalas",1.3,,"MOD",Ejy2hgO_3r
 "Dark (1986) (Original 2024)","Dark (1986) (Original 2024)",Original,2024,4,SS,,"Time Travel",,,,,"Marcoolpops, Kiwi",1.0.0,,"MOD",IXQvQ32HLk
-"Dark Princess (Original 2020)","Dark Princess (Original 2020)",Original,2020,,SS,,"Music",,,,,"FroogyCrew, Franck Hollinger (Mussinger), Emperor312",1.3.1,,"Music, FlexDMD",jPLxVR4b
+"Dark Princess (Original 2020)","Dark Princess (Original 2020)",Original,2020,,SS,,"Music",,,,,"FroogyCrew, mussinger, Emperor312",1.3.1,,"Music, FlexDMD",jPLxVR4b
 "Dark Rider (Geiger 1984)","Dark Rider (Geiger 1984)",Geiger,1984,,SS,,"Fantasy","https://www.ipdb.org/machine.cgi?id=3968",3968,,,"Bigus1, TAB",1.1,startrek,"MOD",rl0o2_hrtP
 "Dark Shadow (Nuova Bell Games 1986)","Dark Shadow (Nuova Bell Games 1986)",Nuova Bell Games,1986,4,SS,,"Fantasy","https://www.ipdb.org/machine.cgi?id=3699",3699,,"","Mfuegemann, Peter Blakemore, RajoJoey",1.0,darkshad,"Music",_ydUavcN
 "Darkest Dungeon (Original 2023)","Darkest Dungeon (Original 2023)",Original,2023,1,SS,,"Video Game",,,,,"Vpxpinballwizards, JPSalas, MerlinRTP, H3rbskix, Oqqsan, TastyWasps, Rawd, AstroNasty, Anthem, Superhac, JoePicasso, DarrinVPCLE, Smaug, nFozzy, Rothbauerw, NailBuster, Arelyel Krele, Fleep, Primetime5k, RetroG33k",2.2,,"nFozzy, LUT, Fleep, Scorbit, Hybrid, VR",8neiKBTNGj
@@ -983,7 +983,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Dealers Choice (Williams 1973)","Dealers Choice (Williams 1973)",Williams,1973,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=649",649,,"Norm Clark","Loserman76",1.0.0,,,4QfCjScu
 "Dealers Choice (Williams 1973)","Dealers Choice (Williams 1973)",Williams,1973,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=649",649,,"Norm Clark","Popotte",1.2,,,XrsbLaU2pu
 "Dealers Choice (Williams 1973)","Dealers Choice (Williams 1973)",Williams,1973,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=649",649,,"Norm Clark","Kees",1.01,,,FOI4uq80
-"Death Proof (Original 2021)","Death Proof (Original 2021)",Original,2021,,SS,,"Movie",,,,,"Balutito, Herweh, Franck Hollinger (Mussinger)",2.0,mousn_l4,"MOD",Qa-4XdNy
+"Death Proof (Original 2021)","Death Proof (Original 2021)",Original,2021,,SS,,"Movie",,,,,"Balutito, Herweh, mussinger",2.0,mousn_l4,"MOD",Qa-4XdNy
 "Death Race 2000 (Original 2022)","Death Race 2000 (Original 2022)",Original,2022,,SS,,"Movie, Auto Racing",,,,,"Balutito, Razor, JPSalas",2.0,nascar,"MOD, SSF, Music",AX1V-lGKrI
 "Death Wish 3 (Original 2019)","Death Wish 3 (Original 2019)",Original,2019,4,SS,,"Movie",,,,,"Ivantba, JPSalas",1.0,lostwrld,"Music, MOD",dqizRgwb
 "Def Leppard (Original 2020)","Def Leppard (Original 2020)",Original,2020,,SS,,"Music",,,,,"Goldchicco, Aaron James, Destruk, Doogie, JPSalas",1.3,,"SSF, Music, FlexDMD, MOD",AuWESUEK
@@ -1019,7 +1019,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Die Hard Trilogy (Original 2023)","Die Hard Trilogy (Original 2023)",Original,2023,,SS,,"Movie, Action",,,,,"VPW, AstroNasty, Scampa123, NailBuster, Oqqsan, Fluffhead, Flux, Gedankekojote97, Cyberpez, Rawd, Iaakki, JoePicasso, Frisco, iScored Dan, Rik",0.98,,"nFozzy, Fleep, Hybrid, VR",C1m5TY2-TY
 "Dimension (Gottlieb 1971)","Dimension (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Outer Space, Fantasy","http://www.ipdb.org/machine.cgi?id=680",680,,"Ed Krynski","Wrd1972, Loserman76, Nestorgian, GNance, Leeoneil, Thalamus, BorgDog, Apophis, HauntFreaks, JPSalas",0.99a,,"MOD, SSF, Hybrid, VR, FSS",oLLdQCZRHl
 "Dimension (Gottlieb 1971)","Dimension (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Outer Space, Fantasy","http://www.ipdb.org/machine.cgi?id=680",680,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,1SqKewmT
-"Dimmu Borgir (Original 2019)","Dimmu Borgir (Original 2019)",Original,2019,4,SS,,"Music, Heavy Metal",,,,,"Zedixair, Franck Hollinger (Mussinger)",1.0,frpwr_b7,"Music, MOD",ONElOQ0V
+"Dimmu Borgir (Original 2019)","Dimmu Borgir (Original 2019)",Original,2019,4,SS,,"Music, Heavy Metal",,,,,"Zedixair, mussinger",1.0,frpwr_b7,"Music, MOD",ONElOQ0V
 "Diner (Williams 1990)","Diner (Williams 1990)",Williams,1990,4,SS,,"Happiness, Food","http://www.ipdb.org/machine.cgi?id=681",681,,"Mark Ritchie","Arconovum, Flupper",1.1-2.6,diner_l4,"FastFlips, FSS, MOD",13gFOcpj
 "Diner (Williams 1990)","Diner (Williams 1990)",Williams,1990,4,SS,,"Happiness, Food","http://www.ipdb.org/machine.cgi?id=681",681,,"Mark Ritchie","VPW, Flupper, Fluffhead35, Skitso, Rawd, Rik, PinstratsDan, Tamoore, Bodydump, Ben Logan, George, Dark, Knorr, Leojreimroc, Iaakki, Sixtoe, Apophis, Ninuzzu, ClarkKent",1.02,diner_l4,"MOD, VR, Hybrid, SSF, FSS, nFozzy, Fleep, LUT",9-YJeZ-RkH
 "Diner (Williams 1990)","Diner (Williams 1990)",Williams,1990,4,SS,,"Happiness, Food","http://www.ipdb.org/machine.cgi?id=681",681,,"Mark Ritchie","Psiomicron, Flupper, Ben Logan, Bodydump, 3rdAxis",1.2,diner_l4,"VR, SSF, MOD",KLezW8D7
@@ -1223,7 +1223,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Embryon (Bally 1981)","Embryon (Bally 1981)",Bally,1981,4,SS,,"Fantasy, Science Fiction","http://www.ipdb.org/machine.cgi?id=783",783,,"Claude Fernandez","TheGhost787, ICPjuggla",1.0,embryond,,S8kZentnEq
 "Eminem (Original 2019)","Eminem (Original 2019)",Original,2019,,EM,,"Music",,,,,"Dunriwikan45",1.0.0,,,hmxbT_En0S
 "Eminem (Original 2019)","Eminem (Original 2019)",Original,2019,,EM,,"Music",,,,,"Dunriwikan45, John Memeo, ScottyWic, NailBuster",1.0.0,,,ir-ASQB0
-"Endless Summer (Original 2020)","Endless Summer (Original 2020)",Original,2020,4,EM,,"Sports, Surfing",,,,,"Makmak, Thalamus, Tracy, Outhere, Flupper, DJRobX, TerryRed, Franck Hollinger (Mussinger), Toxie, JR, Randr, GTO77, BeachBumTN, ScottyVH, ScottyWic, Fuzzel, Schlabber34, MajorFrenchy, SuperEd, Wrd1972, Mfuegemann, GTXJoe, BorgDog, Ninuzzu, 3rdAxis, Arngrim, HauntFreaks, JPSalas, SliderPoint, Bord, Rothbauerw, SLAMT1LT, rom, NailBuster",0.9.7.9,,"FlexDMD",SjkOK78o
+"Endless Summer (Original 2020)","Endless Summer (Original 2020)",Original,2020,4,EM,,"Sports, Surfing",,,,,"Makmak, Thalamus, Tracy, Outhere, Flupper, DJRobX, TerryRed, mussinger, Toxie, JR, Randr, GTO77, BeachBumTN, ScottyVH, ScottyWic, Fuzzel, Schlabber34, MajorFrenchy, SuperEd, Wrd1972, Mfuegemann, GTXJoe, BorgDog, Ninuzzu, 3rdAxis, Arngrim, HauntFreaks, JPSalas, SliderPoint, Bord, Rothbauerw, SLAMT1LT, rom, NailBuster",0.9.7.9,,"FlexDMD",SjkOK78o
 "Looter","Epic Quest (Zen Studios 2013)",Zen Studios,2013,4,,,"Medieval",,,,,"Zen Studios",,,,dUwiyQMX
 "Escape from Monkey Island (Original 2021)","Escape from Monkey Island (Original 2021)",Original,2021,,,,"Video Game, Pirates",,,,,"Remdwaas1986, Shoopity",1.2,,"MOD, VR, Hybrid",k3UYkNQLUB
 "Escape from Monkey Island (Original 2021)","Escape from Monkey Island (Original 2021)",Original,2021,,,,"Video Game, Pirates",,,,,"Remdwaas1986, Shoopity",1.1,,,wmgWPmI3
@@ -1582,7 +1582,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Grand Slam (Gottlieb 1953)","Grand Slam (Gottlieb 1953)",Gottlieb,1953,,,,"Sports, Baseball",,,,"Wayne Neyens","Okobojimusky, Francisco Pozo",,,"MOD",u4t1t1jCMR
 "Grand Slam (Gottlieb 1953)","Grand Slam (Gottlieb 1953)",Gottlieb,1953,,,,"Sports, Baseball",,,,"Wayne Neyens","Francisco Pozo",,,,4jhi3-yhRW
 "Grand Slam (Gottlieb 1953)","Grand Slam (Gottlieb 1953)",Gottlieb,1953,,,,"Sports, Baseball",,,,"Wayne Neyens","Mcrowell75",1.01,,,uiksnzaV1I
-"Grand Slam (Bally 1983)","Grand Slam (Bally 1983)",Bally,1983,4,SS,,"Sports, Baseball","http://www.ipdb.org/machine.cgi?id=1079",1079,,"Greg Kmiec","Goldchicco, Franck Hollinger (Mussinger), Chinzman93, Thalamus, Mike DA Spike, Movieguru, Arngrim, Batch, 32assassin, JPSalas",2.3,gransla4,"FastFlips, LUT",whyKjE2h
+"Grand Slam (Bally 1983)","Grand Slam (Bally 1983)",Bally,1983,4,SS,,"Sports, Baseball","http://www.ipdb.org/machine.cgi?id=1079",1079,,"Greg Kmiec","Goldchicco, mussinger, Chinzman93, Thalamus, Mike DA Spike, Movieguru, Arngrim, Batch, 32assassin, JPSalas",2.3,gransla4,"FastFlips, LUT",whyKjE2h
 "Grand Tour (Bally 1964)","Grand Tour (Bally 1964)",Bally,1964,1,EM,,"Travel, World Places","https://www.ipdb.org/machine.cgi?id=1081",1081,,"Ted Zale","Scottacus, Bord, Onevox, Whirlwind",2.06,,"VR, SSF, FSS",U-ENxma_
 "Grande Domino (Gottlieb 1968)","Grande Domino (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Dominoes, Games, Board Games","https://www.ipdb.org/machine.cgi?id=1069",1069,,"Ed Krynski","Loserman76, GNance",1.0,,,kGA5gGwz
 "Granny and the Gators (Bally 1984)","Granny and the Gators (Bally 1984)",Bally,1984,2,SS,,"Hunting, Aquatic","http://www.ipdb.org/machine.cgi?id=1083",1083,,"Claude Fernandez","DarthMarino, LoadedWeapon, Lazzlo, STAT",1.1a,granny,,HYJXHFww
@@ -1829,7 +1829,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Iron Maiden Legacy of the Beast (Pro) (Stern 2018)","Iron Maiden Legacy of the Beast (Pro) (Stern 2018)",Stern,2018,,SS,,"Music",,,,,"Solters, Oroborus",1.1,,"VR, FlexDMD",N1Rm5GDsRK
 "Iron Maiden Legacy of the Beast (Pro) (Stern 2018)","Iron Maiden Legacy of the Beast (Pro) (Stern 2018)",Stern,2018,,SS,,"Music",,,,,"Oroborus",1.1,,"MOD, Music",xJ9vBfm2Ib
 "Iron Maiden Senjutsu (Original 2021)","Iron Maiden Senjutsu (Original 2021)",Original,2021,4,SS,,"Music, Heavy Metal",,,,,"Balutito, Wed21, Walamab, Flupper, Anthias, DarthMarino, Nesta78, GTXJoe, Siggi",1.3,frpwr_b7,"Music, MOD",AscPKtsv
-"Iron Maiden Virtual Time (Original 2020)","Iron Maiden Virtual Time (Original 2020)",Original,2020,4,SS,,"Music, Heavy Metal",,,,,"Ahr1man, Rascal, Solters, Franck Hollinger (Mussinger), Herweh",1.0.0,lwar_a83,"VR, MOD, nFozzy, Fleep",hi0EAU6FtN
+"Iron Maiden Virtual Time (Original 2020)","Iron Maiden Virtual Time (Original 2020)",Original,2020,4,SS,,"Music, Heavy Metal",,,,,"Ahr1man, Rascal, Solters, mussinger, Herweh",1.0.0,lwar_a83,"VR, MOD, nFozzy, Fleep",hi0EAU6FtN
 "Iron Maiden Virtual Time (Original 2020)","Iron Maiden Virtual Time (Original 2020)",Original,2020,4,SS,,"Music, Heavy Metal",,,,,"mussinger, Herweh",1.2.0,lwar_a83,"MOD, Music, FlexDMD",PATkNto6cw
 "Iron Maiden Virtual Time (Original 2020)","Iron Maiden Virtual Time (Original 2020)",Original,2020,4,SS,,"Music, Heavy Metal",,,,,"mussinger, Herweh, DCrosby, Schlabber34, OldSkoolGamer, Francisco666, Flupper, Dark, DJRobX, Mark70, Thalamus, Digable, Rik L., Ludivic D., Carlos Andre, David Maldonado, JPSalas, Rothbauerw, nFozzy, ICPjuggla",1.0.1,lwar_a83,"Music, MOD, FlexDMD",CXCYpKzH
 "Table 65","Iron Man (Zen Studios 2010)",Zen Studios,2010,4,,,"Licensed Theme, Comics, Superheroes",,,,"Ivan Nicoara","Zen Studios, Ivan Nicoara",,,,Z_gfp8nBP2
@@ -2703,7 +2703,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "PDC World Darts Pinball (Original 2020)","PDC World Darts Pinball (Original 2020)",Original,2020,4,SS,,"Sports, Darts",,,,,"Stevegooner1234, PQ4, Ruud56, JPSalas",1.0,,"Music, MOD",OqDGyUpw
 "PIN-BOT (Williams 1986)","PIN-BOT (Williams 1986)",Williams,1986,4,SS,,"Fantasy, Outer Space","http://www.ipdb.org/machine.cgi?id=1796",1796,,"Barry Oursler, Python Anghelo","Bord",2.1.1,pb_l5,"VR, SSF, Hybrid, FSS",232sR2Et
 "PIN-BOT (Williams 1986)","PIN-BOT (Williams 1986)",Williams,1986,4,SS,,"Fantasy, Outer Space","http://www.ipdb.org/machine.cgi?id=1796",1796,,"Barry Oursler, Python Anghelo","Arconovum, Bord",1.0-2.6,pb_l5,"FastFlips, FSS, MOD",A_QiSnbC
-"PJ Masks (Original 2020)","PJ Masks (Original 2020)",Original,2020,4,SS,,,,,,,"Donuts, Franck Hollinger (Mussinger)",1.3,,"MOD",ixRfHhP7
+"PJ Masks (Original 2020)","PJ Masks (Original 2020)",Original,2020,4,SS,,,,,,,"Donuts, mussinger",1.3,,"MOD",ixRfHhP7
 "PT01 (Original 2023)","PT01 (Original 2023)",Original,2023,,,,,,,,,"0x3e",0.03,,,LR6ZnYHhWY
 "PacMan (Original 2021)","PacMan (Original 2021)",Original,2021,,SS,,"Video Game",,,,,"Segovia11",1.33,,,YUZkHTWY
 "Pacific Rim Pinball (Zen Studios 2024)","Pacific Rim Pinball (Zen Studios 2024)",Zen Studios,2024,4,,,"Science Fiction, Action",,,,,"Gergely Vadocz, Zen Studios",,,,janm18KqSc
@@ -3938,8 +3938,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Matrix, The (Original 2023)","Matrix, The (Original 2023)",Original,2023,,SS,,"Movie, Science Fiction",,,,,"VP_Cooks, JPSalas",1.0.0,,,Z6TQHOOYU-
 "Moon Walking Dead, The (Original 2017)","Moon Walking Dead, The (Original 2017)",Original,2017,4,SS,,"Licensed Theme, Supernatural, Zombies","http://www.ipdb.org/machine.cgi?id=6156",6156,,"John Borg","Diemonik, Dozer",1.1,,,ToQ_Vlt8
 "Munsters, The (Original 2020)","Munsters, The (Original 2020)",Original,2020,,SS,,"TV Show",,,,,"Allknowing2012",1.06b,,"VR, Scorbit, Hybrid",zCQzLAaBSC
-"Munsters, The (Original 2020)","Munsters, The (Original 2020)",Original,2020,,SS,,"TV Show",,,,,"Solters, Jamie, Mr H, Franck Hollinger (Mussinger), Allknowing2012, Arngrim, NailBuster",1.0,,"VR, MOD",vfuuCzSdJd
-"Munsters, The (Original 2020)","Munsters, The (Original 2020)",Original,2020,,SS,,"TV Show",,,,,"Jamie, Mr H, Franck Hollinger (Mussinger), Allknowing2012, Arngrim, NailBuster",1.05,,,FhAokXrn
+"Munsters, The (Original 2020)","Munsters, The (Original 2020)",Original,2020,,SS,,"TV Show",,,,,"Solters, Jamie, Mr H, mussinger, Allknowing2012, Arngrim, NailBuster",1.0,,"VR, MOD",vfuuCzSdJd
+"Munsters, The (Original 2020)","Munsters, The (Original 2020)",Original,2020,,SS,,"TV Show",,,,,"Jamie, Mr H, mussinger, Allknowing2012, Arngrim, NailBuster",1.05,,,FhAokXrn
 "NeverEnding Story, The (Original 2021)","NeverEnding Story, The (Original 2021)",Original,2021,,SS,,"Movie, Fantasy, Kids",,,,,"Oly2, wpilot, JPSalas",1.0.0,,"Kids, Music, MOD",wQbUidjrVI
 "NeverEnding Story, The (Original 2021)","NeverEnding Story, The (Original 2021)",Original,2021,,SS,,"Movie, Fantasy, Kids",,,,,"wpilot, JPSalas",1.0.3,,"Music, MOD, Kids",HQE5NbSS
 "Nightmare Before Christmas, The (Original 2019)","Nightmare Before Christmas, The (Original 2019)",Original,2019,4,SS,,"Christmas",,,,,"Stevegooner1234, Xenonph, Wildman, Lizard",1.0,,"Music, MOD",oA-XBGBy
