@@ -2254,6 +2254,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Lucky Strike (Gottlieb 1975)","Lucky Strike (Gottlieb 1975)",Gottlieb,1975,1,EM,,"American West, Prospecting","https://www.ipdb.org/machine.cgi?id=1497",1497,,"Ed Krynski","RajoJoey, GNance, Loserman76",1.0.0,,"VR, Hybrid, LUT",4X4V9XMMop
 "Lucky Strike (Gottlieb 1975)","Lucky Strike (Gottlieb 1975)",Gottlieb,1975,1,EM,,"American West, Prospecting","https://www.ipdb.org/machine.cgi?id=1497",1497,,"Ed Krynski","Loserman76, GNance",1.0,,,EA2Q1mRL
 "Lunelle (Taito do Brasil 1981)","Lunelle (Taito do Brasil 1981)",Taito do Brasil,1981,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4591",4591,,,"JPSalas, Tio Italo, Carlos Guizzo, Pmax65, HauntFreaks, Rothbauerw, TAB",4.3.0,lunelle,"FastFlips, SSF, LUT",_LS_-hP_
+"MF Doom (Original 2024)","MF Doom (Original 2024)",Original,2024,4,SS,,,,,,,"VPW, GoIll773, MerlinRTP, Iaakki, Oqqsan, RobbyKingPin, kemurro, somatik, JoePicasso, Shaggysrsg, DGrimmReaper, Apophis",1.0,,"Hybrid, VR, FSS, SSF, nFozzy, Fleep, Scorbit",Ug53LOj8gf
 "Mac Jungle (MAC S.A. 1987)","Mac Jungle (MAC S.A. 1987)",MAC S.A.,1987,4,SS,,"Fantasy, Jungle","https://www.ipdb.org/machine.cgi?id=3187",3187,,,"Mfuegemann, Dark, GTXJoe, Akiles50000",1.1,mcjungle,,5h8iG1e1
 "Mac's Galaxy (MAC S.A. 1986)","Mac's Galaxy (MAC S.A. 1986)",MAC S.A.,1986,4,SS,,"Science Fiction, Space Fantasy","http://www.ipdb.org/machine.cgi?id=3455",3455,,,"Mfuegemann",1.2,macgalaxy,,fgrg8hd1
 "Mad Max - Fury Road (Original 2021)","Mad Max - Fury Road (Original 2021)",Original,2021,6,SS,,"Licensed Theme, Movie, Apocalyptic",,,,,"Balutito, 32assassin, Francisco666, Daeron61",1.5,twst_405,"MOD, Music",kvE46l3j
@@ -3301,7 +3302,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Table 80","Son of Zeus (Zen Studios 2017)",Zen Studios,2017,4,,,"Legends",,,,"Peter Grafl","Zen Studios",,,,0bhVMQbKlm
 "Hercules","Son of Zeus (Zen Studios 2017)",Zen Studios,2017,4,,,"Legends",,,,"Peter Grafl","Zen Studios",,,,2A-nOl5G
 "Sonic Pinball Mania (Original 2022)","Sonic Pinball Mania (Original 2022)",Original,2022,1,SS,,"Video Game, Kids",,,,,"TerryRed, SLAMT1LT, Brendan Bailey (Pinwizkid)",2.0,,"SSF, Music, Kids, MOD, Fleep, BAM, FizX",Cc-r8YrYBI
-"Sonic the Hedgehog (Original 2019)","Sonic the Hedgehog (Original 2019)",Original,2019,,SS,,"Video Game, Kids",,,,,"Panasony, DCrosby, Javier15, Brendan Bailey (Pinwizkid)",1.31,,"MOD, Kids, Hybrid, VR, FlexDMD",TYVVL51gSe
+"Sonic the Hedgehog (Original 2019)","Sonic the Hedgehog (Original 2019)",Original,2019,,SS,,"Video Game, Kids",,,,,"Panasony, DCrosby, Javier15, Brendan Bailey (Pinwizkid)",1.33,,"MOD, Kids, Hybrid, VR, FlexDMD, Mixed Reality",TYVVL51gSe
 "Sonic the Hedgehog (Original 2019)","Sonic the Hedgehog (Original 2019)",Original,2019,,SS,,"Video Game, Kids",,,,,"DCrosby, Javier15, Brendan Bailey (Pinwizkid)",1.10,,"FlexDMD, Kids, MOD",f5q3HhqW
 "Sonic the Hedgehog (Original 2019)","Sonic the Hedgehog (Original 2019)",Original,2019,,SS,,"Video Game, Kids",,,,,"SLAMT1LT, Atros, Brendan Bailey (Pinwizkid)",1.02,,"MOD",vxmVY4bPId
 "Sonic the Hedgehog 2 (Original 2019)","Sonic the Hedgehog 2 (Original 2019)",Original,2019,,SS,,"Video Game, Kids",,,,,"Javier15, Brendan Bailey (Pinwizkid)",1.01,,"Kids",euifZwUK
@@ -3701,6 +3702,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Surfer (Gottlieb 1976)","Surfer (Gottlieb 1976)",Gottlieb,1976,2,EM,,"Sports, Aquatic, Happiness, Recreation, Surfing, Swimming","http://www.ipdb.org/machine.cgi?id=2465",2465,,"Ed Krynski","RajoJoey, Loserman76, GNance, Pinuck, Foxyt, Leojreimroc, BorgDog, Arngrim, JPSalas",1.0,,"VR, FSS, Hybrid, MOD, LUT",mCd2A7GBW4
 "Surfer (Gottlieb 1976)","Surfer (Gottlieb 1976)",Gottlieb,1976,2,EM,,"Sports, Aquatic, Happiness, Recreation, Surfing, Swimming","http://www.ipdb.org/machine.cgi?id=2465",2465,,"Ed Krynski","Foxyt, Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,KQpvMocc
 "Surfer (Gottlieb 1976)","Surfer (Gottlieb 1976)",Gottlieb,1976,2,EM,,"Sports, Aquatic, Happiness, Recreation, Surfing, Swimming","http://www.ipdb.org/machine.cgi?id=2465",2465,,"Ed Krynski","Loserman76, GNance",1.0.0f,,,Sv32pMmEBA
+"Swamp Thing (Original 2024)","Swamp Thing (Original 2024)",Original,2024,4,SS,,"Horror, Superheroes, Supernatural",,,,,"LTek, Clairvius",2.0,,"MOD, LUT, nFozzy",LpcG45DiQ9
 "Swamp Thing (Original 2024)","Swamp Thing (Original 2024)",Original,2024,4,SS,,"Horror, Superheroes, Supernatural",,,,,"Clairvius, JPSalas",1.5,,"Hybrid, VR",LaF07nySIy
 "Swashbuckler (Recel 1979)","Swashbuckler (Recel 1979)",Recel,1979,1,SS,,"Historical Characters",,,,,"Nestorgian, Pedator, Arngrim",1.1,,,9810VFmK
 "Sweet Hearts (Gottlieb 1963)","Sweet Hearts (Gottlieb 1963)",Gottlieb,1963,1,EM,,"Gambling, Cards","https://www.ipdb.org/machine.cgi?id=2474",2474,,"Wayne Neyens","Leeoneil, Loserman76, Pbecker1946",1.1.0,,"SSF",49g57Z09ps
@@ -3936,6 +3938,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Legend of Zelda, The (Original 2015)","Legend of Zelda, The (Original 2015)",Original,2015,,SS,,"Video Game, Kids",,,,,"Gman77, JPSalas, ZandysArcade, SergioSouza, Davadruix, Nevvyboy, PIPAllah, LoadedWeapon, DaRdog81",1.3.0,,"MOD",bXHeqghM0a
 "Legend of Zelda, The (Original 2015)","Legend of Zelda, The (Original 2015)",Original,2015,,SS,,"Video Game, Kids",,,,,"JPSalas, LoadedWeapon, Arngrim",4.3.1,,"FlexDMD, Kids, SSF, LUT, MOD",B2jf8UVK
 "Legend of Zelda, The (Original 2015)","Legend of Zelda, The (Original 2015)",Original,2015,,SS,,"Video Game, Kids",,,,,"LoadedWeapon, Roney Pinball",2.5,,"MOD",I36NlujvZ7
+"Legend of Zelda, The (Original 2015)","Legend of Zelda, The (Original 2015)",Original,2015,,SS,,"Video Game, Kids",,,,,"DaRdog81, JPSalas, LoadedWeapon, GtecArcade, Zandy's Arcade",1.0,,"VR",75Qf4zgBfp
 "Leprechaun King, The (Original 2019)","Leprechaun King, The (Original 2019)",Original,2019,4,SS,,"Fantasy",,,,"ScottyWic","ScottyWic, Victoria Fernandez, Danny Tieger, Sofia Silva, Frank Heming, Orbital Creators Club",0.35,,"FlexDMD",65U2ADbg
 "Lion King, The (Original 2020)","Lion King, The (Original 2020)",Original,2020,4,SS,,"Animation, Kids",,,,,"Ivantba, Shamrock1980, JPSalas, Siggi",1.0,alpok_l6,"Kids",3xGXn_NP
 "Lord of the Rings, The (Stern 2003)","Lord of the Rings, The (Stern 2003)",Stern,2003,4,SS,,"Fantasy, Licensed Theme","http://www.ipdb.org/machine.cgi?id=4858",4858,,"George Gomez","Hanibal, Coindropper",1.4.0,lotr,"MOD, 4k",SjJND6m_
