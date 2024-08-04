@@ -1,6 +1,5 @@
 GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,WebLinkURL,IPDBNum,AltRunMode,DesignedBy,Author,GAMEVER,Rom,Tags,VPS-ID
 " City on the Moon - Murray Leinster EM Tribute Series 2 (Original 2024)"," City on the Moon - Murray Leinster EM Tribute Series 2 (Original 2024)",Original,2024,,EM,,"Science Fiction",,,,,"Anthias",1.1,,,xxdTpHWfjf
-" Dava's Everquest II (Original 2023)"," Dava's Everquest II (Original 2023)",Original,2023,,SS,,"Fantasy, Roleplaying",,,,,"Davadruix, JPSalas",1.1.1,,"MOD",UYWJJ45WDd
 " Jolly Park Oktoberfest (Original 2024)"," Jolly Park Oktoberfest (Original 2024)",Original,2024,,SS,,"Amusement Park, Funfair, Oktoberfest",,,,,"Oly2, JPSalas, Akiles50000, Dark, Destruk",1.0.0,jolypark,"Music",ULjArOtFrP
 " Motley Crue (Original 2024)"," Motley Crue (Original 2024)",Original,2024,4,SS,,"Music, Heavy Metal",,,,,"worldofvp, X13.Pinner, Icepinball, Mason, Goldchicco",1.0.0,,"MOD, FlexDMD, Music, LUT",334s_AguDZ
 " Space Platform - Murray Leinster EM Tribute Series 1 (Original 2024)"," Space Platform - Murray Leinster EM Tribute Series 1 (Original 2024)",Original,2024,,EM,,"Science Fiction",,,,,"Anthias",1.1,,,gBT8KXUSBa
@@ -1254,6 +1253,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Evel Knievel (Bally 1977)","Evel Knievel (Bally 1977)",Bally,1977,4,SS,,"Celebrities, Licensed Theme, Stunts","http://www.ipdb.org/machine.cgi?id=4499",4499,,"Gary Gayton","HauntFreaks, 32assassin, TastyWasps, Leojreimroc",5.0,evelknie,"Hybrid, VR, MOD, nFozzy, Fleep, FSS, SSF",nRCFVALA
 "Evel Knievel (Bally 1977)","Evel Knievel (Bally 1977)",Bally,1977,4,SS,,"Celebrities, Licensed Theme, Stunts","http://www.ipdb.org/machine.cgi?id=4499",4499,,"Gary Gayton","Bigus1, HauntFreaks, 32assassin",2.2,evelknie,"MOD",07tt5Pie
 "Evel Knievel (Bally 1977)","Evel Knievel (Bally 1977)",Bally,1977,4,SS,,"Celebrities, Licensed Theme, Stunts","http://www.ipdb.org/machine.cgi?id=4499",4499,,"Gary Gayton","Rockhead, HauntFreaks, 32assassin",1.0.2,evelknie,"VR",74bDv1DMiD
+"Everquest II Pinball Tribute (Original 2023)","Everquest II Pinball Tribute (Original 2023)",Original,2023,,SS,,"Fantasy, Roleplaying",,,,,"Davadruix, JPSalas",1.1.1,,"MOD",UYWJJ45WDd
 "Everquest Pinball Tribute (Original 2023)","Everquest Pinball Tribute (Original 2023)",Original,2023,,SS,,"Video Game, Fantasy",,,,,"Davadruix, nFozzy, Balutito, Steve Fabok",1.1,spstn_l5,"MOD, Music",S97NXT1x7X
 "Evil Dead (Original 2018)","Evil Dead (Original 2018)",Original,2018,,SS,,"Horror, Movie",,,,,"chepas",1.1,,"P-ROC",DrEa5ApS9a
 "Evil Dead 2 (Original 2019)","Evil Dead 2 (Original 2019)",Original,2019,4,SS,,"Horror, Movie, Supernatural",,,,,"Ivantba, MajorFrenchy, JPSalas",1.0,ironmaid,"MOD, Music",tGWj8-z9
