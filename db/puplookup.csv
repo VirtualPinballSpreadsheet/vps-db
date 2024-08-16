@@ -93,6 +93,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Aces High (Bally 1965)","Aces High (Bally 1965)",Bally,1965,4,EM,,"Cards, Gambling, Poker, Riverboat","http://www.ipdb.org/machine.cgi?id=9",9,,"Ted Zale","Dakarx, Kees",1.10,,"MOD",YhgwKQxZ
 "Aces High (Bally 1965)","Aces High (Bally 1965)",Bally,1965,4,EM,,"Cards, Gambling, Poker, Riverboat","http://www.ipdb.org/machine.cgi?id=9",9,,"Ted Zale","Loserman76, Kees",1.0,,"MOD",UgZui8Mfwk
 "Aces High (Bally 1965)","Aces High (Bally 1965)",Bally,1965,4,EM,,"Cards, Gambling, Poker, Riverboat","http://www.ipdb.org/machine.cgi?id=9",9,,"Ted Zale","Kees",1.00,,,9nVwCL1T
+"Action (Chicago Coin 1969)","Action (Chicago Coin 1969)",Chicago Coin,1969,1,EM,,"Sports , Auto Racing","https://www.ipdb.org/machine.cgi?id=15",15,,,"Dboyrecords, STAT, Eduguitar72",1.0,,,MWx8gRFOYh
 "Action (Exhibit 1943)","Action (Exhibit 1943)",Exhibit,1943,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=3839",3839,,,"Francisco Pozo",1.1,,,mJc8qRkO49
 "Table 29","Adventure Land (Zen Studios 2017)",Zen Studios,2017,4,,,"Fantasy",,,,"Thomas Crofts","Zen Studios",,,,xFgomm2pwP
 "Amusement_Park","Adventure Land (Zen Studios 2017)",Zen Studios,2017,4,,,"Fantasy",,,,"Thomas Crofts","Zen Studios",,,,bYA3xjuh
@@ -200,6 +201,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Andromeda (Game Plan 1985)","Andromeda (Game Plan 1985)",Game Plan,1985,4,SS,,"Fantasy, Women","http://www.ipdb.org/machine.cgi?id=73",73,,"Ed Cebula, Mike Kubin","JPSalas, Siggi, Editoy, Kiwi, Albert",4.0.0,andromed,,z7q3NjkJ
 "Animal (Original 2017)","Animal (Original 2017)",Original,2017,4,SS,,"TV Show",,,,"Hursty","Hursty",1.0,glxplay,,gfnXzmnv
 "Animal Crossing Pinball (Original 2021)","Animal Crossing Pinball (Original 2021)",Original,2021,,SS,,"Video Game, Kids",,,,,"SG1bsoN, HiRez00",1.1,,"Music, FlexDMD, Kids",UylqoheR
+"Animal World (Original 2020)","Animal World (Original 2020)",Original,2020,4,EM,,"Animals",,,,,"4Eyes",1.2a,,,SC2bszCVOW
 "Anna's Colours (Original 2006)","Anna's Colours (Original 2006)",Original,2006,,,,,,,,,"Sphere",2.1,,,p22cf-ZWty
 "Annabelle (Original 2020)","Annabelle (Original 2020)",Original,2020,4,SS,,"Movie, Horror, Supernatural",,,,,"Davor, JPSalas",1.0,seawitch,"MOD",Me8czadv
 "Antar (Playmatic 1979)","Antar (Playmatic 1979)",Playmatic,1979,,SS,,"Dragons, Fantasy","https://www.ipdb.org/machine.cgi?id=3646",3646,,,"Bigus1, Schinkenpeter",1.0,Antar2,"MOD",ablqTmmV4-
@@ -255,6 +257,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Atlantis (Bally 1989)","Atlantis (Bally 1989)",Bally,1989,4,SS,,"Mythology, Aquatic","http://www.ipdb.org/machine.cgi?id=106",106,,"Jeff Brenner","TheGhost787",1.0,atlantis,,KOwCZeHrfY
 "Atleta (Inder 1991)","Atleta (Inder 1991)",Inder,1991,4,SS,,"Sports, Olympic Games","http://www.ipdb.org/machine.cgi?id=4095",4095,,,"Goldchicco, 32assassin, Pachecas",1.0,atleta,"MOD",B4V4AUI_
 "Atleta (Inder 1991)","Atleta (Inder 1991)",Inder,1991,4,SS,,"Sports, Olympic Games","http://www.ipdb.org/machine.cgi?id=4095",4095,,,"Hmueck",1.0,atleta,,t1zIsnJn
+"Attack (Playmatic 1980)","Attack (Playmatic 1980)",Playmatic,1980,4,SS,,"Outer Space, Fantasy","https://www.ipdb.org/machine.cgi?id=2884",2884,,,"Dboyrecords, Destruk, Arngrim, Kiwi",1.1,attack,,moxhopOZwv
 "Attack & Revenge from Mars (Original 2015)","Attack & Revenge from Mars (Original 2015)",Original,2015,,SS,,"Aliens, Martians, Science Fiction",,,,,"JPSalas, Kiwi, Arngrim",4.3.1,afm_113,"SSF, LUT",vPZfotSL
 "Attack & Revenge from Mars (Original 2015)","Attack & Revenge from Mars (Original 2015)",Original,2015,,SS,,"Aliens, Martians, Science Fiction",,,,,"Morttis, Arconovum, HiRez00, JPSalas",3.0-1.0,afm_113,"SSF, VR, FSS, MOD",XdhJ9wO9
 "Attack from Mars (Bally 1995)","Attack from Mars (Bally 1995)",Bally,1995,4,SS,,"Aliens, Martians, Fantasy",,,,"Brian Eddy","Arconovum, G5k",1.1-2.6,afm_113b,"MOD, FSS",3EaYlY-Lw5
@@ -2833,7 +2836,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Pioneer (Gottlieb 1976)","Pioneer (Gottlieb 1976)",Gottlieb,1976,2,EM,,"American History","http://www.ipdb.org/machine.cgi?id=1802",1802,,"Wayne Neyens","RajoJoey, Loserman76, Allknowing2012",1.0.0,,"VR, Hybrid, LUT",EKSSBIrmFR
 "Pioneer (Gottlieb 1976)","Pioneer (Gottlieb 1976)",Gottlieb,1976,2,EM,,"American History","http://www.ipdb.org/machine.cgi?id=1802",1802,,"Wayne Neyens","Loserman76, Wildman, Allknowing2012",1.0.0f,,,25ZDqJH_
 "Pirate Gold (Chicago Coin 1969)","Pirate Gold (Chicago Coin 1969)",Chicago Coin,1969,1,EM,,"Pirates, Nautical, Treasure","https://www.ipdb.org/machine.cgi?id=1804",1804,,"Al Schlappa, Jerry Koci, John Gore","Scottacus, Kds70, JR, Whirlwind, Onevox, Bord",2.05,,"VR, LUT, nFozzy",PPREf8_K
-"Pirates Life - The Revenge of Cecil Hoggleston (Original 2024)","Pirates Life - The Revenge of Cecil Hoggleston (Original 2024)",Original,2024,4,SS,,,,,,,"RusstyT, Andre Pena, JPSalas, Tomate, Outhere, Smaug, Rawd, Basti, VPW Team",2.0.2,,"Hybrid, VR, nFozzy, Fleep, LUT",GeAnEjXczS
+"Pirates Life - The Revenge of Cecil Hoggleston (Original 2024)","Pirates Life - The Revenge of Cecil Hoggleston (Original 2024)",Original,2024,4,SS,,,,,,,"RusstyT, Andre Pena, JPSalas, Tomate, Outhere, Smaug, Rawd, Basti, VPW Team",2.0.3,,"Hybrid, VR, nFozzy, Fleep, LUT",GeAnEjXczS
 "Pirates of the Caribbean (Stern 2006)","Pirates of the Caribbean (Stern 2006)",Stern,2006,4,SS,,"Pirates, Licensed Theme, Movie","http://www.ipdb.org/machine.cgi?id=5163",5163,,"Dennis Nordman","trino7, Siggi, SliderPoint, Freneticamnesic",1.0,potc_600as,"MOD",1tv6h_AOCh
 "Pirates of the Caribbean (Stern 2006)","Pirates of the Caribbean (Stern 2006)",Stern,2006,4,SS,,"Pirates, Licensed Theme, Movie","http://www.ipdb.org/machine.cgi?id=5163",5163,,"Dennis Nordman","Siggi, Sixtoe, SliderPoint, Freneticamnesic",1.0.1,potc_600as,"MOD",rOx6ED7h
 "Pirates of the Caribbean (Stern 2006)","Pirates of the Caribbean (Stern 2006)",Stern,2006,4,SS,,"Pirates, Licensed Theme, Movie","http://www.ipdb.org/machine.cgi?id=5163",5163,,"Dennis Nordman","Bigus1, SliderPoint, Freneticamnesic",1.1,potc_600as,"MOD",_Xbzc1ag
