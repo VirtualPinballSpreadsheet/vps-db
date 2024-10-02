@@ -196,7 +196,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "America's Most Haunted (Spooky Pinball 2014)","America's Most Haunted (Spooky Pinball 2014)",Spooky Pinball,2014,4,SS,,"Horror, Supernatural",,,,,"Freneticamnesic, Shoopity",062718a,,"Music, FlexDMD",Ci5Gq3Uc
 "American Country (Original 2024)","American Country (Original 2024)",Original,2024,4,,,"Music",,,,,"Linojon, VPW, Ninuzzu, Ext2k",1.0.1,,"MOD, Fleep, nFozzy, Hybrid, VR",4Z17QM5WhA
 "AmericanDad","American Dad! Pinball (Zen Studios 2015)",Zen Studios,2015,4,,,"Licensed Theme, TV Show",,,,,"Zen Studios",,,,xfnLSrgD
-"American Graffiti (Original 2024)","American Graffiti (Original 2024)",Original,2024,4,EM,,"Music, Movie, Rock n roll",,,,,"Onevox, Scottacus, Leojreimroc, VPW",1.0.0,,"Audio, Hybrid, VR",uGcJaW0-_x
+"American Graffiti (Original 2024)","American Graffiti (Original 2024)",Original,2024,4,EM,,"Music, Movie, Rock n roll",,,,,"Onevox, Scottacus, Leojreimroc, VPW",1.2,,"Audio, Hybrid, VR",uGcJaW0-_x
 "Amigo (Bally 1974)","Amigo (Bally 1974)",Bally,1974,4,EM,,"Dancing, Happiness, Music, Singing, World Culture","https://www.ipdb.org/machine.cgi?id=71",71,,"Greg Kmiec","Teisen, Loserman76",1.0,,"MOD, SSF",jf_1J5jsNf
 "Amigo (Bally 1974)","Amigo (Bally 1974)",Bally,1974,4,EM,,"Dancing, Happiness, Music, Singing, World Culture","https://www.ipdb.org/machine.cgi?id=71",71,,"Greg Kmiec","Leeoneil, Loserman76",1.1.0,,"SSF",0UnXiQLav3
 "Amigo (Bally 1974)","Amigo (Bally 1974)",Bally,1974,4,EM,,"Dancing, Happiness, Music, Singing, World Culture","https://www.ipdb.org/machine.cgi?id=71",71,,"Greg Kmiec","Loserman76",1.0.0f,,,KY8zTUDu
@@ -3178,6 +3178,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Rolling Stones (Bally 1980)","Rolling Stones (Bally 1980)",Bally,1980,4,SS,,"Celebrities, Licensed Theme, Music","http://www.ipdb.org/machine.cgi?id=2010",2010,,"Jim Patla","JPSalas",4.0.3,rollstob,"SSF, LUT",4C2p4x_l
 "Rolling Stones (Bally 1980)","Rolling Stones (Bally 1980)",Bally,1980,4,SS,,"Celebrities, Licensed Theme, Music","http://www.ipdb.org/machine.cgi?id=2010",2010,,"Jim Patla","HiRez00, JPSalas, Goldchicco",1.1,rollstob,"Music",RaW22XHj
 "Rolling Stones (Bally 1980)","Rolling Stones (Bally 1980)",Bally,1980,4,SS,,"Celebrities, Licensed Theme, Music","http://www.ipdb.org/machine.cgi?id=2010",2010,,"Jim Patla","iDigStuff, JPSalas",1.2,rollstob,"Music, MOD",CqL5ibkl
+"Rolling Stones (Bally 1980)","Rolling Stones (Bally 1980)",Bally,1980,4,SS,,"Celebrities, Licensed Theme, Music","http://www.ipdb.org/machine.cgi?id=2010",2010,,"Jim Patla","Larouillas, HauntFreaks, JPSalas",1.0.0,rollstob,"MOD",tZr2jk-Sb0
 "Roman Victory (Taito do Brasil 1977)","Roman Victory (Taito do Brasil 1977)",Taito do Brasil,1977,4,SS,,"Roman History","https://www.ipdb.org/machine.cgi?id=5493",5493,,,"JPSalas, Editoy",4.3.0,,"SSF, LUT",9EMjy3Uo
 "Table 31","Rome (Zen Studios 2010)",Zen Studios,2010,4,,,"Legends",,,,"Tamas Stephen","Zen Studios",,,,eSjoAMHxda
 "Rome","Rome (Zen Studios 2010)",Zen Studios,2010,4,,,"Legends",,,,"Tamas Stephen","Zen Studios",,,,nyYS7gan
