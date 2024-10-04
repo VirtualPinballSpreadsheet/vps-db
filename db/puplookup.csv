@@ -335,11 +335,12 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","Skinooe, UncleWilly",3.0,bcats_tcm,"MOD",bRCl-_TCOz
 "Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","SLAMT1LT, UncleWilly",1.10,bcats_tcm,"MOD",1ftfcBf6ut
 "Bad Cats (Williams 1989)","Bad Cats (Williams 1989)",Williams,1989,4,SS,,"Feline Mischief","http://www.ipdb.org/machine.cgi?id=127",127,,"Barry Oursler","UncleWilly",RC3,bcats_tcm,,bsD81LF7z1
+"Bad Girls (Gottlieb 1988)","Bad Girls (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=128",128,,"Jon Norris","Javito",1.0.0,,,AyWSeFt3M9
 "Bad Girls (Gottlieb 1988)","Bad Girls (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=128",128,,"Jon Norris","HauntFreaks, Ext2k, Cliffy, DGrimmReaper, Bodydump, 32assassin, BorgDog",1.5,,"Hybrid, VR, MOD, FSS",maoy2mTTDj
 "Bad Girls (Gottlieb 1988)","Bad Girls (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=128",128,,"Jon Norris","Ext2k, Bodydump, 32assassin, HauntFreaks",1.0.0,,"VR, Hybrid",7wopP9e27L
 "Bad Girls (Gottlieb 1988)","Bad Girls (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=128",128,,"Jon Norris","Morttis, Arconovum, 32assassin, Bodydump",1.0.2-2.6,,"FSS, MOD",cOlYgWSk
 "Bad Girls (Gottlieb 1988)","Bad Girls (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=128",128,,"Jon Norris","32assassin, Bodydump",1.0.2,,,qgSPY2K7
-"Bad Girls (Gottlieb 1988)","Bad Girls (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=128",128,,"Jon Norris","Javito",1.0.0,,,AyWSeFt3M9
+"Bad Girls (Gottlieb 1988)","Bad Girls (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=128",128,,"Jon Norris","Cheese3075, HauntFreaks, Bodydump, 32assassin",1.6,,"MOD",UoIpMVTjb-
 "Bad Lieutenant (Original 2020)","Bad Lieutenant (Original 2020)",Original,2020,,EM,,"Celebrities, Movie",,,,,"Masonou",1.0,,"Music",3-vMj412
 "Bad Santa Pinball 2 XL (Original 2018)","Bad Santa Pinball 2 XL (Original 2018)",Original,2018,4,SS,,"Christmas",,,,,"Stevegooner1234, Xenonph, Lizard, JPSalas",1.01,,"Music, MOD",DBwNJ8CI
 "Bad Santa Pinball XL (Original 2018)","Bad Santa Pinball XL (Original 2018)",Original,2018,4,SS,,"Christmas",,,,,"Stevegooner1234, Xenonph, Lizard, JPSalas",1.01,,"Music, MOD",wrbdHMtx
@@ -2201,6 +2202,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "King Rock (Gottlieb 1972)","King Rock (Gottlieb 1972)",Gottlieb,1972,4,EM,,"Happiness, Music","http://www.ipdb.org/machine.cgi?id=1377",1377,,"Ed Krynski","RajoJoey, Loserman76, Bodydump",1.0.0,,"VR, Hybrid, LUT",GbJ9xQLFR3
 "King Rock (Gottlieb 1972)","King Rock (Gottlieb 1972)",Gottlieb,1972,4,EM,,"Happiness, Music","http://www.ipdb.org/machine.cgi?id=1377",1377,,"Ed Krynski","Loserman76, Bodydump",1.0.0f,,,gXyU8fic
 "King Rock (Gottlieb 1972)","King Rock (Gottlieb 1972)",Gottlieb,1972,4,EM,,"Happiness, Music","http://www.ipdb.org/machine.cgi?id=1377",1377,,"Ed Krynski","JCalhoun, Loserman76",1.2,,,x2LUfnoSA6
+"King Tut (Bally 1969)","King Tut (Bally 1969)",Bally,1969,1,EM,,"Egyptology, Historical","https://www.ipdb.org/machine.cgi?id=1378",1378,,"Ted Zale","Drinkcristal",1.0.0,,"Hybrid, VR",asLVR1ZoI3
 "King Tut (Williams 1979)","King Tut (Williams 1979)",Williams,1979,,SS,,"Arcade, Bowling",,,,,"Rascal, VPW Crew",1.0,kingt_l1,"VR",1upXueqqRb
 "King Tut (Williams 1979)","King Tut (Williams 1979)",Williams,1979,,SS,,"Arcade, Bowling",,,,,"Rascal",1.0.0,kingt_l1,,AmBYA8j0
 "King of Diamonds (Gottlieb 1967)","King of Diamonds (Gottlieb 1967)",Gottlieb,1967,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1372",1372,,"Ed Krynski","JCalhoun, Teisen, Loserman76, GNance, Cliffy",1.2.1,,"Fleep, SSF, MOD",W3LEVsLE07
@@ -3176,10 +3178,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Rollergames (Williams 1990)","Rollergames (Williams 1990)",Williams,1990,4,SS,,"Sports, Roller Derby, Roller Skating, Licensed Theme","http://www.ipdb.org/machine.cgi?id=2006",2006,,"Steve Ritchie","DarthMarino, Javier15",1.2,rollr_l2,"MOD",GBknCm2f
 "Rollergames (Williams 1990)","Rollergames (Williams 1990)",Williams,1990,4,SS,,"Sports, Roller Derby, Roller Skating, Licensed Theme","http://www.ipdb.org/machine.cgi?id=2006",2006,,"Steve Ritchie","Javier15",1.0.1a,rollr_l2,,TLmSQkGS
 "Rollet (Barok Co 1931)","Rollet (Barok Co 1931)",Barok Co,1931,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=2007",2007,,,"Druadic",1.2,,,il21IVzgbh
+"Rolling Stones (Bally 1980)","Rolling Stones (Bally 1980)",Bally,1980,4,SS,,"Celebrities, Licensed Theme, Music","http://www.ipdb.org/machine.cgi?id=2010",2010,,"Jim Patla","Larouillas, HauntFreaks, JPSalas",1.0.0,rollstob,"MOD",tZr2jk-Sb0
 "Rolling Stones (Bally 1980)","Rolling Stones (Bally 1980)",Bally,1980,4,SS,,"Celebrities, Licensed Theme, Music","http://www.ipdb.org/machine.cgi?id=2010",2010,,"Jim Patla","JPSalas",4.0.3,rollstob,"SSF, LUT",4C2p4x_l
 "Rolling Stones (Bally 1980)","Rolling Stones (Bally 1980)",Bally,1980,4,SS,,"Celebrities, Licensed Theme, Music","http://www.ipdb.org/machine.cgi?id=2010",2010,,"Jim Patla","HiRez00, JPSalas, Goldchicco",1.1,rollstob,"Music",RaW22XHj
 "Rolling Stones (Bally 1980)","Rolling Stones (Bally 1980)",Bally,1980,4,SS,,"Celebrities, Licensed Theme, Music","http://www.ipdb.org/machine.cgi?id=2010",2010,,"Jim Patla","iDigStuff, JPSalas",1.2,rollstob,"Music, MOD",CqL5ibkl
-"Rolling Stones (Bally 1980)","Rolling Stones (Bally 1980)",Bally,1980,4,SS,,"Celebrities, Licensed Theme, Music","http://www.ipdb.org/machine.cgi?id=2010",2010,,"Jim Patla","Larouillas, HauntFreaks, JPSalas",1.0.0,rollstob,"MOD",tZr2jk-Sb0
 "Roman Victory (Taito do Brasil 1977)","Roman Victory (Taito do Brasil 1977)",Taito do Brasil,1977,4,SS,,"Roman History","https://www.ipdb.org/machine.cgi?id=5493",5493,,,"JPSalas, Editoy",4.3.0,,"SSF, LUT",9EMjy3Uo
 "Table 31","Rome (Zen Studios 2010)",Zen Studios,2010,4,,,"Legends",,,,"Tamas Stephen","Zen Studios",,,,eSjoAMHxda
 "Rome","Rome (Zen Studios 2010)",Zen Studios,2010,4,,,"Legends",,,,"Tamas Stephen","Zen Studios",,,,nyYS7gan
@@ -3562,7 +3564,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Star Race (Gottlieb 1980)","Star Race (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Science Fiction, Outer Space","http://www.ipdb.org/machine.cgi?id=2353",2353,,"John Buras","UnclePaulie, Redbone, HauntFreaks, Rothbauerw, Bietekwiet, Passion4pins",2.0.0,,"nFozzy, Fleep, Hybrid, VR, LUT",GZ_7kaeJqg
 "Star Race (Gottlieb 1980)","Star Race (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Science Fiction, Outer Space","http://www.ipdb.org/machine.cgi?id=2353",2353,,"John Buras","RajoJoey, Balater",1.0.0,,"VR, LUT",KxTs3cWV
 "Star Race (Gottlieb 1980)","Star Race (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Science Fiction, Outer Space","http://www.ipdb.org/machine.cgi?id=2353",2353,,"John Buras","Balater",1.10,,,RdMYhqcO
-"Star Tours (Original 2024)","Star Tours (Original 2024)",Original,2024,4,SS,,"Science Fiction",,,,,"Kcirrick, Shamrock1980, Bord",1.0.2,alpok_l2,"MOD",iOek5Kd6d1
+"Star Tours (Original 2024)","Star Tours (Original 2024)",Original,2024,4,SS,,"Science Fiction",,,,,"Kcirrick, Shamrock1980, Bord",1.0.3,alpok_l2,"MOD",iOek5Kd6d1
 "Star Trek (Gottlieb 1971)","Star Trek (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Outer Space, Fantasy","http://www.ipdb.org/machine.cgi?id=2354",2354,,"Steve Ritchie","BorgDog",1.1,,,6ZOPcrFP
 "Star Trek (Bally 1979)","Star Trek (Bally 1979)",Bally,1979,4,SS,,"Licensed Theme, Outer Space, Science Fiction, Space Fantasy, Movie","http://www.ipdb.org/machine.cgi?id=2355",2355,,"Gary Gayton","Rothbauerw",2.1.1,startreb,"FSS, MOD, VR, Hybrid, SSF, Fleep, nFozzy",52WOCBKf
 "Star Trek (Bally 1979)","Star Trek (Bally 1979)",Bally,1979,4,SS,,"Licensed Theme, Outer Space, Science Fiction, Space Fantasy, Movie","http://www.ipdb.org/machine.cgi?id=2355",2355,,"Gary Gayton","GTXJoe, Rothbauerw",1.0,startreb,"MOD",vFvFZ_Zz
