@@ -812,8 +812,11 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Charlie's Angels (Gottlieb 1978)","Charlie's Angels (Gottlieb 1978)",Gottlieb,1978,4,SS,,"Licensed Theme","http://www.ipdb.org/machine.cgi?id=492",492,,"Allen Edwall","Rawd, Rascal, RajoJoey, Sixtoe, JPSalas",1.0.0,,"VR, LUT, MOD",2C1CukHxH2
 "Charlie's Angels (Gottlieb 1978)","Charlie's Angels (Gottlieb 1978)",Gottlieb,1978,4,SS,,"Licensed Theme","http://www.ipdb.org/machine.cgi?id=492",492,,"Allen Edwall","iDigStuff, Carlos Guizzo, JPSalas",2.0,,"SSF, Music, MOD",az33FXuy
 "Check (Recel 1975)","Check (Recel 1975)",Recel,1975,2,EM,,"Chess","https://www.ipdb.org/machine.cgi?id=495",495,,,"JPSalas, Akiles50000, Pedator",1.0.0,,,o94eG8gRJ3
+"Check (Recel 1975)","Check (Recel 1975)",Recel,1975,2,EM,,"Chess","https://www.ipdb.org/machine.cgi?id=495",495,,,"Ext2k, JPSalas, Akiles50000, Pedator",1.0.0,,"Hybrid, VR",Nzi-NCuRsX
 "Check Mate (Taito do Brasil 1977)","Check Mate (Taito do Brasil 1977)",Taito do Brasil,1977,4,EM,,"Board Games","https://www.ipdb.org/machine.cgi?id=5491",5491,,,"JPSalas, Editoy, STAT",4.3.0,,"SSF, LUT",aJTA2U8h
+"Check Mate (Taito do Brasil 1977)","Check Mate (Taito do Brasil 1977)",Taito do Brasil,1977,4,EM,,"Board Games","https://www.ipdb.org/machine.cgi?id=5491",5491,,,"Ext2k, JPSalas, Editoy, STAT",1.0.0,,"Hybrid, VR",XvPZZ2lJI1
 "Check Mate (Recel 1975)","Check Mate (Recel 1975)",Recel,1975,4,EM,,"Chess","https://www.ipdb.org/machine.cgi?id=496",496,,,"JPSalas, Akiles50000, Pedator",1.0.0,,,4k-2HQOtJM
+"Check Mate (Recel 1975)","Check Mate (Recel 1975)",Recel,1975,4,EM,,"Chess","https://www.ipdb.org/machine.cgi?id=496",496,,,"Ext2k, JPSalas, Akiles50000, Pedator",1.0.0,,"Hybrid, VR",ScvOU0wwpb
 "Checkpoint (Data East 1991)","Checkpoint (Data East 1991)",Data East,1991,4,SS,,"Sports, Auto Racing","http://www.ipdb.org/machine.cgi?id=498",498,,"Joe Kaminkow, Ed Cebula","Nestorgian, AgentEighty6, Goldchicco, 32assassin, Destruk",2.0,ckpt_a17,"nFozzy, Fleep, MOD, Hybrid, VR",cgGHIB6lm4
 "Checkpoint (Data East 1991)","Checkpoint (Data East 1991)",Data East,1991,4,SS,,"Sports, Auto Racing","http://www.ipdb.org/machine.cgi?id=498",498,,"Joe Kaminkow, Ed Cebula","AgentEighty6, Goldchicco, 32assassin, Destruk",1.2.1,ckpt_a17,"VR, MOD",KnXtxJZO
 "Checkpoint (Data East 1991)","Checkpoint (Data East 1991)",Data East,1991,4,SS,,"Sports, Auto Racing","http://www.ipdb.org/machine.cgi?id=498",498,,"Joe Kaminkow, Ed Cebula","DigitalJedi084, Goldchicco, 32assassin, Destruk",1.0.0,ckpt_a17,"VR, MOD",ave0QcYI
@@ -3806,7 +3809,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Superman (Original 2009)","Superman (Original 2009)",Original,2009,,,,"Comics, Superheroes",,,,,"SLAMT1LT",1.04,,,OIgvnrw7LO
 "Superman - The Animated Series (Original 2020)","Superman - The Animated Series (Original 2020)",Original,2020,,EM,,"Comics, Superheroes",,,,,"Dunriwikan45",1.0.0,,,PSGPiAErXZ
 "Superman - The Animated Series (Original 2020)","Superman - The Animated Series (Original 2020)",Original,2020,,EM,,"Comics, Superheroes",,,,,"Dunriwikan45",1.0.0,,,U84YYKoS
-"Superman and The Justice League (Original 2024)","Superman and The Justice League (Original 2024)",Original,2024,4,SS,,"Comics, Superheroes",,,,,"Marty02, JPSalas, James VPG, TeamTuga",3.1,,,eb0Mem1PSt
+"Superman and The Justice League (Original 2024)","Superman and The Justice League (Original 2024)",Original,2024,4,SS,,"Comics, Superheroes",,,,,"Marty02, JPSalas, James VPG, TeamTuga",3.2,,,eb0Mem1PSt
 "Supersonic (Bally 1979)","Supersonic (Bally 1979)",Bally,1979,4,SS,,"Aircraft, Historical, Travel","http://www.ipdb.org/machine.cgi?id=2455",2455,,"Greg Kmiec","JPSalas, Martin Brunker, Inkochnito, Darquayle",4.0.2,sstb,"LUT",_3GbGGDH
 "Supersonic (Bally 1979)","Supersonic (Bally 1979)",Bally,1979,4,SS,,"Aircraft, Historical, Travel","http://www.ipdb.org/machine.cgi?id=2455",2455,,"Greg Kmiec","RajoJoey, Rawd, Rascal, Sixtoe, JPSalas",1.0.0,sstb,"VR",bKF8ERGrfV
 "Sure Shot (Taito do Brasil 1981)","Sure Shot (Taito do Brasil 1981)",Taito do Brasil,1981,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=4574",4574,,"Ed Krynski","JPSalas, Bord",4.0.0,sureshot,"LUT",GMtD8yFY
@@ -4497,7 +4500,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Western","Wild West Rampage (Zen Studios 2015)",Zen Studios,2015,4,,,"American West",,,,"Szucs David","Zen Studios",,,,VQBw0p4d
 "Wild Wild West (Gottlieb 1969)","Wild Wild West (Gottlieb 1969)",Gottlieb,1969,2,EM,,"American West","http://www.ipdb.org/machine.cgi?id=2787",2787,,"Ed Krynski","Teisen, Loserman76",1.0,,"MOD",_m1VGPMmoY
 "Wild Wild West (Gottlieb 1969)","Wild Wild West (Gottlieb 1969)",Gottlieb,1969,2,EM,,"American West","http://www.ipdb.org/machine.cgi?id=2787",2787,,"Ed Krynski","Loserman76",1.0.0f,,,qpf5IgkH
-"Willy Wonka & the Chocolate Factory (Original 2020)","Willy Wonka & the Chocolate Factory (Original 2020)",Original,2020,,SS,,"Movie",,,,,"Marty02, JPSalas",3.3,,,X84foynedV
+"Willy Wonka & the Chocolate Factory (Original 2020)","Willy Wonka & the Chocolate Factory (Original 2020)",Original,2020,,SS,,"Movie",,,,,"Marty02, JPSalas",3.4,,,X84foynedV
 "Willy Wonka & the Chocolate Factory (Original 2020)","Willy Wonka & the Chocolate Factory (Original 2020)",Original,2020,,SS,,"Movie",,,,,"Drhotwing, Marty02",1.0.1,,"VR",6CLmyhzOK2
 "Willy Wonka & the Chocolate Factory (Original 2020)","Willy Wonka & the Chocolate Factory (Original 2020)",Original,2020,,SS,,"Movie",,,,,"Drhotwing, Marty02",1.0.0,,"VR",GU0XXQ_xAk
 "Willy Wonka & the Chocolate Factory (Original 2020)","Willy Wonka & the Chocolate Factory (Original 2020)",Original,2020,,SS,,"Movie",,,,,"Marty02, ScottyWic",2.1,,,tUJGp95Y
