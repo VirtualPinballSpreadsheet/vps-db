@@ -1540,8 +1540,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Galaxy Play (CIC Play 1986)","Galaxy Play (CIC Play 1986)",CIC Play,1986,4,SS,,"Outer Space, Fantasy","http://www.ipdb.org/machine.cgi?id=4631",4631,,,"Mfuegemann, Dark, GTXJoe, Akiles50000",1.1,glxplay,,KLrV_gyb
 "Galaxy Quest (Original 2020)","Galaxy Quest (Original 2020)",Original,2020,4,SS,,"Outer Space, Movie",,,,,"Topper2k, DopePope, Icekazim, John Hoagland, JPSalas",1.1,sshuttle,"Music",s3bFxFB8
 "Galaxy Quest (Original 2020)","Galaxy Quest (Original 2020)",Original,2020,4,SS,,"Outer Space, Movie",,,,,"Topper2k, Pinball58, PEandS1Ws, DopePope, Icekazim, John Hoagland",1.1,sshuttle,"Music",hya9GCE-
-"Gamatron (Sonic 1986)","Gamatron (Sonic 1986)",Sonic,1986,4,SS,,"Outer Space, Science Fiction","https://www.ipdb.org/machine.cgi?id=3114",3114,,,"JPSalas, Pedator, Akiles50000",4.0.0,flight2m,"SSF, LUT",1kagmDF3za
+"Gamatron (Sonic 1986)","Gamatron (Sonic 1986)",Sonic,1986,4,SS,,"Outer Space, Science Fiction","https://www.ipdb.org/machine.cgi?id=3114",3114,,,"Ext2k, JPSalas, Pedator, Akiles50000",1.0,flight2m,"Hybrid, VR, FSS, MOD, Mixed Reality",pJt73LOfhG
 "Gamatron (Sonic 1986)","Gamatron (Sonic 1986)",Sonic,1986,4,SS,,"Outer Space, Science Fiction","https://www.ipdb.org/machine.cgi?id=3114",3114,,,"Hmueck, JPSalas, Pedator, Akiles50000",4.0.0,flight2m,"VR, Hybrid, LUT, SSF",_C6-IIJWXt
+"Gamatron (Sonic 1986)","Gamatron (Sonic 1986)",Sonic,1986,4,SS,,"Outer Space, Science Fiction","https://www.ipdb.org/machine.cgi?id=3114",3114,,,"JPSalas, Pedator, Akiles50000",4.0.0,flight2m,"SSF, LUT",1kagmDF3za
 "Gamatron (Pinstar 1985)","Gamatron (Pinstar 1985)",Pinstar,1985,4,SS,,"Outer Space","https://www.ipdb.org/machine.cgi?id=984",984,,"	Harry Williams, Steve Kirk","JPSalas, Pedator",4.0.0,gamatron,"SSF",u13hTSjuAM
 "Gamblin Daze (Original 2023)","Gamblin Daze (Original 2023)",Original,2023,,SS,,"Gambling",,,,,"Wildlifewizard",1.0.2,,,10_HETYhQB
 "Game of Thrones (Original 2021)","Game of Thrones (Original 2021)",Original,2021,,SS,,"Licensed Theme, Medieval, TV Show",,,,,"Solters, Balutito, Glxb, Highlnder00, Jpinsa, Shaderbytes, Javier15, Hawkeyez88, Fluffhead35, Daeron61, Nesta78, NailBuster",1.0,,"VR, MOD",EKH8EsDeJC
@@ -1651,6 +1652,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Gorgar (Williams 1979)","Gorgar (Williams 1979)",Williams,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1062",1062,,"Barry Oursler","Flug, SLAMT1LT",1.5,grgar_l1,"MOD",R89VaIKUyo
 "Gorgar (Williams 1979)","Gorgar (Williams 1979)",Williams,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1062",1062,,"Barry Oursler","Fuzzel",1.3.1,grgar_l1,,IJmH54YT
 "Gorgar (Williams 1979)","Gorgar (Williams 1979)",Williams,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1062",1062,,"Barry Oursler","SLAMT1LT",1.01,grgar_l1,,5iT8B6SClL
+"Gorillaz (Original 2024)","Gorillaz (Original 2024)",Original,2024,4,SS,,,,,,,"Zandy's Arcade, JPSalas, MerlinRTP, Darrin Chamberlain, JoePicasso",1.0.2,,"Hybrid, VR, FSS, SSF, nFozzy, Fleep",J5yOLvXzAH
 "Gork (Taito do Brasil 1982)","Gork (Taito do Brasil 1982)",Taito do Brasil,1982,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4590",4590,,"Ed Krynski","JPSalas, Carlos Guizzo, Pmax65, Rothbauerw",4.0.0,gork,"FastFlips, SSF",k9dcjq9a
 "Gork (Taito do Brasil 1982)","Gork (Taito do Brasil 1982)",Taito do Brasil,1982,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4590",4590,,"Ed Krynski","Morttis, STAT, Carlos Guizzo, Arconovum, JPSalas",3.0.0-2.0,gork,"FSS, MOD",TVVtk5v4
 "Gradius (Original 2017)","Gradius (Original 2017)",Original,2017,,SS,,"Video Game, Science Fiction",,,,,"Wizball",1.3.7,,"FlexDMD",QGgpcu9w
