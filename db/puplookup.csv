@@ -1652,7 +1652,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Gorgar (Williams 1979)","Gorgar (Williams 1979)",Williams,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1062",1062,,"Barry Oursler","Flug, SLAMT1LT",1.5,grgar_l1,"MOD",R89VaIKUyo
 "Gorgar (Williams 1979)","Gorgar (Williams 1979)",Williams,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1062",1062,,"Barry Oursler","Fuzzel",1.3.1,grgar_l1,,IJmH54YT
 "Gorgar (Williams 1979)","Gorgar (Williams 1979)",Williams,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1062",1062,,"Barry Oursler","SLAMT1LT",1.01,grgar_l1,,5iT8B6SClL
-"Gorillaz (Original 2024)","Gorillaz (Original 2024)",Original,2024,4,SS,,,,,,,"Zandy's Arcade, JPSalas, MerlinRTP, Darrin Chamberlain, JoePicasso",1.0.2,,"Hybrid, VR, FSS, SSF, nFozzy, Fleep",J5yOLvXzAH
+"Gorillaz (Original 2024)","Gorillaz (Original 2024)",Original,2024,4,SS,,,,,,,"Zandy's Arcade, JPSalas, MerlinRTP, Darrin Chamberlain, JoePicasso",1.0.3,,"Hybrid, VR, FSS, SSF, nFozzy, Fleep",J5yOLvXzAH
 "Gork (Taito do Brasil 1982)","Gork (Taito do Brasil 1982)",Taito do Brasil,1982,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4590",4590,,"Ed Krynski","JPSalas, Carlos Guizzo, Pmax65, Rothbauerw",4.0.0,gork,"FastFlips, SSF",k9dcjq9a
 "Gork (Taito do Brasil 1982)","Gork (Taito do Brasil 1982)",Taito do Brasil,1982,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4590",4590,,"Ed Krynski","Morttis, STAT, Carlos Guizzo, Arconovum, JPSalas",3.0.0-2.0,gork,"FSS, MOD",TVVtk5v4
 "Gradius (Original 2017)","Gradius (Original 2017)",Original,2017,,SS,,"Video Game, Science Fiction",,,,,"Wizball",1.3.7,,"FlexDMD",QGgpcu9w
@@ -2730,6 +2730,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Neptune (Gottlieb 1978)","Neptune (Gottlieb 1978)",Gottlieb,1978,1,EM,,"Mythology","http://www.ipdb.org/machine.cgi?id=1662",1662,,"John Osborne","Xenonph, Loserman76, GNance, Chris Aguilar, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0,,"LUT, MOD",38CRxoE04G
 "Neptune (Gottlieb 1978)","Neptune (Gottlieb 1978)",Gottlieb,1978,1,EM,,"Mythology","http://www.ipdb.org/machine.cgi?id=1662",1662,,"John Osborne","Loserman76, GNance, Pinuck, Chris Aguilar, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,gnltiWz6
 "Neptune (Gottlieb 1978)","Neptune (Gottlieb 1978)",Gottlieb,1978,1,EM,,"Mythology","http://www.ipdb.org/machine.cgi?id=1662",1662,,"John Osborne","BorgDog, HauntFreaks",1.0,,,_K0BPTR6
+"Nevermind The Bollocks (Original 2024)","Nevermind The Bollocks (Original 2024)",Original,2024,4,SS,,,,,,,"DAMONRA, JPSalas",1.0.4,,,lJ1yaizNtr
 "New Wave (Bell Games 1985)","New Wave (Bell Games 1985)",Bell Games,1985,4,SS,,"Music","http://www.ipdb.org/machine.cgi?id=3482",3482,,,"ScottyVH, Cyberpez, Thalamus, JPSalas",0.72,newwave,,_oNE9WCh
 "New World (Playmatic 1976)","New World (Playmatic 1976)",Playmatic,1976,4,EM,,"Historical","https://www.ipdb.org/machine.cgi?id=1672",1672,,,"JPSalas, Pedator",4.0.1,,"LUT",MtNXtRHz
 "New York (Gottlieb 1976)","New York (Gottlieb 1976)",Gottlieb,1976,2,EM,,"American Places, Historical","http://www.ipdb.org/machine.cgi?id=1673",1673,,"Ed Krynski","Leeoneil, Foxyt, Loserman76, Allknowing2012",1.1.0,,,Lw0fc3OeNP
@@ -3434,6 +3435,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Solar Ride (Gottlieb 1979)","Solar Ride (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=2239",2239,,"Ed Krynski","LynnInDenver, 32assassin",1.2,,,7DJIwVvf
 "Solar Sailor (Original 2016)","Solar Sailor (Original 2016)",Original,2016,,SS,,"Music",,,,,"Magicburrito",1.0,,,eHMX8iTr
 "Solar Wars (Sonic 1986)","Solar Wars (Sonic 1986)",Sonic,1986,,SS,,,"https://www.ipdb.org/machine.cgi?id=3273",3273,,,"JPSalas, Destruk, Inkochnito, Akiles50000",4.0.0,solarwar,,WIHvisfHlP
+"Solar Wars (Sonic 1986)","Solar Wars (Sonic 1986)",Sonic,1986,,SS,,,"https://www.ipdb.org/machine.cgi?id=3273",3273,,,"Ext2k, JPSalas, Teisen",1.0.0,solarwar,"Hybrid, VR, MOD, Mixed Reality",QO4CFBHKDR
 "Solids N Stripes (Williams 1971)","Solids N Stripes (Williams 1971)",Williams,1971,2,EM,,"Billiards","http://www.ipdb.org/machine.cgi?id=2240",2240,,"Norm Clark","Teisen, Loserman76",1.0.0,,"MOD",GQpZvV0RRB
 "Solids N Stripes (Williams 1971)","Solids N Stripes (Williams 1971)",Williams,1971,2,EM,,"Billiards","http://www.ipdb.org/machine.cgi?id=2240",2240,,"Norm Clark","Loserman76",1.0.0f,,,I4ESJ9pD
 "Solitaire (Gottlieb 1967)","Solitaire (Gottlieb 1967)",Gottlieb,1967,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=2241",2241,,"Ed Krynski","Loserman76, GNance",1.0,,,NCIZFoFK
@@ -3949,6 +3951,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Teenage Mutant Ninja Turtles (Data East 1991)","Teenage Mutant Ninja Turtles (Data East 1991)",Data East,1991,4,SS,,"Comics, Movie, Kids","http://www.ipdb.org/machine.cgi?id=2509",2509,,"Joe Kaminkow, Ed Cebula","Bigus1, Cyberpez",1.0,tmnt_104,"MOD",EyuwiDXz
 "Teenage Mutant Ninja Turtles (Data East 1991)","Teenage Mutant Ninja Turtles (Data East 1991)",Data East,1991,4,SS,,"Comics, Movie, Kids","http://www.ipdb.org/machine.cgi?id=2509",2509,,"Joe Kaminkow, Ed Cebula","Morttis, Cyberpez, Arconovum, HauntFreaks, JPSalas",1.1-2.0,tmnt_104,"FSS, MOD",qsAGdI7N
 "Teenage Mutant Ninja Turtles (Data East 1991)","Teenage Mutant Ninja Turtles (Data East 1991)",Data East,1991,4,SS,,"Comics, Movie, Kids","http://www.ipdb.org/machine.cgi?id=2509",2509,,"Joe Kaminkow, Ed Cebula","Cyberpez, Wrd1972, Roth, Dark, Flupper, TheMotherBrain, nFozzy, DJRobX, RustyCardores, HauntFreaks",1.1,tmnt_104,"FastFlips",1yPlOLBC
+"Teenage Mutant Ninja Turtles (Stern _ Data East remix)  (Original 2024)","Teenage Mutant Ninja Turtles (Stern _ Data East remix)  (Original 2024)",Original,2024,4,SS,,,,,,,"Cheese3075, Bigus1, Pattyg234",2.0,,,eiKQUmT6oX
 "Teenage Mutant Ninja Turtles Remix (Original 2021)","Teenage Mutant Ninja Turtles Remix (Original 2021)",Original,2021,4,SS,,,,,,,"Pattyg234",1.0.0,,"VR",sDjVbLN9mv
 "Ten Stars (Zaccaria 1976)","Ten Stars (Zaccaria 1976)",Zaccaria,1976,1,EM,,"Outer Space, Fantasy","https://www.ipdb.org/machine.cgi?id=3373",3373,,,"Ukexpat71, Loserman76, Axioma, VPW Team",1.0.0,,,nyAe8VMx
 "Ten Strike Classic (Benchmark Games 2003)","Ten Strike Classic (Benchmark Games 2003)",Benchmark Games,2003,,EM,,"Arcade, Bowling",,,,,"Rascal, VPW Crew",1.1.0,,"VR",_Am0m7wv87
