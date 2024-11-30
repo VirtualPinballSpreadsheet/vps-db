@@ -1318,6 +1318,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Evil Dead 2 (Original 2019)","Evil Dead 2 (Original 2019)",Original,2019,4,SS,,"Horror, Movie, Supernatural",,,,,"Ivantba, MajorFrenchy, JPSalas",1.0,ironmaid,"MOD, Music",tGWj8-z9
 "Evil Dead 2 (Original 2022)","Evil Dead 2 (Original 2022)",Original,2022,1,SS,,"Horror, Movie, Supernatural",,,,,"Bombaj344, Pin666, JPSalas",1.0.0,,,jAZpN8ybf2
 "Evil Dead 3 Army of Darkness (Original 2020)","Evil Dead 3 Army of Darkness (Original 2020)",Original,2020,,SS,,"Horror, Movie",,,,,"Ivantba, Javier15, Brendan Bailey (Pinwizkid)",1.0,,,Cul9IFTa
+"Evil Fight (Playmatic 1980)","Evil Fight (Playmatic 1980)",Playmatic,1980,4,SS,,,,,,,"Pedator, JPSalas, petar2, Hmueck",1.0,evlfight.zip,,XAqw58HgYV
 "Excalibur","Excalibur (Zen Studios 2013)",Zen Studios,2013,4,,,"Medieval",,,,,"Zen Studios",,,,_cZVfWoF
 "Excalibur (Gottlieb 1988)","Excalibur (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Fantasy, Knights, Mythology","http://www.ipdb.org/machine.cgi?id=795",795,,"John Trudeau","Bigus1, Rascal, Francisco666, Scutters, Arngrim",2.1,,"MOD, FlexDMD",Zl7zZs-g
 "Excalibur (Gottlieb 1988)","Excalibur (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Fantasy, Knights, Mythology","http://www.ipdb.org/machine.cgi?id=795",795,,"John Trudeau","Morttis, Arconovum, Rascal, Wildman, Bigus1, Mfuegemann",1.2-2.6,,"FSS, MOD",kxhOliEH
@@ -1335,6 +1336,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "FJ (Hankin 1978)","FJ (Hankin 1978)",Hankin,1978,4,SS,,"Cars","http://www.ipdb.org/machine.cgi?id=3627",3627,,,"32assassin",1.0,fjholden,,GjzkjINm
 "FJ (Hankin 1978)","FJ (Hankin 1978)",Hankin,1978,4,SS,,"Cars","http://www.ipdb.org/machine.cgi?id=3627",3627,,,"Hmueck, 32assassin, Bigus1, Dboyrecords",2.0,fjholden,"MOD, Hybrid, VR",f6Oj8CLqAz
 "Faces (Sonic 1976)","Faces (Sonic 1976)",Sonic,1976,4,EM,,"Fantasy, Psychedelic","http://www.ipdb.org/machine.cgi?id=806",806,,,"Nestorgian, Arngrim, JPSalas",1.4.5,,,bqlUfNqf
+"Faces (Sonic 1976)","Faces (Sonic 1976)",Sonic,1976,4,EM,,"Fantasy, Psychedelic","http://www.ipdb.org/machine.cgi?id=806",806,,,"Ext2k, Nestorgian, Basti",1.0.0,,"Hybrid, VR, FSS, MOD, Mixed Reality",KEc7QWBAdm
 "Faeton (Juegos Populares 1985)","Faeton (Juegos Populares 1985)",Juegos Populares,1985,4,SS,,"Outer Space, Science Fiction, Space Fantasy","http://www.ipdb.org/machine.cgi?id=3087",3087,,,"Ext2k, JPSalas, Rascal, Lighthouse, Arngrim",1.0.0,faeton,"Hybrid, VR, FSS, MOD, Mixed Reality",VY1ICdIQE_
 "Faeton (Juegos Populares 1985)","Faeton (Juegos Populares 1985)",Juegos Populares,1985,4,SS,,"Outer Space, Science Fiction, Space Fantasy","http://www.ipdb.org/machine.cgi?id=3087",3087,,,"Arconovum, JPSalas",1.0.1-2.6,faeton,"FSS, MOD",oJw1kilZ
 "Faeton (Juegos Populares 1985)","Faeton (Juegos Populares 1985)",Juegos Populares,1985,4,SS,,"Outer Space, Science Fiction, Space Fantasy","http://www.ipdb.org/machine.cgi?id=3087",3087,,,"JPSalas, Lighthouse, Arngrim",4.0,faeton,,5KweDoFN
@@ -3040,6 +3042,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Professional Pinball - Challenger I (Professional Pinball 1981)","Professional Pinball - Challenger I (Professional Pinball 1981)",Professional Pinball,1981,4,SS,,"Pinball",,,,,"32assassin",1.0,,,DZTJZBq8
 "Professional Pinball - Challenger V (Professional Pinball 1981)","Professional Pinball - Challenger V (Professional Pinball 1981)",Professional Pinball,1981,4,SS,,"Pinball",,,,,"32assassin",1.0,,,YQBf6kAQ
 "Prospector (Sonic 1977)","Prospector (Sonic 1977)",Sonic,1977,4,EM,,"Comedy, American West, Prospecting","http://www.ipdb.org/machine.cgi?id=1871",1871,,,"Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,bwJ-2uaN
+"Prospector (Sonic 1977)","Prospector (Sonic 1977)",Sonic,1977,4,EM,,"Comedy, American West, Prospecting","http://www.ipdb.org/machine.cgi?id=1871",1871,,,"Ext2k, Loserman76, Basti",1.0.0,,"Hybrid, VR, FSS, MOD, Mixed Reality",FYHrCuQ2oF
 "Psychedelic (Gottlieb 1970)","Psychedelic (Gottlieb 1970)",Gottlieb,1970,1,EM,,"Music, Singing, Dancing, Psychedelic","https://www.ipdb.org/machine.cgi?id=1873",1873,,"Ed Krynski","Loserman76, GNance",1.0.0f,,,rNgZIdV3
 "Pulp Fiction (Original 2023)","Pulp Fiction (Original 2023)",Original,2023,,,,"Movie",,,,,"Marty02, JPSalas",3.1,,"FlexDMD",HImsGBv3v1
 "Pulp Fiction (Original 2020)","Pulp Fiction (Original 2020)",Original,2020,4,SS,,"Movie, Crime",,,,,"John22",1.1,,"Music",n4dRBXo3
