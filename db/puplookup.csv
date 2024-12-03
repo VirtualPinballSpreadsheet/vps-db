@@ -1,9 +1,4 @@
 GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,WebLinkURL,IPDBNum,AltRunMode,DesignedBy,Author,GAMEVER,Rom,Tags,VPS-ID
-" City on the Moon - Murray Leinster EM Tribute Series 2 (Original 2024)"," City on the Moon - Murray Leinster EM Tribute Series 2 (Original 2024)",Original,2024,,EM,,"Science Fiction",,,,,"Anthias",1.2,,,xxdTpHWfjf
-" Jolly Park Oktoberfest (Original 2024)"," Jolly Park Oktoberfest (Original 2024)",Original,2024,,SS,,"Amusement Park, Funfair, Oktoberfest",,,,,"Oly2, JPSalas, Akiles50000, Dark, Destruk",1.0.0,jolypark,"Music",ULjArOtFrP
-" Motley Crue (Original 2024)"," Motley Crue (Original 2024)",Original,2024,4,SS,,"Music, Heavy Metal",,,,,"worldofvp, X13.Pinner, Icepinball, Mason, Goldchicco",1.0.0,,"MOD, FlexDMD, Music, LUT",334s_AguDZ
-" Space Platform - Murray Leinster EM Tribute Series 1 (Original 2024)"," Space Platform - Murray Leinster EM Tribute Series 1 (Original 2024)",Original,2024,,EM,,"Science Fiction",,,,,"Anthias",1.2,,,gBT8KXUSBa
-" Spooky Wednesday (Original 2024)"," Spooky Wednesday (Original 2024)",Original,2024,4,SS,,"Supernatural, TV Show, Fantasy",,,,,"Retrorommy6604, Retropinhead6604, Rom",3.0,,"FlexDMD",tYqg-vDGJT
 "!WOW! (Mills Novelty Company 1932)","!WOW! (Mills Novelty Company 1932)",Mills Novelty Company,1932,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=2819",2819,,,"Druadic",1.2b,,,OHdDfWkU9L
 "'300' (Gottlieb 1975)","'300' (Gottlieb 1975)",Gottlieb,1975,4,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2539",2539,,"Ed Krynski","Scampa123, Loserman76, Rawd, Pritch33, Leojreimroc, Apophis, HauntFreaks",1.1,,"VR, MOD, Hybrid",dru4vO0W
 "'300' (Gottlieb 1975)","'300' (Gottlieb 1975)",Gottlieb,1975,4,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2539",2539,,"Ed Krynski","Loserman76, Conram29, Francisco666, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,9pDvjPBe
@@ -870,6 +865,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "BALLY_Cirqus_Voltaire","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Zen Studios",,cv_20h,,YXT6zmZu
 "City Ship (J. Esteban 1978)","City Ship (J. Esteban 1978)",J. Esteban,1978,2,EM,,"Outer Space, Fantasy","https://www.ipdb.org/machine.cgi?id=5130",5130,,,"Halen, Loserman76, Teisen",1.1,,,4K1paJclVM
 "City Slicker (Bally 1987)","City Slicker (Bally 1987)",Bally,1987,4,SS,,"Crime, Mobsters, Police","http://www.ipdb.org/machine.cgi?id=527",527,,"Greg Kmiec","Mistermixer, Destruk, Kiwi, Tom, Arngrim, Bord, TAB",1.0,cityslck,,4cV9S736
+"City on the Moon - Murray Leinster EM Tribute Series 2 (Original 2024)","City on the Moon - Murray Leinster EM Tribute Series 2 (Original 2024)",Original,2024,,EM,,"Science Fiction",,,,,"Anthias",1.2,,,xxdTpHWfjf
 "Table 1","Civil War (Zen Studios 2012)",Zen Studios,2012,4,,,"Licensed Theme, Comics, Superheroes",,,,"Mate Szeplaki","Zen Studios, Mate Szeplaki",,,,EVNeOZOYl-
 "MARVEL_CivilWar","Civil War (Zen Studios 2012)",Zen Studios,2012,4,,,"Licensed Theme, Comics, Superheroes",,,,"Mate Szeplaki","Zen Studios",,,,kvhi2F1q
 "Class of 1812 (Gottlieb 1991)","Class of 1812 (Gottlieb 1991)",Gottlieb,1991,4,SS,,"Adventure, Supernatural","http://www.ipdb.org/machine.cgi?id=528",528,,"Ray Tanzer, Joe Kaminkow","UnclePaulie, Bigus1, Tom Tower, Fleep, Wylte, Flupper, Fluffhead35, Rik, Iaakki, Sixtoe, Apophis, Ninuzzu, HauntFreaks, Rothbauerw, nFozzy, Tomate, BorgDog, Retro27",3.0.21,clas1812,"VR, Hybrid, SSF, nFozzy, Fleep, LUT",rOVXuHYS
@@ -2122,6 +2118,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jolly Park (Spinball S.A.L. 1996)","Jolly Park (Spinball S.A.L. 1996)",Spinball S.A.L.,1996,4,SS,,"Amusement Park, Roller Coasters","http://www.ipdb.org/machine.cgi?id=4618",4618,,,"Ext2k, TastyWasps, JPSalas, Dark, Destruk, Gerrit, Gaston, Akiles50000, Arngrim",1.0,jolypark,"VR, LUT",rKNnIjoVU8
 "Jolly Park (Spinball S.A.L. 1996)","Jolly Park (Spinball S.A.L. 1996)",Spinball S.A.L.,1996,4,SS,,"Amusement Park, Roller Coasters","http://www.ipdb.org/machine.cgi?id=4618",4618,,,"JPSalas, Dark, Destruk, Gerrit, Gaston, Akiles50000, Arngrim, TAB",4.0.0,jolypark,"LUT",csOBl5Zu
 "Jolly Park (Spinball S.A.L. 1996)","Jolly Park (Spinball S.A.L. 1996)",Spinball S.A.L.,1996,4,SS,,"Amusement Park, Roller Coasters","http://www.ipdb.org/machine.cgi?id=4618",4618,,,"Morttis, Dboyrecords, Arconovum, JPSalas",1.0.5-1.0,jolypark,"FSS, MOD",M9CgSziW
+"Jolly Park Oktoberfest (Original 2024)","Jolly Park Oktoberfest (Original 2024)",Original,2024,,SS,,"Amusement Park, Funfair, Oktoberfest",,,,,"Oly2, JPSalas, Akiles50000, Dark, Destruk",1.0.0,jolypark,"Music",ULjArOtFrP
 "Jolly Roger (Williams 1967)","Jolly Roger (Williams 1967)",Williams,1967,4,EM,,"Historical, Pirates","http://www.ipdb.org/machine.cgi?id=1314",1314,,"Norm Clark","HauntFreaks, TastyWasps, JCalhoun, Rawd, Drybonz, Loserman76, Kees, DigitalArts",2.0.1,,"Hybrid, VR, MOD, SSF, Fleep, nFozzy",423vl1Ia3c
 "Jolly Roger (Williams 1967)","Jolly Roger (Williams 1967)",Williams,1967,4,EM,,"Historical, Pirates","http://www.ipdb.org/machine.cgi?id=1314",1314,,"Norm Clark","Loserman76, Kees",1.0,,"MOD",cbijjN5z
 "Jolly Roger (Williams 1967)","Jolly Roger (Williams 1967)",Williams,1967,4,EM,,"Historical, Pirates","http://www.ipdb.org/machine.cgi?id=1314",1314,,"Norm Clark","Kees",1.00,,,ROrXk5M6L0
@@ -2598,6 +2595,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Moon Station (Original 2021)","Moon Station (Original 2021)",Original,2021,,SS,,"Science Fiction",,,,,"chepas",1.0.2,,,R-oXZ4uw
 "Mortal Kombat (Original 2016)","Mortal Kombat (Original 2016)",Original,2016,,SS,,"Video Game, Martial Arts",,,,,"TheGhost787",1.0,,,mrr3ry_M
 "Mortal Kombat II (Original 2016)","Mortal Kombat II (Original 2016)",Original,2016,,SS,,"Video Game, Martial Arts",,,,,"Javier15, JPSalas",1.0.1,,"Music",l595YApN
+"Motley Crue (Original 2024)","Motley Crue (Original 2024)",Original,2024,4,SS,,"Music, Heavy Metal",,,,,"worldofvp, X13.Pinner, Icepinball, Mason, Goldchicco",1.0.0,,"MOD, FlexDMD, Music, LUT",334s_AguDZ
 "Motley Crue (Original 2017)","Motley Crue (Original 2017)",Original,2017,,SS,,"Music, Heavy Metal",,,,,"Mofstedahl",1.0,,,-TxOjFbE
 "Motordome (Bally 1986)","Motordome (Bally 1986)",Bally,1986,,SS,,"Sports, Motorcycles, Motocross","https://www.ipdb.org/machine.cgi?id=1633",1633,,"Greg Kmiec","JPSalas, Halen, Wildman",1.0.0,motrdome,,ZxAlHYgoyc
 "Motörhead (Original 2018)","Motörhead (Original 2018)",Original,2018,4,SS,,"Music, Heavy Metal",,,,,"Flupper, Thalamus, Xenonph, Wizball, RDuB, Herweh, Kiwi, Fuzzel, Batch, 32assassin",1.2,blkou_l1,"SSF",pCvuGNaK
@@ -3504,6 +3502,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Space Orbit (Gottlieb 1972)","Space Orbit (Gottlieb 1972)",Gottlieb,1972,1,EM,,"Outer Space","https://www.ipdb.org/machine.cgi?id=2255",2255,,"Ed Krynski","RajoJoey, Loserman76, GNance",1.0.0,,"VR, Hybrid, FSS, MOD, LUT",Nf-2luUlNp
 "Space Orbit (Gottlieb 1972)","Space Orbit (Gottlieb 1972)",Gottlieb,1972,1,EM,,"Outer Space","https://www.ipdb.org/machine.cgi?id=2255",2255,,"Ed Krynski","Loserman76",1.0.0f,,,H67wY58d
 "Space Patrol (Taito do Brasil 1978)","Space Patrol (Taito do Brasil 1978)",Taito do Brasil,1978,,EM,,"Outer Space",,,,,"JPSalas, Editoy",4.3.0,,"SSF",lSoF_7UR
+"Space Platform - Murray Leinster EM Tribute Series 1 (Original 2024)","Space Platform - Murray Leinster EM Tribute Series 1 (Original 2024)",Original,2024,,EM,,"Science Fiction",,,,,"Anthias",1.2,,,gBT8KXUSBa
 "Space Poker (LTD do Brasil 1982)","Space Poker (LTD do Brasil 1982)",LTD do Brasil,1982,2,SS,,"Science Fiction, Outer Space, Cards, Gambling","https://www.ipdb.org/machine.cgi?id=5886",5886,,,"Wiesshund, Halen, Mfuegemann",4.0,spcpoker,,OuwJLazeGA
 "Space Poker (LTD do Brasil 1982)","Space Poker (LTD do Brasil 1982)",LTD do Brasil,1982,2,SS,,"Science Fiction, Outer Space, Cards, Gambling","https://www.ipdb.org/machine.cgi?id=5886",5886,,,"Mfuegemann, Carlos Guizzo, Joao Pedras, Halen, Garcon, Wiesshund",1.1,spcpoker,,V96BA558zs
 "Space Rider (Geiger 1980)","Space Rider (Geiger 1980)",Geiger,1980,,SS,,"Outer Space, Fantasy",,,,,"JPSalas, TAB",4.0.0,hglbtrtr.zip,"LUT",iMGNwZh0as
@@ -3587,6 +3586,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "SpongeBob Squarepants Pinball Adventure (Original 2023)","SpongeBob Squarepants Pinball Adventure (Original 2023)",Original,2023,,EM,,"TV Show, Animation, Kids",,,,,"LJV12343",1.0.0,,"Kids",IEIGK9tK_-
 "SpongeBob's Bikini Bottom Pinball (Original 2021)","SpongeBob's Bikini Bottom Pinball (Original 2021)",Original,2021,,SS,,"TV Show, Animation, Kids",,,,,"VPW, Skillshot, Schlabber34, G5k, Rosve, JPSalas",2.1,,"Kids, MOD, Hybrid, VR, Scorbit, nFozzy, Fleep, LUT, FlexDMD, SSF",hTwgaH56vw
 "SpongeBob's Bikini Bottom Pinball (Original 2021)","SpongeBob's Bikini Bottom Pinball (Original 2021)",Original,2021,,SS,,"TV Show, Animation, Kids",,,,,"Skillshot, Schlabber34, G5k, Rosve, JPSalas",1.01,,"Kids, MOD",R3POPsVG
+"Spooky Wednesday (Original 2024)","Spooky Wednesday (Original 2024)",Original,2024,4,SS,,"Supernatural, TV Show, Fantasy",,,,,"Retrorommy6604, Retropinhead6604, Rom",3.0,,"FlexDMD",tYqg-vDGJT
 "Spot Pool (Gottlieb 1976)","Spot Pool (Gottlieb 1976)",Gottlieb,1976,1,EM,,"Billiards","https://www.ipdb.org/machine.cgi?id=2316",2316,,"Ed Krynski","RajoJoey, Loserman76, GNance",1.0.0,,"VR, Hybrid, MOD, LUT",VzUyCxcaus
 "Spot Pool (Gottlieb 1976)","Spot Pool (Gottlieb 1976)",Gottlieb,1976,1,EM,,"Billiards","https://www.ipdb.org/machine.cgi?id=2316",2316,,"Ed Krynski","Loserman76, GNance",1.0.0f,,,UfmLWJqF
 "Spot a Card (Gottlieb 1960)","Spot a Card (Gottlieb 1960)",Gottlieb,1960,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=2318",2318,,"Wayne Neyens","Loserman76",1.0.0f,,,nyQBB5h1
