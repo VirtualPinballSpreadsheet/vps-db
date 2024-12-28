@@ -2,8 +2,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "!WOW! (Mills Novelty Company 1932)","!WOW! (Mills Novelty Company 1932)",Mills Novelty Company,1932,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=2819",2819,,,"Druadic",1.2b,,,OHdDfWkU9L
 "'300' (Gottlieb 1975)","'300' (Gottlieb 1975)",Gottlieb,1975,4,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2539",2539,,"Ed Krynski","Scampa123, Loserman76, Rawd, Pritch33, Leojreimroc, Apophis, HauntFreaks",1.1,,"VR, MOD, Hybrid",dru4vO0W
 "'300' (Gottlieb 1975)","'300' (Gottlieb 1975)",Gottlieb,1975,4,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2539",2539,,"Ed Krynski","Loserman76, Conram29, Francisco666, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,9pDvjPBe
-"1-2-3 (Automaticos 1973)","1-2-3 (Automaticos 1973)",Automaticos,1973,1,EM,,"TV Show, Game Show","https://www.ipdb.org/machine.cgi?id=5247",5247,,,"Ext2k, JPSalas",1.0.0,,"VR, MR",xZZeK5j5Df
-"1-2-3 (Automaticos 1973)","1-2-3 (Automaticos 1973)",Automaticos,1973,1,EM,,"TV Show, Game Show","https://www.ipdb.org/machine.cgi?id=5247",5247,,,"JPSalas",4.0.0,,,Saxn4nV9
+"1-2-3 (Automaticos 1973)","1-2-3 (Automaticos 1973)",Automaticos,1973,1,EM,,"TV Show, Game Show","https://www.ipdb.org/machine.cgi?id=5247",5247,,,"Ext2k, JPSalas",2.0.0,,"VR, MR, Mixed Reality",xZZeK5j5Df
+"1-2-3 (Automaticos 1973)","1-2-3 (Automaticos 1973)",Automaticos,1973,1,EM,,"TV Show, Game Show","https://www.ipdb.org/machine.cgi?id=5247",5247,,,"JPSalas",5.5.0,,,Saxn4nV9
 "1024 Bytes (Original 2006)","1024 Bytes (Original 2006)",Original,2006,1,SS,,"Technology",,,,,"NorthernPinballTeam",1.0,,,R_qTJYElLc
 "2 in 1 (Bally 1964)","2 in 1 (Bally 1964)",Bally,1964,2,EM,,"Cards","http://www.ipdb.org/machine.cgi?id=2698",2698,,"Ted Zale","Margoni",1.0,,,sfa5Y-wOJj
 "2 in 1 (Bally 1964)","2 in 1 (Bally 1964)",Bally,1964,2,EM,,"Cards","http://www.ipdb.org/machine.cgi?id=2698",2698,,"Ted Zale","Loserman76, Kees",1.0,,"MOD",AiSLRINv
@@ -23,7 +23,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "300 (Maresa 1975)","300 (Maresa 1975)",Maresa,1975,1,EM,,"Sports, Bowling","https://www.ipdb.org/machine.cgi?id=4633",4633,,,"NitroNimbus",2.0,,"MOD",UDkd2BZr-i
 "300 Prepare for Glory (Original 2008)","300 Prepare for Glory (Original 2008)",Original,2008,1,,,"History, Movie",,,,,"Brad Bambara",1.0,,,5N-mukLuWM
 "300 Prepare for Glory (Original 2008)","300 Prepare for Glory (Original 2008)",Original,2008,1,,,"History, Movie",,,,,"Pinner, Brad Bambara",,,"MOD",W_BvZdYyJq
-"301 Bullseye (Grand Products 1986)","301 Bullseye (Grand Products 1986)",Grand Products,1986,,SS,,"Sports, Darts",,,,,"JPSalas",1.0.0,bullsen2,,YiXk8bsCV2
+"301 Bullseye (Grand Products 1986)","301 Bullseye (Grand Products 1986)",Grand Products,1986,,SS,,"Sports, Darts",,,,,"JPSalas",5.5.0,bullsen2,,YiXk8bsCV2
+"301 Bullseye (Grand Products 1986)","301 Bullseye (Grand Products 1986)",Grand Products,1986,,SS,,"Sports, Darts",,,,,"Ext2k, JPSalas, Basti",1.0,bullsen2,"Hybrid, VR, FSS, MOD, Mixed Reality",A-hCQg6qtb
 "4 Aces (Williams 1970)","4 Aces (Williams 1970)",Williams,1970,2,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=928",928,,"Steve Kordek","JPSalas, Halen",1.0.2,,,WdhuHU_Jvr
 "4 Queens (Bally 1970)","4 Queens (Bally 1970)",Bally,1970,1,EM,,"Cards, Happiness","http://www.ipdb.org/machine.cgi?id=936",936,,"Jim Patla","Margoni",1.0,,,U2nK5LF5jm
 "4 Queens (Bally 1970)","4 Queens (Bally 1970)",Bally,1970,1,EM,,"Cards, Happiness","http://www.ipdb.org/machine.cgi?id=936",936,,"Jim Patla","Loserman76, Kees",2.0a,,"MOD",vSrIXeUC
@@ -537,6 +538,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Black Belt (Bally 1986)","Black Belt (Bally 1986)",Bally,1986,4,SS,,"Martial Arts","http://www.ipdb.org/machine.cgi?id=303",303,,"Dan Langlois","JPSalas, Fredobiwan, STAT",4.0.0,blackblt,"LUT",srrepEVb
 "Black Belt (Bally 1986)","Black Belt (Bally 1986)",Bally,1986,4,SS,,"Martial Arts","http://www.ipdb.org/machine.cgi?id=303",303,,"Dan Langlois","Morttis, Arconovum, JPSalas",1.0-1.0,blackblt,"FSS, MOD",hKF32vi5
 "Black Belt (Bally 1986)","Black Belt (Bally 1986)",Bally,1986,4,SS,,"Martial Arts","http://www.ipdb.org/machine.cgi?id=303",303,,"Dan Langlois","SliderPoint, DJRobX, Destruk, JPSalas",1.0,blackblt,,RgQCiZvA
+"Black Fever (Playmatic 1980)","Black Fever (Playmatic 1980)",Playmatic,1980,4,SS,,"Dancing, Music, Women","https://www.ipdb.org/machine.cgi?id=3645",3645,,,"Pedator, JPSalas, Akiles50000, pinballsp, Nestor",1.0,,,WAFkDPpphk
 "Black Gold (Williams 1975)","Black Gold (Williams 1975)",Williams,1975,1,EM,,"American History","http://www.ipdb.org/machine.cgi?id=306",306,,"Steve Kordek","Teisen, Loserman76, Halen",1.0,,"MOD",bqRgLscjNR
 "Black Gold (Williams 1975)","Black Gold (Williams 1975)",Williams,1975,1,EM,,"American History","http://www.ipdb.org/machine.cgi?id=306",306,,"Steve Kordek","Loserman76, Halen",1.0.0,,,Y0PEcEeK
 "Black Hole (Gottlieb 1981)","Black Hole (Gottlieb 1981)",Gottlieb,1981,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=307",307,,"John Buras, Adolf Seitz Jr.","Bigus1, Cyberpez",1.0,blckhole,"MOD",OlytaBJ7e3
