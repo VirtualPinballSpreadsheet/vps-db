@@ -25,7 +25,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "300 Prepare for Glory (Original 2008)","300 Prepare for Glory (Original 2008)",Original,2008,1,,,"History, Movie",,,,,"Pinner, Brad Bambara",,,"MOD",W_BvZdYyJq
 "301 Bullseye (Grand Products 1986)","301 Bullseye (Grand Products 1986)",Grand Products,1986,,SS,,"Sports, Darts",,,,,"JPSalas",5.5.0,bullsen2,,YiXk8bsCV2
 "301 Bullseye (Grand Products 1986)","301 Bullseye (Grand Products 1986)",Grand Products,1986,,SS,,"Sports, Darts",,,,,"Ext2k, JPSalas, Basti",1.0,bullsen2,"Hybrid, VR, FSS, MOD, Mixed Reality",A-hCQg6qtb
-"4 Aces (Williams 1970)","4 Aces (Williams 1970)",Williams,1970,2,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=928",928,,"Steve Kordek","JPSalas, Halen",1.0.2,,,WdhuHU_Jvr
+"4 Aces (Williams 1970)","4 Aces (Williams 1970)",Williams,1970,2,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=928",928,,"Steve Kordek","JPSalas, Halen",5.5.0,,,WdhuHU_Jvr
+"4 Aces (Williams 1970)","4 Aces (Williams 1970)",Williams,1970,2,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=928",928,,"Steve Kordek","Ext2k, JPSalas, Halen, Basti",1.0,,"Hybrid, VR, MOD, Mixed Reality",6McUBzM2Bz
 "4 Queens (Bally 1970)","4 Queens (Bally 1970)",Bally,1970,1,EM,,"Cards, Happiness","http://www.ipdb.org/machine.cgi?id=936",936,,"Jim Patla","Margoni",1.0,,,U2nK5LF5jm
 "4 Queens (Bally 1970)","4 Queens (Bally 1970)",Bally,1970,1,EM,,"Cards, Happiness","http://www.ipdb.org/machine.cgi?id=936",936,,"Jim Patla","Loserman76, Kees",2.0a,,"MOD",vSrIXeUC
 "4 Queens (Bally 1970)","4 Queens (Bally 1970)",Bally,1970,1,EM,,"Cards, Happiness","http://www.ipdb.org/machine.cgi?id=936",936,,"Jim Patla","Singinfool64, Loserman76, Kees",1.1,,"MOD",RKtOdfTH
@@ -4593,6 +4594,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Wizard! (Bally 1975)","Wizard! (Bally 1975)",Bally,1975,4,EM,,"Licensed Theme","http://www.ipdb.org/machine.cgi?id=2803",2803,,"Greg Kmiec","Pinball58",1.03,,,bIfkmE1j
 "WoZ (Original 2018)","WoZ (Original 2018)",Original,2018,4,SS,,"Fantasy, Licensed Theme, Wizards, Magic",,,,"Joe Balcer","Solters, CKPin, eMBee, Tarcisio, SnakeEyes, Friex, Dark, JPSalas, SliderPoint, NailBuster",1.0,,"VR, MOD",HLp22xyTCw
 "WoZ (Original 2018)","WoZ (Original 2018)",Original,2018,4,SS,,"Fantasy, Licensed Theme, Wizards, Magic",,,,"Joe Balcer","CKPin, eMBee, Tarcisio, SnakeEyes, Friex, Dark, JPSalas, SliderPoint, NailBuster",1.01,,"FlexDMD",bcHIj8Y7
+"WoZ (Original 2018)","WoZ (Original 2018)",Original,2018,4,SS,,"Fantasy, Licensed Theme, Wizards, Magic",,,,"Joe Balcer","MachWon, CKPin, eMBee, Tarcisio, SnakeEyes, Friex, Dark, JPSalas, SliderPoint, NailBuster",1.10,,"FlexDMD, MOD",DZ_LLbNkPD
 "Wolf Man (Peyper 1987)","Wolf Man (Peyper 1987)",Peyper,1987,4,SS,,"Mythology, Horror","http://www.ipdb.org/machine.cgi?id=4435",4435,,,"Ext2k, Goldchicco, Mfuegemann, 32assassin, Batch, Basti, DarthVito",1.0.0,wolfman,"Hybrid, VR, MOD, nFozzy, Fleep, LUT, Mixed Reality",L-M_NDbMUt
 "Wolf Man (Peyper 1987)","Wolf Man (Peyper 1987)",Peyper,1987,4,SS,,"Mythology, Horror","http://www.ipdb.org/machine.cgi?id=4435",4435,,,"DarthVito, Goldchicco, RajoJoey, Ext2k",1.0.0,wolfman,"VR",HwtiTmYLRw
 "Wolf Man (Peyper 1987)","Wolf Man (Peyper 1987)",Peyper,1987,4,SS,,"Mythology, Horror","http://www.ipdb.org/machine.cgi?id=4435",4435,,,"Goldchicco, Mfuegemann, 32assassin, Batch",2.0,wolfman,"nFozzy, LUT, Fleep",wOhjkgM3
