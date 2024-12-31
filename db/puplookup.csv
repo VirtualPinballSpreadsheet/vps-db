@@ -17,7 +17,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "24 (Stern 2009)","24 (Stern 2009)",Stern,2009,4,SS,,"Licensed Theme, TV Show, Crime","http://www.ipdb.org/machine.cgi?id=5419",5419,,"Steve Ritchie","NitroNimbus, rom, SLAMT1LT",2.0,twenty4_150,"MOD",2HiL0JmuIN
 "24 (Stern 2009)","24 (Stern 2009)",Stern,2009,4,SS,,"Licensed Theme, TV Show, Crime","http://www.ipdb.org/machine.cgi?id=5419",5419,,"Steve Ritchie","Morttis, Arconovum, Bigus1, 32assassin, Freneticamnesic",1.0-2.6,twenty4_150,"FSS, MOD",NNIODYYy
 "24 (Stern 2009)","24 (Stern 2009)",Stern,2009,4,SS,,"Licensed Theme, TV Show, Crime","http://www.ipdb.org/machine.cgi?id=5419",5419,,"Steve Ritchie","32assassin, Freneticamnesic",2.0.1,twenty4_150,,01rWOPkk
-"250 cc (Inder 1992)","250 cc (Inder 1992)",Inder,1992,4,SS,,"Sports, Motorcycle Racing","http://www.ipdb.org/machine.cgi?id=4089",4089,,,"Ext2k, JPSalas, TastyWasps",1.1,ind250cc,"VR, Mixed Reality",4YKrmqyUqy
+"250 cc (Inder 1992)","250 cc (Inder 1992)",Inder,1992,4,SS,,"Sports, Motorcycle Racing","http://www.ipdb.org/machine.cgi?id=4089",4089,,,"Ext2k, JPSalas, TastyWasps",2.0,ind250cc,"VR, Mixed Reality",4YKrmqyUqy
 "250 cc (Inder 1992)","250 cc (Inder 1992)",Inder,1992,4,SS,,"Sports, Motorcycle Racing","http://www.ipdb.org/machine.cgi?id=4089",4089,,,"JPSalas",4.0.0,ind250cc,,Gw5kOfmC
 "3-In-Line (Bally 1963)","3-In-Line (Bally 1963)",Bally,1963,4,EM,,"Majorettes","https://www.ipdb.org/machine.cgi?id=2549",2549,,"Ted Zale","Alois",1.2,,,ykWYxaFn
 "300 (Maresa 1975)","300 (Maresa 1975)",Maresa,1975,1,EM,,"Sports, Bowling","https://www.ipdb.org/machine.cgi?id=4633",4633,,,"NitroNimbus",2.0,,"MOD",UDkd2BZr-i
@@ -2936,6 +2936,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Pinball (Stern 1977)","Pinball (Stern 1977)",Stern,1977,4,SS,,"Sports, Pinball","https://www.ipdb.org/machine.cgi?id=1792",1792,,"Mike Kubin","Loserman76, Tom, Itchigo, Thalamus, Posty90, Chris Edler, 32assassin, JPSalas, Bord, Updon719",1.0.0f,pinball,,VKU15E4G
 "Pinball (Stern 1977)","Pinball (Stern 1977)",Stern,1977,4,SS,,"Sports, Pinball","https://www.ipdb.org/machine.cgi?id=1792",1792,,"Mike Kubin","Armyaviation",1.0.0,pinball,,nQiSv-v-Ao
 "Pinball (SS) (Stern 1977)","Pinball (SS) (Stern 1977)",Stern,1977,4,SS,,"Sports , Pinball","https://www.ipdb.org/machine.cgi?id=1792",1792,,"Mike Kubin","Armyaviation, Itchigo, Thalamus, Posty90, Chris Edler, Wildman, Arngrim, 32assassin, JPSalas, Bord",1.0.0,,,D-zHIJ7GNA
+"Pinball Action (Tekhan 1985)","Pinball Action (Tekhan 1985)",Tekhan,1985,2,SS,,,"https://www.ipdb.org/machine.cgi?id=5252",5252,,,"Jbbolcato, JPSalas",1.0.0,,,vod4rU2W4A
 "Pinball Champ '82 (Zaccaria 1982)","Pinball Champ '82 (Zaccaria 1982)",Zaccaria,1982,4,SS,,"Pinball","http://www.ipdb.org/machine.cgi?id=1794",1794,,,"32assassin, Mfuegemann",1.2,pinchamp,,kJkGS991
 "Pinball Domes (Original 2020)","Pinball Domes (Original 2020)",Original,2020,,EM,,"Example",,,,,"Flupper",2.2,,,A85htGkt
 "Pinball Lizard (Game Plan 1980)","Pinball Lizard (Game Plan 1980)",Game Plan,1980,4,SS,,"Fantasy","https://www.ipdb.org/machine.cgi?id=1464",1464,,"Ed Cebula","Hmueck, MaX, LuvThatApex, Destruk, Dboyrecords, Themer",1.0.2,Lizard,"Hybrid, VR, FSS",4Wef9ZDVGs
