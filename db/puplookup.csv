@@ -539,8 +539,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Black Belt (Bally 1986)","Black Belt (Bally 1986)",Bally,1986,4,SS,,"Martial Arts","http://www.ipdb.org/machine.cgi?id=303",303,,"Dan Langlois","JPSalas, Fredobiwan, STAT",4.0.0,blackblt,"LUT",srrepEVb
 "Black Belt (Bally 1986)","Black Belt (Bally 1986)",Bally,1986,4,SS,,"Martial Arts","http://www.ipdb.org/machine.cgi?id=303",303,,"Dan Langlois","Morttis, Arconovum, JPSalas",1.0-1.0,blackblt,"FSS, MOD",hKF32vi5
 "Black Belt (Bally 1986)","Black Belt (Bally 1986)",Bally,1986,4,SS,,"Martial Arts","http://www.ipdb.org/machine.cgi?id=303",303,,"Dan Langlois","SliderPoint, DJRobX, Destruk, JPSalas",1.0,blackblt,,RgQCiZvA
-"Black Fever (Playmatic 1980)","Black Fever (Playmatic 1980)",Playmatic,1980,4,SS,,"Dancing, Music, Women","https://www.ipdb.org/machine.cgi?id=3645",3645,,,"Pedator, JPSalas, Akiles50000, pinballsp, Nestor",1.0,,,WAFkDPpphk
 "Black Fever (Playmatic 1980)","Black Fever (Playmatic 1980)",Playmatic,1980,4,SS,,"Dancing, Music, Women","https://www.ipdb.org/machine.cgi?id=3645",3645,,,"Ext2k, Pedator, JPSalas, Akiles50000, pinballsp, Nestor, Basti",1.0,,"Hybrid, VR, MOD, Mixed Reality",CiutoBdZto
+"Black Fever (Playmatic 1980)","Black Fever (Playmatic 1980)",Playmatic,1980,4,SS,,"Dancing, Music, Women","https://www.ipdb.org/machine.cgi?id=3645",3645,,,"Pedator, JPSalas, Akiles50000, pinballsp, Nestor",1.0,,,WAFkDPpphk
 "Black Gold (Williams 1975)","Black Gold (Williams 1975)",Williams,1975,1,EM,,"American History","http://www.ipdb.org/machine.cgi?id=306",306,,"Steve Kordek","Teisen, Loserman76, Halen",1.0,,"MOD",bqRgLscjNR
 "Black Gold (Williams 1975)","Black Gold (Williams 1975)",Williams,1975,1,EM,,"American History","http://www.ipdb.org/machine.cgi?id=306",306,,"Steve Kordek","Loserman76, Halen",1.0.0,,,Y0PEcEeK
 "Black Hole (Gottlieb 1981)","Black Hole (Gottlieb 1981)",Gottlieb,1981,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=307",307,,"John Buras, Adolf Seitz Jr.","Bigus1, Cyberpez",1.0,blckhole,"MOD",OlytaBJ7e3
@@ -606,6 +606,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Bobby Orr Power Play (Bally 1978)","Bobby Orr Power Play (Bally 1978)",Bally,1978,4,SS,,"Sports, Hockey, Celebrities","http://www.ipdb.org/machine.cgi?id=1858",1858,,"Greg Kmiec","Arconovum, Bord",1.0-2.6,pwerplay,"FastFlips, FSS, MOD",sUcNLoW8
 "Bobby Orr Power Play (Bally 1978)","Bobby Orr Power Play (Bally 1978)",Bally,1978,4,SS,,"Sports, Hockey, Celebrities","http://www.ipdb.org/machine.cgi?id=1858",1858,,"Greg Kmiec","Bord",2.1,pwerplay,"FastFlips, VR, Hybrid, FSS, SSF",T3W8qNSq
 "Bobsbop (Original 2012)","Bobsbop (Original 2012)",Original,2012,2,SS,,,,,,,"Bob5453, Wizard_Hat",1.0,,,gDeWq72XIW
+"Bon Jovi (Original 2024)","Bon Jovi (Original 2024)",Original,2024,4,SS,,"Music",,,,,"Larouillas",1.0.0,fpwr2_l2,,amfRIq_F3h
 "Bon Voyage (Bally 1974)","Bon Voyage (Bally 1974)",Bally,1974,1,EM,,"Aviation, Travel, Transportation","https://www.ipdb.org/machine.cgi?id=343",343,,"Jim Patla","Cirqus, Xsvtoys, Sixtoe",1.0.0,,,XJSysphY
 "Bonanza (Original 2022)","Bonanza (Original 2022)",Original,2022,,SS,,"American West, TV Show",,,,,"Icepinball, Xenonph, Cryptdoctor21, 32assassin",1.0.0,,"MOD",PPPwjBymSj
 "Bond 50th (Original 2013)","Bond 50th (Original 2013)",Original,2013,,,,"Movie, Espionage",,,,,"SLAMT1LT",1.0,,,G7ggl_DFuV
@@ -2102,6 +2103,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "John Carpenter's The Thing (Original 2019)","John Carpenter's The Thing (Original 2019)",Original,2019,4,SS,,"Movie, Horror",,,,,"Gman77, Balutito, Jagandy82, Growat, Cliffy",1.0.0,ali,"Music, MOD",qlxFKMX19N
 "John Carpenter's The Thing (Original 2019)","John Carpenter's The Thing (Original 2019)",Original,2019,4,SS,,"Movie, Horror",,,,,"Balutito, Ivantba, JPSalas",1.0.0,ali,"MOD, Music",bAUebqNJQq
 "John Carpenter's The Thing (Original 2019)","John Carpenter's The Thing (Original 2019)",Original,2019,4,SS,,"Movie, Horror",,,,,"Ivantba, JPSalas",1.0a,ali,"MOD",g6uSpszg
+"John Rambo (Original 2024)","John Rambo (Original 2024)",Original,2024,5,EM,,"Action, Movie",,,,,"Marty02, JPSalas",3.2,,,flk9V8M6k0
 "John Wick (Original 2023)","John Wick (Original 2023)",Original,2023,,SS,,"Movie, Action",,,,,"Balutito, JPSalas, TeamTuga, Mario, pedroperes02, Pedro Pires, Darrin, Jim, JoePicasso, The Living Arcade, Tony Q",1.3,,"LUT",VG0a5Acwiy
 "John Wick (Original 2023)","John Wick (Original 2023)",Original,2023,,SS,,"Movie, Action",,,,,"DaRdog81, Balutito, JPSalas, TeamTuga, RajoJoey, Sixtoe",1.0.0,,"VR",5sp9DjmEQD
 "Johnny Cash Pinball (Original 2022)","Johnny Cash Pinball (Original 2022)",Original,2022,,SS,,"Music",,,,,"Stevegooner1234, Lizard, Xenonph, JPSalas, Bigus1",1.0,,"Music",rXqcaosdNG
@@ -2136,6 +2138,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Joust (Williams 1983)","Joust (Williams 1983)",Williams,1983,2,SS,,"Video Game","http://www.ipdb.org/machine.cgi?id=1316",1316,,"Barry Oursler","Xenonph, Dark, Randr",1.0,jst_l2,"MOD, LUT",7LmnzcqO9s
 "Joust (Williams 1983)","Joust (Williams 1983)",Williams,1983,2,SS,,"Video Game","http://www.ipdb.org/machine.cgi?id=1316",1316,,"Barry Oursler","Dark, Randr",1.0,jst_l2,"Music",lPkKDpWP
 "Jubilee (Williams 1973)","Jubilee (Williams 1973)",Williams,1973,4,EM,,"Historical","http://www.ipdb.org/machine.cgi?id=1321",1321,,"Steve Kordek","BorgDog, Loserman76, GNance, ScottyVH, HauntFreaks",1.1,,,znYipJdx
+"Judas Priest (Original 2024)","Judas Priest (Original 2024)",Original,2024,4,SS,,"Music",,,,,"Larouillas",1.0.0,fpwr2_l2,,Nizif9k111
 "Judas Priest (Original 2019)","Judas Priest (Original 2019)",Original,2019,4,SS,,"Music, Heavy Metal",,,,,"MauiPunter, Siggi, HauntFreaks, JPSalas",1.0,skatebll,"Music, MOD",rGD400jA
 "Judas Priest (Original 2019)","Judas Priest (Original 2019)",Original,2019,4,SS,,"Music, Heavy Metal",,,,,"Siggi, HauntFreaks, JPSalas",1.0,skatebll,,vZkGb3CKZi
 "Judge Dredd (Bally 1993)","Judge Dredd (Bally 1993)",Bally,1993,4,SS,,"Licensed Theme, Comics, Superheroes","http://www.ipdb.org/machine.cgi?id=1322",1322,,"John Trudeau","Arconovum, VPW",1.1-2.6,jd_l1,"FSS, nFozzy, FastFlips, MOD",sv0Evomk5w
@@ -3395,6 +3398,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Silverball Mania (Bally 1980)","Silverball Mania (Bally 1980)",Bally,1980,4,SS,,"Sports, Pinball, Fantasy","http://www.ipdb.org/machine.cgi?id=2156",2156,,"Jim Patla","roccodimarco, 32assassin, Ezepov, Destruk, UncleReamus",1.2,slbmanib,"MOD",uk603un7
 "Silverball Mania (Bally 1980)","Silverball Mania (Bally 1980)",Bally,1980,4,SS,,"Sports, Pinball, Fantasy","http://www.ipdb.org/machine.cgi?id=2156",2156,,"Jim Patla","Arconovum, 32assassin, Ezepov, Destruk, UncleReamus",2.0-2.5,slbmanib,"FastFlips, FSS, MOD",PTLGlKIr
 "Silverball Mania (Bally 1980)","Silverball Mania (Bally 1980)",Bally,1980,4,SS,,"Sports, Pinball, Fantasy","http://www.ipdb.org/machine.cgi?id=2156",2156,,"Jim Patla","32assassin, Ezepov, Destruk, UncleReamus, Arngrim",2.0,slbmanib,,JMfE2-eO
+"Simple Minds (Original 2024)","Simple Minds (Original 2024)",Original,2024,4,SS,,"Music",,,,,"Larouillas",1.0.0,fpwr2_l2,,mgY-uvCd0a
 "Sin City (Original 2022)","Sin City (Original 2022)",Original,2022,,SS,,"Noir, Comics, Movie",,,,,"BurtMacklin, Bombaj344, Francisco666, HiRez00, Pin666, Bigus1, 32assassin",1.1.0,elektraa,"MOD, Music",ovQSilyb7r
 "Sin City (Original 2022)","Sin City (Original 2022)",Original,2022,,SS,,"Noir, Comics, Movie",,,,,"BurtMacklin, Bombaj344, Francisco666, HiRez00, Pin666, Bigus1, 32assassin",1.1.0,elektraa,"Music, MOD",AjCXD21F__
 "Sinbad (Gottlieb 1978)","Sinbad (Gottlieb 1978)",Gottlieb,1978,4,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=2159",2159,,"Ed Krynski","Arconovum, Kruge99, Pinuck",1.0.0-2.5,,"FSS, MOD",ggvJ2oy-
@@ -3618,7 +3622,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Stage Door Canteen (Gottlieb 1945)","Stage Door Canteen (Gottlieb 1945)",Gottlieb,1945,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=2338",2338,,,"Okobojimusky, Francisco Pozo",,,"MOD",S79bxOOZKw
 "Stage Door Canteen (Gottlieb 1945)","Stage Door Canteen (Gottlieb 1945)",Gottlieb,1945,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=2338",2338,,,"Francisco Pozo",,,,yUQGbN9JdJ
 "Stampede (Stern 1977)","Stampede (Stern 1977)",Stern,1977,2,EM,,"American West","https://www.ipdb.org/machine.cgi?id=5232",5232,,"Albin Peters, Jerry Koci, Wendell McAdams","JPSalas, Halen, Patrick2610, Nestor56",5.5.0,,,GRhY1ouMsK
-"Star Action (Williams 1973)","Star Action (Williams 1973)",Williams,1973,1,EM,,"Show Business","https://www.ipdb.org/machine.cgi?id=2342",2342,,"Steve Kordek","EMUnderdogs, HauntFreaks, Loserman76, Cliffy, Teisen, JCalhoun",1.1,,,id5dEbTXcC
+"Star Action (Williams 1973)","Star Action (Williams 1973)",Williams,1973,1,EM,,"Show Business","https://www.ipdb.org/machine.cgi?id=2342",2342,,"Steve Kordek","EMUnderdogs, HauntFreaks, Loserman76, Cliffy, Teisen, JCalhoun, Abhcoide",1.1.1,,,id5dEbTXcC
 "Star Action (Williams 1973)","Star Action (Williams 1973)",Williams,1973,1,EM,,"Show Business","https://www.ipdb.org/machine.cgi?id=2342",2342,,"Steve Kordek","Loserman76",1.0a,,,LKZPmyoIzI
 "Star Fire (Playmatic 1985)","Star Fire (Playmatic 1985)",Playmatic,1985,4,SS,,"Science Fiction","http://www.ipdb.org/machine.cgi?id=3453",3453,,,"Goldchicco, Mfuegemann, Arrestis, 32assassin, Thalamus, Movieguru, Arngrim, Batch",1.1,starfire,,ty8be241
 "Star Gazer (Stern 1980)","Star Gazer (Stern 1980)",Stern,1980,4,SS,,"Astrology","http://www.ipdb.org/machine.cgi?id=2346",2346,,"Brian Poklacki","Medusa2000, Felsir, Arborelia, Nicolai, Teisen",3.1,stargzr,,0H6nQ12Gxx
@@ -4451,6 +4455,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Twister (Sega 1996)","Twister (Sega 1996)",Sega,1996,6,SS,,"Movie","http://www.ipdb.org/machine.cgi?id=3976",3976,,"John Borg","Francisco666, 32assassin, Xio, TheWool, JimmyFingers",1.0,twst_405,,BwFEC9N9
 "U-Boat 65 (Nuova Bell Games 1988)","U-Boat 65 (Nuova Bell Games 1988)",Nuova Bell Games,1988,4,SS,,"Combat, Nautical","http://www.ipdb.org/machine.cgi?id=3736",3736,,"Tommy Walker, Paul Daniel","Goldchicco, Batch, Mfuegemann, Movieguru, Arngrim",1.2,,,Bcznsvu1
 "U-FOES (Original 2019)","U-FOES (Original 2019)",Original,2019,,EM,,"Comics",,,,"Rosve","Rosve, The Loafer, Thalamus",2.0,,"SSF",JFiya62l
+"U2 (Original 2024)","U2 (Original 2024)",Original,2024,4,SS,,"Music",,,,,"Larouillas, Bord",1.0.0,stringray,,ocKUrSdotD
 "UT99ctfGE (Original 2021)","UT99ctfGE (Original 2021)",Original,2021,4,SS,,"Video Game",,,,,"Oqqsan, MajorFrenchy, Tomate, Thalamus, Javier15, Flupper, Rawd, Leojreimroc, Iaakki, Sixtoe, EBisLit, Apophis, 32assassin, Rothbauerw",2.3,lw3_208,"Music, FlexDMD, VR",HvdR5lbi
 "Ultron (Original 2022)","Ultron (Original 2022)",Original,2022,,SS,,"Licensed Theme, Comics, Superheroes",,,,,"fastdraw",1.0.0,,,3MB2Vnn-
 "Underwater (Recel 1976)","Underwater (Recel 1976)",Recel,1976,4,EM,,"Adventure, Combat, Nautical","https://www.ipdb.org/machine.cgi?id=2702",2702,,,"Ext2k, JPSalas",1.0.0,,"VR, MOD, MR",Z-3_BPpcZB
