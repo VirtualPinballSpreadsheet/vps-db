@@ -654,6 +654,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Brave Team (Inder 1985)","Brave Team (Inder 1985)",Inder,1985,,SS,,"Motorcycles",,,,,"JPSalas, Nestor, Pedator, Akiles50000",4.0.1,brvteam,"SSF, LUT",jp01AIIq8P
 "Bravestarr (Original 2021)","Bravestarr (Original 2021)",Original,2021,1,EM,,"Animation, Cartoon, Kids",,,,,"MellerMeller, JPSalas",1.0,,"Kids",74IzDopjY8
 "Break (Video Dens 1986)","Break (Video Dens 1986)",Video Dens,1986,4,SS,,,"https://www.ipdb.org/machine.cgi?id=5569",5569,,,"Javito, Destruk",2.0.0,break,"Music",iF7th8WSeM
+"Break (Video Dens 1986)","Break (Video Dens 1986)",Video Dens,1986,4,SS,,,"https://www.ipdb.org/machine.cgi?id=5569",5569,,,"Xenonph, TAB, Destruk, Dboyrecords, Javito, Slydog43",2.1,break,"MOD",lH0VPMPALm
 "Breaking Bad (Original 2021)","Breaking Bad (Original 2021)",Original,2021,,,,"TV Show",,,,,"Balutito, AgentEighty6",1.0.2,,"MOD, Music",kqlTDuc3uP
 "Breaking Bad (Original 2022)","Breaking Bad (Original 2022)",Original,2022,4,SS,,"TV Show, Crime",,,,,"VP_Cooks, Humankind14, Laurynsach, JPSalas",1.0.1,strngsci,"MOD",FoQ46b4MD0
 "Breakshot (Capcom 1996)","Breakshot (Capcom 1996)",Capcom,1996,4,SS,,"Sports, Billiards","http://www.ipdb.org/machine.cgi?id=3784",3784,,"Greg Kmiec","VPW, Niwak, Sixtoe, Apophis, TastyWasps, ClarkKent, Flupper",1.1,bsv103,"Hybrid, VR, SSF, nFozzy, Fleep",5QKRlioCxO
@@ -3131,7 +3132,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Re-Animator (Original 2022)","Re-Animator (Original 2022)",Original,2022,,SS,,"Movie, Horror",,,,,"Gman77, Balutito, Jagandy82, Davadruix, Nagaidevil",1.2,,"Adult",72c4654zJO
 "Re-Animator (Original 2022)","Re-Animator (Original 2022)",Original,2022,,SS,,"Movie, Horror",,,,,"Balutito, HauntFreaks, JPSalas",1.2,,"MOD, Adult",VOvPOpOyI7
 "Ready Jet Go (Original 2022)","Ready Jet Go (Original 2022)",Original,2022,,,,"TV Show, Science Fiction",,,,,"Mark1",1.0.0,,,fIOn86PHUj
-"Ready Player One (Original 2024)","Ready Player One (Original 2024)",Original,2024,,SS,,,,,,,"Bpickinpaugh, Omacade",1.4.0,,,JGn39ZBytl
+"Ready Player One (Original 2024)","Ready Player One (Original 2024)",Original,2024,,SS,,,,,,,"Bpickinpaugh, Omacade",1.5.0,,,JGn39ZBytl
 "Ready...Aim...Fire! (Gottlieb 1983)","Ready...Aim...Fire! (Gottlieb 1983)",Gottlieb,1983,4,SS,,"Shooting Gallery","http://www.ipdb.org/machine.cgi?id=1924",1924,,"Adolf Seitz Jr.","Rascal, Destruk, Gaston, Rawd, Thalamus, BorgDog, Arngrim, 32assassin, TAB",1.1,,"SSF",jmeryXP9Wh
 "Red & Ted's Road Show (Williams 1994)","Red & Ted's Road Show (Williams 1994)",Williams,1994,4,SS,,"Travel","http://www.ipdb.org/machine.cgi?id=1972",1972,,"Pat Lawlor","LoadedWeapon, VPW",1.0.0,rs_l6,"MOD",ejwn0i8eIl
 "Red & Ted's Road Show (Williams 1994)","Red & Ted's Road Show (Williams 1994)",Williams,1994,4,SS,,"Travel","http://www.ipdb.org/machine.cgi?id=1972",1972,,"Pat Lawlor","VPW, Knorr, Skitso, Fluffhead, Wylte, Rik, nFozzy, Fleep, Sixtoe, Apophis, Rothbauerw, ClarkKent, PinstratsDan",1.4,rs_l6,"FastFlips, SSF, VR, FSS, MOD, Hybrid, nFozzy, Fleep",6f6Ehv_CPM
@@ -3451,7 +3452,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Smooth Hot Ride 3 - From Natchez to Mike Vegas (Original 2023)","Smooth Hot Ride 3 - From Natchez to Mike Vegas (Original 2023)",Original,2023,,,,"Nevada, Las Vegas, Travel",,,,,"Vpfmike42",2.0,,,RYqKc5RyUs
 "Snake DMD (Original 2021)","Snake DMD (Original 2021)",Original,2021,1,SS,,,,,,,"Tartzani",1.0,,,_BIP9kOqax
 "Snake Machine (Taito do Brasil 1982)","Snake Machine (Taito do Brasil 1982)",Taito do Brasil,1982,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4585",4585,,"Joe Joos Jr.","JPSalas, Carlos Guizzo, Pmax65, Akiles50000, Rothbauerw",4.0.0,snake,"FastFlips, SSF, LUT",DICfGmxH
-"Snow Derby (Gottlieb 1970)","Snow Derby (Gottlieb 1970)",Gottlieb,1970,2,EM,,"Sports, Skiing, Snowmobiling","http://www.ipdb.org/machine.cgi?id=2229",2229,,"Ed Krynski","EMUnderdogs, Silversurfer, Teisen, HauntFreaks, Cliffy",1.1.2,,"Fleep, MOD",cpU_ygyrjg
+"Snow Derby (Gottlieb 1970)","Snow Derby (Gottlieb 1970)",Gottlieb,1970,2,EM,,"Sports, Skiing, Snowmobiling","http://www.ipdb.org/machine.cgi?id=2229",2229,,"Ed Krynski","EMUnderdogs, Silversurfer, Teisen, HauntFreaks, Cliffy, Abhcoide",1.1.3,,"Fleep, MOD",cpU_ygyrjg
 "Snow Derby (Gottlieb 1970)","Snow Derby (Gottlieb 1970)",Gottlieb,1970,2,EM,,"Sports, Skiing, Snowmobiling","http://www.ipdb.org/machine.cgi?id=2229",2229,,"Ed Krynski","Mustang1961, Loserman76",1.0c,,,u1oYBkKv-p
 "Snow Derby (Gottlieb 1970)","Snow Derby (Gottlieb 1970)",Gottlieb,1970,2,EM,,"Sports, Skiing, Snowmobiling","http://www.ipdb.org/machine.cgi?id=2229",2229,,"Ed Krynski","Loserman76",1.0.0f,,,EZjLgYAe
 "Snow Queen (Gottlieb 1970)","Snow Queen (Gottlieb 1970)",Gottlieb,1970,4,EM,,"Sports, Skiing","http://www.ipdb.org/machine.cgi?id=2230",2230,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0b,,,7RrRifxZ
