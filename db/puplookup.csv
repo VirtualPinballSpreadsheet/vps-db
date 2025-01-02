@@ -653,8 +653,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Brave Team (Inder 1985)","Brave Team (Inder 1985)",Inder,1985,,SS,,"Motorcycles",,,,,"Ext2k, JPSalas, Akiles50000, Nestor, Pedator, TastyWasps",1.0.0,brvteam,"VR",lSz5Sccejh
 "Brave Team (Inder 1985)","Brave Team (Inder 1985)",Inder,1985,,SS,,"Motorcycles",,,,,"JPSalas, Nestor, Pedator, Akiles50000",4.0.1,brvteam,"SSF, LUT",jp01AIIq8P
 "Bravestarr (Original 2021)","Bravestarr (Original 2021)",Original,2021,1,EM,,"Animation, Cartoon, Kids",,,,,"MellerMeller, JPSalas",1.0,,"Kids",74IzDopjY8
-"Break (Video Dens 1986)","Break (Video Dens 1986)",Video Dens,1986,4,SS,,,"https://www.ipdb.org/machine.cgi?id=5569",5569,,,"Javito, Destruk",2.0.0,break,"Music",iF7th8WSeM
-"Break (Video Dens 1986)","Break (Video Dens 1986)",Video Dens,1986,4,SS,,,"https://www.ipdb.org/machine.cgi?id=5569",5569,,,"Xenonph, TAB, Destruk, Dboyrecords, Javito, Slydog43",2.1,break,"MOD",lH0VPMPALm
+"Break (Video Dens 1986)","Break (Video Dens 1986)",Video Dens,1986,4,SS,,,"https://www.ipdb.org/machine.cgi?id=5569",5569,,,"Xenonph, TAB, Destruk, Dboyrecords, Javito, Slydog43, STAT",2.1b,break,"MOD",lH0VPMPALm
+"Break (Video Dens 1986)","Break (Video Dens 1986)",Video Dens,1986,4,SS,,,"https://www.ipdb.org/machine.cgi?id=5569",5569,,,"Javito, Destruk, STAT",2.0.0,break,"Music",iF7th8WSeM
 "Breaking Bad (Original 2021)","Breaking Bad (Original 2021)",Original,2021,,,,"TV Show",,,,,"Balutito, AgentEighty6",1.0.2,,"MOD, Music",kqlTDuc3uP
 "Breaking Bad (Original 2022)","Breaking Bad (Original 2022)",Original,2022,4,SS,,"TV Show, Crime",,,,,"VP_Cooks, Humankind14, Laurynsach, JPSalas",1.0.1,strngsci,"MOD",FoQ46b4MD0
 "Breakshot (Capcom 1996)","Breakshot (Capcom 1996)",Capcom,1996,4,SS,,"Sports, Billiards","http://www.ipdb.org/machine.cgi?id=3784",3784,,"Greg Kmiec","VPW, Niwak, Sixtoe, Apophis, TastyWasps, ClarkKent, Flupper",1.1,bsv103,"Hybrid, VR, SSF, nFozzy, Fleep",5QKRlioCxO
@@ -677,9 +677,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Bubble Bobble (Original 2006)","Bubble Bobble (Original 2006)",Original,2006,,,,"Video Game",,,,,"Ruckage",1.0,,,WgwHg4f_my
 "Bubblegum Crisis MegaTokyo 2035 (Original 2011)","Bubblegum Crisis MegaTokyo 2035 (Original 2011)",Original,2011,4,SS,,"Anime, Science Fiction, Kids",,,,,"Majoor, Neo",1.0,,,ZymQp95azO
 "Buccaneer (J. Esteban 1976)","Buccaneer (J. Esteban 1976)",J. Esteban,1976,4,EM,,"Adventure, Pirates","https://www.ipdb.org/machine.cgi?id=6276",6276,,,"Halen, Teisen, BorgDog, JPSalas, Deni Ostanelli, Aciolly, Carlos Guizzo",1.0,,,hGIvqA3IND
+"Buccaneer (Gottlieb 1948)","Buccaneer (Gottlieb 1948)",Gottlieb,1948,1,EM,,"Adventure, Pirates, Nautical","https://www.ipdb.org/machine.cgi?id=390",390,,"Harry Mabs","Itchigo, Pbecker1946",1.0.0,,,ns9wOmnUCN
 "Buccaneer (Gottlieb 1948)","Buccaneer (Gottlieb 1948)",Gottlieb,1948,1,EM,,"Adventure, Pirates, Nautical","https://www.ipdb.org/machine.cgi?id=390",390,,"Harry Mabs","Okobojimusky, Francisco Pozo",1.1,,"MOD",LoKPcpc3Ys
 "Buccaneer (Gottlieb 1948)","Buccaneer (Gottlieb 1948)",Gottlieb,1948,1,EM,,"Adventure, Pirates, Nautical","https://www.ipdb.org/machine.cgi?id=390",390,,"Harry Mabs","Francisco Pozo",1.0,,,x0nI03UAD8
-"Buccaneer (Gottlieb 1948)","Buccaneer (Gottlieb 1948)",Gottlieb,1948,1,EM,,"Adventure, Pirates, Nautical","https://www.ipdb.org/machine.cgi?id=390",390,,"Harry Mabs","Itchigo, Pbecker1946",1.0.0,,,ns9wOmnUCN
+"Buccaneer (Gottlieb 1948)","Buccaneer (Gottlieb 1948)",Gottlieb,1948,1,EM,,"Adventure, Pirates, Nautical","https://www.ipdb.org/machine.cgi?id=390",390,,"Harry Mabs","Polsonator2, Pbecker1946, Itchigo",1.0.0,,,Lv4b73iAzW
 "Buccaneer (Gottlieb 1976)","Buccaneer (Gottlieb 1976)",Gottlieb,1976,1,EM,,"Adventure, Pirates, Nautical","http://www.ipdb.org/machine.cgi?id=391",391,,"Ed Krynski","RajoJoey, Loserman76, GNance",1.0,,"VR, Hybrid, FSS, MOD, LUT",5Kk3YlC9bx
 "Buccaneer (Gottlieb 1976)","Buccaneer (Gottlieb 1976)",Gottlieb,1976,1,EM,,"Adventure, Pirates, Nautical","http://www.ipdb.org/machine.cgi?id=391",391,,"Ed Krynski","Loserman76",1.0.0f,,,woOTTuxoJS
 "Buccaneer (Gottlieb 1976)","Buccaneer (Gottlieb 1976)",Gottlieb,1976,1,EM,,"Adventure, Pirates, Nautical","http://www.ipdb.org/machine.cgi?id=391",391,,"Ed Krynski","Allknowing2012",1.0,,,roaObKr-
