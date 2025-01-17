@@ -50,7 +50,7 @@ const buildCsv = (games) => {
   const _games = games.sort((a, b) => (b.name > a.name ? -1 : 1));
 
   for (const game of _games) {
-    for (const t of game.tableFiles) {
+    for (const t of game.tableFiles || []) {
       const GameName = sanitizeFilename(getTableName(game));
       const row = [
         `"${t.gameFileName || GameName}"`, // GameFileName
