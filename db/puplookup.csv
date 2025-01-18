@@ -471,14 +471,14 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Big Bang Bar (Capcom 1996)","Big Bang Bar (Capcom 1996)",Capcom,1996,4,SS,,"Science Fiction, Aliens","http://www.ipdb.org/machine.cgi?id=4001",4001,,"Rob Morrison","TheGhost787, Ninuzzu",1.0,bbb109,,zgPRlUWkAv
 "Big Ben (Williams 1975)","Big Ben (Williams 1975)",Williams,1975,1,EM,,"World Places, Landmarks","http://www.ipdb.org/machine.cgi?id=232",232,,"Steve Kordek","Margoni",1.0,,,2cjYabc8Ue
 "Big Ben (Williams 1975)","Big Ben (Williams 1975)",Williams,1975,1,EM,,"World Places, Landmarks","http://www.ipdb.org/machine.cgi?id=232",232,,"Steve Kordek","HSM, roccodimarco, Dboyrecords, STAT, MajikBubble",1.2,,,rgwmMQht
+"Big Brave (Gottlieb 1974)","Big Brave (Gottlieb 1974)",Gottlieb,1974,2,EM,,"American West, Native Americans","http://www.ipdb.org/machine.cgi?id=234",234,,"Ed Krynski","Ext2k, JPSalas",1.0,,"Hybrid, VR, MOD, Mixed Reality",IE3WlU12XF
+"Big Brave (Gottlieb 1974)","Big Brave (Gottlieb 1974)",Gottlieb,1974,2,EM,,"American West, Native Americans","http://www.ipdb.org/machine.cgi?id=234",234,,"Ed Krynski","JPSalas, Elo_Rey, FRMI, Popotte, Akiles50000",5.5,,"4k",tgyRNmVz
 "Big Brave (Gottlieb 1974)","Big Brave (Gottlieb 1974)",Gottlieb,1974,2,EM,,"American West, Native Americans","http://www.ipdb.org/machine.cgi?id=234",234,,"Ed Krynski","Larouillas, HauntFreaks, Loserman76, Fluffhead, Cliffy",1.0.0,,"MOD, Music",MP410esOYr
 "Big Brave (Gottlieb 1974)","Big Brave (Gottlieb 1974)",Gottlieb,1974,2,EM,,"American West, Native Americans","http://www.ipdb.org/machine.cgi?id=234",234,,"Ed Krynski","HauntFreaks, Loserman76, Fluffhead35, Cliffy",4.1.1,,"nFozzy, Fleep, Hybrid, VR, SSF",yoYq8qIg
 "Big Brave (Gottlieb 1974)","Big Brave (Gottlieb 1974)",Gottlieb,1974,2,EM,,"American West, Native Americans","http://www.ipdb.org/machine.cgi?id=234",234,,"Ed Krynski","Larouillas, HauntFreaks, Loserman76, Fluffhead35",1.0.0,,"MOD",fxvtqFnj__
 "Big Brave (Gottlieb 1974)","Big Brave (Gottlieb 1974)",Gottlieb,1974,2,EM,,"American West, Native Americans","http://www.ipdb.org/machine.cgi?id=234",234,,"Ed Krynski","RajoJoey, Loserman76, HauntFreaks",1.0.0,,"VR, Hybrid, FSS, MOD, LUT",vVZQeOgSKL
-"Big Brave (Gottlieb 1974)","Big Brave (Gottlieb 1974)",Gottlieb,1974,2,EM,,"American West, Native Americans","http://www.ipdb.org/machine.cgi?id=234",234,,"Ed Krynski","JPSalas, Elo_Rey, FRMI, Popotte, Akiles50000",5.5,,"4k",tgyRNmVz
 "Big Brave (Gottlieb 1974)","Big Brave (Gottlieb 1974)",Gottlieb,1974,2,EM,,"American West, Native Americans","http://www.ipdb.org/machine.cgi?id=234",234,,"Ed Krynski","Loserman76, HauntFreaks",1.0.0f,,,zWr_33XGjw
 "Big Brave (Gottlieb 1974)","Big Brave (Gottlieb 1974)",Gottlieb,1974,2,EM,,"American West, Native Americans","http://www.ipdb.org/machine.cgi?id=234",234,,"Ed Krynski","Greywolf, Popotte",5.0,,"MOD",sjdat4-ssU
-"Big Brave (Gottlieb 1974)","Big Brave (Gottlieb 1974)",Gottlieb,1974,2,EM,,"American West, Native Americans","http://www.ipdb.org/machine.cgi?id=234",234,,"Ed Krynski","Ext2k, JPSalas",1.0,,"Hybrid, VR, MOD, Mixed Reality",IE3WlU12XF
 "Big Buck Hunter Pro (Stern 2010)","Big Buck Hunter Pro (Stern 2010)",Stern,2010,4,SS,,"Hunting, Licensed Theme","http://www.ipdb.org/machine.cgi?id=5513",5513,,"John Borg","TastyWasps, Retro27, 32assassin, 85vett, HauntFreaks, DarthVito, Redbone, Sixtoe",1.10,bbh_170,"nFozzy, Fleep, Hybrid, VR, LUT",XyIigsNsKG
 "Big Buck Hunter Pro (Stern 2010)","Big Buck Hunter Pro (Stern 2010)",Stern,2010,4,SS,,"Hunting, Licensed Theme","http://www.ipdb.org/machine.cgi?id=5513",5513,,"John Borg","Bigus1, 32assassin, 85vett",2.0,bbh_170,,KZfhhA6dcs
 "Big Buck Hunter Pro (Stern 2010)","Big Buck Hunter Pro (Stern 2010)",Stern,2010,4,SS,,"Hunting, Licensed Theme","http://www.ipdb.org/machine.cgi?id=5513",5513,,"John Borg","Retro27, 32assassin, 85vett",1.3.3,bbh_170,"VR",er5TndpCA8
@@ -2030,6 +2030,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Teisen, JPSalas",1.0,,"MOD",0fvaP47u4c
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Solters, JPSalas",1.0,,"VR, FlexDMD",a5KiAZdUz2
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"jwkramer61, JPSalas",1.1.2,,"FlexDMD, MOD",8zJDEwlpyu
+"JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Ext2k, JPSalas, Solters, DaRdog81, Mesterial",1.0.0,,"Hybrid, VR, FSS, Mixed Reality",OsQN8UhlQq
 "JP's Spider-Man (Original 2018)","JP's Spider-Man (Original 2018)",Original,2018,4,SS,,"Licensed Theme, Comics, Superheroes","http://www.ipdb.org/machine.cgi?id=5237",5237,,"Steve Ritchie","JPSalas",5.0.2,smanve_101,"SSF, LUT",dsBoVTGj
 "JP's Spider-Man (Original 2018)","JP's Spider-Man (Original 2018)",Original,2018,4,SS,,"Licensed Theme, Comics, Superheroes","http://www.ipdb.org/machine.cgi?id=5237",5237,,"Steve Ritchie","TeamTuga, Pedro Pires, pedroperes02, Trochjochel, JPSalas",1.0.0,smanve_101,"MOD",FaPiG9T5e3
 "JP's Star Trek (Enterprise Limited Edition) (Original 2020)","JP's Star Trek (Enterprise Limited Edition) (Original 2020)",Original,2020,4,SS,,"Licensed Theme, Outer Space, Science Fiction, Space Fantasy, Movie","https://www.ipdb.org/machine.cgi?id=6045",6045,,"Steve Ritchie","JPSalas, Carlos Guizzo, Thalamus",5.0.1,st_162h,"LUT",5nBoxs6g
@@ -2431,7 +2432,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Major Payne (Original 2021)","Major Payne (Original 2021)",Original,2021,,EM,,"Movie",,,,,"Burgereater289, MellerMeller",1.0,,"MOD",yoJq7rtb45
 "Manowar (Original 2019)","Manowar (Original 2019)",Original,2019,4,SS,,"Music",,,,,"Siggi, JPSalas",1.0,alpok_l6,"Music, MOD",2YHZ8se0
 "Manowar (Original 2021)","Manowar (Original 2021)",Original,2021,4,SS,,"Music",,,,,"TeamTuga, pedroperes02, Pedro Pires, ScottyWic, John Memeo, JoePicasso, Movieguru, JPSalas",2.0,,"Music, FlexDMD, MOD",QechES9R
-"Marble Queen (Gottlieb 1953)","Marble Queen (Gottlieb 1953)",Gottlieb,1953,1,EM,,"Playing Marbles","https://www.ipdb.org/machine.cgi?id=1541",1541,,"Wayne Neyens","Polsonator2, Itchigo, Pbecker1946",1.0.1,,,_xWI8b9o4m
+"Marble Queen (Gottlieb 1953)","Marble Queen (Gottlieb 1953)",Gottlieb,1953,1,EM,,"Playing Marbles","https://www.ipdb.org/machine.cgi?id=1541",1541,,"Wayne Neyens","Polsonator2, Itchigo, Pbecker1946",1.0.2,,,_xWI8b9o4m
 "Marilyn Manson (Original 2021)","Marilyn Manson (Original 2021)",Original,2021,,EM,,"Music, Heavy Metal",,,,,"Darthwhat, Destruk, Hawkeyez88, Goldchicco",1.0.0,,"Music, FlexDMD",6Dk-QSeI
 "Marilyn Monroe Tribute (Original 2022)","Marilyn Monroe Tribute (Original 2022)",Original,2022,,SS,,"Celebrities",,,,,"Icepinball, JPSalas",1.01,flash_l1,"MOD",RIXnED5Nod
 "Mariner (Bally 1971)","Mariner (Bally 1971)",Bally,1971,4,EM,,"Sports, Aquatic, Fishing, Scuba Diving","http://www.ipdb.org/machine.cgi?id=1546",1546,,"Ted Zale","Scottacus, Kds70, Onevox, Whirlwind, Bord",2.06,,"VR, FSS",nfZF5lk-
@@ -2633,8 +2634,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Moon Station (Original 2021)","Moon Station (Original 2021)",Original,2021,,SS,,"Science Fiction",,,,,"chepas",1.0.2,,,R-oXZ4uw
 "Mortal Kombat (Original 2016)","Mortal Kombat (Original 2016)",Original,2016,,SS,,"Video Game, Martial Arts",,,,,"TheGhost787",1.0,,,mrr3ry_M
 "Mortal Kombat II (Original 2016)","Mortal Kombat II (Original 2016)",Original,2016,,SS,,"Video Game, Martial Arts",,,,,"Javier15, JPSalas",1.0.1,,"Music",l595YApN
-"Motley Crue (Original 2024)","Motley Crue (Original 2024)",Original,2024,4,SS,,"Music, Heavy Metal",,,,,"worldofvp, X13.Pinner, Icepinball, Mason, Goldchicco",1.0.0,,"MOD, FlexDMD, Music, LUT",334s_AguDZ
 "Motley Crue (Original 2017)","Motley Crue (Original 2017)",Original,2017,,SS,,"Music, Heavy Metal",,,,,"Mofstedahl",1.0,,,-TxOjFbE
+"Motley Crue - Carnival Of Sin (Original 2024)","Motley Crue - Carnival Of Sin (Original 2024)",Original,2024,4,SS,,"Music, Heavy Metal",,,,,"X13_Pinner, DrNobody, Mason, WoVP, Goldchicco",1.0.0,,"MOD, FlexDMD, Music, LUT",334s_AguDZ
 "Motordome (Bally 1986)","Motordome (Bally 1986)",Bally,1986,,SS,,"Sports, Motorcycles, Motocross","https://www.ipdb.org/machine.cgi?id=1633",1633,,"Greg Kmiec","JPSalas, Halen, Wildman",1.0.0,motrdome,,ZxAlHYgoyc
 "Motörhead (Original 2018)","Motörhead (Original 2018)",Original,2018,4,SS,,"Music, Heavy Metal",,,,,"Flupper, Thalamus, Xenonph, Wizball, RDuB, Herweh, Kiwi, Fuzzel, Batch, 32assassin",1.2,blkou_l1,"SSF",pCvuGNaK
 "Moulin Rouge (Williams 1965)","Moulin Rouge (Williams 1965)",Williams,1965,1,EM,,"Adventure, Foreign Peoples",,,,"Norm Clark","Ext2k, JPSalas, Halen, HauntFreaks",1.0,,"VR",xSV2VA5xRy
@@ -2774,8 +2775,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Neptune (Gottlieb 1978)","Neptune (Gottlieb 1978)",Gottlieb,1978,1,EM,,"Mythology","http://www.ipdb.org/machine.cgi?id=1662",1662,,"John Osborne","Loserman76, GNance, Pinuck, Chris Aguilar, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,gnltiWz6
 "Neptune (Gottlieb 1978)","Neptune (Gottlieb 1978)",Gottlieb,1978,1,EM,,"Mythology","http://www.ipdb.org/machine.cgi?id=1662",1662,,"John Osborne","BorgDog, HauntFreaks",1.0,,,_K0BPTR6
 "Nevermind The Bollocks (Original 2024)","Nevermind The Bollocks (Original 2024)",Original,2024,4,SS,,,,,,,"DAMONRA, JPSalas",1.0.4,,,lJ1yaizNtr
+"New Wave (Bell Games 1985)","New Wave (Bell Games 1985)",Bell Games,1985,4,SS,,"Music","http://www.ipdb.org/machine.cgi?id=3482",3482,,,"UnclePaulie, Redbone, Cyberpez",2.0.0,newwave,"Hybrid, VR, nFozzy, Fleep",WGVF4_wFq9
 "New Wave (Bell Games 1985)","New Wave (Bell Games 1985)",Bell Games,1985,4,SS,,"Music","http://www.ipdb.org/machine.cgi?id=3482",3482,,,"ScottyVH, Cyberpez, Thalamus, JPSalas",0.72,newwave,,_oNE9WCh
-"New Wave (Bell Games 1985)","New Wave (Bell Games 1985)",Bell Games,1985,4,SS,,"Music","http://www.ipdb.org/machine.cgi?id=3482",3482,,,"UnclePaulie, Redbone, Cyberpez",2.0,newwave,"Hybrid, VR, nFozzy, Fleep",WGVF4_wFq9
 "New World (Playmatic 1976)","New World (Playmatic 1976)",Playmatic,1976,4,EM,,"Historical","https://www.ipdb.org/machine.cgi?id=1672",1672,,,"JPSalas, Pedator",4.0.1,,"LUT",MtNXtRHz
 "New York (Gottlieb 1976)","New York (Gottlieb 1976)",Gottlieb,1976,2,EM,,"American Places, Historical","http://www.ipdb.org/machine.cgi?id=1673",1673,,"Ed Krynski","Leeoneil, Foxyt, Loserman76, Allknowing2012",1.1.0,,,Lw0fc3OeNP
 "New York (Gottlieb 1976)","New York (Gottlieb 1976)",Gottlieb,1976,2,EM,,"American Places, Historical","http://www.ipdb.org/machine.cgi?id=1673",1673,,"Ed Krynski","Loserman76, Wildman, Allknowing2012",1.0.0f,,,Fl9L8I9D
@@ -3104,6 +3105,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Queen - The Show Must Go On (Original 2022)","Queen - The Show Must Go On (Original 2022)",Original,2022,,SS,,"Music",,,,,"Marty02, Allknowing2012",3.5,,"MOD, FlexDMD, Music",gblsaBcNWU
 "Queen of Hearts (Gottlieb 1952)","Queen of Hearts (Gottlieb 1952)",Gottlieb,1952,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=1891",1891,,"Wayne Neyens","Arborelia, Loserman76",1.1.0,,"MOD",tzB_8STQD4
 "Queen of Hearts (Gottlieb 1952)","Queen of Hearts (Gottlieb 1952)",Gottlieb,1952,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=1891",1891,,"Wayne Neyens","Loserman76, Pbecker1946, Itchigo",1.0.0f,,,h8j9OEOe
+"Queen of Hearts (Gottlieb 1952)","Queen of Hearts (Gottlieb 1952)",Gottlieb,1952,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=1891",1891,,"Wayne Neyens","Polsonator2, Loserman76, Pbecker1946, Itchigo, Arborelia",1.0.0,,,-f2N6-20zo
 "Queens of the Stone Age (Original 2021)","Queens of the Stone Age (Original 2021)",Original,2021,,SS,,"Music",,,,,"MellerMeller, Goldchicco, Destruk",1.5,,"Music, SSF, FlexDMD",lH_3BVH97M
 "Quick Draw (Gottlieb 1975)","Quick Draw (Gottlieb 1975)",Gottlieb,1975,2,EM,,"American West","http://www.ipdb.org/machine.cgi?id=1893",1893,,"Ed Krynski","RajoJoey, Loserman76",1.0.0,,"VR, Hybrid, LUT, MOD",lhmfqlB-O_
 "Quick Draw (Gottlieb 1975)","Quick Draw (Gottlieb 1975)",Gottlieb,1975,2,EM,,"American West","http://www.ipdb.org/machine.cgi?id=1893",1893,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,iE2ASzDk
@@ -4168,7 +4170,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Table 60","Infinity Gauntlet, The (Zen Studios 2014)",Zen Studios,2014,4,,,"Licensed Theme, Comics, Superheroes",,,,"Peter Grafl","Zen Studios, Peter Grafl",,,,7z3TLOXoTc
 "Insus, The (Original 2020)","Insus, The (Original 2020)",Original,2020,4,EM,,"Music",,,,,"Marty02",1.0,,"MOD",KlP9tXKo
 "Insus, The (Original 2020)","Insus, The (Original 2020)",Original,2020,4,EM,,"Music",,,,,"Larouillas, Marty02",1.0.0,,,TLFl_QW6Gu
-"Lab 2.0, The (Original 2024)","Lab 2.0, The (Original 2024)",Original,2024,1,EM,,,,,,,"Anthias",2.0,,,B5_AqAP9Qd
+"Lab 2.0, The (Original 2024)","Lab 2.0, The (Original 2024)",Original,2024,1,EM,,,,,,,"Anthias",1.0.0,,,B5_AqAP9Qd
 "Labyrinth, The (Original 2023)","Labyrinth, The (Original 2023)",Original,2023,,SS,,"Movie, Fantasy",,,,,"Jagandy82, JPSalas, Balutito, Nesta78, JoePicasso",3.0,skatebll,,kiBIoviC9t
 "Last Dragon, The (Original 2020)","Last Dragon, The (Original 2020)",Original,2020,,,,"Movie, Martial Arts",,,,,"Fireslayer26",1.3,,"Music",i3YGfqa7
 "Last Ninja, The (Original 2018)","Last Ninja, The (Original 2018)",Original,2018,,SS,,"Video Game, Martial Arts",,,,,"Ivantba, Xenonph, BorgDog, JPSalas",1.1,,"MOD",CAjmCnVY
