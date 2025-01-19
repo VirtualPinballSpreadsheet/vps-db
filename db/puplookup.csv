@@ -963,7 +963,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Cosmic Gunfight (Williams 1982)","Cosmic Gunfight (Williams 1982)",Williams,1982,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=571",571,,"Barry Oursler","32assassin",1.3,csmic_l1,,fFBG56lw
 "Cosmic Lady (Original 2018)","Cosmic Lady (Original 2018)",Original,2018,,SS,,"Outer Space, Mysticism",,,,,"McSquid",0.9,,,Xixsx8xZ
 "Cosmic Princess (Stern 1979)","Cosmic Princess (Stern 1979)",Stern,1979,4,SS,,"Astrology","http://www.ipdb.org/machine.cgi?id=3967",3967,,,"AnonTet, JLou, Popotte, Editoy, Fleep, Smoke, Ravarcade, Raycast, JPSalas",1.7.0,princess,"Fleep, BAM, FizX, SSF",ByGBJ6d_Vd
-"Cosmic Princess (Stern 1979)","Cosmic Princess (Stern 1979)",Stern,1979,4,SS,,"Astrology","http://www.ipdb.org/machine.cgi?id=3967",3967,,,"JPSalas, DedRok_V, Arngrim",5.5.1,princess,"LUT",6POqnbTf
+"Cosmic Princess (Stern 1979)","Cosmic Princess (Stern 1979)",Stern,1979,4,SS,,"Astrology","http://www.ipdb.org/machine.cgi?id=3967",3967,,,"JPSalas, DedRok_V, Arngrim, Ketayeyen",5.5.1,princess,"LUT",6POqnbTf
 "Cosmic Princess (Stern 1979)","Cosmic Princess (Stern 1979)",Stern,1979,4,SS,,"Astrology","http://www.ipdb.org/machine.cgi?id=3967",3967,,,"RajoJoey, Rawd, Rascal, Sixtoe, JPSalas",1.0.3,princess,"VR, LUT, MOD",crgeefCDsC
 "Cosmic Venus (Tilt Movie 1978)","Cosmic Venus (Tilt Movie 1978)",Tilt Movie,1978,,EM,,"Dinosaurs, Outer Space, Space Fantasy","https://www.ipdb.org/machine.cgi?id=5711",5711,,"Michael Sehnert","Ukexpat71, Loserman76, 32assassin",1.1,,,ByjWCKRQ
 "Cosmic Venus (Tilt Movie 1978)","Cosmic Venus (Tilt Movie 1978)",Tilt Movie,1978,,EM,,"Dinosaurs, Outer Space, Space Fantasy","https://www.ipdb.org/machine.cgi?id=5711",5711,,"Michael Sehnert","Loserman76",1.0.0f,,,30Vs0AOK
@@ -1646,8 +1646,6 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Gold Rush (Williams 1971)","Gold Rush (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1036",1036,,"Norm Clark","Loserman76",1.0.0f,,,WHbEvhG0RV
 "Gold Rush (Williams 1971)","Gold Rush (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1036",1036,,"Norm Clark","Drinkcristal, Loserman76, Kees",1.0.0,,"VR",BGRTNgYWX6
 "Gold Rush (Williams 1971)","Gold Rush (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1036",1036,,"Norm Clark","HSM, Loserman76, Kees",1.0,,,DT15YkI7
-"Gold Star (Gottlieb 1954)","Gold Star (Gottlieb 1954)",Gottlieb,1954,1,EM,,"Pageantry","https://www.ipdb.org/machine.cgi?id=1038",1038,,,"Polsonator2, Cliffy, Itchigo, Pbecker1946",1.0.1,,,IAutNheU_O
-"Gold Star (Gottlieb 1954)","Gold Star (Gottlieb 1954)",Gottlieb,1954,1,EM,,"Pageantry","https://www.ipdb.org/machine.cgi?id=1038",1038,,,"Polsonator2, Itchigo, Pbecker1946, Cliffy",1.0.1,,,hgrZv7e2ti
 "Gold Star (Gottlieb 1954)","Gold Star (Gottlieb 1954)",Gottlieb,1954,1,EM,,,"https://www.ipdb.org/machine.cgi?id=1038",1038,,,"Polsonator2, Cliffy, Itchigo, Pbecker1946",1.0.1,,,Noty778pZC
 "Gold Strike (Gottlieb 1975)","Gold Strike (Gottlieb 1975)",Gottlieb,1975,1,EM,,"American West, Prospecting","http://www.ipdb.org/machine.cgi?id=1042",1042,,"Ed Krynski","RajoJoey, Loserman76",1.0.0,,"VR, Hybrid, LUT, MOD",nRVA_Qe0oG
 "Gold Strike (Gottlieb 1975)","Gold Strike (Gottlieb 1975)",Gottlieb,1975,1,EM,,"American West, Prospecting","http://www.ipdb.org/machine.cgi?id=1042",1042,,"Ed Krynski","Loserman76",1.0a,,,B-O2uiHF
@@ -2014,7 +2012,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "JP's Iron Man 2 - Armored Adventures (Original 2018)","JP's Iron Man 2 - Armored Adventures (Original 2018)",Original,2018,4,SS,,"Comics, Fantasy, Licensed Theme, Superheroes","http://www.ipdb.org/machine.cgi?id=6154",6154,,"John Borg","Morttis, JPSalas, Carlos Guizzo",3.0-3.0,im_183ve,,hbPwe7B5zm
 "JP's Mephisto (Original 2021)","JP's Mephisto (Original 2021)",Original,2021,4,SS,,"Supernatural, Horror","http://www.ipdb.org/machine.cgi?id=4077",4077,,,"JPSalas, Joshua, Berk104, Leonard",5.0.1,,"FlexDMD, LUT",jmG_D1rC
 "JP's Mephisto (Original 2021)","JP's Mephisto (Original 2021)",Original,2021,4,SS,,"Supernatural, Horror","http://www.ipdb.org/machine.cgi?id=4077",4077,,,"Ext2k, JPSalas, Joshua, Berk104, Leonard",1.0.0,,"VR, MOD, Mixed Reality",q4bJG2UE_B
-"JP's Metallica Pro (Stern 2013)","JP's Metallica Pro (Stern 2013)",Stern,2013,4,SS,,"Licensed Theme, Music","https://www.ipdb.org/machine.cgi?id=6028",6028,,"John Borg","JPSalas, Dark, EBisLit",5.5.0,mtl_180,,P-R9a8GPd1
+"JP's Metallica Pro (Stern 2013)","JP's Metallica Pro (Stern 2013)",Stern,2013,4,SS,,"Licensed Theme, Music","https://www.ipdb.org/machine.cgi?id=6028",6028,,"John Borg","JPSalas, Dark, EBisLit, Ryesteve, Joeggernaut",5.5.1,mtl_180,,P-R9a8GPd1
 "JP's Motor Show (Original 2017)","JP's Motor Show (Original 2017)",Original,2017,4,SS,,"Monster Truck Rally, Motorcycles","http://www.ipdb.org/machine.cgi?id=3631",3631,,"Tony Ramunni, Mauro Ferrari","JPSalas, Destruk, Rothbauerw, TAB",4.0.0,motrshow,"SSF, LUT",RS8rIAuG
 "JP's NASCAR (Original 2015)","JP's NASCAR (Original 2015)",Original,2015,4,SS,,"NASCAR, Auto Racing, Cars, Licensed Theme","http://www.ipdb.org/machine.cgi?id=5093",5093,,"Pat Lawlor","JPSalas, Arngrim, Rothbauerw",5.0.1,dalejr,"SSF, LUT",mqN6b0Ls
 "JP's Papa Smurf (Original 2015)","JP's Papa Smurf (Original 2015)",Original,2015,,SS,,"Animation, Kids",,,,,"JPSalas, Fuzzel, Toxie, BrandNew, Mukuste, BorgDog",5.0.1,,"Kids, FlexDMD",Z94VT6XA
@@ -2026,12 +2024,12 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "JP's Seawitch (Stern 1980)","JP's Seawitch (Stern 1980)",Stern,1980,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2089",2089,,"Mike Kubin","JPSalas",4.3.0,seawitch,"SSF, LUT",hMM0J00w
 "JP's Smurfette (Original 2015)","JP's Smurfette (Original 2015)",Original,2015,,EM,,"Animation, Kids",,,,,"JPSalas, Arngrim, HauntFreaks",5.5.0,,"FlexDMD, Kids",IKK_dLXD
 "JP's Smurfette (Original 2015)","JP's Smurfette (Original 2015)",Original,2015,,EM,,"Animation, Kids",,,,,"BorgDog, JPSalas",1.1,,,WmTckSZnYn
+"JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Ext2k, JPSalas, Solters, DaRdog81, Mesterial",1.0.0,,"Hybrid, VR, FSS, Mixed Reality",OsQN8UhlQq
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"JPSalas",5.6.1,,"FlexDMD, LUT",sLvaS6Io
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Balutito, JPSalas",1.0.0,,"MOD, FlexDMD",e-dLHYkCah
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Teisen, JPSalas",1.0,,"MOD",0fvaP47u4c
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Solters, JPSalas",1.0,,"VR, FlexDMD",a5KiAZdUz2
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"jwkramer61, JPSalas",1.1.2,,"FlexDMD, MOD",8zJDEwlpyu
-"JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Ext2k, JPSalas, Solters, DaRdog81, Mesterial",1.0.0,,"Hybrid, VR, FSS, Mixed Reality",OsQN8UhlQq
 "JP's Spider-Man (Original 2018)","JP's Spider-Man (Original 2018)",Original,2018,4,SS,,"Licensed Theme, Comics, Superheroes","http://www.ipdb.org/machine.cgi?id=5237",5237,,"Steve Ritchie","JPSalas",5.0.2,smanve_101,"SSF, LUT",dsBoVTGj
 "JP's Spider-Man (Original 2018)","JP's Spider-Man (Original 2018)",Original,2018,4,SS,,"Licensed Theme, Comics, Superheroes","http://www.ipdb.org/machine.cgi?id=5237",5237,,"Steve Ritchie","TeamTuga, Pedro Pires, pedroperes02, Trochjochel, JPSalas",1.0.0,smanve_101,"MOD",FaPiG9T5e3
 "JP's Star Trek (Enterprise Limited Edition) (Original 2020)","JP's Star Trek (Enterprise Limited Edition) (Original 2020)",Original,2020,4,SS,,"Licensed Theme, Outer Space, Science Fiction, Space Fantasy, Movie","https://www.ipdb.org/machine.cgi?id=6045",6045,,"Steve Ritchie","JPSalas, Carlos Guizzo, Thalamus",5.0.1,st_162h,"LUT",5nBoxs6g
@@ -2090,7 +2088,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "James Bond 007 (Gottlieb 1980)","James Bond 007 (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Licensed Theme, Movie, Espionage","http://www.ipdb.org/machine.cgi?id=1286",1286,,"Allen Edwall","32assassin, Mfuegemann",1.0,jamesb,"Music",A1wxTjE3
 "James Cameron's Avatar (Stern 2010)","James Cameron's Avatar (Stern 2010)",Stern,2010,4,SS,,"Fantasy, Licensed Theme","http://www.ipdb.org/machine.cgi?id=5618",5618,,"John Borg, Lonnie D. Ropp","GeorgeH, Gimli, JLou, AnonTet, Fleep, Popotte, Lacarril, Francisco666, TerryRed, NitroNimbus, VPGamer75, Xenonph, Dino007, SLAMT1LT",3.0,avr_110,"MOD, Fleep",KZrnRk9ZVe
 "James Cameron's Avatar (Stern 2010)","James Cameron's Avatar (Stern 2010)",Stern,2010,4,SS,,"Fantasy, Licensed Theme","http://www.ipdb.org/machine.cgi?id=5618",5618,,"John Borg, Lonnie D. Ropp","Tartzani, TastyWasps, Apophis, Freneticamnesic, Thalamus, Oqqsan, 85vett, 32assassin, HauntFreaks",1.1.2,avr_110,"MOD, Fleep, nFozzy, VR, Hybrid",DYof1TQz0-
-"James Cameron's Avatar (Stern 2010)","James Cameron's Avatar (Stern 2010)",Stern,2010,4,SS,,"Fantasy, Licensed Theme","http://www.ipdb.org/machine.cgi?id=5618",5618,,"John Borg, Lonnie D. Ropp","Bigus1, Thalamus, Freneticamnesic, 85vett, 32assassin, HauntFreaks",2.1,avr_110,"MOD",_KkJPEqB
+"James Cameron's Avatar (Stern 2010)","James Cameron's Avatar (Stern 2010)",Stern,2010,4,SS,,"Fantasy, Licensed Theme","http://www.ipdb.org/machine.cgi?id=5618",5618,,"John Borg, Lonnie D. Ropp","Bigus1, Thalamus, Freneticamnesic, 85vett, 32assassin, HauntFreaks",3.0,avr_110,"MOD",_KkJPEqB
 "James Cameron's Avatar (Stern 2010)","James Cameron's Avatar (Stern 2010)",Stern,2010,4,SS,,"Fantasy, Licensed Theme","http://www.ipdb.org/machine.cgi?id=5618",5618,,"John Borg, Lonnie D. Ropp","Pattyg234, Tartzani, Freneticamnesic, Thalamus, Oqqsan, 85vett, 32assassin, HauntFreaks",1.1,avr_110,"MOD, VR",zeTIVsiQTs
 "James Cameron's Avatar (Stern 2010)","James Cameron's Avatar (Stern 2010)",Stern,2010,4,SS,,"Fantasy, Licensed Theme","http://www.ipdb.org/machine.cgi?id=5618",5618,,"John Borg, Lonnie D. Ropp","Morttis, Arconovum, Thalamus, Freneticamnesic, JPSalas",1.19-3.0,avr_110,"FSS, MOD",g0qD-sMF
 "James Cameron's Avatar (Stern 2010)","James Cameron's Avatar (Stern 2010)",Stern,2010,4,SS,,"Fantasy, Licensed Theme","http://www.ipdb.org/machine.cgi?id=5618",5618,,"John Borg, Lonnie D. Ropp","Thalamus, Freneticamnesic, Carney, GTXJoe, 85vett, 32assassin, HauntFreaks",1.19,avr_110,"FastFlips, SSF, MOD",45DV18v2
@@ -2277,7 +2275,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "King of Diamonds (Gottlieb 1967)","King of Diamonds (Gottlieb 1967)",Gottlieb,1967,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1372",1372,,"Ed Krynski","Loserman76",1.0.0f,,,PhwalUEo
 "King of Diamonds (Gottlieb 1967)","King of Diamonds (Gottlieb 1967)",Gottlieb,1967,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1372",1372,,"Ed Krynski","EMUnderdogs, Loserman76",1.3,,,Ae4Rj1P3-M
 "King of Rock and Roll (Original 2022)","King of Rock and Roll (Original 2022)",Original,2022,,SS,,"Music",,,,,"Marty02, JPSalas",2.1,,"Music, MOD",6C2L6mOx
-"Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","Bigus1, ICPjuggla, Noitbe11, Kiwi",2.4,kpv106,"MOD",ASgpE6Yx
+"Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","Bigus1, ICPjuggla, Noitbe11, Kiwi",3.0,kpv106,"MOD",ASgpE6Yx
 "Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","SG1bsoN, ICPjuggla",1.1,kpv106,"MOD",XgH1k98-
 "Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","Psiomicron, Sixtoe, Freneticamnesic",1.0.4,kpv106,"MOD, VR",pqmy7RLlSC
 "Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","Morttis, Arconovum, Bigus1, ICPjuggla",1.0-1.0,kpv106,"FSS, MOD",HlRz9UG9
@@ -2946,7 +2944,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Phase II (J. Esteban 1975)","Phase II (J. Esteban 1975)",J. Esteban,1975,,EM,,"Mysticism","https://www.ipdb.org/machine.cgi?id=5787",5787,,,"Loserman76",1.0a,,,iyIWDkZX
 "Phil Collins (Original 2023)","Phil Collins (Original 2023)",Original,2023,,SS,,,,,,,"Marty02, JPSalas",3.3,,"LUT",m1BSlAyBqI
 "Phish (Original 2024)","Phish (Original 2024)",Original,2024,1,EM,,"Music, Rock",,,,,"Neekzz",1.2,,"MOD, Music",H9_s-kv83_
-"Phoenix (Williams 1978)","Phoenix (Williams 1978)",Williams,1978,,SS,,"Mythology","https://www.ipdb.org/machine.cgi?id=1780",1780,,"Barry Oursler","JPSalas, Halen, Arngrim",4.0.0,phnix_l1,,yZMbDIKg
+"Phoenix (Williams 1978)","Phoenix (Williams 1978)",Williams,1978,,SS,,"Mythology","https://www.ipdb.org/machine.cgi?id=1780",1780,,"Barry Oursler","JPSalas, Halen, Arngrim",5.5.0,phnix_l1,,yZMbDIKg
 "Pi Rats (Original 2024)","Pi Rats (Original 2024)",Original,2024,4,SS,,,,,,,"Anthias",1.0.0,,,1sMiSSrIXE
 "Piggy Bank Blitz (Original 2023)","Piggy Bank Blitz (Original 2023)",Original,2023,,,,"Flipperless",,,,,"Arelyel, Kevin MacLeod, Studlygoorite, Iwantpinball, Movieg1",2.1.0,,"FlexDMD",ws_hvA6-iT
 "Pin City (Original 2018)","Pin City (Original 2018)",Original,2018,,SS,,"Example",,,,,"Malform11",1.0,,,Ej8cxtA4
@@ -4172,7 +4170,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Table 60","Infinity Gauntlet, The (Zen Studios 2014)",Zen Studios,2014,4,,,"Licensed Theme, Comics, Superheroes",,,,"Peter Grafl","Zen Studios, Peter Grafl",,,,7z3TLOXoTc
 "Insus, The (Original 2020)","Insus, The (Original 2020)",Original,2020,4,EM,,"Music",,,,,"Marty02",1.0,,"MOD",KlP9tXKo
 "Insus, The (Original 2020)","Insus, The (Original 2020)",Original,2020,4,EM,,"Music",,,,,"Larouillas, Marty02",1.0.0,,,TLFl_QW6Gu
-"Lab 2.0, The (Original 2024)","Lab 2.0, The (Original 2024)",Original,2024,1,EM,,,,,,,"Anthias",1.0.0,,,B5_AqAP9Qd
+"Lab 2.0, The (Original 2024)","Lab 2.0, The (Original 2024)",Original,2024,1,EM,,,,,,,"Anthias",2.0,,,B5_AqAP9Qd
 "Labyrinth, The (Original 2023)","Labyrinth, The (Original 2023)",Original,2023,,SS,,"Movie, Fantasy",,,,,"Jagandy82, JPSalas, Balutito, Nesta78, JoePicasso",3.0,skatebll,,kiBIoviC9t
 "Last Dragon, The (Original 2020)","Last Dragon, The (Original 2020)",Original,2020,,,,"Movie, Martial Arts",,,,,"Fireslayer26",1.3,,"Music",i3YGfqa7
 "Last Ninja, The (Original 2018)","Last Ninja, The (Original 2018)",Original,2018,,SS,,"Video Game, Martial Arts",,,,,"Ivantba, Xenonph, BorgDog, JPSalas",1.1,,"MOD",CAjmCnVY
