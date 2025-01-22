@@ -1270,7 +1270,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Eight Ball (Bally 1977)","Eight Ball (Bally 1977)",Bally,1977,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=760",760,,"George Christian","roccodimarco, Popotte, Moogster666, 32assassin, HauntFreaks",1.1,eightbll,,jihF7ko0
 "Eight Ball Champ (Bally 1985)","Eight Ball Champ (Bally 1985)",Bally,1985,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=761",761,,"George Christian","Goldchicco, 32assassin, Scapino",1.1,eballchp,"MOD, LUT",U0aRTFw_
 "Eight Ball Champ (Bally 1985)","Eight Ball Champ (Bally 1985)",Bally,1985,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=761",761,,"George Christian","RajoJoey, Goldchicco, 32assassin, Scapino",1.0.0,eballchp,"VR, MOD, LUT",h4jeMVDQEP
-"Eight Ball Champ (Bally 1985)","Eight Ball Champ (Bally 1985)",Bally,1985,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=761",761,,"George Christian","Bigus1, 32assassin, Scapino",1.0,eballchp,"MOD",i5uz5hPz
+"Eight Ball Champ (Bally 1985)","Eight Ball Champ (Bally 1985)",Bally,1985,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=761",761,,"George Christian","Bigus1, 32assassin, Scapino",2.0,eballchp,"MOD",i5uz5hPz
 "Eight Ball Champ (Bally 1985)","Eight Ball Champ (Bally 1985)",Bally,1985,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=761",761,,"George Christian","32assassin, Scapino",1.3,eballchp,,hVBbW8o0
 "Eight Ball Champ (Bally 1985)","Eight Ball Champ (Bally 1985)",Bally,1985,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=761",761,,"George Christian","Scapino, Bryce Jeannotte",1.2,eballchp,,-FCJD9TCu2
 "Eight Ball Deluxe (Bally 1981)","Eight Ball Deluxe (Bally 1981)",Bally,1981,4,SS,,"Billiards",,,,"George Christian","Bord, UnclePaulie",2.0,eballdlx,"Hybrid, VR, nFozzy, Fleep",q4X09jzf
@@ -2026,7 +2026,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "JP's Smurfette (Original 2015)","JP's Smurfette (Original 2015)",Original,2015,,EM,,"Animation, Kids",,,,,"JPSalas, Arngrim, HauntFreaks",5.5.0,,"FlexDMD, Kids",IKK_dLXD
 "JP's Smurfette (Original 2015)","JP's Smurfette (Original 2015)",Original,2015,,EM,,"Animation, Kids",,,,,"BorgDog, JPSalas",1.1,,,WmTckSZnYn
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Ext2k, JPSalas, Solters, DaRdog81, Mesterial",1.0.0,,"Hybrid, VR, FSS, Mixed Reality",OsQN8UhlQq
-"JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"JPSalas",5.6.1,,"FlexDMD, LUT",sLvaS6Io
+"JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"JPSalas, Mesterial",5.7.0,,"FlexDMD, LUT",sLvaS6Io
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Balutito, JPSalas",1.0.0,,"MOD, FlexDMD",e-dLHYkCah
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Teisen, JPSalas",1.0,,"MOD",0fvaP47u4c
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Solters, JPSalas",1.0,,"VR, FlexDMD",a5KiAZdUz2
@@ -2082,6 +2082,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jacks to Open (Gottlieb 1984)","Jacks to Open (Gottlieb 1984)",Gottlieb,1984,4,SS,,"Gambling, Cards, Poker","https://www.ipdb.org/machine.cgi?id=1282",1282,,"Ed Krynski","Ext2k, JPSalas, Halen, BiggtBiggt, Inkochnito, Basti",1.0.0,,"Hybrid, VR, FSS, MOD, Mixed Reality",eyIafo3rjI
 "Jake Mate (Recel 1974)","Jake Mate (Recel 1974)",Recel,1974,1,EM,,"Chess","https://www.ipdb.org/machine.cgi?id=1283",1283,,,"Ext2k, JPSalas, Akiles50000, Pedator",1.0.0,,"Hybrid, VR, Mixed Reality",bZX1mrX4dN
 "Jake Mate (Recel 1974)","Jake Mate (Recel 1974)",Recel,1974,1,EM,,"Chess","https://www.ipdb.org/machine.cgi?id=1283",1283,,,"JPSalas, Akiles50000, Pedator",1.0.0,,,QOEXAUHf6D
+"Jalisco (Recreativos Franco 1976)","Jalisco (Recreativos Franco 1976)",Recreativos Franco,1976,1,EM,,"Mexico","https://www.ipdb.org/machine.cgi?id=4667",4667,,,"JPSalas, Akiles50000, Pedator",1.0.0,,,IKEFJ-i69G
 "Jalopy (Williams 1951)","Jalopy (Williams 1951)",Williams,1951,1,EM,,"Sports, Auto Racing","http://www.ipdb.org/machine.cgi?id=1284",1284,,"Harry Williams, Sam Stern","Ukexpat71, Loserman76",1.1,,,sDs1azok
 "James Bond (Original 2021)","James Bond (Original 2021)",Original,2021,6,SS,,"Licensed Theme, Movie, Espionage",,,,,"Balutito, JPJ, Pingod, UncleReamus, Destruk, The Trout, Bigus1, 32assassin, TeamPP",1.2,gldneye,"Music, MOD",GrKDNMAP
 "James Bond 007 (Gottlieb 1980)","James Bond 007 (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Licensed Theme, Movie, Espionage","http://www.ipdb.org/machine.cgi?id=1286",1286,,"Allen Edwall","Teisen, RajoJoey, 32assassin, Mfuegemann",1.1.0,jamesb,"MOD, Hybrid, LUT, VR",Z5yroNaS20
@@ -2113,7 +2114,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jet Spin (Gottlieb 1977)","Jet Spin (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Fantasy, Recreation","http://www.ipdb.org/machine.cgi?id=1290",1290,,"Ed Krynski","Teisen, Loserman76, GNance, JPSalas, Pinuck, HauntFreaks, BorgDog, Arngrim",1.0.0,,"MOD",bTu7IRtgmH
 "Jet Spin (Gottlieb 1977)","Jet Spin (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Fantasy, Recreation","http://www.ipdb.org/machine.cgi?id=1290",1290,,"Ed Krynski","RajoJoey, Loserman76",1.0.0,,"Hybrid, VR, LUT",9rm3HymXzH
 "Jet Spin (Gottlieb 1977)","Jet Spin (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Fantasy, Recreation","http://www.ipdb.org/machine.cgi?id=1290",1290,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,8zraF4R7
-"Jets (Original 2023)","Jets (Original 2023)",Original,2023,,SS,,"Sports, American Football",,,,,"Spisi69, Bossman72, JPSalas",1.0,,"MOD, Music",BiQlTJ66Xo
+"Jets (Original 2023)","Jets (Original 2023)",Original,2023,,SS,,"Sports, American Football",,,,,"Spisi69, Bossman72, Scutters, JPSalas",1.22,,"MOD, Music",BiQlTJ66Xo
 "Jimi Hendrix (Original 2021)","Jimi Hendrix (Original 2021)",Original,2021,4,SS,,"Music",,,,,"Balutito, JPSalas",1.2,,"Music, MOD",jfHL4B4v
 "Jive Time (Williams 1970)","Jive Time (Williams 1970)",Williams,1970,1,EM,,"Music, Singing","http://www.ipdb.org/machine.cgi?id=1298",1298,,"Norm Clark","Pdrum, Rothbauerw",2.0,,"MOD, Fleep",I8GuHLgLrr
 "Jive Time (Williams 1970)","Jive Time (Williams 1970)",Williams,1970,1,EM,,"Music, Singing","http://www.ipdb.org/machine.cgi?id=1298",1298,,"Norm Clark","Rothbauerw",2.0.0,,"VR, FSS, Hybrid, SSF, Fleep",LENyN6mF
@@ -2381,7 +2382,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Lortium (Juegos Populares 1987)","Lortium (Juegos Populares 1987)",Juegos Populares,1987,4,SS,,"Space Fantasy","https://www.ipdb.org/machine.cgi?id=4104",4104,,,"Mfuegemann, Flupper, Dark, GTXJoe, Akiles50000",1.0,lortium,,5PJhpE3y
 "Lortium (Juegos Populares 1987)","Lortium (Juegos Populares 1987)",Juegos Populares,1987,4,SS,,"Space Fantasy","https://www.ipdb.org/machine.cgi?id=4104",4104,,,"Ext2k, Mfuegemann, Akiles50000",1.0,lortium,"VR",Dn-1hNVR4M
 "Lost World (Bally 1978)","Lost World (Bally 1978)",Bally,1978,4,SS,,"Fantasy, Dinosaurs","http://www.ipdb.org/machine.cgi?id=1476",1476,,"Gary Gayton","Bord, Iaakki, TastyWasps, RajoJoey, Wylte, HauntFreaks, DGrimmReaper, DarthVito",1.1,lostwrld,"nFozzy, Fleep, Hybrid, VR",N6idjcDO
-"Lost World (Bally 1978)","Lost World (Bally 1978)",Bally,1978,4,SS,,"Fantasy, Dinosaurs","http://www.ipdb.org/machine.cgi?id=1476",1476,,"Gary Gayton","JPSalas",5.5.1,lostwrld,"SSF, LUT",dXKEOpS4
+"Lost World (Bally 1978)","Lost World (Bally 1978)",Bally,1978,4,SS,,"Fantasy, Dinosaurs","http://www.ipdb.org/machine.cgi?id=1476",1476,,"Gary Gayton","JPSalas, Kentayeyen",5.5.1,lostwrld,"SSF, LUT",dXKEOpS4
 "Lost World (Bally 1978)","Lost World (Bally 1978)",Bally,1978,4,SS,,"Fantasy, Dinosaurs","http://www.ipdb.org/machine.cgi?id=1476",1476,,"Gary Gayton","RajoJoey, Bord",1.1.0,lostwrld,"VR, LUT",R1H339sKVg
 "Lost in Space (Sega 1998)","Lost in Space (Sega 1998)",Sega,1998,6,SS,,"Licensed Theme, Outer Space, TV Show","http://www.ipdb.org/machine.cgi?id=4442",4442,,"John Borg","Hmueck, DevaL, Destruk, TAB, Bigus1",20.0,lostspc,"VR, MOD",DzJqySKJ8l
 "Lost in Space (Sega 1998)","Lost in Space (Sega 1998)",Sega,1998,6,SS,,"Licensed Theme, Outer Space, TV Show","http://www.ipdb.org/machine.cgi?id=4442",4442,,"John Borg","DanLShane, Bigus1, DevaL, Destruk, TAB",1.2.0,lostspc,"MOD",QakGX2KH
@@ -4172,7 +4173,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Table 60","Infinity Gauntlet, The (Zen Studios 2014)",Zen Studios,2014,4,,,"Licensed Theme, Comics, Superheroes",,,,"Peter Grafl","Zen Studios, Peter Grafl",,,,7z3TLOXoTc
 "Insus, The (Original 2020)","Insus, The (Original 2020)",Original,2020,4,EM,,"Music",,,,,"Marty02",1.0,,"MOD",KlP9tXKo
 "Insus, The (Original 2020)","Insus, The (Original 2020)",Original,2020,4,EM,,"Music",,,,,"Larouillas, Marty02",1.0.0,,,TLFl_QW6Gu
-"Lab 2.0, The (Original 2024)","Lab 2.0, The (Original 2024)",Original,2024,1,EM,,,,,,,"Anthias",2.0,,,B5_AqAP9Qd
+"Lab 2.0, The (Original 2024)","Lab 2.0, The (Original 2024)",Original,2024,1,EM,,,,,,,"Anthias",2.1,,,B5_AqAP9Qd
 "Labyrinth, The (Original 2023)","Labyrinth, The (Original 2023)",Original,2023,,SS,,"Movie, Fantasy",,,,,"Jagandy82, JPSalas, Balutito, Nesta78, JoePicasso",3.0,skatebll,,kiBIoviC9t
 "Last Dragon, The (Original 2020)","Last Dragon, The (Original 2020)",Original,2020,,,,"Movie, Martial Arts",,,,,"Fireslayer26",1.3,,"Music",i3YGfqa7
 "Last Ninja, The (Original 2018)","Last Ninja, The (Original 2018)",Original,2018,,SS,,"Video Game, Martial Arts",,,,,"Ivantba, Xenonph, BorgDog, JPSalas",1.1,,"MOD",CAjmCnVY
