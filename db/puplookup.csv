@@ -497,10 +497,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Big Deal (Williams 1977)","Big Deal (Williams 1977)",Williams,1977,,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=245",245,,"Steve Kordek","Klodo81, Bob78954, JPSalas",2.1,,"LUT",iukrTmepLv
 "Big Dick (Fabulous Fantasies 1996)","Big Dick (Fabulous Fantasies 1996)",Fabulous Fantasies,1996,1,EM,,"Adult","https://www.ipdb.org/machine.cgi?id=4539",4539,,,"jeffh, Alois, Loserman76",1.0,,"MOD, Adult",kMsaRVE5
 "Big Flush (LTD do Brasil 1983)","Big Flush (LTD do Brasil 1983)",LTD do Brasil,1983,,EM,,"Cards",,,,,"Halen, Teisen, BorgDog, JPSalas, Aciolly, Carlos Guizzo",1.0,,,Tgkcat4myq
+"Big Game (Stern 1980)","Big Game (Stern 1980)",Stern,1980,4,SS,,"Hunting, Safari","http://www.ipdb.org/machine.cgi?id=249",249,,"Harry Williams","Ext2k, JPSalas, Kentayeyen",1.0.1,biggame,"Hybrid, VR, MOD, Mixed Reality",Kwl5B-12AU
 "Big Game (Stern 1980)","Big Game (Stern 1980)",Stern,1980,4,SS,,"Hunting, Safari","http://www.ipdb.org/machine.cgi?id=249",249,,"Harry Williams","JPSalas, Kentayeyen",5.5.1,biggame,"SSF, LUT",5t3pRMgG
 "Big Game (Stern 1980)","Big Game (Stern 1980)",Stern,1980,4,SS,,"Hunting, Safari","http://www.ipdb.org/machine.cgi?id=249",249,,"Harry Williams","Redbone, JPSalas, Inkochnito",1.5.1,biggame,"MOD, 4k, Hybrid, VR, nFozzy, Fleep",330jMRFgry
 "Big Game (Stern 1980)","Big Game (Stern 1980)",Stern,1980,4,SS,,"Hunting, Safari","http://www.ipdb.org/machine.cgi?id=249",249,,"Harry Williams","RajoJoey, JPSalas",1.1.0,biggame,"VR, MOD, LUT",kxub6rxM-V
-"Big Game (Stern 1980)","Big Game (Stern 1980)",Stern,1980,4,SS,,"Hunting, Safari","http://www.ipdb.org/machine.cgi?id=249",249,,"Harry Williams","Ext2k, JPSalas, Kentayeyen",1.0.0,biggame,"Hybrid, VR, MOD, Mixed Reality",Kwl5B-12AU
 "Big Game (Rock-ola 1935)","Big Game (Rock-ola 1935)",Rock-ola,1935,1,PM,,"Sports, Hunting","https://www.ipdb.org/machine.cgi?id=248",248,,,"CactusDude",0.23,,,2bd7UUsa63
 "Big Guns (Williams 1987)","Big Guns (Williams 1987)",Williams,1987,4,SS,,"Science Fiction","http://www.ipdb.org/machine.cgi?id=250",250,,"Mark Ritchie","Addestratore, 32assassin",1.1.1,bguns_l8,,uOMyc7Iuy7
 "Big Guns (Williams 1987)","Big Guns (Williams 1987)",Williams,1987,4,SS,,"Science Fiction","http://www.ipdb.org/machine.cgi?id=250",250,,"Mark Ritchie","Morttis, Arconovum, 32assassin, Destruk, Francisco666, rom",2.1-3.0,bguns_l8,"FSS, MOD",3KsimEXZ
@@ -1541,6 +1541,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Full House (Williams 1966)","Full House (Williams 1966)",Williams,1966,1,EM,,"American West, Cards, Gambling","https://www.ipdb.org/machine.cgi?id=961",961,,"Norm Clark","Drinkcristal",1.1.0,,"VR, Hybrid, LUT",VeXMsbPECW
 "Full Metal Jacket (Original 2022)","Full Metal Jacket (Original 2022)",Original,2022,,SS,,"Movie, Combat",,,,,"Balutito, Armyaviation",1.2,,,LAmyc7E-1-
 "Full Throttle (Original 2023)","Full Throttle (Original 2023)",Original,2023,,SS,,"Sports, Motorcycle Racing","https://www.ipdb.org/machine.cgi?id=6301",6301,,,"Ryguy417, JPSalas",1.0.0,ind250cc,"LUT, Music, MOD",Pl6L2obzhd
+"Fullmetal Alchemist (Original 2007)","Fullmetal Alchemist (Original 2007)",Original,2007,4,EM,,"Anime",,,,,"Anthias, JPSalas",2.0,,,GTTIWT1kXu
 "Fun Fair (Gottlieb 1968)","Fun Fair (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Carnival, Shooting Gallery","https://www.ipdb.org/machine.cgi?id=964",964,,"Ed Krynski","Loserman76, GNance",1.0.0f,,,MFvYSojn
 "Fun Land (Gottlieb 1968)","Fun Land (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Amusement Park","http://www.ipdb.org/machine.cgi?id=973",973,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,IPjKm2n4
 "Fun Land (Gottlieb 1968)","Fun Land (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Amusement Park","http://www.ipdb.org/machine.cgi?id=973",973,,"Ed Krynski","Teisen, Loserman76, HauntFreaks, BorgDog, GNance, JPSalas, Pinuck, Arngrim",1.0,,"MOD",HTWLGdpMrr
@@ -2027,8 +2028,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "JP's Seawitch (Stern 1980)","JP's Seawitch (Stern 1980)",Stern,1980,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2089",2089,,"Mike Kubin","JPSalas",4.3.0,seawitch,"SSF, LUT",hMM0J00w
 "JP's Smurfette (Original 2015)","JP's Smurfette (Original 2015)",Original,2015,,EM,,"Animation, Kids",,,,,"JPSalas, Arngrim, HauntFreaks",5.5.0,,"FlexDMD, Kids",IKK_dLXD
 "JP's Smurfette (Original 2015)","JP's Smurfette (Original 2015)",Original,2015,,EM,,"Animation, Kids",,,,,"BorgDog, JPSalas",1.1,,,WmTckSZnYn
-"JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"JPSalas, Mesterial",5.7.0,,"FlexDMD, LUT",sLvaS6Io
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Ext2k, JPSalas, Solters, DaRdog81, Mesterial",1.0.1,,"Hybrid, VR, FSS, Mixed Reality",OsQN8UhlQq
+"JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"JPSalas, Mesterial",5.7.0,,"FlexDMD, LUT",sLvaS6Io
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Balutito, JPSalas",1.0.0,,"MOD, FlexDMD",e-dLHYkCah
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Teisen, JPSalas",1.0,,"MOD",0fvaP47u4c
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Solters, JPSalas",1.0,,"VR, FlexDMD",a5KiAZdUz2
@@ -2084,8 +2085,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jacks to Open (Gottlieb 1984)","Jacks to Open (Gottlieb 1984)",Gottlieb,1984,4,SS,,"Gambling, Cards, Poker","https://www.ipdb.org/machine.cgi?id=1282",1282,,"Ed Krynski","Ext2k, JPSalas, Halen, BiggtBiggt, Inkochnito, Basti",1.0.0,,"Hybrid, VR, FSS, MOD, Mixed Reality",eyIafo3rjI
 "Jake Mate (Recel 1974)","Jake Mate (Recel 1974)",Recel,1974,1,EM,,"Chess","https://www.ipdb.org/machine.cgi?id=1283",1283,,,"Ext2k, JPSalas, Akiles50000, Pedator",1.0.0,,"Hybrid, VR, Mixed Reality",bZX1mrX4dN
 "Jake Mate (Recel 1974)","Jake Mate (Recel 1974)",Recel,1974,1,EM,,"Chess","https://www.ipdb.org/machine.cgi?id=1283",1283,,,"JPSalas, Akiles50000, Pedator",1.0.0,,,QOEXAUHf6D
+"Jalisco (Recreativos Franco 1976)","Jalisco (Recreativos Franco 1976)",Recreativos Franco,1976,1,EM,,"Mexico","https://www.ipdb.org/machine.cgi?id=4667",4667,,,"Ext2k, JPSalas, Akiles50000, Pedator",1.0.1,,"Hybrid, VR, FSS, Mixed Reality",DMJDujZ973
 "Jalisco (Recreativos Franco 1976)","Jalisco (Recreativos Franco 1976)",Recreativos Franco,1976,1,EM,,"Mexico","https://www.ipdb.org/machine.cgi?id=4667",4667,,,"JPSalas, Akiles50000, Pedator",1.0.0,,,IKEFJ-i69G
-"Jalisco (Recreativos Franco 1976)","Jalisco (Recreativos Franco 1976)",Recreativos Franco,1976,1,EM,,"Mexico","https://www.ipdb.org/machine.cgi?id=4667",4667,,,"Ext2k, JPSalas, Akiles50000, Pedator",1.0.0,,"Hybrid, VR, FSS, Mixed Reality",DMJDujZ973
 "Jalopy (Williams 1951)","Jalopy (Williams 1951)",Williams,1951,1,EM,,"Sports, Auto Racing","http://www.ipdb.org/machine.cgi?id=1284",1284,,"Harry Williams, Sam Stern","Ukexpat71, Loserman76",1.1,,,sDs1azok
 "James Bond (Original 2021)","James Bond (Original 2021)",Original,2021,6,SS,,"Licensed Theme, Movie, Espionage",,,,,"Balutito, JPJ, Pingod, UncleReamus, Destruk, The Trout, Bigus1, 32assassin, TeamPP",1.2,gldneye,"Music, MOD",GrKDNMAP
 "James Bond 007 (Gottlieb 1980)","James Bond 007 (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Licensed Theme, Movie, Espionage","http://www.ipdb.org/machine.cgi?id=1286",1286,,"Allen Edwall","Teisen, RajoJoey, 32assassin, Mfuegemann",1.1.0,jamesb,"MOD, Hybrid, LUT, VR",Z5yroNaS20
