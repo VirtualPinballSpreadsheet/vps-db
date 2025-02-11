@@ -353,10 +353,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Bad Santa Pinball XL (Original 2018)","Bad Santa Pinball XL (Original 2018)",Original,2018,4,SS,,"Christmas",,,,,"Stevegooner1234, Xenonph, Lizard, JPSalas",1.01,,"Music, MOD",wrbdHMtx
 "Balls-A-Poppin (Bally 1956)","Balls-A-Poppin (Bally 1956)",Bally,1956,2,EM,,"Happiness, Circus, Carnival","https://www.ipdb.org/machine.cgi?id=144",144,,,"Teisen, Loserman76, GNance",1.0.0,,"MOD",_jYssMmFhb
 "Balls-A-Poppin (Bally 1956)","Balls-A-Poppin (Bally 1956)",Bally,1956,2,EM,,"Happiness, Circus, Carnival","https://www.ipdb.org/machine.cgi?id=144",144,,,"Loserman76",1.0.0f,,,kMlNg8sd
+"Bally Hoo (Bally 1969)","Bally Hoo (Bally 1969)",Bally,1969,4,EM,,"Circus, Carnival, Music","https://www.ipdb.org/machine.cgi?id=151",151,,"Ted Zale","Jrrobin, Leon Spalding, Kees, Albert, Loserman76, Strobeman, JPSalas, JLouLoulou",1.1,,"SSF, MOD",QO9HiAKbIB
 "Bally Hoo (Bally 1969)","Bally Hoo (Bally 1969)",Bally,1969,4,EM,,"Circus, Carnival, Music","https://www.ipdb.org/machine.cgi?id=151",151,,"Ted Zale","Albert, Kees, Leon Spalding",3.0,,"MOD",EPUquHtV
 "Bally Hoo (Bally 1969)","Bally Hoo (Bally 1969)",Bally,1969,4,EM,,"Circus, Carnival, Music","https://www.ipdb.org/machine.cgi?id=151",151,,"Ted Zale","Margoni",1.0,,,K97hIRNQB4
 "Bally Hoo (Bally 1969)","Bally Hoo (Bally 1969)",Bally,1969,4,EM,,"Circus, Carnival, Music","https://www.ipdb.org/machine.cgi?id=151",151,,"Ted Zale","Kees, Leon Spalding",1.00,,,d0d6Fis1
-"Bally Hoo (Bally 1969)","Bally Hoo (Bally 1969)",Bally,1969,4,EM,,"Circus, Carnival, Music","https://www.ipdb.org/machine.cgi?id=151",151,,"Ted Zale","Jrrobin, Leon Spalding, Kees, Albert, Loserman76, Strobeman, JPSalas, JLouLoulou",1.0,,"SSF, MOD",QO9HiAKbIB
 "Ballyhoo (Bally 1932)","Ballyhoo (Bally 1932)",Bally,1932,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=4817",4817,,"Raymond T. Moloney","CactusDude, Dude81818, Mfuegemann",2.0,,,HPV8ppUF9c
 "Ballyhoo (Bally 1932)","Ballyhoo (Bally 1932)",Bally,1932,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=4817",4817,,"Raymond T. Moloney","Patrick, Tiltjlp",1.2,,,VJpCfhHQzt
 "Band Wagon (Bally 1965)","Band Wagon (Bally 1965)",Bally,1965,4,EM,,"Circus, Carnival","http://www.ipdb.org/machine.cgi?id=163",163,,"Ted Zale","Mustang1961, Loserman76, Kees",1.1,,,k8E3t-BURw
@@ -1753,8 +1753,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Gunship (Original 2023)","Gunship (Original 2023)",Original,2023,,SS,,"Music",,,,,"ZandysArcade, Jagandy82, JPSalas, JoePicasso, BurtMacklin",1.1.0,lostwrld,,OW53xAVz9d
 "Half-Life (Original 2019)","Half-Life (Original 2019)",Original,2019,,SS,,"Video Game",,,,,"Ivantba, Javier15",1.0,,,4cLZAfQz
 "Hall & Oates (Original 2025)","Hall & Oates (Original 2025)",Original,2025,4,SS,,"Music",,,,,"ZandysArcade, JPSalas",1.0.1,wolfman,"MOD, nFozzy, Fleep",cu4E3Il0Gs
+"Halley Comet (Juegos Populares 1986)","Halley Comet (Juegos Populares 1986)",Juegos Populares,1986,4,SS,,"Outer Space","https://www.ipdb.org/machine.cgi?id=3936",3936,,,"Pedator, JPSalas, Akiles50000, Dboyrecords, Destruk, Javito",2.1,halleyb,,emJJX0Cgx4
 "Halley Comet (Juegos Populares 1986)","Halley Comet (Juegos Populares 1986)",Juegos Populares,1986,4,SS,,"Outer Space","https://www.ipdb.org/machine.cgi?id=3936",3936,,,"Javito",1.0,halleyb,"MOD",yK7NaGlFzv
-"Halley Comet (Juegos Populares 1986)","Halley Comet (Juegos Populares 1986)",Juegos Populares,1986,4,SS,,"Outer Space","https://www.ipdb.org/machine.cgi?id=3936",3936,,,"Pedator, JPSalas, Akiles50000, Dboyrecords, Destruk, Javito",2.0,halleyb,,emJJX0Cgx4
 "Halloween (Original 2019)","Halloween (Original 2019)",Original,2019,,SS,,"Supernatural, Horror",,,,,"fastdraw",1.0.0,,,68mNMvWU
 "Halloween (Original 2022)","Halloween (Original 2022)",Original,2022,1,,,"Horror",,,,,"TerryRed, SLAMT1LT",1.9,,"MOD, SSF, Fleep, BAM, FizX",6eh39WdnU5
 "Halloween (Original 2022)","Halloween (Original 2022)",Original,2022,1,,,"Horror",,,,,"SLAMT1LT",,,,vgPKwijwaT
@@ -4539,8 +4539,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "U2 (Original 2024)","U2 (Original 2024)",Original,2024,4,SS,,"Music",,,,,"Larouillas, Bord",1.0.0,stringray,,ocKUrSdotD
 "UT99ctfGE (Original 2021)","UT99ctfGE (Original 2021)",Original,2021,4,SS,,"Video Game",,,,,"Oqqsan, MajorFrenchy, Tomate, Thalamus, Javier15, Flupper, Rawd, Leojreimroc, Iaakki, Sixtoe, EBisLit, Apophis, 32assassin, Rothbauerw",2.3,lw3_208,"Music, FlexDMD, VR",HvdR5lbi
 "Ultron (Original 2022)","Ultron (Original 2022)",Original,2022,,SS,,"Licensed Theme, Comics, Superheroes",,,,,"fastdraw",1.0.0,,,3MB2Vnn-
+"Underwater (Recel 1976)","Underwater (Recel 1976)",Recel,1976,4,EM,,"Adventure, Combat, Nautical","https://www.ipdb.org/machine.cgi?id=2702",2702,,,"JPSalas, Pedator, Mustang1961",5.5.1,,"LUT",5BP4FGZI
 "Underwater (Recel 1976)","Underwater (Recel 1976)",Recel,1976,4,EM,,"Adventure, Combat, Nautical","https://www.ipdb.org/machine.cgi?id=2702",2702,,,"Ext2k, JPSalas",1.0.0,,"VR, MOD, MR",Z-3_BPpcZB
-"Underwater (Recel 1976)","Underwater (Recel 1976)",Recel,1976,4,EM,,"Adventure, Combat, Nautical","https://www.ipdb.org/machine.cgi?id=2702",2702,,,"JPSalas, Pedator, Mustang1961",5.5.0,,"LUT",5BP4FGZI
 "Unicorcs (Original 2024)","Unicorcs (Original 2024)",Original,2024,4,EM,,"Fantasy",,,,,"Anthias",1.0,,,r2hXCCIUvY
 "Universe (Zaccaria 1976)","Universe (Zaccaria 1976)",Zaccaria,1976,4,EM,,"Fantasy","https://www.ipdb.org/machine.cgi?id=2706",2706,,,"Ukexpat71, Loserman76, Axioma, VPW Team",1.0.0,,,zacBpIwu
 "Universe (Gottlieb 1959)","Universe (Gottlieb 1959)",Gottlieb,1959,1,EM,,"Outer Space","https://www.ipdb.org/machine.cgi?id=2705",2705,,"Wayne Neyens","Ext2k, JPSalas, Pbecker1946, Halen, HauntFreaks",1.0,,"VR, MOD",tzEfHK2cFO
