@@ -1721,7 +1721,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Grande Domino (Gottlieb 1968)","Grande Domino (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Dominoes, Games, Board Games","https://www.ipdb.org/machine.cgi?id=1069",1069,,"Ed Krynski","Loserman76, GNance",1.0,,,kGA5gGwz
 "Granny and the Gators (Bally 1984)","Granny and the Gators (Bally 1984)",Bally,1984,2,SS,,"Hunting, Aquatic","http://www.ipdb.org/machine.cgi?id=1083",1083,,"Claude Fernandez","DarthMarino, LoadedWeapon, Lazzlo, STAT",1.1a,granny,,HYJXHFww
 "Grateful Dead (Original 2020)","Grateful Dead (Original 2020)",Original,2020,,SS,,"Music",,,,,"Goldchicco, Grizz, Destruk, Doogie, Movieguru, Arngrim, JPSalas",1.1-beta,,"SSF, Music, FlexDMD, MOD",hc8UUeFo
-"Grease (Original 2020)","Grease (Original 2020)",Original,2020,4,SS,,"Musical",,,,,"Judremy, JPSalas, NailBuster, JoePicasso, Marty02, Boroka, Justthebest",1.1,elvis,,Ojo-q0Crkr
+"Grease (Original 2020)","Grease (Original 2020)",Original,2020,4,SS,,"Musical",,,,,"Judremy, JPSalas, NailBuster, JoePicasso, Marty02, Boroka, Justthebest",2.0,elvis,"nFozzy, Fleep",Ojo-q0Crkr
 "Grease (Original 2020)","Grease (Original 2020)",Original,2020,4,SS,,"Musical",,,,,"Larouillas",1.0.0,elvis,"Music, MOD",p6fg0SUS
 "Grease (Original 2020)","Grease (Original 2020)",Original,2020,4,SS,,"Musical",,,,,"Dragon44, Oker, DStruct, Francisco666, Steve Paradis (Polygame), JPSalas, NitroNimbus",1.0.0,elvis,"MOD, Music",Hx4FKwTu
 "Grease (Original 2020)","Grease (Original 2020)",Original,2020,4,SS,,"Musical",,,,,"Marty02, JPSalas",1.1,elvis,"Music, MOD",Ca_cXoyx
