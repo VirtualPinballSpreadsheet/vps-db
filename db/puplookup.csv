@@ -1,5 +1,5 @@
 GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,WebLinkURL,IPDBNum,AltRunMode,DesignedBy,Author,GAMEVER,Rom,Tags,VPS-ID
-" Falling In Reverse (Original 0)"," Falling In Reverse (Original 0)",Original,0,,SS,,,,,,,"Larouillas, JPSalas",1.0.0,,"Music, Mod",6YYOcLfoLO
+" Falling In Reverse (Original 0)"," Falling In Reverse (Original 0)",Original,0,,SS,,,,,,,"Larouillas, JPSalas",1.0.0,,"Music, MOD",6YYOcLfoLO
 " Stray Cats (Original 2025)"," Stray Cats (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas",1.0.0,rollstob,"Music",Fr4QTth9yE
 " Stray Cats (Original 2025)"," Stray Cats (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas",1.0.0,rollstob,"Music",7EELUHfEUv
 "!WOW! (Mills Novelty Company 1932)","!WOW! (Mills Novelty Company 1932)",Mills Novelty Company,1932,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=2819",2819,,,"Druadic",1.2b,,,OHdDfWkU9L
@@ -310,6 +310,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "BMX (Bally 1983)","BMX (Bally 1983)",Bally,1983,4,SS,,"Sports, Bicycling","https://www.ipdb.org/machine.cgi?id=335",335,,"Ward Pemberton","HauntFreaks, JPSalas, Halen, Pin-Pete, Mike DA Spike, DGrimmReaper",1.3,bmx,"VR, Hybrid, FSS",L6m7MREzV2
 "BMX (Bally 1983)","BMX (Bally 1983)",Bally,1983,4,SS,,"Sports, Bicycling","https://www.ipdb.org/machine.cgi?id=335",335,,"Ward Pemberton","MauiPunter, Halen, Pin-Pete, Mike DA Spike, JPSalas",1.0,bmx,"MOD",CFfWE7YdjT
 "BMX (Bally 1983)","BMX (Bally 1983)",Bally,1983,4,SS,,"Sports, Bicycling","https://www.ipdb.org/machine.cgi?id=335",335,,"Ward Pemberton","JPSalas, Halen, Pin-Pete, Mike DA Spike",1.0.2,bmx,"LUT",evrGskgKBK
+"Baby Leland (Stoner 1933)","Baby Leland (Stoner 1933)",Stoner,1933,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=123",123,,,"Bthlonewolf",1.0.1,,,ldhJzV_uB9
 "Baby Leland (Stoner 1933)","Baby Leland (Stoner 1933)",Stoner,1933,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=123",123,,,"Druadic",1.0,,,2e875By0Dc
 "Baby Pac-Man (Bally 1982)","Baby Pac-Man (Bally 1982)",Bally,1982,2,SS,,"Video Game","http://www.ipdb.org/machine.cgi?id=125",125,,"Claude Fernandez","Psiomicron, 32assassin, UncleWilly",1.0.5,babypac,"VR",Nvwl4Sch3n
 "Baby Pac-Man (Bally 1982)","Baby Pac-Man (Bally 1982)",Bally,1982,2,SS,,"Video Game","http://www.ipdb.org/machine.cgi?id=125",125,,"Claude Fernandez","32assassin, UncleWilly",1.1,babypac,,ruMrSKqj
@@ -608,6 +609,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Blaze and the Monster Machines (Original 2021)","Blaze and the Monster Machines (Original 2021)",Original,2021,4,SS,,"TV Show, Kids",,,,,"DigitalJedi084, Hawkeyez88, RetroG33k, Goldchicco",1.2,csmic_l1,"Music, Kids, MOD",lGLWeP_9
 "Bleach (Original 2023)","Bleach (Original 2023)",Original,2023,,SS,,"Anime",,,,,"Masonou, Akirasan, PEandS1Ws, JPSalas",1.0.0,,"MOD",WWy9csBs2g
 "Bleach (Original 2023)","Bleach (Original 2023)",Original,2023,,SS,,"Anime",,,,,"Masonou, Akirasan, JPSalas",1.0.0,,"VR",Kp1MnBEmOT
+"Blink 182 (Original 2025)","Blink 182 (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,,"MOD, Music",NAp9NxANLX
 "Blood Machines (Original 2022)","Blood Machines (Original 2022)",Original,2022,,SS,,"Movie",,,,,"VPW, Dapheni, Flupper, AstroNasty, Tomate, Flupper, D.J., Oqqsan, Wylte, Lumigado, Fluffhead35, eMBee, Rik, PinstratsDan, Circusfreak, Leojreimroc, GTXJoe, Iaakki, Sixtoe, Apophis",2.0,,"FlexDMD, VR, Hybrid, FSS, SSF, Fleep, Scorbit, nFozzy",8ptfy_gf-Q
 "Bloodsport (Original 2023)","Bloodsport (Original 2023)",Original,2023,,SS,,"Martial Arts",,,,,"Balutito, Goldchicco, Apophis, Walamab, Larouillas",1.2,fpwr2_l2,"MOD",vZwvmbeonk
 "Blue Chip (Williams 1976)","Blue Chip (Williams 1976)",Williams,1976,1,EM,,"Stock Market","http://www.ipdb.org/machine.cgi?id=325",325,,"Gordon Horlick","Loserman76, Bodydump",1.0.0f,,,V73AxWb2
@@ -959,6 +961,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Conquest 200 (Playmatic 1976)","Conquest 200 (Playmatic 1976)",Playmatic,1976,1,EM,,"Historical","https://www.ipdb.org/machine.cgi?id=557",557,,,"JPSalas, Pedator, Kiwi",5.5.1,,"Music, LUT",lzfmGCpU
 "Contact (Williams 1978)","Contact (Williams 1978)",Williams,1978,4,SS,,"Aliens, Fantasy, Outer Space","http://www.ipdb.org/machine.cgi?id=558",558,,"Steve Kordek","Kalavera3, Destruk",1.2,cntct_l1,"SSF",AXdNzBYZ
 "Contact (Williams 1978)","Contact (Williams 1978)",Williams,1978,4,SS,,"Aliens, Fantasy, Outer Space","http://www.ipdb.org/machine.cgi?id=558",558,,"Steve Kordek","Bigus1, Kalavera3",1.0,cntct_l1,"MOD",dkKiyf3ogw
+"Contact Master (PAMCO 1934)","Contact Master (PAMCO 1934)",PAMCO,1934,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=4457",4457,,"Harry Williams","Bthlonewolf",1.2,,,QGWum4wkQ1
 "Contest (Gottlieb 1958)","Contest (Gottlieb 1958)",Gottlieb,1958,4,EM,,"Pinball","http://www.ipdb.org/machine.cgi?id=564",564,,"Wayne Neyens","JPJ, TeamPP, Chucky, STAT, Ninuzzu, Arngrim, HauntFreaks",1.5,,,G39qFg1Y
 "Continental Cafe (Gottlieb 1957)","Continental Cafe (Gottlieb 1957)",Gottlieb,1957,2,EM,,,"https://www.ipdb.org/machine.cgi?id=565",565,,"Wayne Neyens","Francisco Pozo",1.0,,,UcoRcYrj3g
 "Contra (Original 2019)","Contra (Original 2019)",Original,2019,4,SS,,"Video Game",,,,,"Gamemodder, Rx2006je, Xenonph, Armyaviation",1.2c,,"MOD",aTM3GBpd
@@ -3006,6 +3009,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Phoenix (Williams 1978)","Phoenix (Williams 1978)",Williams,1978,,SS,,"Mythology","https://www.ipdb.org/machine.cgi?id=1780",1780,,"Barry Oursler","Ext2k, JPSalas, Halen, Arngrim",1.0.0,phnix_l1,"Hybrid, VR, MOD, Mixed Reality",vzgC4b9eqr
 "Phoenix (Williams 1978)","Phoenix (Williams 1978)",Williams,1978,,SS,,"Mythology","https://www.ipdb.org/machine.cgi?id=1780",1780,,"Barry Oursler","JPSalas, Halen, Arngrim",5.5.0,phnix_l1,,yZMbDIKg
 "Pi Rats (Original 2024)","Pi Rats (Original 2024)",Original,2024,4,SS,,,,,,,"Anthias",1.0.0,,,1sMiSSrIXE
+"Pierce The Veil (Original 2025)","Pierce The Veil (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,,"Music, MOD",Do0UN8d9fs
 "Piggy Bank Blitz (Original 2023)","Piggy Bank Blitz (Original 2023)",Original,2023,,,,"Flipperless",,,,,"Arelyel, Kevin MacLeod, Studlygoorite, Iwantpinball, Movieg1",2.1.0,,"FlexDMD",ws_hvA6-iT
 "Pin City (Original 2018)","Pin City (Original 2018)",Original,2018,,SS,,"Example",,,,,"Malform11",1.0,,,Ej8cxtA4
 "Pin-Up (Gottlieb 1975)","Pin-Up (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=1789",1789,,"Ed Krynski","RajoJoey, Popotte, GNance, Loserman76",1.0.0,,"VR, Hybrid, MOD, LUT",NJLO0GIrG6
@@ -3089,7 +3093,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Playboy 35th Anniversary (Data East 1989)","Playboy 35th Anniversary (Data East 1989)",Data East,1989,,SS,,"Celebrities, Licensed Theme, Adult","https://www.ipdb.org/machine.cgi?id=1822",1822,,"Joe Kaminkow, Ed Cebula","Ext2k, JPSalas, TastyWasps, Wildman",1.0.0,play_a24,"VR",1QxDPaWb33
 "Playboy 35th Anniversary (Data East 1989)","Playboy 35th Anniversary (Data East 1989)",Data East,1989,,SS,,"Celebrities, Licensed Theme, Adult","https://www.ipdb.org/machine.cgi?id=1822",1822,,"Joe Kaminkow, Ed Cebula","JPSalas, Pancake, HiRez00",4.3.0,play_a24,"LUT",xzLojRzc7O
 "Playmate (Original 2020)","Playmate (Original 2020)",Original,2020,4,SS,,"Adult",,,,,"Goldchicco, GTXJoe, ICPjuggla",1.0,,"Music, MOD",A6Wr4CWT
-"Poison (Original 2025)","Poison (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"Mod, Music",Qxbi6HM3lU
+"Poison (Original 2025)","Poison (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"Music, MOD",Qxbi6HM3lU
 "Pokemon Pinball (Original 2021)","Pokemon Pinball (Original 2021)",Original,2021,4,SS,,"Cartoon, Kids",,,,,"Remdwaas1986, Ryesteve, Haggi, Giovanni1966, JPSalas",1.3,,"FlexDMD, Kids",Z4v1vgR5
 "Pokemon Slots (Original 2024)","Pokemon Slots (Original 2024)",Original,2024,,,,"Pokemon, Slotmachine",,,,,"Remdwaas1986, Oqqsan",1.0.0,,,Rn94lGsgqG
 "Pokerino (Williams 1978)","Pokerino (Williams 1978)",Williams,1978,,SS,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=1839",1839,,"Steve Kordek","JPSalas, Halen, EalaDubhSidhe, Ketayeyen",5.5.1,pkrno_l1,,Gn5LmZ9Jcu
@@ -4587,6 +4591,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "U-Boat 65 (Nuova Bell Games 1988)","U-Boat 65 (Nuova Bell Games 1988)",Nuova Bell Games,1988,4,SS,,"Combat, Nautical","http://www.ipdb.org/machine.cgi?id=3736",3736,,"Tommy Walker, Paul Daniel","Goldchicco, Batch, Mfuegemann, Movieguru, Arngrim",1.2,,,Bcznsvu1
 "U-FOES (Original 2019)","U-FOES (Original 2019)",Original,2019,,EM,,"Comics",,,,"Rosve","Rosve, The Loafer, Thalamus",2.0,,"SSF",JFiya62l
 "U2 (Original 2024)","U2 (Original 2024)",Original,2024,4,SS,,"Music",,,,,"Larouillas, Bord",1.0.0,stringray,,ocKUrSdotD
+"UB40 (Original 2025)","UB40 (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,,"MOD, Music",4ulM5NQiHQ
 "UT99ctfGE (Original 2021)","UT99ctfGE (Original 2021)",Original,2021,4,SS,,"Video Game",,,,,"Oqqsan, MajorFrenchy, Tomate, Thalamus, Javier15, Flupper, Rawd, Leojreimroc, Iaakki, Sixtoe, EBisLit, Apophis, 32assassin, Rothbauerw",2.3,lw3_208,"Music, FlexDMD, VR",HvdR5lbi
 "Ultron (Original 2022)","Ultron (Original 2022)",Original,2022,,SS,,"Licensed Theme, Comics, Superheroes",,,,,"fastdraw",1.0.0,,,3MB2Vnn-
 "Underwater (Recel 1976)","Underwater (Recel 1976)",Recel,1976,4,EM,,"Adventure, Combat, Nautical","https://www.ipdb.org/machine.cgi?id=2702",2702,,,"JPSalas, Pedator, Mustang1961",5.5.1,,"LUT",5BP4FGZI
