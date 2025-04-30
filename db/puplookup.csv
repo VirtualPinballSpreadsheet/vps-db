@@ -21,7 +21,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "24 (Stern 2009)","24 (Stern 2009)",Stern,2009,4,SS,,"Licensed Theme, TV Show, Crime","http://www.ipdb.org/machine.cgi?id=5419",5419,,"Steve Ritchie","Morttis, Arconovum, Bigus1, 32assassin, Freneticamnesic",1.0-2.6,twenty4_150,"FSS, MOD",NNIODYYy
 "24 (Stern 2009)","24 (Stern 2009)",Stern,2009,4,SS,,"Licensed Theme, TV Show, Crime","http://www.ipdb.org/machine.cgi?id=5419",5419,,"Steve Ritchie","32assassin, Freneticamnesic",2.0.1,twenty4_150,,01rWOPkk
 "250 cc (Inder 1992)","250 cc (Inder 1992)",Inder,1992,4,SS,,"Sports, Motorcycle Racing","http://www.ipdb.org/machine.cgi?id=4089",4089,,,"Ext2k, JPSalas, TastyWasps",2.0,ind250cc,"VR, Mixed Reality",4YKrmqyUqy
-"250 cc (Inder 1992)","250 cc (Inder 1992)",Inder,1992,4,SS,,"Sports, Motorcycle Racing","http://www.ipdb.org/machine.cgi?id=4089",4089,,,"JPSalas",5.5.0,ind250cc,,Gw5kOfmC
+"250 cc (Inder 1992)","250 cc (Inder 1992)",Inder,1992,4,SS,,"Sports, Motorcycle Racing","http://www.ipdb.org/machine.cgi?id=4089",4089,,,"JPSalas, Themer, Arngrim",5.5.1,ind250cc,"LUT",Gw5kOfmC
 "3-In-Line (Bally 1963)","3-In-Line (Bally 1963)",Bally,1963,4,EM,,"Majorettes","https://www.ipdb.org/machine.cgi?id=2549",2549,,"Ted Zale","Alois",1.2,,,ykWYxaFn
 "300 (Maresa 1975)","300 (Maresa 1975)",Maresa,1975,1,EM,,"Sports, Bowling","https://www.ipdb.org/machine.cgi?id=4633",4633,,,"NitroNimbus",2.0,,"MOD",UDkd2BZr-i
 "300 Prepare for Glory (Original 2008)","300 Prepare for Glory (Original 2008)",Original,2008,1,,,"History, Movie",,,,,"Pinner, Brad Bambara",1.01,,"MOD",W_BvZdYyJq
@@ -57,6 +57,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "A Real American Hero - Operation P.I.N.B.A.L.L. (Original 2017)","A Real American Hero - Operation P.I.N.B.A.L.L. (Original 2017)",Original,2017,,SS,,"Toy Franchise, Kids",,,,,"Xenonph, Lizard, Slydog43, Thalamus, STAT, GTXJoe, Allknowing2012, JPSalas",2.1-redux,playboyb,"Kids, Music, MOD",0Rxh6B5G52
 "Table 165","A Samurai’s Vengeance (Zen Studios 2023)",Zen Studios,2023,,,,"World Culture",,,,"Zoltan Hegyi","Zen Studios",,,,N4kr_a9zOQ
 "A-Go-Go (Williams 1966)","A-Go-Go (Williams 1966)",Williams,1966,4,EM,,"Happiness, Dancing","https://www.ipdb.org/machine.cgi?id=27",27,,"Norm Clark","PinPlayer",1.2,,,dc_uxjjW
+"A-Go-Go (Williams 1966)","A-Go-Go (Williams 1966)",Williams,1966,4,EM,,"Happiness, Dancing","https://www.ipdb.org/machine.cgi?id=27",27,,"Norm Clark","Mustang1961, PinPlayer",1.3,,,peRIDnwQS2
 "ABBA (Original 2020)","ABBA (Original 2020)",Original,2020,,SS,,"Music",,,,,"GrayGhost, STAT, Slydog43, JPSalas",2.0,vortex,,PW62Ulxx
 "ABBA (Original 2020)","ABBA (Original 2020)",Original,2020,,SS,,"Music",,,,,"Djchiccomix",1.0,vortex,"Music, MOD",uXXdWqEP
 "AC_DC (Original 2012)","AC_DC (Original 2012)",Original,2012,,SS,,"Licensed Theme, Music",,,,,"Goldchicco, JPSalas, Grizz, Destruk, Doogie, Arngrim",1.0,,"SSF, FlexDMD, Music",s7_F1d9EzQ
@@ -96,6 +97,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Aces High (Bally 1965)","Aces High (Bally 1965)",Bally,1965,4,EM,,"Cards, Gambling, Poker, Riverboat","http://www.ipdb.org/machine.cgi?id=9",9,,"Ted Zale","Kees",1.00,,,9nVwCL1T
 "Action (Chicago Coin 1969)","Action (Chicago Coin 1969)",Chicago Coin,1969,1,EM,,"Auto Racing, Sports","https://www.ipdb.org/machine.cgi?id=15",15,,,"Dboyrecords, STAT, Eduguitar72",1.0,,,MWx8gRFOYh
 "Action (Exhibit 1943)","Action (Exhibit 1943)",Exhibit,1943,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=3839",3839,,,"Francisco Pozo",1.1,,,mJc8qRkO49
+"Adventure (Sega 1979)","Adventure (Sega 1979)",Sega,1979,2,SS,,"Adventure, Boats, Recreation, Sailing, Water","https://www.ipdb.org/machine.cgi?id=5544",5544,,,"Bluenmaize",1.1,,,sCNiFXwjtl
 "Table 29","Adventure Land (Zen Studios 2017)",Zen Studios,2017,4,,,"Fantasy",,,,"Thomas Crofts","Zen Studios",,,,xFgomm2pwP
 "Amusement_Park","Adventure Land (Zen Studios 2017)",Zen Studios,2017,4,,,"Fantasy",,,,"Thomas Crofts","Zen Studios",,,,bYA3xjuh
 "Adventure Time - Rainy Day Daydream (Original 2022)","Adventure Time - Rainy Day Daydream (Original 2022)",Original,2022,,SS,,"Animation, Kids",,,,,"User42, Rascal, Kevinleedrum, Mfuegemann, Bigus1",1.0,,"Kids, MOD",Q6YhRd-a
@@ -217,7 +219,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Apache! (Taito do Brasil 1978)","Apache! (Taito do Brasil 1978)",Taito do Brasil,1978,4,EM,,"American West, Native Americans, Warriors","https://www.ipdb.org/machine.cgi?id=4660",4660,,,"JPSalas, Editoy, Loserman76, Xenonph, Tio Italo",5.5.1,,"LUT",Q9Wxt1m8
 "Apollo (Williams 1967)","Apollo (Williams 1967)",Williams,1967,1,EM,,"Space Exploration","https://www.ipdb.org/machine.cgi?id=77",77,,"Norm Clark","Ext2k, JPSalas, Halen, HauntFreaks, Larouillas",2.0,,"VR, Hybrid, FSS, Mixed Reality",sZPreFcdyX
 "Apollo (Williams 1967)","Apollo (Williams 1967)",Williams,1967,1,EM,,"Space Exploration","https://www.ipdb.org/machine.cgi?id=77",77,,"Norm Clark","JPSalas, Halen, HauntFreaks",1.0.2,,,KaF2NNWQSK
-"Apollo 13 (Sega 1995)","Apollo 13 (Sega 1995)",Sega,1995,6,SS,,"Outer Space, Movie","http://www.ipdb.org/machine.cgi?id=3592",3592,,"Joe Balcer","Bigus1, Balater, Herweh, Francisco666, 32assassin",1.0,apollo13,"MOD",HbdKg_2Deu
+"Apollo 13 (Sega 1995)","Apollo 13 (Sega 1995)",Sega,1995,6,SS,,"Outer Space, Movie","http://www.ipdb.org/machine.cgi?id=3592",3592,,"Joe Balcer","Bigus1, Balater, Herweh, Francisco666, 32assassin",1.1,apollo13,"MOD",HbdKg_2Deu
 "Apollo 13 (Sega 1995)","Apollo 13 (Sega 1995)",Sega,1995,6,SS,,"Outer Space, Movie","http://www.ipdb.org/machine.cgi?id=3592",3592,,"Joe Balcer","UnclePaulie, Retro27, Balater, Herweh, Francisco666, Oqqsan, Tomate, Skitso, Sheltemke, Sixtoe, Apophis, 32assassin, VPW Team",2.1.4,apollo13,"VR, SSF, FSS, Hybrid, nFozzy, Fleep, LUT",Dln8y0RtYj
 "Apollo 13 (Sega 1995)","Apollo 13 (Sega 1995)",Sega,1995,6,SS,,"Outer Space, Movie","http://www.ipdb.org/machine.cgi?id=3592",3592,,"Joe Balcer","GeorgeH, Francisco666, rom",1.1,apollo13,,sFzGwRwVgw
 "Apollo 13 (Sega 1995)","Apollo 13 (Sega 1995)",Sega,1995,6,SS,,"Outer Space, Movie","http://www.ipdb.org/machine.cgi?id=3592",3592,,"Joe Balcer","Balater, Herweh, Francisco666, ClarkKent, Chucky87, AgentEighty6, Arngrim, Bigus1, 32assassin",1.62,apollo13,,wSWbGBjQ
@@ -2114,9 +2116,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "JP's World Joker Tour (Original 2024)","JP's World Joker Tour (Original 2024)",Original,2024,4,SS,,"Poker, Comics",,,,,"JPSalas, Pinstein",1.0.2,wpt_140a,"MOD",Nd6o1tTeZe
 "JP's World Joker Tour (Original 2024)","JP's World Joker Tour (Original 2024)",Original,2024,4,SS,,"Poker, Comics",,,,,"Ext2k, JPSalas, DaRdog81, Panasony",1.1,wpt_140a,"Hybrid, VR",45FuaXfIdU
 "JP's World Joker Tour (Original 2024)","JP's World Joker Tour (Original 2024)",Original,2024,4,SS,,"Poker, Comics",,,,,"Larouillas, JPSalas, HauntFreaks",1.0.0,wpt_140a,"MOD",nBHiWkJZqw
+"JP's Wrath of Olympus (Original 2022)","JP's Wrath of Olympus (Original 2022)",Original,2022,,SS,,"Mythology",,,,,"Ext2k, JPSalas, T-800, Arngrim, VP_Cooks",2.0,,"Hybrid, VR, Mixed Reality, MOD",9lER1ct9br
 "JP's Wrath of Olympus (Original 2022)","JP's Wrath of Olympus (Original 2022)",Original,2022,,SS,,"Mythology",,,,,"JPSalas, T-800, Mrjcrane, Arngrim, VP_Cooks",5.5.1,,"FlexDMD, LUT",UGRiDKsI
 "JP's Wrath of Olympus (Original 2022)","JP's Wrath of Olympus (Original 2022)",Original,2022,,SS,,"Mythology",,,,,"Solters, T-800, Mrjcrane, Arngrim, JPSalas",1.0,,"VR, MOD",yGQ2e_hBMQ
-"JP's Wrath of Olympus (Original 2022)","JP's Wrath of Olympus (Original 2022)",Original,2022,,SS,,"Mythology",,,,,"Ext2k, JPSalas, T-800, Arngrim, VP_Cooks",2.0,,"Hybrid, VR, Mixed Reality, MOD",9lER1ct9br
 "Jabberjaw (Original 2021)","Jabberjaw (Original 2021)",Original,2021,,,,"Cartoon",,,,,"Popotte, EalaDubhSidhe",1.00,,,ocBvjBzgmO
 "Jack Daniel's (Original 2020)","Jack Daniel's (Original 2020)",Original,2020,4,SS,,"Drinking",,,,,"Davor, Stevegooner1234, JPSalas",1.0,wrlok_l3,"MOD",KGpYvPJQ
 "Jack Daniel's 2 (Original 2021)","Jack Daniel's 2 (Original 2021)",Original,2021,4,SS,,"Drinking",,,,,"Davor, JPSalas",1.0,wrlok_l3,"Music",O5EwrF50
@@ -3522,6 +3524,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Silent Night Deadly Night (Original 2016)","Silent Night Deadly Night (Original 2016)",Original,2016,,SS,,"Movie, Horror",,,,,"TheGhost787",1.0,,,HXzcvwZE
 "Silent Night Deadly Night (Original 2016)","Silent Night Deadly Night (Original 2016)",Original,2016,,SS,,"Movie, Horror",,,,,"TheGhost787",1.0,,,emcwNUZit5
 "Silver Bullet (Original 2025)","Silver Bullet (Original 2025)",Original,2025,4,SS,,"Comics, Horror, Anime",,,,,"Bombaj344, Bigus1, Allknowing2012",1.0.2,matahari,"MOD",G-_HQ6TVyO
+"Silver Cup (Genco 1933)","Silver Cup (Genco 1933)",Genco,1933,1,PM,,,"https://www.ipdb.org/machine.cgi?id=2146",2146,,"Harvey Heiss","Bthlonewolf",1.2,,,T9fMfEqxuD
 "Silver Line (Bill Port 1970)","Silver Line (Bill Port 1970)",Bill Port,1970,,EM,,"Flipperless",,,,,"JPSalas, Paturlas",2.0.0,,,nt_tzALK
 "Silver Slugger (Gottlieb 1990)","Silver Slugger (Gottlieb 1990)",Gottlieb,1990,4,SS,,"Sports, Baseball","http://www.ipdb.org/machine.cgi?id=2152",2152,,"John Trudeau","Mike DA Spike, BorgDog",1.0,,"Hybrid, VR",arNysDmmDQ
 "Silver Slugger (Gottlieb 1990)","Silver Slugger (Gottlieb 1990)",Gottlieb,1990,4,SS,,"Sports, Baseball","http://www.ipdb.org/machine.cgi?id=2152",2152,,"John Trudeau","BorgDog",0.95,,,1kbQrylM
@@ -3602,7 +3605,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Solar Ride (Electromatic 1982)","Solar Ride (Electromatic 1982)",Electromatic,1982,4,EM,,"Outer Space, Space Fantasy","https://www.ipdb.org/machine.cgi?id=5696",5696,,,"JPSalas, Halen, Pedator",2.5.1,,,3qT6B8zupK
 "Solar Ride (Electromatic 1982)","Solar Ride (Electromatic 1982)",Electromatic,1982,4,EM,,"Outer Space, Space Fantasy","https://www.ipdb.org/machine.cgi?id=5696",5696,,,"Ext2k, JPSalas, Halen, Pedator",1.0.0,,"Hybrid, VR, MOD, Mixed Reality",uTx-mtgCZx
 "Solar Ride (Gottlieb 1979)","Solar Ride (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=2239",2239,,"Ed Krynski","HauntFreaks, EMUnderdogs, Halen, Teisen, JPSalas, Abhcoide, Cliffy, Nestorgian",2.5.1,,"Hybrid, VR",tDrTLx8_PI
-"Solar Ride (Gottlieb 1979)","Solar Ride (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=2239",2239,,"Ed Krynski","Styx, LynnInDenver, 32assassin",1.21,,"MOD",xW6QRI0vwv
+"Solar Ride (Gottlieb 1979)","Solar Ride (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=2239",2239,,"Ed Krynski","Styx, LynnInDenver, 32assassin",1.25,,"MOD, LUT",xW6QRI0vwv
 "Solar Ride (Gottlieb 1979)","Solar Ride (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=2239",2239,,"Ed Krynski","RajoJoey, BorgDog, LynnInDenver, 32assassin",1.0,,"MOD, VR, LUT",JxoPjn974_
 "Solar Ride (Gottlieb 1979)","Solar Ride (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=2239",2239,,"Ed Krynski","BorgDog, LynnInDenver, 32assassin",1.01,,"SSF, MOD",qUb6GEfK
 "Solar Ride (Gottlieb 1979)","Solar Ride (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=2239",2239,,"Ed Krynski","LynnInDenver, 32assassin",1.2,,,7DJIwVvf
@@ -3930,7 +3933,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Stock Car (Gottlieb 1970)","Stock Car (Gottlieb 1970)",Gottlieb,1970,1,EM,,"Auto Racing","https://www.ipdb.org/machine.cgi?id=2378",2378,,"Ed Krynski","Loserman76, Dazz, Bord",1.0.0f,,,At0tXp1X
 "Stones'n'Bones (Digital Illusions 1992)","Stones'n'Bones (Digital Illusions 1992)",Digital Illusions,1992,,,,"Video Game, Horror",,,,"Olof Gustafsson","Light66",1.05,,,MqvmiJuj5W
 "Straight Flush (Williams 1970)","Straight Flush (Williams 1970)",Williams,1970,1,EM,,"Gambling, Cards, Poker","http://www.ipdb.org/machine.cgi?id=2393",2393,,"Norm Clark","JPSalas, STAT, Bigus1, Arngrim, Leeoneil",5.5.0,,"LUT",MoF9H77Z
-"Strange Science (Bally 1986)","Strange Science (Bally 1986)",Bally,1986,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2396",2396,,"Dan Langlois","Bigus1, AgentEighty6, Destruk, BrandonLaw, Bord",1.0,strngsci,"MOD",fiaX9qrG5a
+"Strange Science (Bally 1986)","Strange Science (Bally 1986)",Bally,1986,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2396",2396,,"Dan Langlois","Bigus1, AgentEighty6, Destruk, BrandonLaw, Bord",1.1,strngsci,"MOD",fiaX9qrG5a
 "Strange Science (Bally 1986)","Strange Science (Bally 1986)",Bally,1986,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2396",2396,,"Dan Langlois","Solters, AgentEighty6, BrandonLaw, Destruk, Jturner, nFozzy, Flupper, Ninuzzu, Bigus1, Bord",1.0,strngsci,"VR",lSV2pBQqgh
 "Strange Science (Bally 1986)","Strange Science (Bally 1986)",Bally,1986,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2396",2396,,"Dan Langlois","AgentEighty6, BrandonLaw, Destruk, Jturner, nFozzy, Flupper, Ninuzzu, Bigus1, Bord",1.1.0,strngsci,,Gf5KEf4g
 "Strange Science (Bally 1986)","Strange Science (Bally 1986)",Bally,1986,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2396",2396,,"Dan Langlois","Morttis, AgentEighty6, Arconovum",1.0.2-1.0,strngsci,"FSS, MOD",3vRQsuk8
@@ -4095,7 +4098,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Tales from the Crypt (Data East 1993)","Tales from the Crypt (Data East 1993)",Data East,1993,4,SS,,"Licensed Theme, Comics, Horror","http://www.ipdb.org/machine.cgi?id=2493",2493,,"John Borg","32assassin, Freneticamnesic, Francisco666",0.9,tftc_400,"SSF, MOD",bCFO1HQ3
 "Tales from the Crypt (Data East 1993)","Tales from the Crypt (Data East 1993)",Data East,1993,4,SS,,"Licensed Theme, Comics, Horror","http://www.ipdb.org/machine.cgi?id=2493",2493,,"John Borg","TheGhost787",1.0,tftc_400,,lXhrNU53py
 "Tales from the Crypt (Data East 1993)","Tales from the Crypt (Data East 1993)",Data East,1993,4,SS,,"Licensed Theme, Comics, Horror","http://www.ipdb.org/machine.cgi?id=2493",2493,,"John Borg","Freneticamnesic, Francisco666",072515a,tftc_400,,9zTrafQ4
-"Tales of the Arabian Nights (Williams 1996)","Tales of the Arabian Nights (Williams 1996)",Williams,1996,4,SS,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=3824",3824,,"John Popadiuk","JPSalas, Grizz, ClarkKent, Michael Gallo, Randr, SliderPoint, Arngrim",5.5.0,totan_14,"LUT",7m7IM8bI
+"Tales of the Arabian Nights (Williams 1996)","Tales of the Arabian Nights (Williams 1996)",Williams,1996,4,SS,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=3824",3824,,"John Popadiuk","JPSalas, Grizz, ClarkKent, Michael Gallo, Randr, SliderPoint, Arngrim",5.5.1,totan_14,"LUT",7m7IM8bI
 "Tales of the Arabian Nights (Williams 1996)","Tales of the Arabian Nights (Williams 1996)",Williams,1996,4,SS,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=3824",3824,,"John Popadiuk","Flupper, Rothbauerw, ClarkKent, Randr, Arngrim, Knorr, nFozzy, Iaakki, JPSalas",1.5,totan_14,"FastFlips, 4k, FSS, Hybrid, VR, LUT, nFozzy",CcCVZe1b
 "Table 132","Tales of the Arabian Nights (Williams 1996)",Williams,1996,4,SS,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=3824",3824,,"John Popadiuk","Zen Studios, Zoltan Vari",,totan_14,,M5cv8VFbQA
 "Tales of the Arabian Nights (Williams 1996)","Tales of the Arabian Nights (Williams 1996)",Williams,1996,4,SS,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=3824",3824,,"John Popadiuk","Psiomicron, Flupper, Rothbauerw, JPSalas",1.7,totan_14,"VR, 4k, FastFlips",LN-s3olmx4
