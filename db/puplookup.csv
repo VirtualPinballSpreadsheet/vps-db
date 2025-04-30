@@ -306,6 +306,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Aztec (Williams 1976)","Aztec (Williams 1976)",Williams,1976,4,EM,,"Historical, World Places","http://www.ipdb.org/machine.cgi?id=119",119,,"Gordon Horlick","super, Ext2k, VPW, Rawd, Basti, JPJ, TeamPP, Chucky, Arngrim",1.0.1,,"VR",qJFxsu24pO
 "Aztec (Williams 1976)","Aztec (Williams 1976)",Williams,1976,4,EM,,"Historical, World Places","http://www.ipdb.org/machine.cgi?id=119",119,,"Gordon Horlick","Texascompadre, JPJ, TeamPP, Chucky87, Arngrim",1.0,,"MOD",fKmPMjN8Bp
 "Aztec (Williams 1976)","Aztec (Williams 1976)",Williams,1976,4,EM,,"Historical, World Places","http://www.ipdb.org/machine.cgi?id=119",119,,"Gordon Horlick","JPJ, TeamPP, Chucky87, Leon Spalding, Ced, Ninuzzu, Arngrim",1.3,,,0XCN-Z25
+"B.B. King (Original 2025)","B.B. King (Original 2025)",Original,2025,4,SS,,"Music, Blues",,,,,"Larouillas, JPSalas",1.0.0,,"Music, MOD",1mxoZ-0X5A
 "BMX (Bally 1983)","BMX (Bally 1983)",Bally,1983,4,SS,,"Sports, Bicycling","https://www.ipdb.org/machine.cgi?id=335",335,,"Ward Pemberton","HauntFreaks, JPSalas, Halen, Pin-Pete, Mike DA Spike, DGrimmReaper",1.3,bmx,"VR, Hybrid, FSS",L6m7MREzV2
 "BMX (Bally 1983)","BMX (Bally 1983)",Bally,1983,4,SS,,"Sports, Bicycling","https://www.ipdb.org/machine.cgi?id=335",335,,"Ward Pemberton","MauiPunter, Halen, Pin-Pete, Mike DA Spike, JPSalas",1.0,bmx,"MOD",CFfWE7YdjT
 "BMX (Bally 1983)","BMX (Bally 1983)",Bally,1983,4,SS,,"Sports, Bicycling","https://www.ipdb.org/machine.cgi?id=335",335,,"Ward Pemberton","JPSalas, Halen, Pin-Pete, Mike DA Spike",1.0.2,bmx,"LUT",evrGskgKBK
@@ -1061,7 +1062,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Cyclone (Williams 1988)","Cyclone (Williams 1988)",Williams,1988,4,SS,,"Happiness, Amusement Park, Roller Coasters","http://www.ipdb.org/machine.cgi?id=617",617,,"Barry Oursler","SliderPoint, Melon, Flupper, Wildman, Westworld, HauntFreaks",1.5,cycln_l5,"SSF",gsNMhPtF
 "Cyclopes (Game Plan 1985)","Cyclopes (Game Plan 1985)",Game Plan,1985,4,SS,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=619",619,,"Roger Sharpe","Goldchicco, Destruk, 2borG, Arngrim, Batch, Thalamus",1.1,cyclopes,"Fleep",vF855_4Y
 "Cyclopes (Game Plan 1985)","Cyclopes (Game Plan 1985)",Game Plan,1985,4,SS,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=619",619,,"Roger Sharpe","RajoJoey, Goldchicco, Sixtoe, Rawd",1.0.0,cyclopes,"MOD, VR, LUT",8LIyIJGKkJ
-"DOF Test Table (Original 2017)","DOF Test Table (Original 2017)",Original,2017,,,,"Testing, Example",,,,"BorgDog","BorgDog",1.6,,,QD06vr79Cp
+"DOF Test Table (Original 2017)","DOF Test Table (Original 2017)",Original,2017,,,,"Testing, Example",,,,"BorgDog","BorgDog",1.6,,"DOF",QD06vr79Cp
 "Daft Punk (Original 2020)","Daft Punk (Original 2020)",Original,2020,4,SS,,"Music",,,,,"Donuts",1.1,,"Music",zx-__ko_
 "Daft Punk - Interstella 5555 (Original 2024)","Daft Punk - Interstella 5555 (Original 2024)",Original,2024,,SS,,"Music, Anime",,,,,"Mlaw, JPSalas",1.0.0,,,FFP3WL00JW
 "Daho (Original 2024)","Daho (Original 2024)",Original,2024,4,SS,,"Music",,,,,"VLive, Icepinball, Goldchicco",1.0.3,fpwr2_l2,,9TSYLMUglM
@@ -1100,7 +1101,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Death Wish 3 (Original 2019)","Death Wish 3 (Original 2019)",Original,2019,4,SS,,"Movie",,,,,"Ivantba, JPSalas",1.0,lostwrld,"Music, MOD",dqizRgwb
 "Deep Purple (Original 2024)","Deep Purple (Original 2024)",Original,2024,4,SS,,"Music",,,,,"Balutito, Gedankekojote97, DJRobX, Wrd1972, Bord, UncleWilly, Randr, 32assassin, HauntFreaks, RustyCardores, Flupper, nFozzy, Mkl66",1.2, fire_l3,"nFozzy, Fleep, LUT, Music",6_HZDGxOTd
 "Deep Purple (Original 2024)","Deep Purple (Original 2024)",Original,2024,4,SS,,"Music",,,,,"Larouillas, Balutito, HauntFreaks",1.0.0, fire_l3,"nFozzy, Fleep, Music, MOD",TApFsmzAzX
-"Def Leppard (Original 2025)","Def Leppard (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"MOD, Music, LUT",4GkzXouk9h
+"Def Leppard (Original 2025)","Def Leppard (Original 2025)",Original,2025,4,SS,,"Music, Rock, Heavy Metal",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"MOD, Music, LUT",4GkzXouk9h
 "Def Leppard (Original 2020)","Def Leppard (Original 2020)",Original,2020,,SS,,"Music",,,,,"Goldchicco, Aaron James, Destruk, Doogie, JPSalas",1.3,,"SSF, Music, FlexDMD, MOD",AuWESUEK
 "Def Leppard (Original 2020)","Def Leppard (Original 2020)",Original,2020,,SS,,"Music",,,,,"Goldchicco, Aaron James, Destruk",1.0,,"SSF, Music",I3QrbMa7ls
 "Defender (Williams 1982)","Defender (Williams 1982)",Williams,1982,2,SS,,"Outer Space, Fantasy, Video Game","http://www.ipdb.org/machine.cgi?id=651",651,,"Barry Oursler","VPW",1.3,dfndr_l4,"VR, Hybrid, SSF, FSS, nFozzy, Fleep, FlexDMD",XJIqrWKHAC
@@ -1255,6 +1256,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Drakor (Taito do Brasil 1979)","Drakor (Taito do Brasil 1979)",Taito do Brasil,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4569",4569,,"Barry Oursler","Morttis, Arconovum, Wildman, Carlos Guizzo, JPSalas",3.0-1.0,drakor,"FSS, MOD",Kz0_BHHN
 "Drakor (Taito do Brasil 1979)","Drakor (Taito do Brasil 1979)",Taito do Brasil,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4569",4569,,"Barry Oursler","Exegeta",1.0,drakor,,k_z5EGE_
 "Dream Daddy - The Dad Dating Simulator (Original 2020)","Dream Daddy - The Dad Dating Simulator (Original 2020)",Original,2020,4,SS,,"Romance, Video Game",,,,,"Baseraider, PEandS1Ws",1.5,,,FZCi2ZMa
+"Dream Theater (Original 2025)","Dream Theater (Original 2025)",Original,2025,4,SS,,"Music, Heavy Metal, Progressive",,,,,"Larouillas, JPSalas",1.0.0,,"Music, MOD",x_yJGLEBn3
 "Table 141","DreamWorks How to Train Your Dragon Pinball (Zen Studios 2021)",Zen Studios,2021,,,,"Animation, Dragons, Movie",,,,"Zoltan Vari","Zen Studios, Zoltan Vari",,,,3Gu1yLUiGa
 "Table 139","DreamWorks Kung Fu Panda Pinball (Zen Studios 2021)",Zen Studios,2021,,,,"Animation",,,,"Peter Kovacs","Zen Studios, Peter Kovacs",,,,KyM7G8IGE4
 "DreamWorks Megamind (Original 2021)","DreamWorks Megamind (Original 2021)",Original,2021,4,SS,,"Animation, Movie, Kids",,,,,"Phenom, Devious626, DigitalJedi084, Goldchicco",1.1,,"Music, MOD, Kids",03C3Eg2Q
@@ -1342,9 +1344,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Elvira's House of Horrors Remix (Original 2021)","Elvira's House of Horrors Remix (Original 2021)",Original,2021,,SS,,"Licensed Theme, Horror, Supernatural",,,,,"Gman77, Jagandy82, Nagaidevil, HauntFreaks, Marty02, 32assassin",2.0.1,eatpm_l4,"MOD",wWVKSJcpHt
 "Elvira's House of Horrors Remix (Original 2021)","Elvira's House of Horrors Remix (Original 2021)",Original,2021,,SS,,"Licensed Theme, Horror, Supernatural",,,,,"HauntFreaks, Marty02, 32assassin",2.0.0,eatpm_l4,"MOD",dJIsrYG2rQ
 "Elvira's House of Horrors Remix (Original 2021)","Elvira's House of Horrors Remix (Original 2021)",Original,2021,,SS,,"Licensed Theme, Horror, Supernatural",,,,,"Marty02, 32assassin",1.1,eatpm_l4,,1Qzqsg9R
-"Elvis (Stern 2004)","Elvis (Stern 2004)",Stern,2004,4,SS,,"Licensed Theme, Music","http://www.ipdb.org/machine.cgi?id=4983",4983,,"Steve Ritchie","JPSalas, Steve Paradis (Polygame), Chokeee, Batch",5.5.1,elvis,"SSF, LUT",_mOok-fI
-"Elvis (Stern 2004)","Elvis (Stern 2004)",Stern,2004,4,SS,,"Licensed Theme, Music","http://www.ipdb.org/machine.cgi?id=4983",4983,,"Steve Ritchie","Chokeee, DJRobX, Flupper, Tom Tower, Dids666, Rawd, Wylte, nFozzy, BountyBob, PinstratsDan, Primetime5k, Apophis, HauntFreaks, JPSalas, TastyWasps",2.0,elvis,"SSF, MOD, VR, Hybrid, FSS, nFozzy, Fleep",VBiGyjgZ
-"Elvis (Stern 2004)","Elvis (Stern 2004)",Stern,2004,4,SS,,"Licensed Theme, Music","http://www.ipdb.org/machine.cgi?id=4983",4983,,"Steve Ritchie","Morttis, Arconovum, JPSalas",3.0-3.0,elvis,"FSS, MOD",1JzYfL7f
+"Elvis (Stern 2004)","Elvis (Stern 2004)",Stern,2004,4,SS,,"Licensed Theme, Music, Rock, Pop, Country and Western, Blues, Soul","http://www.ipdb.org/machine.cgi?id=4983",4983,,"Steve Ritchie","JPSalas, Steve Paradis (Polygame), Chokeee, Batch",5.5.1,elvis,"SSF, LUT",_mOok-fI
+"Elvis (Stern 2004)","Elvis (Stern 2004)",Stern,2004,4,SS,,"Licensed Theme, Music, Rock, Pop, Country and Western, Blues, Soul","http://www.ipdb.org/machine.cgi?id=4983",4983,,"Steve Ritchie","Chokeee, DJRobX, Flupper, Tom Tower, Dids666, Rawd, Wylte, nFozzy, BountyBob, PinstratsDan, Primetime5k, Apophis, HauntFreaks, JPSalas, TastyWasps",2.0,elvis,"SSF, MOD, VR, Hybrid, FSS, nFozzy, Fleep",VBiGyjgZ
+"Elvis (Stern 2004)","Elvis (Stern 2004)",Stern,2004,4,SS,,"Licensed Theme, Music, Rock, Pop, Country and Western, Blues, Soul","http://www.ipdb.org/machine.cgi?id=4983",4983,,"Steve Ritchie","Morttis, Arconovum, JPSalas",3.0-3.0,elvis,"FSS, MOD",1JzYfL7f
 "Elvis Gold (Limited Edition) (Stern 2004)","Elvis Gold (Limited Edition) (Stern 2004)",Stern,2004,4,SS,,,"https://www.ipdb.org/machine.cgi?id=6032",6032,,,"Chokeee",2.0,,,7gJBIJ_SQy
 "Embryon (Bally 1981)","Embryon (Bally 1981)",Bally,1981,4,SS,,"Fantasy, Science Fiction","http://www.ipdb.org/machine.cgi?id=783",783,,"Claude Fernandez","Bigus1, ICPjuggla, Freneticamnesic, Herweh, OldSkoolGamer, Scutters",2.0,embryond,"MOD, FlexDMD",BxCQis3d
 "Embryon (Bally 1981)","Embryon (Bally 1981)",Bally,1981,4,SS,,"Fantasy, Science Fiction","http://www.ipdb.org/machine.cgi?id=783",783,,"Claude Fernandez","UnclePaulie",2.0.2,embryond,"Hybrid, VR, FSS, 4k, SSF, nFozzy, Fleep, LUT",pYinRfnhfG
@@ -1397,7 +1399,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Faeton (Juegos Populares 1985)","Faeton (Juegos Populares 1985)",Juegos Populares,1985,4,SS,,"Outer Space, Science Fiction, Space Fantasy","http://www.ipdb.org/machine.cgi?id=3087",3087,,,"JPSalas, Lighthouse, Arngrim",5.5.0,faeton,,5KweDoFN
 "Fair Fight (Recel 1978)","Fair Fight (Recel 1978)",Recel,1978,4,SS,,"Medieval, Combat","https://www.ipdb.org/machine.cgi?id=808",808,,,"JPSalas, Editoy, Halen",5.5.0,,,9k38chYycL
 "Fairy Favors (Original 2024)","Fairy Favors (Original 2024)",Original,2024,,EM,,"Fantasy",,,,,"CrimsonTurtle8, Spectrowhirl",1.0,,,9Si1Zv8KQm
-"Falling In Reverse (Original 2025)","Falling In Reverse (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,,"Music, MOD",6YYOcLfoLO
+"Falling In Reverse (Original 2025)","Falling In Reverse (Original 2025)",Original,2025,4,SS,,"Music, Heavy Metal",,,,,"Larouillas, JPSalas",1.0.0,,"Music, MOD",6YYOcLfoLO
 "Fallout (Original 2024)","Fallout (Original 2024)",Original,2024,4,SS,,"Science Fiction, TV Show, Video Game",,,,,"LTek, Clairvius, Cyberpez, Fleep, RobbyKingPin, nFozzy, Rothbauerw, Primetime5k, Ext2k",2.0.1,swrds_l2,"FlexDMD, Hybrid, VR, nFozzy, Fleep, MOD",mUYcb63dvR
 "Fallout (Original 2024)","Fallout (Original 2024)",Original,2024,4,SS,,"Science Fiction, TV Show, Video Game",,,,,"Clairvius, GtecArcade, Takut, TilterIllussions, Masonm, Dr.Nobody, Dave Barnes, Nevvyboy, Guet35",1.0.0,swrds_l2,"LUT, MOD",RzYEuMHUTR
 "BETHESDA_Fallout","Fallout Pinball (Zen Studios 2016)",Zen Studios,2016,4,,,"Licensed Theme, Video Game",,,,,"Zen Studios",,,,UFFpuobs
@@ -1536,6 +1538,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Force (LTD do Brasil 1979)","Force (LTD do Brasil 1979)",LTD do Brasil,1979,2,SS,,"Outer Space, Science Fiction, Space Fantasy","https://www.ipdb.org/machine.cgi?id=5893",5893,,,"Wiesshund, Mfuegemann",4.0,force,,k26cLZY1Vu
 "Force (LTD do Brasil 1979)","Force (LTD do Brasil 1979)",LTD do Brasil,1979,2,SS,,"Outer Space, Science Fiction, Space Fantasy","https://www.ipdb.org/machine.cgi?id=5893",5893,,,"Mfuegemann, Carlos Guizzo, Wmpimentel, Wiesshund, Siggi",1.3,force,,3WBxX3Zj
 "Force II (Gottlieb 1981)","Force II (Gottlieb 1981)",Gottlieb,1981,4,SS,,"Combat, Aliens, Outer Space","http://www.ipdb.org/machine.cgi?id=916",916,,"John Osborne","HSM, Rascal, Kristian, Inkochnito, TAB",1.1,,,HYofGN40
+"Foreigner (Original 2025)","Foreigner (Original 2025)",Original,2025,4,EM,,"Music, Rock",,,,,"Larouillas, Teisen, Armyaviation, 32assassin",1.0.0,,"Music, MOD",qKPmkFOJwR
 "Forge (Original 2023)","Forge (Original 2023)",Original,2023,,SS,,,,,,,"VonKrafte, Karl Casey, Jogrady7",2.1.0,,"Music",1mYC1bqZex
 "Forrest Gump (Original 2023)","Forrest Gump (Original 2023)",Original,2023,,SS,,"Movie",,,,,"Jagandy82, Nesta78, JoePicasso",2.0.0,,,620RhMAmqM
 "Fortnite (Original 2024)","Fortnite (Original 2024)",Original,2024,4,SS,,,,,,,"kangar, DaRdog81, Bigus1, HauntFreaks, Goldchicco, 32assassin, Tomasaco",1.0.1,superman.zip,"VR, FSS, Hybrid",Q8DOi1_yat
@@ -1639,7 +1642,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "George Michael - Faith (Original 2023)","George Michael - Faith (Original 2023)",Original,2023,,SS,,"Music",,,,,"VLive",1.02,,"Music, MOD",sSobZIMQ6W
 "Get Smart (Original 2021)","Get Smart (Original 2021)",Original,2021,,SS,,"TV Show",,,,,"Drinkcristal, Rawd, WillyCWonka, Leojreimroc",2.0.2,,"VR, Hybrid, FSS",XhvsKHRD
 "Ghost (Original 2023)","Ghost (Original 2023)",Original,2023,,SS,,"Music, Rock",,,,,"Jonpfeiler, TastyWasps, iDigStuff",1.25, poto_a32,,Zd_pZAszOC
-"Ghost Ramps and DMD Test (Original 2016)","Ghost Ramps and DMD Test (Original 2016)",Original,2016,,SS,,,,,,,"TheGhost787",1.0,,,Jw2JwbU7Gh
+"Ghost Ramps and DMD Test (Original 2016)","Ghost Ramps and DMD Test (Original 2016)",Original,2016,,SS,,"Testing",,,,,"TheGhost787",1.0,,,Jw2JwbU7Gh
 "Table 21","Ghost Rider (Zen Studios 2011)",Zen Studios,2011,4,,,"Licensed Theme, Comics, Superheroes",,,,"Zoltan Vari","Zen Studios, Zoltan Vari",,,,ET54Igt7DE
 "MARVEL_GhostRider","Ghost Rider (Zen Studios 2011)",Zen Studios,2011,4,,,"Licensed Theme, Comics, Superheroes",,,,"Zoltan Vari","Zen Studios",,,,TcQjFFMC
 "Ghost Toys VPX Model Pack (Original 2016)","Ghost Toys VPX Model Pack (Original 2016)",Original,2016,,,,,,,,,"TheGhost787",1.0,,,mA5NYuJDtJ
@@ -2176,7 +2179,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jive Time (Williams 1970)","Jive Time (Williams 1970)",Williams,1970,1,EM,,"Music, Singing","http://www.ipdb.org/machine.cgi?id=1298",1298,,"Norm Clark","Pdrum, Rothbauerw",2.0,,"MOD, Fleep",I8GuHLgLrr
 "Jive Time (Williams 1970)","Jive Time (Williams 1970)",Williams,1970,1,EM,,"Music, Singing","http://www.ipdb.org/machine.cgi?id=1298",1298,,"Norm Clark","Rothbauerw",2.0.0,,"VR, FSS, Hybrid, SSF, Fleep",LENyN6mF
 "Joe Bar Team (Original 2019)","Joe Bar Team (Original 2019)",Original,2019,,SS,,"Comics",,,,,"Zedixair, mussinger",1.0.0,,"MOD, Music",jUb1hDgl
-"Joe Cocker (Original 2025)","Joe Cocker (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"Music, MOD",MRZ7chdV0Y
+"Joe Bonamassa (Original 2025)","Joe Bonamassa (Original 2025)",Original,2025,4,SS,,"Music, Rock",,,,,"Larouillas, JPSalas",1.0.0,,"Music, MOD",rB_9k_jQwT
+"Joe Cocker (Original 2025)","Joe Cocker (Original 2025)",Original,2025,4,SS,,"Music, Rock, Blues",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"Music, MOD",MRZ7chdV0Y
 "John Carpenter's Christine (Original 2019)","John Carpenter's Christine (Original 2019)",Original,2019,4,SS,,"Horror, Movie",,,,,"Ivantba, BorgDog",1.0,dragon,,9ciUIvCG
 "John Carpenter's The Thing (Original 2019)","John Carpenter's The Thing (Original 2019)",Original,2019,4,SS,,"Movie, Horror",,,,,"Gman77, Balutito, Jagandy82, Growat, Cliffy",1.0.0,ali,"Music, MOD",qlxFKMX19N
 "John Carpenter's The Thing (Original 2019)","John Carpenter's The Thing (Original 2019)",Original,2019,4,SS,,"Movie, Horror",,,,,"Balutito, Ivantba, JPSalas",1.0.0,ali,"MOD, Music",bAUebqNJQq
@@ -2410,7 +2414,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Legends of Valhalla (Original 2021)","Legends of Valhalla (Original 2021)",Original,2021,,SS,,"Fantasy",,,,,"Ryguy417, Nesta78, fastdraw, TerryRed, Ivantba",1.0.0,,"MOD",GTdDaM3pRs
 "Legends of Valhalla (Original 2021)","Legends of Valhalla (Original 2021)",Original,2021,,SS,,"Fantasy",,,,,"fastdraw",1.0,,"Music",29CElilm
 "Legends of Wrestlemania (Limited Edition) (Original 2023)","Legends of Wrestlemania (Limited Edition) (Original 2023)",Original,2023,,SS,,"Wrestling",,,,,"Ryguy417, roccodimarco, PEandS1Ws",1.1,,"MOD",99bgIPCfSC
-"Lenny Kravitz (Original 2025)","Lenny Kravitz (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"Music",RxrqvCo_vQ
+"Lenny Kravitz (Original 2025)","Lenny Kravitz (Original 2025)",Original,2025,4,SS,,"Music, Rock, Soul",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"Music",RxrqvCo_vQ
 "Les Mystérieuses Cités d'or (Original 2022)","Les Mystérieuses Cités d'or (Original 2022)",Original,2022,,SS,,"Animation, Kids",,,,,"Wedge, JPSalas, Jejepinball",1.2.1,sst,"Music",Egd3DG_s
 "Lethal Weapon 3 (Data East 1992)","Lethal Weapon 3 (Data East 1992)",Data East,1992,4,SS,,"Licensed Theme, Police, Crime","http://www.ipdb.org/machine.cgi?id=1433",1433,,"Joe Kaminkow, Ed Cebula","VPW, 32assassin, EBisLit, Sheltemke, Javier15, Francisco666, oooPlayer1ooo, rom, Tomate, Apophis, Iaakki, Mcarter78, DGrimmReaper, Fluffhead, Wylte, Niwak",2.0,lw3_208,"VR, MOD, Hybrid, FSS, SSF, nFozzy, Fleep",QHG8OrTf
 "Lethal Weapon 3 (Data East 1992)","Lethal Weapon 3 (Data East 1992)",Data East,1992,4,SS,,"Licensed Theme, Police, Crime","http://www.ipdb.org/machine.cgi?id=1433",1433,,"Joe Kaminkow, Ed Cebula","Bigus1, Javier15, Francisco666, oooPlayer1ooo, rom",2.0,lw3_208,"MOD",fORSSJ2I
@@ -3029,7 +3033,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Phoenix (Williams 1978)","Phoenix (Williams 1978)",Williams,1978,,SS,,"Mythology","https://www.ipdb.org/machine.cgi?id=1780",1780,,"Barry Oursler","Ext2k, JPSalas, Halen, Arngrim",1.0.0,phnix_l1,"Hybrid, VR, MOD, Mixed Reality",vzgC4b9eqr
 "Phoenix (Williams 1978)","Phoenix (Williams 1978)",Williams,1978,,SS,,"Mythology","https://www.ipdb.org/machine.cgi?id=1780",1780,,"Barry Oursler","JPSalas, Halen, Arngrim",5.5.0,phnix_l1,,yZMbDIKg
 "Pi Rats (Original 2024)","Pi Rats (Original 2024)",Original,2024,4,SS,,,,,,,"Anthias",1.0.0,,,1sMiSSrIXE
-"Pierce The Veil (Original 2025)","Pierce The Veil (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,,"Music, MOD",Do0UN8d9fs
+"Pierce The Veil (Original 2025)","Pierce The Veil (Original 2025)",Original,2025,4,SS,,"Music, Progressive, Rock",,,,,"Larouillas, JPSalas",1.0.0,,"Music, MOD",Do0UN8d9fs
 "Piggy Bank Blitz (Original 2023)","Piggy Bank Blitz (Original 2023)",Original,2023,,,,"Flipperless",,,,,"Arelyel, Kevin MacLeod, Studlygoorite, Iwantpinball, Movieg1",2.1.0,,"FlexDMD",ws_hvA6-iT
 "Pin City (Original 2018)","Pin City (Original 2018)",Original,2018,,SS,,"Example",,,,,"Malform11",1.0,,,Ej8cxtA4
 "Pin-Up (Gottlieb 1975)","Pin-Up (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=1789",1789,,"Ed Krynski","RajoJoey, Popotte, GNance, Loserman76",1.0.0,,"VR, Hybrid, MOD, LUT",NJLO0GIrG6
@@ -3113,7 +3117,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Playboy 35th Anniversary (Data East 1989)","Playboy 35th Anniversary (Data East 1989)",Data East,1989,,SS,,"Celebrities, Licensed Theme, Adult","https://www.ipdb.org/machine.cgi?id=1822",1822,,"Joe Kaminkow, Ed Cebula","Ext2k, JPSalas, TastyWasps, Wildman",1.0.0,play_a24,"VR",1QxDPaWb33
 "Playboy 35th Anniversary (Data East 1989)","Playboy 35th Anniversary (Data East 1989)",Data East,1989,,SS,,"Celebrities, Licensed Theme, Adult","https://www.ipdb.org/machine.cgi?id=1822",1822,,"Joe Kaminkow, Ed Cebula","JPSalas, Pancake, HiRez00",4.3.0,play_a24,"LUT",xzLojRzc7O
 "Playmate (Original 2020)","Playmate (Original 2020)",Original,2020,4,SS,,"Adult",,,,,"Goldchicco, GTXJoe, ICPjuggla",1.0,,"Music, MOD",A6Wr4CWT
-"Poison (Original 2025)","Poison (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"Music, MOD",Qxbi6HM3lU
+"Poison (Original 2025)","Poison (Original 2025)",Original,2025,4,SS,,"Music, Rock, Heavy Metal",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"Music, MOD",Qxbi6HM3lU
 "Pokemon Pinball (Original 2021)","Pokemon Pinball (Original 2021)",Original,2021,4,SS,,"Cartoon, Kids",,,,,"Remdwaas1986, Ryesteve, Haggi, Giovanni1966, JPSalas",1.3,,"FlexDMD, Kids",Z4v1vgR5
 "Pokemon Slots (Original 2024)","Pokemon Slots (Original 2024)",Original,2024,,,,"Pokemon, Slotmachine",,,,,"Remdwaas1986, Oqqsan",1.0.0,,,Rn94lGsgqG
 "Pokerino (Williams 1978)","Pokerino (Williams 1978)",Williams,1978,,SS,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=1839",1839,,"Steve Kordek","JPSalas, Halen, EalaDubhSidhe, Ketayeyen",5.5.1,pkrno_l1,,Gn5LmZ9Jcu
@@ -3974,7 +3978,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Struggle Buggies (Williams 1953)","Struggle Buggies (Williams 1953)",Williams,1953,,EM,,"Auto Racing","https://www.ipdb.org/machine.cgi?id=2407",2407,,"Harry Mabs","Popotte",1.00,,,VaiSLQJ76q
 "Student Prince (Williams 1968)","Student Prince (Williams 1968)",Williams,1968,4,EM,,"Operetta, Musical","https://www.ipdb.org/machine.cgi?id=2408",2408,,"Steve Kordek","Jogrady7, Kees, Leon Spalding",2.00,,"Music, MOD",NSedTGIC
 "Student Prince (Williams 1968)","Student Prince (Williams 1968)",Williams,1968,4,EM,,"Operetta, Musical","https://www.ipdb.org/machine.cgi?id=2408",2408,,"Steve Kordek","Kees, Leon Spalding",1.00,,,odPqyHG8
-"Sublime (Original 2025)","Sublime (Original 2025)",Original,2025,4,SS,,"Music",,,,,"ZandysArcade, UnclePaulie",1.0.0,alienstr,"nFozzy, Fleep, VR, Music, MOD, Hybrid",PDg8LiNOut
+"Sublime (Original 2025)","Sublime (Original 2025)",Original,2025,4,SS,,"Music, Punk, Reggae",,,,,"ZandysArcade, UnclePaulie",1.0.0,alienstr,"nFozzy, Fleep, VR, Music, MOD, Hybrid",PDg8LiNOut
 "Sultan (Taito do Brasil 1979)","Sultan (Taito do Brasil 1979)",Taito do Brasil,1979,4,SS,,"Fantasy, Mythology","https://www.ipdb.org/machine.cgi?id=5009",5009,,,"JPSalas, Carlos Guizzo, Editoy, Tio Italo, Kruge99, Pinuck, Mick67, Popotte, Pmax65, Akiles50000, HauntFreaks, Rothbauerw",5.5.0,sinbadn,"FastFlips, SSF, LUT",Kh58Qu6b
 "Summer Time (Williams 1972)","Summer Time (Williams 1972)",Williams,1972,1,EM,,"Beach, Swimming, Surfing, Water","https://www.ipdb.org/machine.cgi?id=2415",2415,,"Norm Clark","Ext2k, JPSalas, Halen",1.0.0,,"Hybrid, VR, Mixed Reality",ieqbnuxt7O
 "Summer Time (Williams 1972)","Summer Time (Williams 1972)",Williams,1972,1,EM,,"Beach, Swimming, Surfing, Water","https://www.ipdb.org/machine.cgi?id=2415",2415,,"Norm Clark","JPSalas, Halen",5.5.0,,,zpn6Fy09Eg
@@ -4068,7 +4072,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "T.K.O. (Gottlieb 1979)","T.K.O. (Gottlieb 1979)",Gottlieb,1979,1,EM,,"Sports, Boxing","http://www.ipdb.org/machine.cgi?id=4599",4599,,"Ed Krynski","RajoJoey, BorgDog",1.0.1,,"VR, FSS, Hybrid, MOD, LUT",M_4eJ0dE
 "T.K.O. (Gottlieb 1979)","T.K.O. (Gottlieb 1979)",Gottlieb,1979,1,EM,,"Sports, Boxing","http://www.ipdb.org/machine.cgi?id=4599",4599,,"Ed Krynski","BorgDog, Itchigo, Pbecker1946, Arngrim, HauntFreaks, SliderPoint",1.1,,,HGGJrZz1
 "TMNT (Original 2020)","TMNT (Original 2020)",Original,2020,1,SS,,,,,,,"fastdraw",1.0.0-wip,,,Kw_m-X7ec5
-"TOTO (Original 2025)","TOTO (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"Music",DReeI1bf7c
+"TOTO (Original 2025)","TOTO (Original 2025)",Original,2025,4,SS,,"Music, Rock, Progressive, Pop",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"Music",DReeI1bf7c
 "TRON Classic (Original 2018)","TRON Classic (Original 2018)",Original,2018,4,SS,,"Licensed Theme, Science Fiction, Movie","http://www.ipdb.org/machine.cgi?id=1745",1745,,,"Gman77, BurtMacklin, Jagandy82, wpilot, Xenonph, ZandysArcade, MerlinRTP, PIPAllah, Andrew Walsh (Awalsh053)",2.0,panther7,"Music",3p3shVicOe
 "TRON Classic (Original 2018)","TRON Classic (Original 2018)",Original,2018,4,SS,,"Licensed Theme, Science Fiction, Movie","http://www.ipdb.org/machine.cgi?id=1745",1745,,,"wpilot, Xenonph, HiRez00, BorgDog, HauntFreaks, JPSalas",1.1,panther7,"MOD, Music",GNlnm4khZ4
 "TRON Classic (Original 2018)","TRON Classic (Original 2018)",Original,2018,4,SS,,"Licensed Theme, Science Fiction, Movie","http://www.ipdb.org/machine.cgi?id=1745",1745,,,"Xenonph, HiRez00, Flupper, Thalamus, DJRobX, STAT, nFozzy, GTXJoe, BorgDog, Allknowing2012, HauntFreaks, JPSalas",2.1,panther7,"Music, MOD, LUT",xvRzOeMm
@@ -4221,7 +4225,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Big Lebowski Pinball, The (Original 2016)","Big Lebowski Pinball, The (Original 2016)",Original,2016,4,SS,,"Sports, Bowling, Movie",,,,"Koen Heltzel, Barry Driessen","GtecArcade, Marty02, Dr.Nobody, Guet35, Cliffy, Masonm, SuperTilted, LTek, LoadedWeapon",3.5.0,,,Gi_FZ3oSrE
 "Big Lebowski Pinball, The (Original 2016)","Big Lebowski Pinball, The (Original 2016)",Original,2016,4,SS,,"Sports, Bowling, Movie",,,,"Koen Heltzel, Barry Driessen","Marty02, JPSalas",3.6,,"nFozzy",9YyaYPEEnH
 "Big Lebowski Pinball, The (Original 2016)","Big Lebowski Pinball, The (Original 2016)",Original,2016,4,SS,,"Sports, Bowling, Movie",,,,"Koen Heltzel, Barry Driessen","TheGhost787",1.0 WIP,,,kYdU2SUFdt
-"Blues Brothers, The (Original 2020)","Blues Brothers, The (Original 2020)",Original,2020,4,SS,,"Music",,,,,"Marty02, JPSalas, Martin Brunker",3.0,,"Music, MOD",eASOmQYp
+"Blues Brothers, The (Original 2020)","Blues Brothers, The (Original 2020)",Original,2020,4,SS,,"Music, Licensed Theme, Movie, Blues",,,,,"Marty02, JPSalas, Martin Brunker",3.0,,"Music, MOD",eASOmQYp
 "Blues Brothers 40th Anniversary, The (Original 2020)","Blues Brothers 40th Anniversary, The (Original 2020)",Original,2020,4,SS,,"Music",,,,,"Marty02, JPSalas",2.0,,"Music",XaKQp-UQ
 "Bourne Identity, The (Original 2024)","Bourne Identity, The (Original 2024)",Original,2024,4,SS,,"Espionage, Action, Movie",,,,,"TeamTuga, Supergibson, SuperTilted, Pedro Peres, Mario Peres",1.0.0,,,Gj9WF9h0KT
 "Bourne Identity, The (Original 2024)","Bourne Identity, The (Original 2024)",Original,2024,4,SS,,"Espionage, Action, Movie",,,,,"SuperTilted, Supergibson, Dicentim",1.2,,"VR, Hybrid",MUySNKWjfM
@@ -4369,7 +4373,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Price is Right - Grand Game 2.0, The (Original 2023)","Price is Right - Grand Game 2.0, The (Original 2023)",Original,2023,,EM,,"Game Show",,,,,"Vpfmike42",1.0,,"Music",GJWlEc6FXR
 "Price is Right - Plinko, The (Original 2022)","Price is Right - Plinko, The (Original 2022)",Original,2022,,,,"Game Show",,,,,"Vpfmike42",2.0,,,zdDLQR6ysL
 "Princess Bride, The (Original 2020)","Princess Bride, The (Original 2020)",Original,2020,,SS,,"Movie, Adventure",,,,,"RabidTribble",1.0.0,,,OjrAJ7J9Ew
-"Prodigy, The (Original 2025)","Prodigy, The (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,,"Music, MOD",maelT047Zp
+"Prodigy, The (Original 2025)","Prodigy, The (Original 2025)",Original,2025,4,SS,,"Music, Electronic Music, Rock",,,,,"Larouillas, JPSalas",1.0.0,,"Music, MOD",maelT047Zp
 "Purge, The (Original 2022)","Purge, The (Original 2022)",Original,2022,,SS,,"Horror, Adult",,,,,"pedroperes02, TeamTuga, Mario Joao Paulo, Balutito, Pritch33, Ayatollah of Rock, DigitalJedi084, Dom Wainright Chicken, JPSalas",1.0.0-1.2,,"Adult",IIPJeHs83c
 "Raid, The (Playmatic 1984)","Raid, The (Playmatic 1984)",Playmatic,1984,4,SS,,"Aviation, Combat, Science Fiction, Aliens","http://www.ipdb.org/machine.cgi?id=3511",3511,,,"Goldchicco, 32assassin, Movieguru, Mrcmrc, Batch",1.1b,theraid,,pnOysL1v
 "Return Of The Living Dead, The (Original 2024)","Return Of The Living Dead, The (Original 2024)",Original,2024,,SS,,"Zombies, Horror, Movie",,,,,"Balutito, ICPjuggla, Freneticamnesic, GTXJoe, Randr, Flupper, Dark, Zany, Northvibe, Uriell, Paulo, Pinbill, Evil Eye Art Uk",1.0.0,twd_160h,"Adult, Music, MOD",0vUhQnzUpg
@@ -4831,6 +4835,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Yellow Submarine (Original 2020)","Yellow Submarine (Original 2020)",Original,2020,4,EM,,"Music",,,,,"Justthebest, Nestorgian, JPSalas",1.0.1,,"MOD",H8iahIcRZH
 "Yellow Submarine (Original 2020)","Yellow Submarine (Original 2020)",Original,2020,4,EM,,"Music",,,,,"Drinkcristal, Nestorgian, JPSalas",1.0.0,,"VR, MOD",D_TNVn3c
 "Yellow Submarine (Original 2020)","Yellow Submarine (Original 2020)",Original,2020,4,EM,,"Music",,,,,"Nestorgian, JPSalas",1.3.0,,"MOD",jFSxIWXn
+"Yes (Original 2025)","Yes (Original 2025)",Original,2025,4,SS,,"Music, Progressive, Pop",,,,,"Larouillas, JPSalas",1.0.0,,"Music, MOD",hZwkYmhtjy
 "Young Frankenstein (Original 2016)","Young Frankenstein (Original 2016)",Original,2016,,SS,,"Movie",,,,,"Gabrom, UltraPeepi",2.0,,"FlexDMD",rcjsv2h9
 "Young Frankenstein (Original 2021)","Young Frankenstein (Original 2021)",Original,2021,4,SS,,"Movie, Comedy",,,,"HauntFreaks","HauntFreaks, Rawd, Fluffhead35, Scampa123, AstroNasty, Leojreimroc, BorgDog",1.0.1,,"FSS, Hybrid, VR",wrBI7RTr
 "Young Frankenstein (Original 2021)","Young Frankenstein (Original 2021)",Original,2021,4,SS,,"Movie, Comedy",,,,"HauntFreaks","HauntFreaks, Rawd, Fluffhead, Scampa123, AstroNasty, Leojreimroc, BorgDog",1.0.0,,"Hybrid, VR",eGbPenYhBz
