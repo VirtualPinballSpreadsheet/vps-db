@@ -20,14 +20,14 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "24 (Stern 2009)","24 (Stern 2009)",Stern,2009,4,SS,,"Licensed Theme, TV Show, Crime","http://www.ipdb.org/machine.cgi?id=5419",5419,,"Steve Ritchie","NitroNimbus, rom, SLAMT1LT",2.0,twenty4_150,"MOD",2HiL0JmuIN
 "24 (Stern 2009)","24 (Stern 2009)",Stern,2009,4,SS,,"Licensed Theme, TV Show, Crime","http://www.ipdb.org/machine.cgi?id=5419",5419,,"Steve Ritchie","Morttis, Arconovum, Bigus1, 32assassin, Freneticamnesic",1.0-2.6,twenty4_150,"FSS, MOD",NNIODYYy
 "24 (Stern 2009)","24 (Stern 2009)",Stern,2009,4,SS,,"Licensed Theme, TV Show, Crime","http://www.ipdb.org/machine.cgi?id=5419",5419,,"Steve Ritchie","32assassin, Freneticamnesic",2.0.1,twenty4_150,,01rWOPkk
-"250 cc (Inder 1992)","250 cc (Inder 1992)",Inder,1992,4,SS,,"Sports, Motorcycle Racing","http://www.ipdb.org/machine.cgi?id=4089",4089,,,"Ext2k, JPSalas, TastyWasps",2.0,ind250cc,"VR, Mixed Reality",4YKrmqyUqy
 "250 cc (Inder 1992)","250 cc (Inder 1992)",Inder,1992,4,SS,,"Sports, Motorcycle Racing","http://www.ipdb.org/machine.cgi?id=4089",4089,,,"JPSalas, Themer, Arngrim",5.5.1,ind250cc,"LUT",Gw5kOfmC
+"250 cc (Inder 1992)","250 cc (Inder 1992)",Inder,1992,4,SS,,"Sports, Motorcycle Racing","http://www.ipdb.org/machine.cgi?id=4089",4089,,,"Ext2k, JPSalas, TastyWasps",2.1,ind250cc,"VR, Mixed Reality",4YKrmqyUqy
 "3-In-Line (Bally 1963)","3-In-Line (Bally 1963)",Bally,1963,4,EM,,"Majorettes","https://www.ipdb.org/machine.cgi?id=2549",2549,,"Ted Zale","Alois",1.2,,,ykWYxaFn
 "300 (Maresa 1975)","300 (Maresa 1975)",Maresa,1975,1,EM,,"Sports, Bowling","https://www.ipdb.org/machine.cgi?id=4633",4633,,,"NitroNimbus",2.0,,"MOD",UDkd2BZr-i
 "300 Prepare for Glory (Original 2008)","300 Prepare for Glory (Original 2008)",Original,2008,1,,,"History, Movie",,,,,"Pinner, Brad Bambara",1.01,,"MOD",W_BvZdYyJq
 "300 Prepare for Glory (Original 2008)","300 Prepare for Glory (Original 2008)",Original,2008,1,,,"History, Movie",,,,,"Brad Bambara",1.0,,,5N-mukLuWM
-"301 Bullseye (Grand Products 1986)","301 Bullseye (Grand Products 1986)",Grand Products,1986,4,SS,,"Sports, Darts","https://www.ipdb.org/machine.cgi?id=403",403,,,"JPSalas",5.5.1,bullsen2,,YiXk8bsCV2
 "301 Bullseye (Grand Products 1986)","301 Bullseye (Grand Products 1986)",Grand Products,1986,4,SS,,"Sports, Darts","https://www.ipdb.org/machine.cgi?id=403",403,,,"Ext2k, JPSalas, Basti",2.0,bullsen2,"Hybrid, VR, FSS, MOD, Mixed Reality",A-hCQg6qtb
+"301 Bullseye (Grand Products 1986)","301 Bullseye (Grand Products 1986)",Grand Products,1986,4,SS,,"Sports, Darts","https://www.ipdb.org/machine.cgi?id=403",403,,,"JPSalas",5.5.1,bullsen2,,YiXk8bsCV2
 "4 Aces (Williams 1970)","4 Aces (Williams 1970)",Williams,1970,2,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=928",928,,"Steve Kordek","Ext2k, JPSalas, Halen, Basti",1.0,,"Hybrid, VR, MOD, Mixed Reality",6McUBzM2Bz
 "4 Aces (Williams 1970)","4 Aces (Williams 1970)",Williams,1970,2,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=928",928,,"Steve Kordek","JPSalas, Halen",5.5.0,,,WdhuHU_Jvr
 "4 Queens (Bally 1970)","4 Queens (Bally 1970)",Bally,1970,1,EM,,"Cards, Happiness","http://www.ipdb.org/machine.cgi?id=936",936,,"Jim Patla","Margoni",1.0,,,U2nK5LF5jm
@@ -141,6 +141,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Alaska (Interflip 1978)","Alaska (Interflip 1978)",Interflip,1978,4,SS,,"American Places","https://www.ipdb.org/machine.cgi?id=3888",3888,,,"jejepinball, JPSalas",1.1,,,3O_4BiCNAE
 "Albator - The Movie (Original 2022)","Albator - The Movie (Original 2022)",Original,2022,,,,"Anime, Kids",,,,,"Cez60, JPSalas",1.0.0,,"Kids, MOD",_2O5qSD0BR
 "Albator 78 (Original 2022)","Albator 78 (Original 2022)",Original,2022,,SS,,"Anime, Kids",,,,"","Cez60, Sylvidres, JPSalas",1.0.1,,"Kids, MOD",UxGItXAlSF
+"Alcatrazz (Original 2025)","Alcatrazz (Original 2025)",Original,2025,4,EM,,"Music, Heavy Metal",,,,,"Larouillas, Teisen, Armyaviation, 32assassin",1.0.0,,"MOD, Music",WSGyU738qB
 "Alfred Hitchcock's Psycho (Original 2019)","Alfred Hitchcock's Psycho (Original 2019)",Original,2019,4,SS,,"Horror, Movie",,,,,"Ivantba, JPSalas",1.0,vortex,"MOD",9sZqCCMq
 "Algar (Williams 1980)","Algar (Williams 1980)",Williams,1980,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=42",42,,"Tony Kraemer","Michel757, Thalamus, Kalavera3",1.0,algar_l1,"VR",3dgPw34b
 "Algar (Williams 1980)","Algar (Williams 1980)",Williams,1980,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=42",42,,"Tony Kraemer","Kalavera3, Thalamus, Practisedummy, UncleWilly, LuvThatApex, Kristian, Flupper, Dark, Freneticamnesic, STAT, GTXJoe, Batch, HauntFreaks, Bord",1.3.3,algar_l1,"SSF",5Iym9nqp
@@ -1597,7 +1598,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Funhouse (Williams 1990)","Funhouse (Williams 1990)",Williams,1990,4,SS,,"Happiness, Circus, Carnival","http://www.ipdb.org/machine.cgi?id=966",966,,"Pat Lawlor","Wrd1972, Rothbauerw",2.0b,fh_905h,,Jt3UevJk
 "WMS_Funhouse","Funhouse (Williams 1990)",Williams,1990,4,SS,,"Happiness, Circus, Carnival","http://www.ipdb.org/machine.cgi?id=966",966,,"Pat Lawlor","Zen Studios",,fh_905h,,6VQ2VkcY
 "Futurama (Original 2024)","Futurama (Original 2024)",Original,2024,,SS,,"Animation, Science Fiction, Comedy",,,,,"Wizball, JoePicasso, TeamTuga, Apophis, Rawd, TastyWasps, Jagandy82, PinstratsDan, RetroG33k, Tomate, VPW Team",1.2.1,,"VR, Hybrid, FlexDMD, nFozzy, Fleep",GzUJtTjUKM
-"Future Spa (Bally 1979)","Future Spa (Bally 1979)",Bally,1979,4,SS,,"Fitness, Fantasy, Relaxation","http://www.ipdb.org/machine.cgi?id=974",974,,"George Christian","JPSalas, StrangeLeo72, Arngrim, HauntFreaks",5.5.0,futurspa,"LUT",cWmQ_-7E
+"Future Spa (Bally 1979)","Future Spa (Bally 1979)",Bally,1979,4,SS,,"Fitness, Fantasy, Relaxation","http://www.ipdb.org/machine.cgi?id=974",974,,"George Christian","JPSalas, StrangeLeo72, Arngrim, HauntFreaks",5.5.1,futurspa,"LUT",cWmQ_-7E
 "Future Spa (Bally 1979)","Future Spa (Bally 1979)",Bally,1979,4,SS,,"Fitness, Fantasy, Relaxation","http://www.ipdb.org/machine.cgi?id=974",974,,"George Christian","RajoJoey, Rawd, Sixtoe, JPSalas",1.0.1,futurspa,"VR, MOD, LUT",o0g0o1VmA7
 "Future Spa (Bally 1979)","Future Spa (Bally 1979)",Bally,1979,4,SS,,"Fitness, Fantasy, Relaxation","http://www.ipdb.org/machine.cgi?id=974",974,,"George Christian","Arconovum, JPSalas",1.0.0-2.6,futurspa,"FSS, MOD",hWKPkHP8
 "GEEGA (Original 2025)","GEEGA (Original 2025)",Original,2025,2,EM,,"Anime",,,,,"JamieP",1.1.0,,,Ig0Yt0gSKg
@@ -1920,7 +1921,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Hot Line (Williams 1966)","Hot Line (Williams 1966)",Williams,1966,1,EM,,"Sports, Fishing","https://www.ipdb.org/machine.cgi?id=1245",1245,,"Steve Kordek","SG1bsoN, Rawd, Loserman76, Nestorgian",1.0.0,,"VR, Hybrid",ZZ4vK-4nZt
 "Hot Line (Williams 1966)","Hot Line (Williams 1966)",Williams,1966,1,EM,,"Sports, Fishing","https://www.ipdb.org/machine.cgi?id=1245",1245,,"Steve Kordek","Loserman76, Kees, Leon Spalding",1.1,,"MOD, FSS",6uLd0o69
 "Hot Line (Williams 1966)","Hot Line (Williams 1966)",Williams,1966,1,EM,,"Sports, Fishing","https://www.ipdb.org/machine.cgi?id=1245",1245,,"Steve Kordek","Kees, Leon Spalding",1.00,,,JKvcdK_4
-"Hot Shot (Gottlieb 1973)","Hot Shot (Gottlieb 1973)",Gottlieb,1973,4,EM,,"Billiards","http://www.ipdb.org/machine.cgi?id=1247",1247,,"Ed Krynski","Mustang1961, Loserman76, GNance, Mike Farmer, Pinuck, BorgDog, Arngrim",1.0a,,"MOD",OKAIoIaa6e
+"Hot Shot (Gottlieb 1973)","Hot Shot (Gottlieb 1973)",Gottlieb,1973,4,EM,,"Billiards","http://www.ipdb.org/machine.cgi?id=1247",1247,,"Ed Krynski","Mustang1961, Loserman76, GNance, Mike Farmer, Pinuck, BorgDog, Arngrim",1.0b,,"MOD",OKAIoIaa6e
 "Hot Shot (Gottlieb 1973)","Hot Shot (Gottlieb 1973)",Gottlieb,1973,4,EM,,"Billiards","http://www.ipdb.org/machine.cgi?id=1247",1247,,"Ed Krynski","RajoJoey, Loserman76, GNance, Mike Farmer",1.0.0,,"VR, Hybrid, FSS",W_EltjOyPH
 "Hot Shot (Gottlieb 1973)","Hot Shot (Gottlieb 1973)",Gottlieb,1973,4,EM,,"Billiards","http://www.ipdb.org/machine.cgi?id=1247",1247,,"Ed Krynski","Loserman76, GNance, Mike Farmer, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,etXjlsxR
 "Hot Shot (Gottlieb 1973)","Hot Shot (Gottlieb 1973)",Gottlieb,1973,4,EM,,"Billiards","http://www.ipdb.org/machine.cgi?id=1247",1247,,"Ed Krynski","Wed21, Zany, Mfuegemann, Loserman76, GNance, Mike Farmer, Flupper, Kds70, GTXJoe, HauntFreaks, JPSalas",1.5.1,,,fikoiavU
@@ -2346,6 +2347,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "King of Rock and Roll (Original 2022)","King of Rock and Roll (Original 2022)",Original,2022,,SS,,"Music",,,,,"Marty02, JPSalas",2.1,,"Music, MOD",6C2L6mOx
 "Kingdom (J. Esteban 1980)","Kingdom (J. Esteban 1980)",J. Esteban,1980,4,EM,,"Myth and Legend","https://www.ipdb.org/machine.cgi?id=5168",5168,,,"Ext2k, JPSalas, Halen, Pedator, Mustang1961",1.0.1,,"Hybrid, VR, MOD, Mixed Reality",01d06EShX7
 "Kingdom (J. Esteban 1980)","Kingdom (J. Esteban 1980)",J. Esteban,1980,4,EM,,"Myth and Legend","https://www.ipdb.org/machine.cgi?id=5168",5168,,,"JPSalas, Halen, Pedator, Mustang1961",1.0.0,,,K0VU9ALAkz
+"Kingdom Planets (Original 2025)","Kingdom Planets (Original 2025)",Original,2025,4,SS,,"Space Fantasy, Anime",,,,,"Anthias, JPSalas, Halen",1.0.0,,,lfd3j7eqlS
 "Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","Bigus1, ICPjuggla, Noitbe11, Kiwi",3.0,kpv106,"MOD",ASgpE6Yx
 "Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","SG1bsoN, ICPjuggla",1.1,kpv106,"MOD",XgH1k98-
 "Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","Psiomicron, Sixtoe, Freneticamnesic",1.0.4,kpv106,"MOD, VR",pqmy7RLlSC
@@ -2374,7 +2376,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Kung Fu Hustle (Original 2024)","Kung Fu Hustle (Original 2024)",Original,2024,,,,"Movie, Kung Fu",,,,,"Balutito, JPSalas, Ise Ananphada",1.2,,"MOD",Gyq3bzPSLQ
 "LEGO Pinball (Original 2022)","LEGO Pinball (Original 2022)",Original,2022,,EM,,"Toy Franchise, Superheroes",,,,,"Andypc, GeCh, Loserman76, GNance, Popotte, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0,,"MOD",c2hl1xE1Fo
 "Lady Death (Geiger 1983)","Lady Death (Geiger 1983)",Geiger,1983,4,SS,,"Fantasy, Vampires","http://www.ipdb.org/machine.cgi?id=3972",3972,,,"Siggi, Allknowing2012, JPSalas",1.0,,"MOD",jCB3MUYL
-"Lady Luck (Recel 1976)","Lady Luck (Recel 1976)",Recel,1976,4,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1405",1405,,,"Ext2k, Wed21",1.0.2,,"VR, LUT",vxcY1rLOwR
+"Lady Luck (Recel 1976)","Lady Luck (Recel 1976)",Recel,1976,4,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1405",1405,,,"Ext2k, Wed21",2.0,,"VR, LUT",vxcY1rLOwR
 "Lady Luck (Recel 1976)","Lady Luck (Recel 1976)",Recel,1976,4,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1405",1405,,,"Wed21, Mfuegemann, Loserman76, Herweh, HauntFreaks",1.5,,"SSF",rF_jhweD
 "Lady Luck (Taito do Brasil 1980)","Lady Luck (Taito do Brasil 1980)",Taito do Brasil,1980,4,SS,,"Gambling","http://www.ipdb.org/machine.cgi?id=5010",5010,,"George Christian","JPSalas, Carlos Guizzo, Tio Italo, Markrock76, Akiles50000, Allknowing2012",4.0.0,ladylukt,"SSF, Music, LUT",Msbi1r7g
 "Lady Luck (Bally 1986)","Lady Luck (Bally 1986)",Bally,1986,4,SS,,"Gambling, Cards, Poker","http://www.ipdb.org/machine.cgi?id=1402",1402,,,"Goldchicco, AgentEighty6, Batch, Kalavera3",1.1,ladyluck,"MOD",y42jZ-5U
@@ -4742,6 +4744,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Table 124","White Water (Williams 1993)",Williams,1993,4,SS,,"Sports, Rafting, Aquatic, Mythology","http://www.ipdb.org/machine.cgi?id=2768",2768,,"Dennis Nordman","Zen Studios, Peter Grafl",,ww_lh6,,MIWL_WAY2J
 "White Water (Williams 1993)","White Water (Williams 1993)",Williams,1993,4,SS,,"Sports, Rafting, Aquatic, Mythology","http://www.ipdb.org/machine.cgi?id=2768",2768,,"Dennis Nordman","Sixtoe, Flupper, Dark, Lobotomy, Wrd1972, DJRobX, ClarkKent",1.0.0,ww_lh6,"VR",Lh2yEU5p
 "WMS_White_Water","White Water (Williams 1993)",Williams,1993,4,SS,,"Sports, Rafting, Aquatic, Mythology","http://www.ipdb.org/machine.cgi?id=2768",2768,,"Dennis Nordman","Zen Studios",,ww_lh6,,MGSsVMlD
+"Whitesnake ( 0)","Whitesnake ( 0)",,0,4,,,"Music, Rock",,,,,"Larouillas, Teisen, Armyaviation, 32assassin",1.0.0,,"Music, MOD",yau8WTxU-j
 "Who Framed Roger Rabbit (Original 2021)","Who Framed Roger Rabbit (Original 2021)",Original,2021,,SS,,"Animation, Kids, Movie",,,,,"Sebastiendelf, Lio",1.2,bk2k_l4,"Music, Kids",FMtZqXc_
 "Whoa Nellie! Big Juicy Melons (Stern 2015)","Whoa Nellie! Big Juicy Melons (Stern 2015)",Stern,2015,4,SS,,"Agriculture, Fantasy, Women, Adult","http://www.ipdb.org/machine.cgi?id=6252",6252,,"Dennis Nordman","HauntFreaks, Allknowing2012, Dids666, Scott, BorgDog, Batch",2.1.4,WN-1_55_0.spk,,xgKVaHD7
 "Whoa Nellie! Big Juicy Melons (Stern 2015)","Whoa Nellie! Big Juicy Melons (Stern 2015)",Stern,2015,4,SS,,"Agriculture, Fantasy, Women, Adult","http://www.ipdb.org/machine.cgi?id=6252",6252,,"Dennis Nordman","UncleWilly, HauntFreaks, Allknowing2012",2.1.4,WN-1_55_0.spk,"VR, MOD",1fmcIchL7K
