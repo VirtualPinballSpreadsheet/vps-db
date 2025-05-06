@@ -1602,9 +1602,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Funhouse (Williams 1990)","Funhouse (Williams 1990)",Williams,1990,4,SS,,"Happiness, Circus, Carnival","http://www.ipdb.org/machine.cgi?id=966",966,,"Pat Lawlor","Wrd1972, Rothbauerw",2.0b,fh_905h,,Jt3UevJk
 "WMS_Funhouse","Funhouse (Williams 1990)",Williams,1990,4,SS,,"Happiness, Circus, Carnival","http://www.ipdb.org/machine.cgi?id=966",966,,"Pat Lawlor","Zen Studios",,fh_905h,,6VQ2VkcY
 "Futurama (Original 2024)","Futurama (Original 2024)",Original,2024,,SS,,"Animation, Science Fiction, Comedy",,,,,"Wizball, JoePicasso, TeamTuga, Apophis, Rawd, TastyWasps, Jagandy82, PinstratsDan, RetroG33k, Tomate, VPW Team",1.2.1,,"VR, Hybrid, FlexDMD, nFozzy, Fleep",GzUJtTjUKM
-"Future Spa (Bally 1979)","Future Spa (Bally 1979)",Bally,1979,4,SS,,"Fitness, Fantasy, Relaxation","http://www.ipdb.org/machine.cgi?id=974",974,,"George Christian","JPSalas, StrangeLeo72, Arngrim, HauntFreaks",5.5.2,futurspa,"LUT",cWmQ_-7E
+"Future Spa (Bally 1979)","Future Spa (Bally 1979)",Bally,1979,4,SS,,"Fitness, Fantasy, Relaxation","http://www.ipdb.org/machine.cgi?id=974",974,,"George Christian","JPSalas, StrangeLeo72, Arngrim, HauntFreaks",5.5.3,futurspa,"LUT",cWmQ_-7E
 "Future Spa (Bally 1979)","Future Spa (Bally 1979)",Bally,1979,4,SS,,"Fitness, Fantasy, Relaxation","http://www.ipdb.org/machine.cgi?id=974",974,,"George Christian","RajoJoey, Rawd, Sixtoe, JPSalas",1.0.1,futurspa,"VR, MOD, LUT",o0g0o1VmA7
 "Future Spa (Bally 1979)","Future Spa (Bally 1979)",Bally,1979,4,SS,,"Fitness, Fantasy, Relaxation","http://www.ipdb.org/machine.cgi?id=974",974,,"George Christian","Arconovum, JPSalas",1.0.0-2.6,futurspa,"FSS, MOD",hWKPkHP8
+"Future Spa (Bally 1979)","Future Spa (Bally 1979)",Bally,1979,4,SS,,"Fitness, Fantasy, Relaxation","http://www.ipdb.org/machine.cgi?id=974",974,,"George Christian","Ext2k, JPSalas",1.0.0,futurspa,"Hybrid, VR, Mixed Reality",9Wyf9mJgkP
 "GEEGA (Original 2025)","GEEGA (Original 2025)",Original,2025,2,EM,,"Anime",,,,,"JamieP",1.1.0,,,Ig0Yt0gSKg
 "Galaga Pinball (Original 2021)","Galaga Pinball (Original 2021)",Original,2021,,,,"Video Game",,,,,"OctoChris",1.7.0,,"FlexDMD",7NhUNvrWn3
 "Galaxia (LTD do Brasil 1975)","Galaxia (LTD do Brasil 1975)",LTD do Brasil,1975,,SS,,"Outer Space",,,,,"JPSalas, Halen",5.5.0,,,ntmEJgITsu
@@ -3459,7 +3460,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Scorpions (Original 2024)","Scorpions (Original 2024)",Original,2024,4,,,"Music",,,,,"Larouillas",1.0.0,fpwr2_l2,"MOD",gHe-5Dyww6
 "Scott Pilgrim vs. the World (Original 2021)","Scott Pilgrim vs. the World (Original 2021)",Original,2021,,SS,,"Comics, Movie",,,,,"Dunriwikan45",1.0.0,,,4tIs87Yp0A
 "Scram! (Hutchison 1932)","Scram! (Hutchison 1932)",Hutchison,1932,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=5138",5138,,"Thomas S. Hutchison","Druadic",1.0b,,,Ifcb-iU0mH
-"Scramble (Tecnoplay 1987)","Scramble (Tecnoplay 1987)",Tecnoplay,1987,4,SS,,"Sports, Motorcycles, Motocross","https://www.ipdb.org/machine.cgi?id=3557",3557,,,"JPSalas, Inkochnito, roccodimarco",1.0.0,scram_tp,,pb2pjearvg
+"Scramble (Tecnoplay 1987)","Scramble (Tecnoplay 1987)",Tecnoplay,1987,4,SS,,"Sports, Motorcycles, Motocross","https://www.ipdb.org/machine.cgi?id=3557",3557,,,"JPSalas, Inkochnito, roccodimarco",1.0.1,scram_tp,"LUT",pb2pjearvg
 "Scrooged (Original 2019)","Scrooged (Original 2019)",Original,2019,4,SS,,"Christmas",,,,,"Stevegooner1234, Wildman, Lizard, Xenonph",1.0,,"Music, MOD",ZZrbW56L
 "Scuba (Gottlieb 1970)","Scuba (Gottlieb 1970)",Gottlieb,1970,2,EM,,"Mermaids, Mythology, Scuba Diving, Swimming, Aquatic","http://www.ipdb.org/machine.cgi?id=2077",2077,,"Ed Krynski","Mustang1961, Loserman76",1.0c,,"MOD",-Xb6ENgZ1R
 "Scuba (Gottlieb 1970)","Scuba (Gottlieb 1970)",Gottlieb,1970,2,EM,,"Mermaids, Mythology, Scuba Diving, Swimming, Aquatic","http://www.ipdb.org/machine.cgi?id=2077",2077,,"Ed Krynski","Pdrum, Bord, Loserman76",1.1,,"MOD",UnJ9scKCi3
@@ -4498,7 +4499,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "They Live (Original 2023)","They Live (Original 2023)",Original,2023,,SS,,"Licensed Theme, Movie, Science Fiction, Horror, Aliens",,,,,"Gman77, SpookyMoulder, Balutito, Jagandy82, Davadruix",1.0.0,,,cIRl9buKqX
 "Table 7","Thor (Zen Studios 2013)",Zen Studios,2013,4,,,"Licensed Theme, Comics, Superheroes",,,,"Ivan Nicoara","Zen Studios, Ivan Nicoara",,,,DGORQI81ZN
 "MARVEL_Thor","Thor (Zen Studios 2013)",Zen Studios,2013,4,,,"Licensed Theme, Comics, Superheroes",,,,"Ivan Nicoara","Zen Studios",,,,IU7Zkqv1
-"Three Angels (Original 2018)","Three Angels (Original 2018)",Original,2018,,SS,,"Fantasy",,,,,"LoadedWeapon, Blindmankind Games, Randr, Solters",2.0.2,,"Hybrid, VR, MOD, nFozzy, LUT",ngGxpWAOse
+"Three Angels (Original 2018)","Three Angels (Original 2018)",Original,2018,,SS,,"Fantasy",,,,,"LoadedWeapon, Blindmankind Games, Randr, Solters",2.0.3,,"Hybrid, VR, MOD, nFozzy, LUT",ngGxpWAOse
 "Three Angels (Original 2018)","Three Angels (Original 2018)",Original,2018,,SS,,"Fantasy",,,,,"Solters, Randr, Blindmankind Games",1.3,,"FlexDMD, VR, FSS, MOD, SSF",IRgxyCix
 "Thronley (Original 2025)","Thronley (Original 2025)",Original,2025,4,SS,,"Music, Rock",,,,,"Larouillas, Armyaviation, 32assassin",1.0.0,,"Music, MOD",gLemPxo9Dw
 "Thunder Man (Apple Time 1987)","Thunder Man (Apple Time 1987)",Apple Time,1987,4,SS,,"Adventure, Fictional","https://www.ipdb.org/machine.cgi?id=4666",4666,,,"Devious626, Bord, DGrimmReaper, DaRdog81, VPW Team, CarnyPriest, HauntFreaks",1.0.0, pinchamp.zip,"Hybrid, VR, FSS, SSF, nFozzy, Fleep",CyG4kDtzvw
