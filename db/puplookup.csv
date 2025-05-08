@@ -1,4 +1,5 @@
 GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,WebLinkURL,IPDBNum,AltRunMode,DesignedBy,Author,GAMEVER,Rom,Tags,VPS-ID
+" Combination Rotation (Gottlieb 1982)"," Combination Rotation (Gottlieb 1982)",Gottlieb,1982,4,SS,,,"https://www.ipdb.org/machine.cgi?id=5331",5331,,"John Trudeau","Fripounet, Granit",1.0,,,3dfPFIDGDJ
 "!WOW! (Mills Novelty Company 1932)","!WOW! (Mills Novelty Company 1932)",Mills Novelty Company,1932,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=2819",2819,,,"Druadic",1.2b,,,OHdDfWkU9L
 "'300' (Gottlieb 1975)","'300' (Gottlieb 1975)",Gottlieb,1975,4,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2539",2539,,"Ed Krynski","Scampa123, Loserman76, Rawd, Pritch33, Leojreimroc, Apophis, HauntFreaks",1.1,,"VR, MOD, Hybrid",dru4vO0W
 "'300' (Gottlieb 1975)","'300' (Gottlieb 1975)",Gottlieb,1975,4,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2539",2539,,"Ed Krynski","Loserman76, Conram29, Francisco666, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,9pDvjPBe
@@ -96,6 +97,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Action (Chicago Coin 1969)","Action (Chicago Coin 1969)",Chicago Coin,1969,1,EM,,"Auto Racing, Sports","https://www.ipdb.org/machine.cgi?id=15",15,,,"Dboyrecords, STAT, Eduguitar72",1.0,,,MWx8gRFOYh
 "Action (Exhibit 1943)","Action (Exhibit 1943)",Exhibit,1943,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=3839",3839,,,"Francisco Pozo",1.1,,,mJc8qRkO49
 "Adventure (Sega 1979)","Adventure (Sega 1979)",Sega,1979,2,SS,,"Adventure, Boats, Recreation, Sailing, Water","https://www.ipdb.org/machine.cgi?id=5544",5544,,,"Bluenmaize",1.1,,,sCNiFXwjtl
+"Adventure (Sega 1979)","Adventure (Sega 1979)",Sega,1979,2,SS,,"Adventure, Boats, Recreation, Sailing, Water","https://www.ipdb.org/machine.cgi?id=5544",5544,,,"Fripounet, Granit",1.0,,,ZK76ku-2R2
 "Table 29","Adventure Land (Zen Studios 2017)",Zen Studios,2017,4,,,"Fantasy",,,,"Thomas Crofts","Zen Studios",,,,xFgomm2pwP
 "Amusement_Park","Adventure Land (Zen Studios 2017)",Zen Studios,2017,4,,,"Fantasy",,,,"Thomas Crofts","Zen Studios",,,,bYA3xjuh
 "Adventure Time - Rainy Day Daydream (Original 2022)","Adventure Time - Rainy Day Daydream (Original 2022)",Original,2022,,SS,,"Animation, Kids",,,,,"User42, Rascal, Kevinleedrum, Mfuegemann, Bigus1",1.0,,"Kids, MOD",Q6YhRd-a
@@ -628,6 +630,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Bluey (Original 2021)","Bluey (Original 2021)",Original,2021,4,EM,,"Cartoon, Kids",,,,,"Phenom, Devious626, Pinballfan2018, JPSalas, Goldchicco",1.0,,"Music, Kids",67fuXDV9
 "Bob Marley (Original 2024)","Bob Marley (Original 2024)",Original,2024,4,SS,,"Fantasy",,,,,"SergioSouza, JPSalas, rickmeine, ssiqueira, lukas1980",1.0.0,snake.zip,"MOD",XiA05LJE3E
 "Bob Seger (Original 2025)","Bob Seger (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,,"Music, FSS, Retheme",sbHmV9Y7Wf
+"Bob's Burgers (Original 2024)","Bob's Burgers (Original 2024)",Original,2024,1,EM,,"Animation, Kids",,,,,"MellerMeller, Loserman76, Bodydump, GNance, Popotte",1.1,,"Kids, Retheme",0Fca7dO02t
 "BobsBurgers","Bob's Burgers Pinball (Zen Studios 2015)",Zen Studios,2015,4,,,"Licensed Theme, Comics",,,,,"Zen Studios",,,,chmo0utL
 "Bobby Orr Power Play (Bally 1978)","Bobby Orr Power Play (Bally 1978)",Bally,1978,4,SS,,"Sports, Hockey, Celebrities","http://www.ipdb.org/machine.cgi?id=1858",1858,,"Greg Kmiec","Arconovum, Bord",1.0-2.6,pwerplay,"FastFlips, FSS, MOD",sUcNLoW8
 "Bobby Orr Power Play (Bally 1978)","Bobby Orr Power Play (Bally 1978)",Bally,1978,4,SS,,"Sports, Hockey, Celebrities","http://www.ipdb.org/machine.cgi?id=1858",1858,,"Greg Kmiec","Bord",2.1,pwerplay,"FastFlips, VR, Hybrid, FSS, SSF",T3W8qNSq
@@ -1220,6 +1223,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Dominatrix (Original 2022)","Dominatrix (Original 2022)",Original,2022,,EM,,"Adult, Women",,,,,"Icepinball",1.0.0,,"Music, Adult, MOD",7_7XkDDnFx
 "Domino (Gottlieb 1968)","Domino (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Happiness, Games, Board Games","http://www.ipdb.org/machine.cgi?id=701",701,,"Ed Krynski","EMUnderdogs, Loserman76, JCalhoun, Teisen",1.1,,"SSF",ZGth1s9Wq_
 "Domino (Gottlieb 1968)","Domino (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Happiness, Games, Board Games","http://www.ipdb.org/machine.cgi?id=701",701,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,bUZwaoP6
+"Domino (Gottlieb 1983)","Domino (Gottlieb 1983)",Gottlieb,1983,4,,,"Dominoes, Games","https://www.ipdb.org/machine.cgi?id=5334",5334,,"John Trudeau","Fripounet, Granit",1.0,,,LUUvQhmr5s
 "Donald Duck Phantomias (Original 2022)","Donald Duck Phantomias (Original 2022)",Original,2022,,SS,,"Animation, Kids",,,,,"Icepinball, JPSalas",1.01,blakpyra,"Kids, MOD",8Wtb-OZiQn
 "Doodle Bug (Williams 1971)","Doodle Bug (Williams 1971)",Williams,1971,1,EM,,"Dancing, Happiness, Music","https://www.ipdb.org/machine.cgi?id=703",703,,"Norm Clark","Loserman76, Tom, Thalamus, Rosve, Osprey101, Wildman",1.0.0f,,,7FDxD6KY
 "Doom Classic Edition (Original 2019)","Doom Classic Edition (Original 2019)",Original,2019,4,SS,,"Video Game, Science Fiction",,,,,"Ivantba, JPSalas",1.0,madrace,"MOD, Retheme",jdBIpe3N
@@ -1437,6 +1441,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Fast Draw (Gottlieb 1975)","Fast Draw (Gottlieb 1975)",Gottlieb,1975,4,EM,,"American West","http://www.ipdb.org/machine.cgi?id=828",828,,"Ed Krynski","Loserman76",1.0.0f,,,htZD2uh9
 "Fast Draw (Gottlieb 1975)","Fast Draw (Gottlieb 1975)",Gottlieb,1975,4,EM,,"American West","http://www.ipdb.org/machine.cgi?id=828",828,,"Ed Krynski","Mfuegemann",1.4,,,qGEWcWNx
 "Fast and Furious (Original 2022)","Fast and Furious (Original 2022)",Original,2022,,SS,,"Movie, Cars",,,,,"Marty02, Flupper, Ganjafarmer, 32assassin",2.1,gw_l5,,SG8ej0txB_
+"Father Ted (Original 2024)","Father Ted (Original 2024)",Original,2024,4,SS,,"TV Show, Comedy",,,,,"Burgereater289, JPSalas, Ivantba",1.2,stest,"Retheme",BIzkxfeg7P
 "Fathom (Bally 1981)","Fathom (Bally 1981)",Bally,1981,4,SS,,"Fantasy, Scuba Diving, Sports, Aquatic","http://www.ipdb.org/machine.cgi?id=829",829,,"Ward Pemberton","FrankEnstein, VPW Team, UnclePaulie, Apophis, Redbone, Lumi, EBisLit",3.0.3,fathom,"Hybrid, VR, FSS, 4k, MOD, SSF, nFozzy, Fleep",bxDjsGoSxM
 "Fathom (Bally 1981)","Fathom (Bally 1981)",Bally,1981,4,SS,,"Fantasy, Scuba Diving, Sports, Aquatic","http://www.ipdb.org/machine.cgi?id=829",829,,"Ward Pemberton","UnclePaulie, EBisLit, Redbone, Cirqus, VPW Team, Apophis, BountyBob, DGrimmReaper, Studlygoorite, PinstratsDan, Wylte, Trytotilt, Bietekwiet, AstroNasty, HauntFreaks",2.0.1,fathom,"Hybrid, VR, Fleep, LUT, nFozzy",QWo-whR7Y0
 "Fathom (Bally 1981)","Fathom (Bally 1981)",Bally,1981,4,SS,,"Fantasy, Scuba Diving, Sports, Aquatic","http://www.ipdb.org/machine.cgi?id=829",829,,"Ward Pemberton","Redbone, Goldchicco, 32assassin",1.0.0,fathom,"MOD",NENBPDeqf0
@@ -2356,7 +2361,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "King of Rock and Roll (Original 2022)","King of Rock and Roll (Original 2022)",Original,2022,,SS,,"Music",,,,,"Marty02, JPSalas",2.1,,"Music, MOD",6C2L6mOx
 "Kingdom (J. Esteban 1980)","Kingdom (J. Esteban 1980)",J. Esteban,1980,4,EM,,"Myth and Legend","https://www.ipdb.org/machine.cgi?id=5168",5168,,,"Ext2k, JPSalas, Halen, Pedator, Mustang1961",1.0.1,,"Hybrid, VR, MOD, Mixed Reality",01d06EShX7
 "Kingdom (J. Esteban 1980)","Kingdom (J. Esteban 1980)",J. Esteban,1980,4,EM,,"Myth and Legend","https://www.ipdb.org/machine.cgi?id=5168",5168,,,"JPSalas, Halen, Pedator, Mustang1961",1.0.0,,,K0VU9ALAkz
-"Kingdom Planets (Original 2025)","Kingdom Planets (Original 2025)",Original,2025,4,SS,,"Space Fantasy, Anime",,,,,"Anthias, JPSalas, Halen",1.0.0,,,lfd3j7eqlS
+"Kingdom Planets (Original 2025)","Kingdom Planets (Original 2025)",Original,2025,4,SS,,"Space Fantasy, Anime",,,,,"Anthias, JPSalas, Halen",1.0.0,,"Retheme",lfd3j7eqlS
 "Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","Bigus1, ICPjuggla, Noitbe11, Kiwi",3.0,kpv106,"MOD",ASgpE6Yx
 "Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","SG1bsoN, ICPjuggla",1.1,kpv106,"MOD",XgH1k98-
 "Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","Psiomicron, Sixtoe, Freneticamnesic",1.0.4,kpv106,"MOD, VR",pqmy7RLlSC
@@ -3081,6 +3086,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Pinball Pool (Gottlieb 1979)","Pinball Pool (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=1795",1795,,"Ed Krynski","BorgDog, 32assassin, Mfuegemann",1.25,,,-a4OMbNp
 "Pinball Pool (Gottlieb 1979)","Pinball Pool (Gottlieb 1979)",Gottlieb,1979,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=1795",1795,,"Ed Krynski","32assassin",4.1,,,7nbAFTL9Sp
 "Pinball Solitaire (Original 2025)","Pinball Solitaire (Original 2025)",Original,2025,1,EM,,"Cards, Solitaire",,,,,"Wildlifewizard",1.0,,,PY8dy8vkkA
+"Pinball Squared (Gottlieb 1984)","Pinball Squared (Gottlieb 1984)",Gottlieb,1984,4,SS,,,"https://www.ipdb.org/machine.cgi?id=5341",5341,,"John Trudeau","Fripounet, Granit",1.0,,,33PE_NAiWd
 "Pindar - The Lizard King (Original 2021)","Pindar - The Lizard King (Original 2021)",Original,2021,,SS,,"Fantasy, Monsters",,,,,"chepas, Fuzzel, Aram Firozy, Pingod, chepas",1.0,,,xCqtHSTd
 "Pink Bubble Monsters (Original 2025)","Pink Bubble Monsters (Original 2025)",Original,2025,4,SS,,"Children's Games, Monsters, Water",,,,,"Anthias",1.0.0,,"FlexDMD, MOD",zNGcpsOX1N
 "Pink Floyd (Original 2022)","Pink Floyd (Original 2022)",Original,2022,,SS,,"Music",,,,,"NitroNimbus, Francisco666, SLAMT1LT",2.6,esha_la3,"MOD",XyGYmMUmfR
@@ -3093,6 +3099,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Pinky and the Brain - Gollyzilla (Original 2017)","Pinky and the Brain - Gollyzilla (Original 2017)",Original,2017,,,,"Cartoon",,,,,"Mark1",4.0,,,ukiluTFfOC
 "Pioneer (Gottlieb 1976)","Pioneer (Gottlieb 1976)",Gottlieb,1976,2,EM,,"American History","http://www.ipdb.org/machine.cgi?id=1802",1802,,"Wayne Neyens","RajoJoey, Loserman76, Allknowing2012",1.0.0,,"VR, Hybrid, LUT",EKSSBIrmFR
 "Pioneer (Gottlieb 1976)","Pioneer (Gottlieb 1976)",Gottlieb,1976,2,EM,,"American History","http://www.ipdb.org/machine.cgi?id=1802",1802,,"Wayne Neyens","Loserman76, Wildman, Allknowing2012",1.0.0f,,,25ZDqJH_
+"Pipeline (Gottlieb 1981)","Pipeline (Gottlieb 1981)",Gottlieb,1981,4,SS,,,"https://www.ipdb.org/machine.cgi?id=5327",5327,,"John Trudeau","Fripounet, Granit",1.0,,,c8jOgkkHnZ
 "Pirate Gold (Chicago Coin 1969)","Pirate Gold (Chicago Coin 1969)",Chicago Coin,1969,1,EM,,"Pirates, Nautical, Treasure","https://www.ipdb.org/machine.cgi?id=1804",1804,,"Al Schlappa, Jerry Koci, John Gore","Scottacus, Kds70, JR, Whirlwind, Onevox, Bord",2.05,,"VR, LUT, nFozzy",PPREf8_K
 "Pirates Life - The Revenge of Cecil Hoggleston (Original 2024)","Pirates Life - The Revenge of Cecil Hoggleston (Original 2024)",Original,2024,4,SS,,,,,,,"RusstyT, Andre Pena, JPSalas, Tomate, Outhere, Smaug, Rawd, Basti, VPW Team",2.0.4,,"Hybrid, VR, nFozzy, Fleep, LUT",GeAnEjXczS
 "Pirates of the Caribbean (Stern 2006)","Pirates of the Caribbean (Stern 2006)",Stern,2006,4,SS,,"Pirates, Licensed Theme, Movie","http://www.ipdb.org/machine.cgi?id=5163",5163,,"Dennis Nordman","trino7, Siggi, SliderPoint, Freneticamnesic",1.0,potc_600as,"MOD",1tv6h_AOCh
@@ -3612,6 +3619,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Smooth Hot Ride 3 - From Natchez to Mike Vegas (Original 2023)","Smooth Hot Ride 3 - From Natchez to Mike Vegas (Original 2023)",Original,2023,,,,"Nevada, Las Vegas, Travel",,,,,"Vpfmike42",3.0,,,RYqKc5RyUs
 "Snake DMD (Original 2021)","Snake DMD (Original 2021)",Original,2021,1,SS,,,,,,,"Tartzani",1.0,,,_BIP9kOqax
 "Snake Machine (Taito do Brasil 1982)","Snake Machine (Taito do Brasil 1982)",Taito do Brasil,1982,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4585",4585,,"Joe Joos Jr.","JPSalas, Carlos Guizzo, Pmax65, Akiles50000, Rothbauerw",5.5.0,snake,"FastFlips, SSF, LUT",DICfGmxH
+"Snooker (Gottlieb 1985)","Snooker (Gottlieb 1985)",Gottlieb,1985,4,SS,,,"https://www.ipdb.org/machine.cgi?id=5343",5343,,"John Trudeau","Fripounet, Granit",1.0,,,ZXqz0hRPqr
 "Snow Derby (Gottlieb 1970)","Snow Derby (Gottlieb 1970)",Gottlieb,1970,2,EM,,"Sports, Skiing, Snowmobiling","http://www.ipdb.org/machine.cgi?id=2229",2229,,"Ed Krynski","EMUnderdogs, Silversurfer, Teisen, HauntFreaks, Cliffy, Abhcoide",1.1.3,,"Fleep, MOD",cpU_ygyrjg
 "Snow Derby (Gottlieb 1970)","Snow Derby (Gottlieb 1970)",Gottlieb,1970,2,EM,,"Sports, Skiing, Snowmobiling","http://www.ipdb.org/machine.cgi?id=2229",2229,,"Ed Krynski","Mustang1961, Loserman76",1.0c,,,u1oYBkKv-p
 "Snow Derby (Gottlieb 1970)","Snow Derby (Gottlieb 1970)",Gottlieb,1970,2,EM,,"Sports, Skiing, Snowmobiling","http://www.ipdb.org/machine.cgi?id=2229",2229,,"Ed Krynski","Loserman76",1.0.0f,,,EZjLgYAe
@@ -4301,6 +4309,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Games, The (Gottlieb 1984)","Games, The (Gottlieb 1984)",Gottlieb,1984,4,SS,,"Sports, Olympic Games","http://www.ipdb.org/machine.cgi?id=3391",3391,,"John Trudeau","Styx, Dboyrecords, LuvThatApex, Destruk, JPSalas",1.1,,,ZHe-VB8RLy
 "Games, The (Gottlieb 1984)","Games, The (Gottlieb 1984)",Gottlieb,1984,4,SS,,"Sports, Olympic Games","http://www.ipdb.org/machine.cgi?id=3391",3391,,"John Trudeau","UnclePaulie, Redbone, HauntFreaks, Apophis, DarthVito, Silversurfer, VPW Team",2.0.0,,"Hybrid, VR, SSF, Fleep, nFozzy, LUT",lIC_NgD9Fe
 "Games, The (Gottlieb 1984)","Games, The (Gottlieb 1984)",Gottlieb,1984,4,SS,,"Sports, Olympic Games","http://www.ipdb.org/machine.cgi?id=3391",3391,,"John Trudeau","Balater",1.03,,,h2gszbGh
+"Games I, The (Gottlieb 1983)","Games I, The (Gottlieb 1983)",Gottlieb,1983,4,SS,,"Sports, Olympic Competition","https://www.ipdb.org/machine.cgi?id=5340",5340,,"John Trudeau","Fripounet, Granit",1.0,,,YmyL3XhuGk
 "Gaston Pinball Machine, The (Original 2020)","Gaston Pinball Machine, The (Original 2020)",Original,2020,,EM,,"Comics",,,,,"Alois",1.0,,,JzQA-vPD
 "Getaway - High Speed II, The (Williams 1992)","Getaway - High Speed II, The (Williams 1992)",Williams,1992,4,SS,,"Police, Speeding, Cars","http://www.ipdb.org/machine.cgi?id=1000",1000,,"Steve Ritchie","Bigus1, Ganjafarmer, Flupper, 32assassin",2.0,gw_l5,"MOD",YoXfmzDV
 "Getaway - High Speed II, The (Williams 1992)","Getaway - High Speed II, The (Williams 1992)",Williams,1992,4,SS,,"Police, Speeding, Cars","http://www.ipdb.org/machine.cgi?id=1000",1000,,"Steve Ritchie","Chokeee, Ganjafarmer, 32assassin",1.0,gw_l5,"VR, SSF, FSS, MOD, Hybrid, nFozzy, Fleep",g0QpG_nVzj
@@ -4516,6 +4525,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Thunderbirds (Original 2022)","Thunderbirds (Original 2022)",Original,2022,,SS,,"Adventure, Aviation, Science Fiction, TV Show, Kids","https://www.ipdb.org/machine.cgi?id=6617",6617,,,"Drinkcristal, Wildman, Rawd, VPW Team",1.0.2,,"FlexDMD, VR, Hybrid, Kids",1y0NVRDr_C
 "Thundercats Pinball (Original 2023)","Thundercats Pinball (Original 2023)",Original,2023,,SS,,"TV Show, Animation, Kids",,,,,"MerlinRTP, Capnclaw, ScottyWic, JPSalas, Hawkeyez88, TeamTuga, PinstratsDan, Pegula, AStirling21, Dr.Nobody, DarrinVPCLE, JoePicasso, 0x3e",1.09,,"FlexDMD, Kids, Scorbit",xhpcI1231-
 "Ticket Tac Toe (Williams 1996)","Ticket Tac Toe (Williams 1996)",Williams,1996,1,SS,,"Children's Games, Kids","https://www.ipdb.org/machine.cgi?id=4334",4334,,"Steve Kordek","Kiwi, JPSalas, DJRobX, Rothbauerw, Hmueck",1.0.1,ttt_10,"Kids, Hybrid, VR",mOjHtjDe9m
+"Tidal Wave (Gottlieb 1981)","Tidal Wave (Gottlieb 1981)",Gottlieb,1981,4,SS,,,"https://www.ipdb.org/machine.cgi?id=5326",5326,,"John Trudeau","Fripounet, Granit",1.0,,,vqyvFLahi_
 "Tiger (Gottlieb 1975)","Tiger (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Circus","https://www.ipdb.org/machine.cgi?id=2560",2560,,"Ed Krynski","HauntFreaks, Loserman76, GNance, TastyWasps, JCalhoun",2.0,,"nFozzy, Fleep, VR, Hybrid",9A48adK-D7
 "Tiger (Gottlieb 1975)","Tiger (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Circus","https://www.ipdb.org/machine.cgi?id=2560",2560,,"Ed Krynski","Teisen, Loserman76",1.0,,"MOD",lvdQc7Eb0j
 "Tiger (Gottlieb 1975)","Tiger (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Circus","https://www.ipdb.org/machine.cgi?id=2560",2560,,"Ed Krynski","RajoJoey, GNance, Loserman76",1.0.0,,"VR, Hybrid, MOD, LUT",8hlWFoo4H3
@@ -4545,6 +4555,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Time Tunnel (Bally 1971)","Time Tunnel (Bally 1971)",Bally,1971,4,EM,,"TV Show, Fantasy, Time Travel","https://www.ipdb.org/machine.cgi?id=2566",2566,,"Jim Patla","GrayGhost",1.3,,,hLJnAay7
 "Time Warp (Williams 1979)","Time Warp (Williams 1979)",Williams,1979,4,SS,,"Mythology, Science Fiction, Time Travel","http://www.ipdb.org/machine.cgi?id=2568",2568,,"Barry Oursler","Bord, Rothbauerw",1.0.0,tmwrp_l2,,0Pq8C0VW
 "Timon & Pumbaa's Jungle Pinball (Original 2021)","Timon & Pumbaa's Jungle Pinball (Original 2021)",Original,2021,,SS,,"Animation, Kids",,,,,"Devious626, ScottyWic, Flupper, DJRobX, Aartee, Izzy, Tiffany chu, Hentoony, Remdwaas1986, Phenom, PEandS1Ws, Wylte, VPW Team, Flipper, Iaakki, Sixtoe, Apophis, Ninuzzu, HauntFreaks, JPSalas, Rothbauerw, nFozzy, NailBuster",1.0.0,,"FlexDMD, Kids, Hybrid, VR, nFozzy",_Ts_Wk7S
+"Titan (Gottlieb 1982)","Titan (Gottlieb 1982)",Gottlieb,1982,4,SS,,,"https://www.ipdb.org/machine.cgi?id=5330",5330,,"John Trudeau","Fripounet, Granit",1.0,,,kqzkysDPXr
 "Titan (Taito do Brasil 1981)","Titan (Taito do Brasil 1981)",Taito do Brasil,1981,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4587",4587,,"Barry Oursler","JPSalas, Carlos Guizzo, Tio Italo, Pmax65, Luiz Culik, Rothbauerw",5.5.0,titan,"SSF, LUT",MlGan4po
 "Titan (Taito do Brasil 1981)","Titan (Taito do Brasil 1981)",Taito do Brasil,1981,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4587",4587,,"Barry Oursler","Morttis, Wildman, Carlos Guizzo, Arconovum, JPSalas",3.0.0-1.0,titan,"FSS, MOD",InZG6JoX
 "Title Fight (Gottlieb 1990)","Title Fight (Gottlieb 1990)",Gottlieb,1990,4,SS,,"Sports, Boxing","http://www.ipdb.org/machine.cgi?id=2573",2573,,"Ray Tanzer","Bigus1, Bodydump, Goldchicco",1.1,,"MOD",1YzeLB5s
@@ -4661,6 +4672,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Twister (Sega 1996)","Twister (Sega 1996)",Sega,1996,6,SS,,"Movie","http://www.ipdb.org/machine.cgi?id=3976",3976,,"John Borg","Ejse83, UnclePaulie, DJRobX, 32assassin, Francisco666",2.0,twst_405,"MOD",lci_i8W3JE
 "Twister (Sega 1996)","Twister (Sega 1996)",Sega,1996,6,SS,,"Movie","http://www.ipdb.org/machine.cgi?id=3976",3976,,"John Borg","UnclePaulie, DJRobX, Francisco666, 32assassin, Xio, TheWool, JimmyFingers",2.0,twst_405,"VR, SSF, FSS, Hybrid, nFozzy, Fleep",_qAbKN6v
 "Twister (Sega 1996)","Twister (Sega 1996)",Sega,1996,6,SS,,"Movie","http://www.ipdb.org/machine.cgi?id=3976",3976,,"John Borg","Francisco666, 32assassin, Xio, TheWool, JimmyFingers",1.0,twst_405,,BwFEC9N9
+"Tyrannosaurus (Gottlieb 1985)","Tyrannosaurus (Gottlieb 1985)",Gottlieb,1985,4,SS,,,"https://www.ipdb.org/machine.cgi?id=5344",5344,,"John Trudeau","Fripounet, Granit",1.0,,,4mkxci4q1j
 "U-Boat 65 (Nuova Bell Games 1988)","U-Boat 65 (Nuova Bell Games 1988)",Nuova Bell Games,1988,4,SS,,"Combat, Nautical","http://www.ipdb.org/machine.cgi?id=3736",3736,,"Tommy Walker, Paul Daniel","Goldchicco, Batch, Mfuegemann, Movieguru, Arngrim",1.2,,,Bcznsvu1
 "U-FOES (Original 2019)","U-FOES (Original 2019)",Original,2019,,EM,,"Comics",,,,"Rosve","Rosve, The Loafer, Thalamus",2.0,,"SSF",JFiya62l
 "U2 (Original 2024)","U2 (Original 2024)",Original,2024,4,SS,,"Music",,,,,"Larouillas, Bord",1.0.0,stringray,,ocKUrSdotD
