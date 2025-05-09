@@ -21,7 +21,7 @@ const popperHeader = [
   "Tags",
   "VPS-ID",
   "WEBGameID",
-  "GameID",
+  "MasterID",
 ];
 
 const sanitizeFilename = (input) => {
@@ -71,7 +71,7 @@ const buildCsv = (games) => {
         game.ipdbUrl?.includes(".ipdb.org/machine.cgi?id=")
           ? `"${game.ipdbUrl}"`
           : "", // WeblinkURL
-        `https://virtualpinballspreadsheet.github.io/tables?game=${game.id}&fileType=tables&fileId=${t.id}`, // WebLink2URL
+        `"https://virtualpinballspreadsheet.github.io/tables?game=${game.id}&fileType=tables&fileId=${t.id}"`, // WebLink2URL
         game.ipdbUrl?.includes(".ipdb.org/machine.cgi?id=")
           ? game.ipdbUrl.split(".cgi?id=")[1]
           : "", // IPDBNum
@@ -95,7 +95,7 @@ const buildCsv = (games) => {
         ), // Tags
         t.id, // VPS-ID
         t.id, // WebGameID
-        game.id, // GameID
+        game.id, // MasterID
       ];
       content.push(row);
     }
