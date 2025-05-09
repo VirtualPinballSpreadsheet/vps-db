@@ -11,6 +11,7 @@ const popperHeader = [
   "Category",
   "GameTheme",
   "WebLinkURL",
+  "WebLink2URL",
   "IPDBNum",
   "AltRunMode",
   "DesignedBy",
@@ -19,6 +20,8 @@ const popperHeader = [
   "Rom",
   "Tags",
   "VPS-ID",
+  "WEBGameID",
+  "GameID",
 ];
 
 const sanitizeFilename = (input) => {
@@ -52,9 +55,13 @@ const buildCsv = (games) => {
   for (const game of _games) {
     for (const t of game.tableFiles || []) {
       const GameName = sanitizeFilename(getTableName(game));
+      let tableName = GameName
+      if (t.edition) {
+        tableName += ` ${t.edition}`;
+      }
       const row = [
         `"${t.gameFileName || GameName}"`, // GameFileName
-        `"${GameName}"`, // GameName
+        `"${tableName}"`, // GameName
         game.manufacturer || "", // Manufac
         game.year?.toString() || "", // GameYear
         game.players?.toString() || "", // NumPlayers
@@ -64,6 +71,7 @@ const buildCsv = (games) => {
         game.ipdbUrl?.includes(".ipdb.org/machine.cgi?id=")
           ? `"${game.ipdbUrl}"`
           : "", // WeblinkURL
+        `https://virtualpinballspreadsheet.github.io/tables?game=${game.id}&fileType=tables&fileId=${t.id}`, // WebLink2URL
         game.ipdbUrl?.includes(".ipdb.org/machine.cgi?id=")
           ? game.ipdbUrl.split(".cgi?id=")[1]
           : "", // IPDBNum
@@ -86,6 +94,8 @@ const buildCsv = (games) => {
           )
         ), // Tags
         t.id, // VPS-ID
+        t.id, // WebGameID
+        game.id, // GameID
       ];
       content.push(row);
     }
