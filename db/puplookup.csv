@@ -1017,10 +1017,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Cover Girl (Gottlieb 1962)","Cover Girl (Gottlieb 1962)",Gottlieb,1962,1,EM,,"Glamour, Modeling, Women","https://www.ipdb.org/machine.cgi?id=580",580,,"Wayne Neyens","Margoni",1.0,,,cqoFB8hgvz
 "Cover Girl (Keeney 1947)","Cover Girl (Keeney 1947)",Keeney,1947,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=459",459,,,"AnonTet",1.3,,"MOD",ZnEr7C3Ebn
 "Cover Girl (Keeney 1947)","Cover Girl (Keeney 1947)",Keeney,1947,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=459",459,,,"Francisco Pozo",1.0,,,MK1KGzKwgO
+"Cow Poke (Gottlieb 1965)","Cow Poke (Gottlieb 1965)",Gottlieb,1965,1,EM,,"American West","http://www.ipdb.org/machine.cgi?id=581",581,,"Wayne Neyens","Teisen, Loserman76, BorgDog, HauntFreaks, GNance, JPSalas, Pinuck, Arngrim, Wildman, Cliffy",1.0.0,,"MOD",KJ54NwqtqV
 "Cow Poke (Gottlieb 1965)","Cow Poke (Gottlieb 1965)",Gottlieb,1965,1,EM,,"American West","http://www.ipdb.org/machine.cgi?id=581",581,,"Wayne Neyens","FranzLeo, Margoni",3.1,,,dtRctO8zm2
 "Cow Poke (Gottlieb 1965)","Cow Poke (Gottlieb 1965)",Gottlieb,1965,1,EM,,"American West","http://www.ipdb.org/machine.cgi?id=581",581,,"Wayne Neyens","Xenonph, Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0a,,"MOD",-Lgd1UTvNG
 "Cow Poke (Gottlieb 1965)","Cow Poke (Gottlieb 1965)",Gottlieb,1965,1,EM,,"American West","http://www.ipdb.org/machine.cgi?id=581",581,,"Wayne Neyens","Loserman76, GNance, Pinuck, Scorpion, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,-uF0SaGo
-"Cow Poke (Gottlieb 1965)","Cow Poke (Gottlieb 1965)",Gottlieb,1965,1,EM,,"American West","http://www.ipdb.org/machine.cgi?id=581",581,,"Wayne Neyens","Teisen, Loserman76, BorgDog, HauntFreaks",1.0.0,,,KJ54NwqtqV
 "CowBoy Bebop (Original 2024)","CowBoy Bebop (Original 2024)",Original,2024,,SS,,"Anime, Science Fiction",,,,,"Wedge, Bigus1, 32assassin",2.0,genie,"MOD, Music",rASwgtPBvd
 "Cowboy Bebop Pinball (Original 2024)","Cowboy Bebop Pinball (Original 2024)",Original,2024,,SS,,"Anime, Science Fiction",,,,,"Mlaw, Masonou, JPSalas",1.0.0,,,d9hIhz9voX
 "Cowboy Eight Ball (LTD do Brasil 1981)","Cowboy Eight Ball (LTD do Brasil 1981)",LTD do Brasil,1981,3,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=5132",5132,,"George Christian","JPSalas, Carlos Guizzo, Mfuegemann, Nasa, STAT",4.0.0,,"LUT",LAxl5M9f
@@ -1256,7 +1256,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Dragon Ball Z (Original 2018)","Dragon Ball Z (Original 2018)",Original,2018,,SS,,"Anime",,,,,"Javier15",1.06,,,wBrV24MW
 "Dragon Ball Z Budokai (Original 2023)","Dragon Ball Z Budokai (Original 2023)",Original,2023,,,,"Anime",,,,,"Larouillas, Masonou, JPSalas",2.0.0,,"Music, Kids, MOD",mzZhkEoOri
 "Dragon Ball Z Budokai (Original 2023)","Dragon Ball Z Budokai (Original 2023)",Original,2023,,,,"Anime",,,,,"Masonou, JPSalas",1.0.0,,"Kids, MOD",ehHkc5K5aJ
-"Dragon Flames (Original 2024)","Dragon Flames (Original 2024)",Original,2024,,EM,,"Fantasy",,,,,"Wildlifewizard, Jogrady7",2.0,,,GW7_boODg6
+"Dragon Flames (Original 2024)","Dragon Flames (Original 2024)",Original,2024,,EM,,"Fantasy",,,,,"Wildlifewizard, Jogrady7, NotWildLife",1.1,,,GW7_boODg6
+"Dragon Flames (Original 2024)","Dragon Flames (Original 2024)",Original,2024,,EM,,"Fantasy",,,,,"Jogrady7, Wildlifewizard",2.0,,,CS-ggE8eqU
 "Dragon's Lair (Original 2023)","Dragon's Lair (Original 2023)",Original,2023,,EM,,"Video Game",,,,,"LTek, Cez60, Jmx, JPSalas, Cliffy",1.1.3,,"MOD",mU_KvAiDAO
 "Dragon's Lair (Original 2023)","Dragon's Lair (Original 2023)",Original,2023,,EM,,"Video Game",,,,,"Cez60, Jmx, JPSalas",1.0.0,,"MOD, FlexDMD",u6kSJiJi_D
 "DragonFire (Original 2021)","DragonFire (Original 2021)",Original,2021,,EM,,"Dragons, Fantasy",,,,,"Rosve",1.1.0,,,bWXYgQoG
@@ -2163,9 +2164,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jalisco (Recreativos Franco 1976)","Jalisco (Recreativos Franco 1976)",Recreativos Franco,1976,1,EM,,"Mexico","https://www.ipdb.org/machine.cgi?id=4667",4667,,,"JPSalas, Akiles50000, Pedator",1.0.0,,,IKEFJ-i69G
 "Jalopy (Williams 1951)","Jalopy (Williams 1951)",Williams,1951,1,EM,,"Sports, Auto Racing","http://www.ipdb.org/machine.cgi?id=1284",1284,,"Harry Williams, Sam Stern","Ukexpat71, Loserman76",1.1,,,sDs1azok
 "James Bond (Original 2021)","James Bond (Original 2021)",Original,2021,6,SS,,"Licensed Theme, Movie, Espionage",,,,,"Balutito, JPJ, Pingod, UncleReamus, Destruk, The Trout, Bigus1, 32assassin, TeamPP",1.2,gldneye,"Music, MOD",GrKDNMAP
-"James Bond 007 (Gottlieb 1980)","James Bond 007 (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Licensed Theme, Movie, Espionage","http://www.ipdb.org/machine.cgi?id=1286",1286,,"Allen Edwall","Teisen, RajoJoey, 32assassin, Mfuegemann",1.1.0,jamesb,"MOD, Hybrid, LUT, VR",Z5yroNaS20
+"James Bond 007 (Gottlieb 1980)","James Bond 007 (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Licensed Theme, Movie, Espionage","http://www.ipdb.org/machine.cgi?id=1286",1286,,"Allen Edwall","Teisen, RajoJoey, 32assassin, Mfuegemann",1.0,jamesb,"MOD, Hybrid, LUT, VR",Z5yroNaS20
 "James Bond 007 (Gottlieb 1980)","James Bond 007 (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Licensed Theme, Movie, Espionage","http://www.ipdb.org/machine.cgi?id=1286",1286,,"Allen Edwall","RajoJoey, 32assassin, Mfuegemann",1.0.0,jamesb,"VR, Hybrid, LUT",u8H6qxh2
 "James Bond 007 (Gottlieb 1980)","James Bond 007 (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Licensed Theme, Movie, Espionage","http://www.ipdb.org/machine.cgi?id=1286",1286,,"Allen Edwall","32assassin, Mfuegemann",1.0,jamesb,"Music",A1wxTjE3
+"James Bond 007 (Gottlieb 1980)","James Bond 007 (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Licensed Theme, Movie, Espionage","http://www.ipdb.org/machine.cgi?id=1286",1286,,"Allen Edwall","Teisen, 32assassin, RajoJoey, Sixtoe, Rawd",1.1.0,jamesb,"LUT, MOD, VR, Hybrid",MxA4gf-mwt
 "James Cameron's Avatar (Stern 2010)","James Cameron's Avatar (Stern 2010)",Stern,2010,4,SS,,"Fantasy, Licensed Theme","http://www.ipdb.org/machine.cgi?id=5618",5618,,"John Borg, Lonnie D. Ropp","Bigus1, Thalamus, Freneticamnesic, 85vett, 32assassin, HauntFreaks",3.1,avr_110,"MOD",_KkJPEqB
 "James Cameron's Avatar (Stern 2010)","James Cameron's Avatar (Stern 2010)",Stern,2010,4,SS,,"Fantasy, Licensed Theme","http://www.ipdb.org/machine.cgi?id=5618",5618,,"John Borg, Lonnie D. Ropp","GeorgeH, Gimli, JLou, AnonTet, Fleep, Popotte, Lacarril, Francisco666, TerryRed, NitroNimbus, VPGamer75, Xenonph, Dino007, SLAMT1LT",3.0,avr_110,"MOD, Fleep",KZrnRk9ZVe
 "James Cameron's Avatar (Stern 2010)","James Cameron's Avatar (Stern 2010)",Stern,2010,4,SS,,"Fantasy, Licensed Theme","http://www.ipdb.org/machine.cgi?id=5618",5618,,"John Borg, Lonnie D. Ropp","Tartzani, TastyWasps, Apophis, Freneticamnesic, Thalamus, Oqqsan, 85vett, 32assassin, HauntFreaks",1.1.2,avr_110,"MOD, Fleep, nFozzy, VR, Hybrid",DYof1TQz0-
@@ -2195,6 +2197,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jet Spin (Gottlieb 1977)","Jet Spin (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Fantasy, Recreation","http://www.ipdb.org/machine.cgi?id=1290",1290,,"Ed Krynski","RajoJoey, Loserman76",1.0.0,,"Hybrid, VR, LUT",9rm3HymXzH
 "Jet Spin (Gottlieb 1977)","Jet Spin (Gottlieb 1977)",Gottlieb,1977,4,EM,,"Fantasy, Recreation","http://www.ipdb.org/machine.cgi?id=1290",1290,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,8zraF4R7
 "Jets (Original 2023)","Jets (Original 2023)",Original,2023,,SS,,"Sports, American Football",,,,,"Spisi69, Bossman72, Scutters, JPSalas",1.22,,"MOD, Music",BiQlTJ66Xo
+"Jets (Original 2023)","Jets (Original 2023)",Original,2023,,SS,,"Sports, American Football",,,,,"Spisi69, JPSalas, Bossman72",1.1,,"MOD, Music",pl0Sunc8Xo
 "Jimi Hendrix (Original 2021)","Jimi Hendrix (Original 2021)",Original,2021,4,SS,,"Music",,,,,"Balutito, JPSalas",1.2,,"Music, MOD",jfHL4B4v
 "Jive Time (Williams 1970)","Jive Time (Williams 1970)",Williams,1970,1,EM,,"Music, Singing","http://www.ipdb.org/machine.cgi?id=1298",1298,,"Norm Clark","Pdrum, Rothbauerw",2.0,,"MOD, Fleep",I8GuHLgLrr
 "Jive Time (Williams 1970)","Jive Time (Williams 1970)",Williams,1970,1,EM,,"Music, Singing","http://www.ipdb.org/machine.cgi?id=1298",1298,,"Norm Clark","Rothbauerw",2.0.0,,"VR, FSS, Hybrid, SSF, Fleep",LENyN6mF
@@ -3063,6 +3066,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Pierce The Veil (Original 2025)","Pierce The Veil (Original 2025)",Original,2025,4,SS,,"Music, Progressive, Rock",,,,,"Larouillas, JPSalas",1.0.0,,"Music, MOD",Do0UN8d9fs
 "Piggy Bank Blitz (Original 2023)","Piggy Bank Blitz (Original 2023)",Original,2023,,,,"Flipperless",,,,,"Arelyel, Kevin MacLeod, Studlygoorite, Iwantpinball, Movieg1",2.1.0,,"FlexDMD",ws_hvA6-iT
 "Pin City (Original 2018)","Pin City (Original 2018)",Original,2018,,SS,,"Example",,,,,"Malform11",1.0,,,Ej8cxtA4
+"Pin City (Original 2018)","Pin City (Original 2018)",Original,2018,,SS,,"Example",,,,,"SuperDuperMan",2.0,,"Music",39LV6QwnbP
 "Pin-Up (Gottlieb 1975)","Pin-Up (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=1789",1789,,"Ed Krynski","RajoJoey, Popotte, GNance, Loserman76",1.0.0,,"VR, Hybrid, MOD, LUT",NJLO0GIrG6
 "Pin-Up (Gottlieb 1975)","Pin-Up (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=1789",1789,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,YUGsLrAd
 "PinBlob (Original 2024)","PinBlob (Original 2024)",Original,2024,4,SS,,"Horror",,,,,"Clairvius, UnclePaulie, Herweh",1.0.0,Atlantis,"MOD",JWB3WseUaS
@@ -3594,8 +3598,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Sky Kings (Bally 1974)","Sky Kings (Bally 1974)",Bally,1974,1,EM,,"Parachuting, Skydiving, Sports","https://www.ipdb.org/machine.cgi?id=2196",2196,,"Jim Patla","Halen, Kees, Teisen, JPSalas",2.1,,,7xMfVlTYZk
 "Table 113","Sky Pirates - Treasures of the Clouds (Zen Studios 2022)",Zen Studios,2022,,,,"Aviation, Pirates",,,,"Peter Kovacs","Zen Studios, Peter Kovacs",,,,hk5A-USz_p
 "Sky Ride (Genco 1933)","Sky Ride (Genco 1933)",Genco,1933,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=2200",2200,,,"Druadic",1.1,,,xc1biJcadC
-"Sky-Line (Gottlieb 1965)","Sky-Line (Gottlieb 1965)",Gottlieb,1965,1,EM,,"Nightclubs, Nightlife","https://www.ipdb.org/machine.cgi?id=3240",3240,,"Wayne Neyens","Margoni",1.0,,,THt3L51aB4
 "Sky-Line (Gottlieb 1965)","Sky-Line (Gottlieb 1965)",Gottlieb,1965,1,EM,,"Nightclubs, Nightlife","https://www.ipdb.org/machine.cgi?id=3240",3240,,"Wayne Neyens","JPSalas, Halen, HauntFreaks",5.5.0,,,VOT4FxKdci
+"Sky-Line (Gottlieb 1965)","Sky-Line (Gottlieb 1965)",Gottlieb,1965,1,EM,,"Nightclubs, Nightlife","https://www.ipdb.org/machine.cgi?id=3240",3240,,"Wayne Neyens","Margoni",1.0,,,THt3L51aB4
 "Sky-Line (Gottlieb 1965)","Sky-Line (Gottlieb 1965)",Gottlieb,1965,1,EM,,"Nightclubs, Nightlife","https://www.ipdb.org/machine.cgi?id=3240",3240,,"Wayne Neyens","Ext2k, Halen, JPSalas, TastyWasps",1.0.0,,"VR",3qgVz8WEka
 "Skylab (Williams 1974)","Skylab (Williams 1974)",Williams,1974,1,EM,,"Space Exploration","https://www.ipdb.org/machine.cgi?id=2202",2202,,"Steve Kordek","Klodo81, JPSalas",1.3,,"LUT",Y-igCtKOn5
 "Skylab (Williams 1974)","Skylab (Williams 1974)",Williams,1974,1,EM,,"Space Exploration","https://www.ipdb.org/machine.cgi?id=2202",2202,,"Steve Kordek","Margoni",1.0,,,hkwrlA_klR
@@ -4628,6 +4632,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Transformers (Pro) (Stern 2011)","Transformers (Pro) (Stern 2011)",Stern,2011,4,SS,,"Licensed Theme, Science Fiction, Movie","http://www.ipdb.org/machine.cgi?id=5709",5709,,"George Gomez","wpilot, JPSalas",1.2,tf_180,"MOD",zKW4eroF
 "Transformers (Pro) (Stern 2011)","Transformers (Pro) (Stern 2011)",Stern,2011,4,SS,,"Licensed Theme, Science Fiction, Movie","http://www.ipdb.org/machine.cgi?id=5709",5709,,"George Gomez","UnclePaulie, JPSalas",1.1,tf_180,"VR, MOD",4b9JfFkP
 "Transformers (Pro) (Stern 2011)","Transformers (Pro) (Stern 2011)",Stern,2011,4,SS,,"Licensed Theme, Science Fiction, Movie","http://www.ipdb.org/machine.cgi?id=5709",5709,,"George Gomez","HauntFreaks, JPSalas",1.1,tf_180,"FastFlips, MOD",QCIktnpS
+"Transformers (Pro) (Stern 2011)","Transformers (Pro) (Stern 2011)",Stern,2011,4,SS,,"Licensed Theme, Science Fiction, Movie","http://www.ipdb.org/machine.cgi?id=5709",5709,,"George Gomez","DonRobby, GTXJoe, Freneticamnesic, JPSalas, HauntFreaks, UnclePaulie, SG1bsoN, RobbyKingPin, TastyWasps, Retro27, Nestorgian, Fluffhead35",2.0.1,tf_180,"VR, Hybrid",DegAg1Hr9w
 "Transformers - The Movie 1986 (Original 2019)","Transformers - The Movie 1986 (Original 2019)",Original,2019,2,SS,,"Licensed Theme, Science Fiction, Movie",,,,,"Ivantba, Bigus1, 32assassin",1.0,dfndr_l4,,-BIEKO2q
 "Transformers G1 (Original 2018)","Transformers G1 (Original 2018)",Original,2018,,SS,,"Licensed Theme, Science Fiction, Movie",,,,,"Ivantba, Wizball",1.7,,,NVPpFZ38
 "Transporter the Rescue (Bally 1989)","Transporter the Rescue (Bally 1989)",Bally,1989,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=2630",2630,,"Greg Kmiec, Tony Kraemer","VPW",1.05,tsptr_l3,"VR, SSF, Hybrid, FSS, nFozzy, Fleep",K5y6-Rv_
