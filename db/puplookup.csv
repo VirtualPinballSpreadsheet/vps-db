@@ -636,7 +636,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Bobsbop (Original 2012)","Bobsbop (Original 2012)",Original,2012,2,SS,,,,,,,"Bob5453, Wizard_Hat",1.0,,,gDeWq72XIW
 "Bon Jovi (Original 2024)","Bon Jovi (Original 2024)",Original,2024,4,SS,,"Music",,,,,"Larouillas",1.0.0,fpwr2_l2,,amfRIq_F3h
 "Bon Voyage (Bally 1974)","Bon Voyage (Bally 1974)",Bally,1974,1,EM,,"Aviation, Travel, Transportation","https://www.ipdb.org/machine.cgi?id=343",343,,"Jim Patla","Cirqus, Xsvtoys, Sixtoe",1.0.0,,,XJSysphY
-"Bonanza (Original 2022)","Bonanza (Original 2022)",Original,2022,,SS,,"American West, TV Show",,,,,"Icepinball, Xenonph, Cryptdoctor21, 32assassin",1.0.0,,"MOD",PPPwjBymSj
+"Bonanza (Original 2022)","Bonanza (Original 2022)",Original,2022,,SS,,"American West, TV Show",,,,,"Icepinball, Xenonph, Cryptdoctor21, 32assassin",1.0.1,,"MOD",PPPwjBymSj
 "Bond 50th (Original 2013)","Bond 50th (Original 2013)",Original,2013,,,,"Movie, Espionage",,,,,"SLAMT1LT",1.0,,,G7ggl_DFuV
 "Bond 60th (Original 2022)","Bond 60th (Original 2022)",Original,2022,,SS,,"Movie, Espionage",,,,,"Ext2k, Marty02, Timblo",1.0.0,,"VR",FmfSnIAiFP
 "Bond 60th (Original 2022)","Bond 60th (Original 2022)",Original,2022,,SS,,"Movie, Espionage",,,,,"Marty02, JPSalas",4.3,,,fWVDMQSE0p
@@ -1599,8 +1599,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Full Throttle (Original 2023)","Full Throttle (Original 2023)",Original,2023,,SS,,"Sports, Motorcycle Racing","https://www.ipdb.org/machine.cgi?id=6301",6301,,,"Ryguy417, JPSalas",1.0.0,ind250cc,"LUT, Music, MOD",Pl6L2obzhd
 "Fullmetal Alchemist (Original 2007)","Fullmetal Alchemist (Original 2007)",Original,2007,4,EM,,"Anime",,,,,"Anthias, JPSalas",2.0,,,GTTIWT1kXu
 "Fun Fair (Gottlieb 1968)","Fun Fair (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Carnival, Shooting Gallery","https://www.ipdb.org/machine.cgi?id=964",964,,"Ed Krynski","Loserman76, GNance",1.0.0f,,,MFvYSojn
-"Fun Land (Gottlieb 1968)","Fun Land (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Amusement Park","http://www.ipdb.org/machine.cgi?id=973",973,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,IPjKm2n4
 "Fun Land (Gottlieb 1968)","Fun Land (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Amusement Park","http://www.ipdb.org/machine.cgi?id=973",973,,"Ed Krynski","Teisen, Loserman76, HauntFreaks, BorgDog, GNance, JPSalas, Pinuck, Arngrim",1.0,,"MOD",HTWLGdpMrr
+"Fun Land (Gottlieb 1968)","Fun Land (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Amusement Park","http://www.ipdb.org/machine.cgi?id=973",973,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,IPjKm2n4
 "Fun Park (Gottlieb 1968)","Fun Park (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Carnival, Shooting Gallery","http://www.ipdb.org/machine.cgi?id=968",968,,"Ed Krynski, Steve Kirk","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,S4vP75C7
 "Fun-Fest (Williams 1972)","Fun-Fest (Williams 1972)",Williams,1972,4,EM,,"Music, Dancing, People, Singing","https://www.ipdb.org/machine.cgi?id=972",972,,"Norm Clark","PinPlayer",1.2,,,-lBiSNgs
 "Fun-Fest (Williams 1972)","Fun-Fest (Williams 1972)",Williams,1972,4,EM,,"Music, Dancing, People, Singing","https://www.ipdb.org/machine.cgi?id=972",972,,"Norm Clark","PinPlayer",1.1,,,utAAPUQU7P
