@@ -1458,6 +1458,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Fathom (Bally 1981)","Fathom (Bally 1981)",Bally,1981,4,SS,,"Fantasy, Scuba Diving, Sports, Aquatic","http://www.ipdb.org/machine.cgi?id=829",829,,"Ward Pemberton","32assassin, UncleWilly",2.0,fathom,,E551pHQO
 "Table 5","Fear Itself (Zen Studios 2012)",Zen Studios,2012,4,,,"Licensed Theme, Comics",,,,"Zoltan Vari","Zen Studios, Zoltan Vari",,,,Xyi0qB9Vnc
 "MARVEL_FearItSelf","Fear Itself (Zen Studios 2012)",Zen Studios,2012,4,,,"Licensed Theme, Comics",,,,"Zoltan Vari","Zen Studios",,,,Xgz6W5te
+"Feiseanna (Original 2022)","Feiseanna (Original 2022)",Original,2022,4,SS,,"Kids",,,,,"VonKrafte, BorgDog, Joust7800",1.0,,"Kids, Retheme",kWMQzKOeiH
 "Feiseanna II - Dream Worlds (Original 2022)","Feiseanna II - Dream Worlds (Original 2022)",Original,2022,,,,"Dancing",,,,,"VonKrafte, Jogrady7",2.0,,,okVb4ZnmKn
 "Ferris Bueller's Day Off (Original 2022)","Ferris Bueller's Day Off (Original 2022)",Original,2022,,,,"Movie, Comedy",,,,,"Charlespinball, Carl Son, TerryRed",1.0.0,,"BAM",C57khfCome
 "Fifteen (Inder 1974)","Fifteen (Inder 1974)",Inder,1974,1,EM,,"Women","https://www.ipdb.org/machine.cgi?id=4409",4409,,,"Ext2k, Loserman76, Leeoneil, Akiles50000, JPSalas",1.0.0,,"VR, MOD, Mixed Reality",jN3V13AYtu
@@ -1892,6 +1893,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Hi-Skor (Hi-Skor 1932)","Hi-Skor (Hi-Skor 1932)",Hi-Skor,1932,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=5225",5225,,,"Druadic",1.1,,,7aKmXS0iC1
 "High Hand (Gottlieb 1973)","High Hand (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1173",1173,,"Ed Krynski","RajoJoey, Loserman76, GNance",1.0.0,,"Hybrid, VR, FSS, LUT",NoVYBs7Hdg
 "High Hand (Gottlieb 1973)","High Hand (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1173",1173,,"Ed Krynski","Loserman76, GNance, Pinuck, Chris Aguilar, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,aSM20ope
+"High Hand (Gottlieb 1973)","High Hand (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1173",1173,,"Ed Krynski","Bigus1, Loserman76, GNance, Chris Aguilar",1.0,,"MOD",MFXNTbwdy9
 "High Roller Casino (Stern 2001)","High Roller Casino (Stern 2001)",Stern,2001,4,SS,,"Gambling","http://www.ipdb.org/machine.cgi?id=4502",4502,,"John Borg","Morttis, DJRobX, Dids666, Arconovum",1.1-1.0,hirolcas,"FSS, MOD",GtA48Hye
 "High Roller Casino (Stern 2001)","High Roller Casino (Stern 2001)",Stern,2001,4,SS,,"Gambling","http://www.ipdb.org/machine.cgi?id=4502",4502,,"John Borg","DJRobX, Dids666, Bord",1.1,hirolcas,,sOWxJaXb
 "High Roller Casino (Stern 2001)","High Roller Casino (Stern 2001)",Stern,2001,4,SS,,"Gambling","http://www.ipdb.org/machine.cgi?id=4502",4502,,"John Borg","Sixtoe, DJRobX, Dids666, Bord",1.0.0,hirolcas,"VR",UN-ZgD2y3U
@@ -1979,7 +1981,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Ice Cold Beer (Taito 1983)","Ice Cold Beer (Taito 1983)",Taito,1983,,EM,,"Drinking, Flipperless",,,,,"Rawd",1.0.2,,,si40NaDenn
 "Ice Cold Beer (Taito 1983)","Ice Cold Beer (Taito 1983)",Taito,1983,,EM,,"Drinking, Flipperless",,,,,"32assassin, Mfuegemann",0.9,,,f5-tW6tS
 "Ice Fever (Gottlieb 1985)","Ice Fever (Gottlieb 1985)",Gottlieb,1985,4,SS,,"Sports, Hockey","http://www.ipdb.org/machine.cgi?id=1260",1260,,"John Trudeau","Endeemillr, Tom, Thalamus, Wildman, BorgDog, Armyaviation, Arngrim, Bord, Scutters",3.0.1,,"MOD, FlexDMD",Q0uzEOAvl-
-"Ice Fever (Gottlieb 1985)","Ice Fever (Gottlieb 1985)",Gottlieb,1985,4,SS,,"Sports, Hockey","http://www.ipdb.org/machine.cgi?id=1260",1260,,"John Trudeau","Endeemillr, Tom, Thalamus, Arngrim, BorgDog, Armyaviation, Bord",1.0,,"MOD",0tpH3TrqrU
+"Ice Fever (Gottlieb 1985)","Ice Fever (Gottlieb 1985)",Gottlieb,1985,4,SS,,"Sports, Hockey","http://www.ipdb.org/machine.cgi?id=1260",1260,,"John Trudeau","Endeemillr, Tom, Thalamus, Arngrim, BorgDog, Armyaviation, Bord, Wildman",2.2,,"MOD",0tpH3TrqrU
 "Ice Fever (Gottlieb 1985)","Ice Fever (Gottlieb 1985)",Gottlieb,1985,4,SS,,"Sports, Hockey","http://www.ipdb.org/machine.cgi?id=1260",1260,,"John Trudeau","Armyaviation, Thalamus, Wildman, BorgDog, Arngrim, Bord",1.2,,"SSF",jBNvaelf
 "Ice Fever (Gottlieb 1985)","Ice Fever (Gottlieb 1985)",Gottlieb,1985,4,SS,,"Sports, Hockey","http://www.ipdb.org/machine.cgi?id=1260",1260,,"John Trudeau","Rascal, Destruk, Itchigo, Lolo",1.1,,,6PLlVnyy
 "Ignition (Digital Illusions 1992)","Ignition (Digital Illusions 1992)",Digital Illusions,1992,,,,"Science Fiction, Video Game",,,,"Olof Gustafsson","Slash2084, Light66, Sebek74, Skyrunner",1.11,,,tcrzHxAwGl
@@ -2158,6 +2160,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jackpot (Williams 1971)","Jackpot (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1279",1279,,"Norm Clark","Jarringmars, Albert, Loserman76, Kees, Kiwi, Leon Spalding, Leeoneil",1.01,,,cVuPtX63vN
 "Jacks Open (Gottlieb 1977)","Jacks Open (Gottlieb 1977)",Gottlieb,1977,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1281",1281,,"Ed Krynski","Goldchicco, SliderPoint, Pinuck",1.1,,"MOD, LUT",nRl6alws
 "Jacks Open (Gottlieb 1977)","Jacks Open (Gottlieb 1977)",Gottlieb,1977,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1281",1281,,"Ed Krynski","SliderPoint, Pinuck",1.2.1,,,mghQM3se
+"Jacks Open (Gottlieb 1977)","Jacks Open (Gottlieb 1977)",Gottlieb,1977,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1281",1281,,"Ed Krynski","Bigus1, Goldchicco, SliderPoint, Pinuck",1.0,,"MOD",B6zfjYU4Iv
 "Jacks to Open (Gottlieb 1984)","Jacks to Open (Gottlieb 1984)",Gottlieb,1984,4,SS,,"Gambling, Cards, Poker","https://www.ipdb.org/machine.cgi?id=1282",1282,,"Ed Krynski","JPSalas, Halen, BiggtBiggt, Inkochnito",5.5.1,,"LUT",ZGOtLBs6vS
 "Jacks to Open (Gottlieb 1984)","Jacks to Open (Gottlieb 1984)",Gottlieb,1984,4,SS,,"Gambling, Cards, Poker","https://www.ipdb.org/machine.cgi?id=1282",1282,,"Ed Krynski","Rascal, Destruk, MNPG",1.1,,"Music",nISIfh3j
 "Jacks to Open (Gottlieb 1984)","Jacks to Open (Gottlieb 1984)",Gottlieb,1984,4,SS,,"Gambling, Cards, Poker","https://www.ipdb.org/machine.cgi?id=1282",1282,,"Ed Krynski","Ext2k, JPSalas, Halen, BiggtBiggt, Inkochnito, Basti",1.0.0,,"Hybrid, VR, FSS, MOD, Mixed Reality",eyIafo3rjI
