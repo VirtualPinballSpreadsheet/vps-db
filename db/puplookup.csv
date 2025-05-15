@@ -978,8 +978,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Conjury Contraption (Original 2024)","Conjury Contraption (Original 2024)",Original,2024,,EM,,"Magic",,,,,"CrimsonTurtle8, Spectrowhirl",1.0.0,,,eAZXruxRym
 "Conquest 200 (Playmatic 1976)","Conquest 200 (Playmatic 1976)",Playmatic,1976,1,EM,,"Historical","https://www.ipdb.org/machine.cgi?id=557",557,,,"Ext2k, JPSalas, Pedator, Kiwi, DaRdog81",2.0,,"VR, MOD, Mixed Reality",3tDpF_IUbs
 "Conquest 200 (Playmatic 1976)","Conquest 200 (Playmatic 1976)",Playmatic,1976,1,EM,,"Historical","https://www.ipdb.org/machine.cgi?id=557",557,,,"JPSalas, Pedator, Kiwi",5.5.1,,"Music, LUT",lzfmGCpU
-"Contact (Williams 1978)","Contact (Williams 1978)",Williams,1978,4,SS,,"Aliens, Fantasy, Outer Space","http://www.ipdb.org/machine.cgi?id=558",558,,"Steve Kordek","Kalavera3, Destruk",1.2,cntct_l1,"SSF",AXdNzBYZ
 "Contact (Williams 1978)","Contact (Williams 1978)",Williams,1978,4,SS,,"Aliens, Fantasy, Outer Space","http://www.ipdb.org/machine.cgi?id=558",558,,"Steve Kordek","Bigus1, Kalavera3",1.0,cntct_l1,"MOD",dkKiyf3ogw
+"Contact (Williams 1978)","Contact (Williams 1978)",Williams,1978,4,SS,,"Aliens, Fantasy, Outer Space","http://www.ipdb.org/machine.cgi?id=558",558,,"Steve Kordek","Kalavera3, Destruk",1.2,cntct_l1,"SSF",AXdNzBYZ
 "Contact Master (PAMCO 1934)","Contact Master (PAMCO 1934)",PAMCO,1934,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=4457",4457,,"Harry Williams","Bthlonewolf",1.2,,,QGWum4wkQ1
 "Contest (Gottlieb 1958)","Contest (Gottlieb 1958)",Gottlieb,1958,4,EM,,"Pinball","http://www.ipdb.org/machine.cgi?id=564",564,,"Wayne Neyens","JPJ, TeamPP, Chucky, STAT, Ninuzzu, Arngrim, HauntFreaks",1.5,,,G39qFg1Y
 "Continental Cafe (Gottlieb 1957)","Continental Cafe (Gottlieb 1957)",Gottlieb,1957,2,EM,,,"https://www.ipdb.org/machine.cgi?id=565",565,,"Wayne Neyens","Francisco Pozo",1.0,,,UcoRcYrj3g
@@ -4028,10 +4028,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Strike Zone (Williams 1984)","Strike Zone (Williams 1984)",Williams,1984,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal",1.0.0,szone_l5,,nUCBLsD2
 "Striker (Gottlieb 1982)","Striker (Gottlieb 1982)",Gottlieb,1982,4,SS,,"Sports, Soccer","http://www.ipdb.org/machine.cgi?id=2405",2405,,"John Trudeau","Arconovum, Kalavera3, 32assassin",1.1-2.5,,"FSS, MOD",Pjc96FBM
 "Striker (Gottlieb 1982)","Striker (Gottlieb 1982)",Gottlieb,1982,4,SS,,"Sports, Soccer","http://www.ipdb.org/machine.cgi?id=2405",2405,,"John Trudeau","Kalavera3, 32assassin",1.0.3,,,ih6RcOgu
+"Striker Xtreme (Stern 2000)","Striker Xtreme (Stern 2000)",Stern,2000,4,SS,,"Sports, Soccer","http://www.ipdb.org/machine.cgi?id=4459",4459,,,"Ejse83, Kalavera3, 32assassin, JPSalas, SliderPoint, Xenonph",1.0.0,strikext,"MOD",T886s9qWlb
 "Striker Xtreme (Stern 2000)","Striker Xtreme (Stern 2000)",Stern,2000,4,SS,,"Sports, Soccer","http://www.ipdb.org/machine.cgi?id=4459",4459,,,"Morttis, Arconovum, Kalavera3, 32assassin, SliderPoint, Xenonph",2.0-1.0,strikext,"FSS, MOD",ivZ3dcso
 "Striker Xtreme (Stern 2000)","Striker Xtreme (Stern 2000)",Stern,2000,4,SS,,"Sports, Soccer","http://www.ipdb.org/machine.cgi?id=4459",4459,,,"Kalavera3, 32assassin, SliderPoint, Xenonph",2.0,strikext,,-oSnv17Y
 "Striker Xtreme (Stern 2000)","Striker Xtreme (Stern 2000)",Stern,2000,4,SS,,"Sports, Soccer","http://www.ipdb.org/machine.cgi?id=4459",4459,,,"32assassin",1.0-beta,strikext,,gAyykXfA
-"Striker Xtreme (Stern 2000)","Striker Xtreme (Stern 2000)",Stern,2000,4,SS,,"Sports, Soccer","http://www.ipdb.org/machine.cgi?id=4459",4459,,,"Ejse83, Kalavera3, 32assassin, JPSalas, SliderPoint, Xenonph",1.0.0,strikext,"MOD",T886s9qWlb
 "Strikes N' Spares (Gottlieb 1995)","Strikes N' Spares (Gottlieb 1995)",Gottlieb,1995,4,SS,,"Bowling","http://www.ipdb.org/machine.cgi?id=4336",4336,,"Ray Tanzer, John Buras","Endeemillr, CactusDude, Mfuegemann",1.0,,"MOD",JzNsIZfode
 "Strikes N' Spares (Gottlieb 1995)","Strikes N' Spares (Gottlieb 1995)",Gottlieb,1995,4,SS,,"Bowling","http://www.ipdb.org/machine.cgi?id=4336",4336,,"Ray Tanzer, John Buras","CactusDude, Mfuegemann",1.0.0,,,He_w7gT6
 "Strikes N' Spares (Gottlieb 1995)","Strikes N' Spares (Gottlieb 1995)",Gottlieb,1995,4,SS,,"Bowling","http://www.ipdb.org/machine.cgi?id=4336",4336,,"Ray Tanzer, John Buras","32assassin, Mfuegemann",0.9,,,X8zmv4hO
