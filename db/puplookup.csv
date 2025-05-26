@@ -2287,7 +2287,6 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jungle King (Gottlieb 1973)","Jungle King (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Jungle","https://www.ipdb.org/machine.cgi?id=1336",1336,,"Ed Krynski","RajoJoey, Loserman76, GNance",1.0.0,,"VR, FSS, Hybrid, LUT",Gkl5C5B259
 "Jungle King (Gottlieb 1973)","Jungle King (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Jungle","https://www.ipdb.org/machine.cgi?id=1336",1336,,"Ed Krynski","Loserman76, GNance",1.0.0f,,,edfE4OXf
 "Jungle Life (Gottlieb 1972)","Jungle Life (Gottlieb 1972)",Gottlieb,1972,1,EM,,"Jungle","https://www.ipdb.org/machine.cgi?id=1337",1337,,"Ed Krynski","RajoJoey, Loserman76",1.0.0,,"VR, Hybrid, FSS",KUfsTkjBWu
-"Jungle Life (Gottlieb 1972)","Jungle Life (Gottlieb 1972)",Gottlieb,1972,1,EM,,"Jungle","https://www.ipdb.org/machine.cgi?id=1337",1337,,"Ed Krynski","Mustang1961, Leeoneil, GNance, Popotte, Loserman76",1.0c,,,p0W3Mv_WWG
 "Jungle Life (Gottlieb 1972)","Jungle Life (Gottlieb 1972)",Gottlieb,1972,1,EM,,"Jungle","https://www.ipdb.org/machine.cgi?id=1337",1337,,"Ed Krynski","Loserman76",1.0.0f,,,MQ1fkeFU
 "Jungle Lord (Williams 1981)","Jungle Lord (Williams 1981)",Williams,1981,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1338",1338,,"Barry Oursler","UnclePaulie, TonyTheWrench, VPW Team",2.01,jngld_l2,"VR, SSF, FSS, MOD, Hybrid, LUT, nFozzy",_0fhXbhm3h
 "Jungle Lord (Williams 1981)","Jungle Lord (Williams 1981)",Williams,1981,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1338",1338,,"Barry Oursler","Bigus1, TonyTheWrench",1.0,jngld_l2,"MOD",na2zsEnO
@@ -4310,8 +4309,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Bourne Identity, The (Original 2024)","Bourne Identity, The (Original 2024)",Original,2024,4,SS,,"Espionage, Action, Movie",,,,,"SuperTilted, Tilted Illusions, DrSandraNo, Salvador Anguiano, Vpcle, Zandy's Arcade, JoePicasso, HauntFreaks, DrNobody, Mike DA Spike, DaRdog81",1.0.4,,"VR, Hybrid, FlexDMD",tmZjWCuwZm
 "Cerebral Maze, The (Original 2022)","Cerebral Maze, The (Original 2022)",Original,2022,,SS,,,,,,,"JPJ, Les Frères Poulain, La Grande Table Productions, Chucky87, Aetios, Arngrim",1.0.0,,,F4szVAyL
 "Champion Pub, The (Bally 1998)","Champion Pub, The (Bally 1998)",Bally,1998,4,SS,,"Sports, Boxing","http://www.ipdb.org/machine.cgi?id=4358",4358,,,"Mikcab, Mfuegemann, Fuzzel, Dark, Zany, TastyWasps, Redbone",1.43,cp_16,"MOD, nFozzy, Fleep, LUT, VR, Hybrid, SSF",a6q4djY5bP
-"Champion Pub, The (Bally 1998)","Champion Pub, The (Bally 1998)",Bally,1998,4,SS,,"Sports, Boxing","http://www.ipdb.org/machine.cgi?id=4358",4358,,,"Bigus1, Mike DA Spike, Mfuegemann, Fuzzel, Dark, Zany",1.1,cp_16,"VR, MOD",dwBzw40Wff
-"Champion Pub, The (Bally 1998)","Champion Pub, The (Bally 1998)",Bally,1998,4,SS,,"Sports, Boxing","http://www.ipdb.org/machine.cgi?id=4358",4358,,,"Bigus1, Mfuegemann, Fuzzel, Dark, Zany",1.0,cp_16,"MOD",67ntAnQH_p
+"Champion Pub, The (Bally 1998)","Champion Pub, The (Bally 1998)",Bally,1998,4,SS,,"Sports, Boxing","http://www.ipdb.org/machine.cgi?id=4358",4358,,,"Bigus1, Mike DA Spike, Mfuegemann, Fuzzel, Dark, Zany",1.1,cp_16,"MOD, VR",67ntAnQH_p
 "Table 121","Champion Pub, The (Bally 1998)",Bally,1998,4,SS,,"Sports, Boxing","http://www.ipdb.org/machine.cgi?id=4358",4358,,,"Zen Studios",,cp_16,,E5HGLyUk3R
 "Champion Pub, The (Bally 1998)","Champion Pub, The (Bally 1998)",Bally,1998,4,SS,,"Sports, Boxing","http://www.ipdb.org/machine.cgi?id=4358",4358,,,"Morttis, Mfuegemann, Arconovum",1.0-1.0,cp_16,"FSS, MOD",eu4oWOIr
 "Champion Pub, The (Bally 1998)","Champion Pub, The (Bally 1998)",Bally,1998,4,SS,,"Sports, Boxing","http://www.ipdb.org/machine.cgi?id=4358",4358,,,"Mfuegemann, Fuzzel, Dark, Zany",1.2,cp_16,"FastFlips",0oweHUXZ
@@ -4723,7 +4721,6 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "U2 (Original 2024)","U2 (Original 2024)",Original,2024,4,SS,,"Music",,,,,"Larouillas, Bord",1.0.0,stringray,,ocKUrSdotD
 "U2 360 (Original 2025)","U2 360 (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, Teisen",1.0.0,seawitch,"MOD, Music",OR0lT6Fx4Z
 "UB40 (Original 2025)","UB40 (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,,"MOD, Music",4ulM5NQiHQ
-"UT99ctfGE (Original 2021)","UT99ctfGE (Original 2021)",Original,2021,4,SS,,"Video Game",,,,,"Oqqsan, MajorFrenchy, Tomate, Thalamus, Javier15, Flupper, Rawd, Leojreimroc, Iaakki, Sixtoe, EBisLit, Apophis, 32assassin, Rothbauerw",2.3,lw3_208,"Music, FlexDMD, VR",HvdR5lbi
 "Ultron (Original 2022)","Ultron (Original 2022)",Original,2022,,SS,,"Licensed Theme, Comics, Superheroes",,,,,"fastdraw",1.0.0,,,3MB2Vnn-
 "Underwater (Recel 1976)","Underwater (Recel 1976)",Recel,1976,4,EM,,"Adventure, Combat, Nautical","https://www.ipdb.org/machine.cgi?id=2702",2702,,,"JPSalas, Pedator, Mustang1961",5.5.1,,"LUT",5BP4FGZI
 "Underwater (Recel 1976)","Underwater (Recel 1976)",Recel,1976,4,EM,,"Adventure, Combat, Nautical","https://www.ipdb.org/machine.cgi?id=2702",2702,,,"Ext2k, JPSalas, Pedator, Mustang1961",2.0,,"VR, MOD, Mixed Reality, Hybrid",Z-3_BPpcZB
