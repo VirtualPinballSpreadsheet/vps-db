@@ -828,7 +828,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Catacomb (Stern 1981)","Catacomb (Stern 1981)",Stern,1981,4,SS,,"Horror","http://www.ipdb.org/machine.cgi?id=469",469,,"Joe Joos Jr.","32assassin, Mfuegemann, STAT",0.9.1,catacomb,,tlCgHiM-
 "Cavalcade (Stoner 1935)","Cavalcade (Stoner 1935)",Stoner,1935,1,EM,,"Horse Racing, Flipperless","http://www.ipdb.org/machine.cgi?id=473",473,,,"Mfuegemann",1.0,,,DluQcYY4
 "Cavalcade (Stoner 1935)","Cavalcade (Stoner 1935)",Stoner,1935,1,EM,,"Horse Racing, Flipperless","http://www.ipdb.org/machine.cgi?id=473",473,,,"Cliffy, MachWon, Mfuegemann",1.2.3,,"FSS",skhruvCTAm
-"Cavaleiro Negro (Taito do Brasil 1980)","Cavaleiro Negro (Taito do Brasil 1980)",Taito do Brasil,1980,4,SS,,"Medieval, Knights","http://www.ipdb.org/machine.cgi?id=4568",4568,,,"JPSalas, Destruk, Classic Playfields, Tio Italo, Kruge99, Pmax65, Rothbauerw",4.0.0,cavnegro,"FastFlips, SSF",6Sl4iLzz
+"Cavaleiro Negro (Taito do Brasil 1980)","Cavaleiro Negro (Taito do Brasil 1980)",Taito do Brasil,1980,4,SS,,"Medieval, Knights","http://www.ipdb.org/machine.cgi?id=4568",4568,,,"JPSalas, Destruk, Classic Playfields, Tio Italo, Kruge99, Pmax65, Rothbauerw",5.5.0,cavnegro,"FastFlips, SSF, LUT",6Sl4iLzz
 "Cavaleiro Negro (Taito do Brasil 1980)","Cavaleiro Negro (Taito do Brasil 1980)",Taito do Brasil,1980,4,SS,,"Medieval, Knights","http://www.ipdb.org/machine.cgi?id=4568",4568,,,"Morttis, Arconovum, Wildman, Carlos Guizzo, JPSalas",3.0-1.0,cavnegro,"FSS, MOD",tYaz9Mlq
 "Cavalier (Recel 1979)","Cavalier (Recel 1979)",Recel,1979,4,SS,,"Historical Characters","https://www.ipdb.org/machine.cgi?id=474",474,,,"Nestorgian, Akiles50000, Arngrim",1.1,,,yptAexIL
 "Caveman (Gottlieb 1982)","Caveman (Gottlieb 1982)",Gottlieb,1982,4,SS,,"Historical","http://www.ipdb.org/machine.cgi?id=475",475,,"John Buras","DarthMarino, Rascal, LuvThatApex, Destruk, Wildman, Cyberpez",1.1,,,YVKv0poY
@@ -1272,7 +1272,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Dragonette (Gottlieb 1954)","Dragonette (Gottlieb 1954)",Gottlieb,1954,,EM,,"Detective, Crime","https://www.ipdb.org/machine.cgi?id=730",730,,"Wayne Neyens","Polsonator2, Leo Wanker, Cliffy",1.0.2,,"FSS, MOD",yXV3jNH5OF
 "Dragonfist (Stern 1981)","Dragonfist (Stern 1981)",Stern,1981,4,SS,,"Martial Arts, Sports","https://www.ipdb.org/machine.cgi?id=731",731,,"Joe Joos Jr.","UnclePaulie, Redbone, HauntFreaks, VPW",2.0.2,dragfis16,"Hybrid, VR, nFozzy, Fleep, VLM",cwjR63kne3
 "Dragoon (Recreativos Franco 1977)","Dragoon (Recreativos Franco 1977)",Recreativos Franco,1977,1,EM,,"Fantasy, Dragons","https://www.ipdb.org/machine.cgi?id=4872",4872,,"","Thalamus, JPSalas",1.1.0,,,q9esdcQK
-"Drakor (Taito do Brasil 1979)","Drakor (Taito do Brasil 1979)",Taito do Brasil,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4569",4569,,"Barry Oursler","JPSalas, Carlos Guizzo, Tio Italo, Pmax65, Rothbauerw",4.0.0,drakor,"FastFlips, SSF, LUT",YkGaSy1Y
+"Drakor (Taito do Brasil 1979)","Drakor (Taito do Brasil 1979)",Taito do Brasil,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4569",4569,,"Barry Oursler","JPSalas, Carlos Guizzo, Tio Italo, Pmax65, Rothbauerw",5.5.0,drakor,"FastFlips, SSF, LUT",YkGaSy1Y
 "Drakor (Taito do Brasil 1979)","Drakor (Taito do Brasil 1979)",Taito do Brasil,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4569",4569,,"Barry Oursler","Morttis, Arconovum, Wildman, Carlos Guizzo, JPSalas",3.0-1.0,drakor,"FSS, MOD",Kz0_BHHN
 "Drakor (Taito do Brasil 1979)","Drakor (Taito do Brasil 1979)",Taito do Brasil,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4569",4569,,"Barry Oursler","Exegeta",1.0,drakor,,k_z5EGE_
 "Dream Daddy - The Dad Dating Simulator (Original 2020)","Dream Daddy - The Dad Dating Simulator (Original 2020)",Original,2020,4,SS,,"Romance, Video Game",,,,,"Baseraider, PEandS1Ws",1.5,,,FZCi2ZMa
@@ -1516,7 +1516,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Five Finger Death Punch (Original 2023)","Five Finger Death Punch (Original 2023)",Original,2023,,SS,,"Music, Heavy Metal",,,,,"Doivelspack, HiRez00, JPSalas",1.0.4,,"Music",ub9TLw08Cu
 "Five Nights at Freddy's (Original 2021)","Five Nights at Freddy's (Original 2021)",Original,2021,,SS,,"Video Game",,,,,"Remdwaas1986, Drjameshouse, Godisnothere, Uers1983, Tartzani, Tomate, Mrtr32, Visnoskyarc, HauntFreaks, JPSalas",1.4,,,MezX2thG
 "Five Nights at Freddy's Pizza Party (Original 2020)","Five Nights at Freddy's Pizza Party (Original 2020)",Original,2020,4,SS,,"Video Game",,,,,"Gamemodder",2.0,,"Music, MOD",zWUdnhw4
-"Flash (Williams 1979)","Flash (Williams 1979)",Williams,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=871",871,,"Steve Ritchie","JPSalas",4.0.0,flash_l1,"SSF, LUT",fKFw0GWT
+"Flash (Williams 1979)","Flash (Williams 1979)",Williams,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=871",871,,"Steve Ritchie","JPSalas",5.5.0,flash_l1,"SSF, LUT",fKFw0GWT
 "Flash (Williams 1979)","Flash (Williams 1979)",Williams,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=871",871,,"Steve Ritchie","Bord",1.0.0,flash_l1,"VR, FSS, Hybrid, SSF",l-WMdk7X
 "Flash (Williams 1979)","Flash (Williams 1979)",Williams,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=871",871,,"Steve Ritchie","RustyCardores, HauntFreaks, JPSalas",1.2.0,flash_l1,"SSF",fWBYQ4Uf
 "Flash Dragon (Playmatic 1986)","Flash Dragon (Playmatic 1986)",Playmatic,1986,4,SS,,"Fantasy","https://www.ipdb.org/machine.cgi?id=3616",3616,,,"Javito, Akiles50000, JPSalas",1.0.0,,,rQ17lAstAq
@@ -1756,7 +1756,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Gorgar (Williams 1979)","Gorgar (Williams 1979)",Williams,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1062",1062,,"Barry Oursler","Fuzzel",1.3.1,grgar_l1,,IJmH54YT
 "Gorgar (Williams 1979)","Gorgar (Williams 1979)",Williams,1979,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1062",1062,,"Barry Oursler","SLAMT1LT",1.01,grgar_l1,,5iT8B6SClL
 "Gorillaz (Original 2024)","Gorillaz (Original 2024)",Original,2024,4,SS,,"Music",,,,,"Zandy's Arcade, JPSalas, MerlinRTP, Darrin Chamberlain, JoePicasso",1.0.3,,"Hybrid, VR, FSS, SSF, nFozzy, Fleep",J5yOLvXzAH
-"Gork (Taito do Brasil 1982)","Gork (Taito do Brasil 1982)",Taito do Brasil,1982,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4590",4590,,"Ed Krynski","JPSalas, Carlos Guizzo, Pmax65, Rothbauerw",4.0.0,gork,"FastFlips, SSF",k9dcjq9a
+"Gork (Taito do Brasil 1982)","Gork (Taito do Brasil 1982)",Taito do Brasil,1982,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4590",4590,,"Ed Krynski","JPSalas, Carlos Guizzo, Pmax65, Rothbauerw",5.5.0,gork,"FastFlips, SSF, LUT",k9dcjq9a
 "Gork (Taito do Brasil 1982)","Gork (Taito do Brasil 1982)",Taito do Brasil,1982,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4590",4590,,"Ed Krynski","Morttis, STAT, Carlos Guizzo, Arconovum, JPSalas",3.0.0-2.0,gork,"FSS, MOD",TVVtk5v4
 "Gradius (Original 2017)","Gradius (Original 2017)",Original,2017,,SS,,"Video Game, Science Fiction",,,,,"Wizball",1.3.7,,"FlexDMD",QGgpcu9w
 "Grand Casino (J.P. Seeburg 1934)","Grand Casino (J.P. Seeburg 1934)",J.P. Seeburg,1934,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=4194",4194,,,"Druadic",1.0,,,4GZhO2TWT5
@@ -2119,7 +2119,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "JP's Pokemon Pinball (Original 2016)","JP's Pokemon Pinball (Original 2016)",Original,2016,,SS,,"Cartoon, Kids",,,,"JPSalas","TCDeez, JPSalas",1.0,,"MOD, FlexDMD, Kids",dyoYyK7l93
 "JP's Seawitch (Stern 1980)","JP's Seawitch (Stern 1980)",Stern,1980,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=2089",2089,,"Mike Kubin","JPSalas, Martin Brunker",5.5.0,seawitch,"SSF, LUT",hMM0J00w
 "JP's Smurfette (Original 2015)","JP's Smurfette (Original 2015)",Original,2015,,EM,,"Animation, Kids",,,,,"JPSalas, Arngrim, HauntFreaks",5.5.0,,"FlexDMD, Kids",IKK_dLXD
-"JP's Smurfette (Original 2015)","JP's Smurfette (Original 2015)",Original,2015,,EM,,"Animation, Kids",,,,,"BorgDog, JPSalas",1.1,,,WmTckSZnYn
+"JP's Smurfette (Original 2015)","JP's Smurfette (Original 2015)",Original,2015,,EM,,"Animation, Kids",,,,,"BorgDog, JPSalas",1.1,,"MOD",WmTckSZnYn
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Funkatron101, JPSalas, Mesterial, BadGuysGetDead, Ext2k, Panasony",1.2,,"Hybrid, VR, MOD, nFozzy, Fleep",aHb-SNzjDs
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"Ext2k, JPSalas, Solters, DaRdog81, Mesterial",1.0.1,,"Hybrid, VR, FSS, Mixed Reality",OsQN8UhlQq
 "JP's Space Cadet (Original 2021)","JP's Space Cadet (Original 2021)",Original,2021,,SS,,"Science Fiction, Video Game",,,,,"JPSalas, Mesterial",5.7.0,,"FlexDMD, LUT",sLvaS6Io
