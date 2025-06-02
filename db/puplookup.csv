@@ -176,7 +176,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"TerryRed, SLAMT1LT, David Eisner (Pinballwzd)",1.12,,"MOD",6m6hBKvJrN
 "Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"SLAMT1LT, Paolo (Wild), David Eisner (Pinballwzd)",1.03,,"MOD",DF9Qa8pxHi
 "Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"SLAMT1LT, David Eisner (Pinballwzd), Destruk, Steve Paradis (Polygame), Tom Niwinski",1.07,,"MOD",7w2VUcHA-1
-"Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"pinballwzd, Destruk, Steve Paradis (Polygame), Tom Niwinski",1.0,,,nu1DVKGW4O
+"Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"David Eisner (Pinballwzd), Destruk, Steve Paradis (Polygame), Tom Niwinski",1.0,,,nu1DVKGW4O
+"Aliens Legacy (Original 2005)","Aliens Legacy (Original 2005)",Original,2005,1,,,"Movie, Licensed Theme, Science Fiction",,,,,"SLAMT1LT, Steve Paradis (Polygame), Paolo (Wild), TerryRed, David Eisner (Pinballwzd)",1.01,,"BAM",bH_jCKBxEN
 "Aliens","Aliens Pinball (Zen Studios 2016)",Zen Studios,2016,4,,,"Licensed Theme, Horror, Science Fiction, Movie",,,,,"Zen Studios",,,,Zy4hSBsD
 "Aliens from Outer Space (Original 2021)","Aliens from Outer Space (Original 2021)",Original,2021,,,,"Aliens, Science Fiction",,,,,"Rosve",1.1.3,,,FOgS11LO1k
 "Alive (Brunswick 1978)","Alive (Brunswick 1978)",Brunswick,1978,4,SS,,"Music","http://www.ipdb.org/machine.cgi?id=50",50,,,"HSM, roccodimarco",1.0,,"MOD",EP0Qi8Be
@@ -2207,8 +2208,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jaws (Original 2013)","Jaws (Original 2013)",Original,2013,3,SS,,"Movie, Horror",,,,,"SLAMT1LT, rom",1.08,,,f48eiu1kom
 "Table 95","Jaws Pinball (Zen Studios 2017)",Zen Studios,2017,4,,,"Licensed Theme, Fantasy, Nautical, Movie",,,,"Szucs David","Zen Studios, Szucs David",,,,PZ6BlwYjl9
 "UNIVERSAL_Jaws","Jaws Pinball (Zen Studios 2017)",Zen Studios,2017,4,,,"Licensed Theme, Fantasy, Nautical, Movie",,,,"Szucs David","Zen Studios",,,,3EzxXw-D
-"Jayce and the Wheeled Warriors (Original 2024)","Jayce and the Wheeled Warriors (Original 2024)",Original,2024,4,EM,,"Animation, Kids",,,,,"Franck",1.0.0,,"Kids, FlexDMD",fWS0RDHAU-
-"Jayce and the Wheeled Warriors (Original 2024)","Jayce and the Wheeled Warriors (Original 2024)",Original,2024,4,EM,,"Animation, Kids",,,,,"Franck",2.0.0,,"Hybrid, FSS, VR, Kids, Mixed Reality, FlexDMD",WryYTv5nsN
+"Jayce and the Wheeled Warriors (Original 2024)","Jayce and the Wheeled Warriors (Original 2024)",Original,2024,4,EM,,"Animation, Kids",,,,,"Franck",2.0.0,,"Hybrid, FSS, VR, Kids, FlexDMD, Mixed Reality",WryYTv5nsN
 "Jeepers Creepers (Original 2024)","Jeepers Creepers (Original 2024)",Original,2024,4,EM,,"Horror",,,,,"SpookyMoulder",1.5,,,0kem81TKml
 "Jeff Wayne's Musical Version of War Of The Worlds (Original 2025)","Jeff Wayne's Musical Version of War Of The Worlds (Original 2025)",Original,2025,4,SS,,"Musical, Movie, Aliens, Space Fantasy",,,,,"Anthias",2.0,,,D-WyID5S29
 "Jet Set Radio Pinball (Original 2020)","Jet Set Radio Pinball (Original 2020)",Original,2020,,SS,,"Video Game",,,,,"Donuts, JPSalas",1.1,,"MOD",90g_yVUr
@@ -2609,7 +2609,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Maverick (Data East 1994)","Maverick (Data East 1994)",Data East,1994,,SS,,"Cards, Gambling, Celebrities, Fictional, Licensed Theme, American West","https://www.ipdb.org/machine.cgi?id=1561",1561,,"Tim Seckel","Michel757, Senseless, Sixtoe, VPW",1.0,mav_402,"VR, nFozzy, Fleep",EZS0WAxBgQ
 "Maverick (Data East 1994)","Maverick (Data East 1994)",Data East,1994,,SS,,"Cards, Gambling, Celebrities, Fictional, Licensed Theme, American West","https://www.ipdb.org/machine.cgi?id=1561",1561,,"Tim Seckel","VPW, Antisect, Edizzle, Tomate, Flupper, Fluffhead35, Dark, Daphishbowl, Rik, PinstratsDan, Iaakki, Sixtoe, EBisLit, Apophis, Apophis, Rothbauerw",1.3,mav_402,"VR, Hybrid, SSF, FSS, nFozzy, Fleep",FQIed3Gh
 "Meat Loaf (Original 2025)","Meat Loaf (Original 2025)",Original,2025,2025,SS,,"Music",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"Retheme, MOD",ou6-xV-LjN
-"Medieval Castle (Original 2006)","Medieval Castle (Original 2006)",Original,2006,4,,,"Medieval",,,,,"Franck, Franattack50",2.0.0,,"VR, Hybrid",q8ozE-bh-m
+"Medieval Castle (Original 2006)","Medieval Castle (Original 2006)",Original,2006,4,,,"Medieval",,,,,"Franck, Franattack50, Roney Pinball",2.0.0,,"VR, Hybrid",q8ozE-bh-m
 "Medieval Castle (Original 2006)","Medieval Castle (Original 2006)",Original,2006,4,,,"Medieval",,,,,"GeorgeH, Roney Pinball, JLou, Fleep, Popotte, Wecoc, Debo26",1.1,,"Fleep, MOD, BAM, FizX",345E8MRHIQ
 "Medieval Castle (Original 2006)","Medieval Castle (Original 2006)",Original,2006,4,,,"Medieval",,,,,"Roney Pinball",1.0,,,dhOcB_XGZs
 "Medieval Madness (Williams 1997)","Medieval Madness (Williams 1997)",Williams,1997,4,SS,,"Fantasy, Medieval, Wizards, Magic","http://www.ipdb.org/machine.cgi?id=4032",4032,,"Brian Eddy","GeorgeH, Flug, SLAMT1LT, Francisco666",1.03,mm_109c,"BAM, FizX",4x3B8eMlPH
