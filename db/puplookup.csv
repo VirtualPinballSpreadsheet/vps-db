@@ -258,7 +258,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Atari 2600 (Original 2022)","Atari 2600 (Original 2022)",Original,2022,,SS,,"Video Game, Game Console",,,,,"Icepinball, Fiftysounds, JPSalas",1.01,,"MOD",6i3-20eepR
 "Atari Centipede Pinball (Original 2020)","Atari Centipede Pinball (Original 2020)",Original,2020,,SS,,"Video Game",,,,,"Mitchell",0.7,,,E7KkzK1S
 "Atari Centipede Pinball (Original 2020)","Atari Centipede Pinball (Original 2020)",Original,2020,,SS,,"Video Game",,,,,"Mitchell",0.7,,,4bgjShr8kP
-"Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","EMUnderdogs, Teisen, Loserman76, Outhere",,,"MOD, nFozzy, Fleep",ZMHjwdbiVT
+"Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","EMUnderdogs, Teisen, Loserman76, Outhere",1.2.1,,"MOD, nFozzy, Fleep",ZMHjwdbiVT
 "Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Teisen, Loserman76",1.2,,"MOD",nRwKQNft2F
 "Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Bigus1, Loserman76",1.1,,"MOD",5YUit0UGuU
 "Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Loserman76",1.0.0f,,,yl1YFKlw
@@ -1797,7 +1797,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Green Pastures (Gottlieb 1954)","Green Pastures (Gottlieb 1954)",Gottlieb,1954,1,EM,,"Sports, Croquet","https://www.ipdb.org/machine.cgi?id=1085",1085,,"Wayne Neyens","Patrick, Tiltjlp",2.0 Beta,,,fyrdbT2H-Q
 "Gremlins (Original 2022)","Gremlins (Original 2022)",Original,2022,,SS,,"Horror, Comedy, Movie",,,,,"Balutito, Sindbad, Schlabber34, Flupper, Noah Fentz, Pin666, Ninuzzu, HauntFreaks, JPSalas",1.7,,"MOD",x2-lo9dOv2
 "Gremlins Pinball (Original 2019)","Gremlins Pinball (Original 2019)",Original,2019,4,SS,,"Christmas, Movie",,,,,"Stevegooner1234, Wildman, Lizard, Xenonph",1.0,,"Music, MOD",Fa_80Ld0
-"Gridiron (Gottlieb 1977)","Gridiron (Gottlieb 1977)",Gottlieb,1977,2,EM,,"Sports, American Football","http://www.ipdb.org/machine.cgi?id=1089",1089,,"John Osborne","Endeemillr, Loserman76, Wildman",2.0.0,,"MOD",2vkookzR-O
+"Gridiron (Gottlieb 1977)","Gridiron (Gottlieb 1977)",Gottlieb,1977,2,EM,,"Sports, American Football","http://www.ipdb.org/machine.cgi?id=1089",1089,,"John Osborne","Endeemillr, Loserman76, Wildman, Pinuck, Scottacus, Xenonph",2.1.0,,"MOD, FlexDMD",2vkookzR-O
 "Gridiron (Gottlieb 1977)","Gridiron (Gottlieb 1977)",Gottlieb,1977,2,EM,,"Sports, American Football","http://www.ipdb.org/machine.cgi?id=1089",1089,,"John Osborne","RajoJoey, Loserman76",1.0.0,,"Hybrid, FSS, MOD, LUT",tcgbNGDgGh
 "Gridiron (Gottlieb 1977)","Gridiron (Gottlieb 1977)",Gottlieb,1977,2,EM,,"Sports, American Football","http://www.ipdb.org/machine.cgi?id=1089",1089,,"John Osborne","Loserman76, Pinuck, Scottacus, Wildman",1.0.0f,,,4Au2-nfM
 "Gridiron (Gottlieb 1977)","Gridiron (Gottlieb 1977)",Gottlieb,1977,2,EM,,"Sports, American Football","http://www.ipdb.org/machine.cgi?id=1089",1089,,"John Osborne","RusstyT, Loserman76, Scottacus, Wildman",1.0.0,,"MOD",us5jnF-2
@@ -3263,9 +3263,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Queen - The Game (Original 2021)","Queen - The Game (Original 2021)",Original,2021,,SS,,"Music",,,,,"wpilot, Wizball",1.3,,"Music, MOD",anGjFKsd
 "Queen - The Game (Original 2021)","Queen - The Game (Original 2021)",Original,2021,,SS,,"Music",,,,,"wpilot, Wizball",1.3,,"Music, MOD",zf2_j2Rg62
 "Queen - The Show Must Go On (Original 2022)","Queen - The Show Must Go On (Original 2022)",Original,2022,,SS,,"Music",,,,,"Marty02, Allknowing2012",3.5,,"MOD, FlexDMD, Music",gblsaBcNWU
+"Queen of Hearts (Gottlieb 1952)","Queen of Hearts (Gottlieb 1952)",Gottlieb,1952,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=1891",1891,,"Wayne Neyens","Polsonator2, Loserman76, Pbecker1946, Itchigo, Arborelia",1.0.1,,,-f2N6-20zo
 "Queen of Hearts (Gottlieb 1952)","Queen of Hearts (Gottlieb 1952)",Gottlieb,1952,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=1891",1891,,"Wayne Neyens","Arborelia, Loserman76",1.1.0,,"MOD",tzB_8STQD4
 "Queen of Hearts (Gottlieb 1952)","Queen of Hearts (Gottlieb 1952)",Gottlieb,1952,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=1891",1891,,"Wayne Neyens","Loserman76, Pbecker1946, Itchigo",1.0.0f,,,h8j9OEOe
-"Queen of Hearts (Gottlieb 1952)","Queen of Hearts (Gottlieb 1952)",Gottlieb,1952,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=1891",1891,,"Wayne Neyens","Polsonator2, Loserman76, Pbecker1946, Itchigo, Arborelia",1.0.0,,,-f2N6-20zo
 "Queens of the Stone Age (Original 2021)","Queens of the Stone Age (Original 2021)",Original,2021,,SS,,"Music",,,,,"MellerMeller, Goldchicco, Destruk",1.5,,"Music, SSF, FlexDMD",lH_3BVH97M
 "Quick Draw (Gottlieb 1975)","Quick Draw (Gottlieb 1975)",Gottlieb,1975,2,EM,,"American West","http://www.ipdb.org/machine.cgi?id=1893",1893,,"Ed Krynski","RajoJoey, Loserman76",1.0.0,,"VR, Hybrid, LUT, MOD",lhmfqlB-O_
 "Quick Draw (Gottlieb 1975)","Quick Draw (Gottlieb 1975)",Gottlieb,1975,2,EM,,"American West","http://www.ipdb.org/machine.cgi?id=1893",1893,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,iE2ASzDk
