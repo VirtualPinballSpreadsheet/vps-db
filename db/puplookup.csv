@@ -258,7 +258,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Atari 2600 (Original 2022)","Atari 2600 (Original 2022)",Original,2022,,SS,,"Video Game, Game Console",,,,,"Icepinball, Fiftysounds, JPSalas",1.01,,"MOD",6i3-20eepR
 "Atari Centipede Pinball (Original 2020)","Atari Centipede Pinball (Original 2020)",Original,2020,,SS,,"Video Game",,,,,"Mitchell",0.7,,,E7KkzK1S
 "Atari Centipede Pinball (Original 2020)","Atari Centipede Pinball (Original 2020)",Original,2020,,SS,,"Video Game",,,,,"Mitchell",0.7,,,4bgjShr8kP
-"Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","EMUnderdogs, Teisen, Loserman76, Outhere",1.2.1,,"MOD, nFozzy, Fleep",ZMHjwdbiVT
+"Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","EMUnderdogs, Teisen, Loserman76, Outhere, DGrimmReaper, Leojreimroc",1.3,,"MOD, nFozzy, Fleep, Hybrid, VR",ZMHjwdbiVT
 "Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Teisen, Loserman76",1.2,,"MOD",nRwKQNft2F
 "Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Bigus1, Loserman76",1.1,,"MOD",5YUit0UGuU
 "Atlantis (Gottlieb 1975)","Atlantis (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=105",105,,"Peter Perry","Loserman76",1.0.0f,,,yl1YFKlw
@@ -513,7 +513,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Big Deal (Williams 1963)","Big Deal (Williams 1963)",Williams,1963,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=244",244,,"Steve Kordek","Margoni",1.0,,,NgyZmH1HNS
 "Big Deal (Williams 1963)","Big Deal (Williams 1963)",Williams,1963,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=244",244,,"Steve Kordek","Loserman76, Editoy",1.0.0f,,,7S5PoVFN
 "Big Deal (Williams 1963)","Big Deal (Williams 1963)",Williams,1963,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=244",244,,"Steve Kordek","Alois, Wildman",1.0,,,SWdyjDjv
-"Big Deal (Williams 1977)","Big Deal (Williams 1977)",Williams,1977,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=245",245,,"Steve Kordek","Klodo81, Bob78954, JPSalas",2.1,,"LUT",iukrTmepLv
+"Big Deal (Williams 1977)","Big Deal (Williams 1977)",Williams,1977,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=245",245,,"Steve Kordek","Klodo81, Bob78954, JPSalas",3.0,,"LUT",iukrTmepLv
 "Big Dick (Fabulous Fantasies 1996)","Big Dick (Fabulous Fantasies 1996)",Fabulous Fantasies,1996,1,EM,,"Adult","https://www.ipdb.org/machine.cgi?id=4539",4539,,,"jeffh, Alois, Loserman76",1.0,,"MOD, Adult",kMsaRVE5
 "Big Flush (LTD do Brasil 1983)","Big Flush (LTD do Brasil 1983)",LTD do Brasil,1983,,EM,,"Cards",,,,,"Halen, Teisen, BorgDog, JPSalas, Aciolly, Carlos Guizzo",1.0,,,Tgkcat4myq
 "Big Game (Stern 1980)","Big Game (Stern 1980)",Stern,1980,4,SS,,"Hunting, Safari","http://www.ipdb.org/machine.cgi?id=249",249,,"Harry Williams","Bigus1, JPSalas",2.1,biggame,"MOD",SaEGAjuskI
@@ -788,7 +788,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Canasta 86 (Inder 1986)","Canasta 86 (Inder 1986)",Inder,1986,4,SS,,"Sports, Basketball","http://www.ipdb.org/machine.cgi?id=4097",4097,,,"Ext2k, JPSalas, TastyWasps, Gwyllion, Wildman",1.0.0,canasta,"VR",bGGbkTi_cQ
 "Canasta 86 (Inder 1986)","Canasta 86 (Inder 1986)",Inder,1986,4,SS,,"Sports, Basketball","http://www.ipdb.org/machine.cgi?id=4097",4097,,,"JPSalas, Carlos Guizzo, Batansa, Adrian, Jose Manuel Lopez, Destruk, Maior, Lighthouse, Akiles50000",4.1.0,canasta,"FastFlips, LUT",JPsU8661
 "Cannes (Segasa 1976)","Cannes (Segasa 1976)",Segasa,1976,4,EM,,"World Places, Aquatic, Sports, Happiness, Recreation, Water Skiing, Swimming","https://www.ipdb.org/machine.cgi?id=428",428,,,"Ext2k, Klodo81, JPSalas, Wildman, Mustang1961",1.0,,"VR, MOD",KBwPqQ6M-X
-"Cannes (Segasa 1976)","Cannes (Segasa 1976)",Segasa,1976,4,EM,,"World Places, Aquatic, Sports, Happiness, Recreation, Water Skiing, Swimming","https://www.ipdb.org/machine.cgi?id=428",428,,,"Klodo81, JPSalas, Wildman, Mustang1961",1.3,,"LUT",hfRYbjMyTQ
+"Cannes (Segasa 1976)","Cannes (Segasa 1976)",Segasa,1976,4,EM,,"World Places, Aquatic, Sports, Happiness, Recreation, Water Skiing, Swimming","https://www.ipdb.org/machine.cgi?id=428",428,,,"Klodo81, JPSalas, Wildman, Mustang1961",2.0,,"LUT",hfRYbjMyTQ
 "Cannon Fodder (Original 2018)","Cannon Fodder (Original 2018)",Original,2018,,SS,,"Video Game",,,,,"Ivantba, Xenonph, BorgDog, JPSalas",1.1,,"MOD",zRFXbIqR
 "Capersville (Bally 1966)","Capersville (Bally 1966)",Bally,1966,4,EM,,"Fantasy","http://www.ipdb.org/machine.cgi?id=431",431,,"Ted Zale","Scottacus, Loserman76, Xenonph, Thalamus, BorgDog, Arngrim, HauntFreaks",2-2.16,,"VR, FSS, Hybrid",eRMSr3iN
 "Capt. Card (Gottlieb 1974)","Capt. Card (Gottlieb 1974)",Gottlieb,1974,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=433",433,,"Ed Krynski","RajoJoey, Loserman76, GNance",1.0.0,,"VR, FSS, Hybrid, MOD",hsKTjImcx0
@@ -1937,7 +1937,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Home Run (Gottlieb 1971)","Home Run (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Sports, Baseball","https://www.ipdb.org/machine.cgi?id=1224",1224,,"Ed Krynski","Loserman76",1.0.0f,,,DJAuD5ky
 "Table 150","Homeworld - Journey to Hiigara Pinball (Zen Studios 2023)",Zen Studios,2023,,,,"Science Fiction, Video Game",,,,"Anna Lengyel","Zen Studios",,,,hpPzxC1ZTN
 "Honey (Williams 1971)","Honey (Williams 1971)",Williams,1971,4,EM,,"Women, Romance","https://www.ipdb.org/machine.cgi?id=1230",1230,,"Steve Kordek","Ext2k, Klodo81",1.0.0,,"VR",invPy4Bxla
-"Honey (Williams 1971)","Honey (Williams 1971)",Williams,1971,4,EM,,"Women, Romance","https://www.ipdb.org/machine.cgi?id=1230",1230,,"Steve Kordek","Klodo81, Tomasaco, Starman, JPSalas",1.3,,"LUT",I4CWq0ufzn
+"Honey (Williams 1971)","Honey (Williams 1971)",Williams,1971,4,EM,,"Women, Romance","https://www.ipdb.org/machine.cgi?id=1230",1230,,"Steve Kordek","Klodo81, Tomasaco, Starman, JPSalas",2.0,,"LUT",I4CWq0ufzn
 "Honey (Williams 1971)","Honey (Williams 1971)",Williams,1971,4,EM,,"Women, Romance","https://www.ipdb.org/machine.cgi?id=1230",1230,,"Steve Kordek","Thalamus, Leeoneil, Starman, BorgDog, Bord",1.1,,,ra0yxRHzfQ
 "Hong Kong Phooey (Original 2025)","Hong Kong Phooey (Original 2025)",Original,2025,4,SS,,"Kids, Animation, Cartoon",,,,,"Hursty, Goldchicco, HauntFreaks",4.0.0,wildfyre,"Kids, MOD",S-FVGvn6PC
 "Hook (Data East 1992)","Hook (Data East 1992)",Data East,1992,4,SS,,"Licensed Theme, Pirates, Fictional","http://www.ipdb.org/machine.cgi?id=1233",1233,,"Tim Seckel","Bigus1, Javier15, Dark",2.2,hook_501,"MOD",plQ2FiW1
@@ -2571,8 +2571,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Mars Attacks! Pinball (Original 2022)","Mars Attacks! Pinball (Original 2022)",Original,2022,,SS,,"Aliens, Martians, Fantasy",,,,,"Donuts, JPSalas",1.0.0,afm_113b,"MOD",fvY_MOnW9O
 "Mars God of War (Gottlieb 1981)","Mars God of War (Gottlieb 1981)",Gottlieb,1981,4,SS,,"Mythology","http://www.ipdb.org/machine.cgi?id=1549",1549,,"John Buras","Cyberpez",1.0,,,viIWkJNo
 "Mars God of War (Gottlieb 1981)","Mars God of War (Gottlieb 1981)",Gottlieb,1981,4,SS,,"Mythology","http://www.ipdb.org/machine.cgi?id=1549",1549,,"John Buras","TheGhost787",1.0,,,zIBLifSAIr
-"Mars Trek (Sonic 1977)","Mars Trek (Sonic 1977)",Sonic,1977,,EM,,"Outer Space, Fantasy","https://www.ipdb.org/machine.cgi?id=1550",1550,,,"Klodo81, JPSalas",1.2,,"LUT",LTCTjTai0i
 "Mars Trek (Sonic 1977)","Mars Trek (Sonic 1977)",Sonic,1977,,EM,,"Outer Space, Fantasy","https://www.ipdb.org/machine.cgi?id=1550",1550,,,"Ext2k, Klodo81, JPSalas",1.0,,"VR, LUT",Af8tXjabyS
+"Mars Trek (Sonic 1977)","Mars Trek (Sonic 1977)",Sonic,1977,,EM,,"Outer Space, Fantasy","https://www.ipdb.org/machine.cgi?id=1550",1550,,,"Klodo81, JPSalas",2.0,,"LUT",LTCTjTai0i
 "Marsupilami (Original 2022)","Marsupilami (Original 2022)",Original,2022,,SS,,"Comics, Kids",,,,,"Icepinball, Mfuegemann, Pmax65, Ronald Kah, Akiles50000, JPSalas",1.0.0,skatebrd,"MOD, Music, Kids",qKuo5_DwLO
 "Martian Queen (LTD do Brasil 1981)","Martian Queen (LTD do Brasil 1981)",LTD do Brasil,1981,,SS,,"Aliens, Martians, Fantasy, Outer Space","https://www.ipdb.org/machine.cgi?id=5885",5885,,,"Mfuegemann, Carlos Guizzo, Joao Pedras, Gaston, Akiles50000",1.2,marqueen,,wtgZIwFm
 "Table 79","Marvel's Ant-Man (Zen Studios 2015)",Zen Studios,2015,4,,,"Licensed Theme, Comics, Superheroes",,,,"Zoltan Vari","Zen Studios, Zoltan Vari",,,,gNATnR851A
@@ -2715,7 +2715,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Mobile Suit Gundam (Original 2024)","Mobile Suit Gundam (Original 2024)",Original,2024,4,EM,,"Anime, Science Fiction",,,,,"Masonou, JPSalas",1.0,,"Hybrid, VR, MOD",pZASiolF3K
 "Moebius - A Tribute (Original 2024)","Moebius - A Tribute (Original 2024)",Original,2024,,SS,,"Tribute",,,,,"Mlaw, JPSalas, Gman77",1.0.0,,"MOD",UESxbRr1lo
 "Monaco (Segasa 1977)","Monaco (Segasa 1977)",Segasa,1977,,EM,,"World Places, Sports, Happiness, Recreation, Water Skiing, Swimming, Aquatic","https://www.ipdb.org/machine.cgi?id=1614",1614,,,"Ext2k, Klodo81, HiRez00, TastyWasps",1.0.0,,"VR, MOD, Music",BvYMD8DeiM
-"Monaco (Segasa 1977)","Monaco (Segasa 1977)",Segasa,1977,,EM,,"World Places, Sports, Happiness, Recreation, Water Skiing, Swimming, Aquatic","https://www.ipdb.org/machine.cgi?id=1614",1614,,,"Klodo81, JPSalas, Wildman",1.4,,"MOD, LUT",kLhyurZ6-J
+"Monaco (Segasa 1977)","Monaco (Segasa 1977)",Segasa,1977,,EM,,"World Places, Sports, Happiness, Recreation, Water Skiing, Swimming, Aquatic","https://www.ipdb.org/machine.cgi?id=1614",1614,,,"Klodo81, JPSalas, Wildman",2.0,,"MOD, LUT",kLhyurZ6-J
 "Monday Night Football (Data East 1989)","Monday Night Football (Data East 1989)",Data East,1989,4,SS,,"Sports, American Football","http://www.ipdb.org/machine.cgi?id=1616",1616,,"Joe Kaminkow, Ed Cebula","Bigus1, Goldchicco, AgentEighty6, Allknowing2012, Themer",2.1,mnfb_c27,"MOD",GbXmHinUfs
 "Monday Night Football (Data East 1989)","Monday Night Football (Data East 1989)",Data East,1989,4,SS,,"Sports, American Football","http://www.ipdb.org/machine.cgi?id=1616",1616,,"Joe Kaminkow, Ed Cebula","Goldchicco, AgentEighty6",1.1,mnfb_c27,"LUT",HvSb-8bh
 "Monday Night Football (Data East 1989)","Monday Night Football (Data East 1989)",Data East,1989,4,SS,,"Sports, American Football","http://www.ipdb.org/machine.cgi?id=1616",1616,,"Joe Kaminkow, Ed Cebula","SG1bsoN, Allknowing2012",1.0.0,mnfb_c27,,TWD-PIbsfM
@@ -3056,7 +3056,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Table 23","Pasha (Zen Studios 2010)",Zen Studios,2010,4,,,"Fantasy",,,,"Zoltan Somorjai","Zen Studios",,,,fUh2JNI-Qm
 "Pasha","Pasha (Zen Studios 2010)",Zen Studios,2010,4,,,"Fantasy",,,,"Zoltan Somorjai","Zen Studios",,,,ps9XF7p9
 "Pat Hand (Williams 1975)","Pat Hand (Williams 1975)",Williams,1975,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=1767",1767,,"Norm Clark, Christian Marche","EMUnderdogs, Klodo81, Silversurfer",1.5.1,,"LUT, SSF",ZO7h-OlMcP
-"Pat Hand (Williams 1975)","Pat Hand (Williams 1975)",Williams,1975,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=1767",1767,,"Norm Clark, Christian Marche","Klodo81, JPSalas, HauntFreaks",1.5,,"LUT",f7CqZJr0yH
+"Pat Hand (Williams 1975)","Pat Hand (Williams 1975)",Williams,1975,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=1767",1767,,"Norm Clark, Christian Marche","Klodo81, JPSalas, HauntFreaks",2.0,,"LUT",f7CqZJr0yH
 "Pat Hand (Williams 1975)","Pat Hand (Williams 1975)",Williams,1975,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=1767",1767,,"Norm Clark, Christian Marche","Ext2k, Klodo81, TastyWasps",1.0,,"VR, MOD",t5lgsycdU9
 "Paul Bunyan (Gottlieb 1968)","Paul Bunyan (Gottlieb 1968)",Gottlieb,1968,2,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=1768",1768,,"Wayne Neyens","BorgDog, Leon Spalding, 3rdAxis, Bord",1.1,,,4fC-53D0
 "Paul Bunyan (Gottlieb 1968)","Paul Bunyan (Gottlieb 1968)",Gottlieb,1968,2,EM,,"Fantasy, Mythology","http://www.ipdb.org/machine.cgi?id=1768",1768,,"Wayne Neyens","Arconovum, PinballPerson, Leon Spalding, Randr, BorgDog, Arngrim",1.0-2.6,,"FSS, MOD",Rx7vhUe8
@@ -3308,7 +3308,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Ramones (Original 2021)","Ramones (Original 2021)",Original,2021,4,EM,,"Music",,,,,"Larouillas, HauntFreaks, Pinball58, Fluffhead35, BorgDog, Apophis, Arngrim",1.0.0,,"MOD, nFozzy, Fleep",2Kb5ieniM7
 "Ramones (Original 2021)","Ramones (Original 2021)",Original,2021,4,EM,,"Music",,,,,"HauntFreaks, Pinball58, Fluffhead35, BorgDog, Apophis, Arngrim",1.0.1,,"Music, nFozzy, Fleep",TC8_qMKn
 "Rancho (Gottlieb 1966)","Rancho (Gottlieb 1966)",Gottlieb,1966,1,EM,,"American West","https://www.ipdb.org/machine.cgi?id=1917",1917,,"Wayne Neyens","Loserman76, GNance",1.0.0f,,,7Hc_RTIB
-"Rancho (Williams 1976)","Rancho (Williams 1976)",Williams,1976,2,EM,,"American West","https://www.ipdb.org/machine.cgi?id=1918",1918,,"Harry Williams, Chris Otis","Klodo81, JPSalas, STAT, Wildman",1.4,,"LUT",NbhyViUJjE
+"Rancho (Williams 1976)","Rancho (Williams 1976)",Williams,1976,2,EM,,"American West","https://www.ipdb.org/machine.cgi?id=1918",1918,,"Harry Williams, Chris Otis","Klodo81, JPSalas, STAT, Wildman",2.0,,"LUT",NbhyViUJjE
 "Rapid Fire (Bally 1982)","Rapid Fire (Bally 1982)",Bally,1982,4,SS,,"Outer Space, Aliens, Combat","http://www.ipdb.org/machine.cgi?id=3568",3568,,"Dennis Nordman","Lizard",1.0,rapidfir,,-5tVwxd5
 "Rat Fink (Original 2016)","Rat Fink (Original 2016)",Original,2016,4,SS,,"Cartoon",,,,,"HauntFreaks, BorgDog, JPSalas, Rothbauerw",1.1,,"Music",0aKEy6kg
 "Rat Race (Williams 1983)","Rat Race (Williams 1983)",Williams,1983,,SS,,"Flipperless","https://www.ipdb.org/machine.cgi?id=3718",3718,,"Steve Kordek, Barry Oursler","Gimli, Paolo (Wild)",1.0,,,Kz76AyCtlx
@@ -3636,7 +3636,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Sky-Line (Gottlieb 1965)","Sky-Line (Gottlieb 1965)",Gottlieb,1965,1,EM,,"Nightclubs, Nightlife","https://www.ipdb.org/machine.cgi?id=3240",3240,,"Wayne Neyens","JPSalas, Halen, HauntFreaks",5.5.0,,,VOT4FxKdci
 "Sky-Line (Gottlieb 1965)","Sky-Line (Gottlieb 1965)",Gottlieb,1965,1,EM,,"Nightclubs, Nightlife","https://www.ipdb.org/machine.cgi?id=3240",3240,,"Wayne Neyens","Margoni",1.0,,,THt3L51aB4
 "Sky-Line (Gottlieb 1965)","Sky-Line (Gottlieb 1965)",Gottlieb,1965,1,EM,,"Nightclubs, Nightlife","https://www.ipdb.org/machine.cgi?id=3240",3240,,"Wayne Neyens","Ext2k, Halen, JPSalas, TastyWasps",1.0.0,,"VR",3qgVz8WEka
-"Skylab (Williams 1974)","Skylab (Williams 1974)",Williams,1974,1,EM,,"Space Exploration","https://www.ipdb.org/machine.cgi?id=2202",2202,,"Steve Kordek","Klodo81, JPSalas",1.3,,"LUT",Y-igCtKOn5
+"Skylab (Williams 1974)","Skylab (Williams 1974)",Williams,1974,1,EM,,"Space Exploration","https://www.ipdb.org/machine.cgi?id=2202",2202,,"Steve Kordek","Klodo81, JPSalas",2.0,,"LUT",Y-igCtKOn5
 "Skylab (Williams 1974)","Skylab (Williams 1974)",Williams,1974,1,EM,,"Space Exploration","https://www.ipdb.org/machine.cgi?id=2202",2202,,"Steve Kordek","Margoni",1.0,,,hkwrlA_klR
 "Skylab (Williams 1974)","Skylab (Williams 1974)",Williams,1974,1,EM,,"Space Exploration","https://www.ipdb.org/machine.cgi?id=2202",2202,,"Steve Kordek","Ext2k, Klodo81",1.0.0,,"VR",LR_6sEcPvd
 "Skyrocket (Bally 1971)","Skyrocket (Bally 1971)",Bally,1971,2,EM,,"Happiness, Circus, Carnival","https://www.ipdb.org/machine.cgi?id=2204",2204,,"Harry Williams","Rosve",1.02,,,6L4NUXUF
