@@ -2419,6 +2419,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Kung Fu (LTD do Brasil 1975)","Kung Fu (LTD do Brasil 1975)",LTD do Brasil,1975,2,EM,,"Martial Arts",,,,,"JPSalas, Halen",5.5.0,,,rGntrHV3bg
 "Kung Fu Hustle (Original 2024)","Kung Fu Hustle (Original 2024)",Original,2024,,,,"Movie, Kung Fu",,,,,"Balutito, JPSalas, Ise Ananphada",1.2,,"MOD",Gyq3bzPSLQ
 "LEGO Pinball (Original 2022)","LEGO Pinball (Original 2022)",Original,2022,,EM,,"Toy Franchise, Superheroes",,,,,"Andypc, GeCh, Loserman76, GNance, Popotte, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0,,"MOD",c2hl1xE1Fo
+"Labyrinth (Original 2023)","Labyrinth (Original 2023)",Original,2023,,SS,,"Movie, Fantasy",,,,,"Jagandy82, JPSalas, Balutito, Nesta78, JoePicasso",3.0,skatebll,,kiBIoviC9t
+"Labyrinth (Original 2021)","Labyrinth (Original 2021)",Original,2021,4,SS,,"Movie, Fantasy",,,,,"Ronboy751, JPWolloff, Davor, JPSalas, Count220",1.01,skatebll,"Retheme",CT8CQ1qmcb
 "Lady Death (Geiger 1983)","Lady Death (Geiger 1983)",Geiger,1983,4,SS,,"Fantasy, Vampires","http://www.ipdb.org/machine.cgi?id=3972",3972,,,"Siggi, Allknowing2012, JPSalas",1.0,,"MOD",jCB3MUYL
 "Lady Luck (Recel 1976)","Lady Luck (Recel 1976)",Recel,1976,4,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1405",1405,,,"Ext2k, Wed21",2.0,,"VR, LUT, Mixed Reality, Hybrid",vxcY1rLOwR
 "Lady Luck (Recel 1976)","Lady Luck (Recel 1976)",Recel,1976,4,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1405",1405,,,"Wed21, Mfuegemann, Loserman76, Herweh, HauntFreaks",1.5,,"SSF",rF_jhweD
@@ -2982,6 +2984,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Oblivion (Original 2023)","Oblivion (Original 2023)",Original,2023,,,,"Science Fiction",,,,,"Zobou",2.0,,,VrcMS0BmZf
 "Octopus (Nintendo 1981)","Octopus (Nintendo 1981)",Nintendo,1981,,SS,,"Flipperless",,,,,"STAT, Haggi",1.0a,,,yXu2BsG1
 "OddZilla (Original 2023)","OddZilla (Original 2023)",Original,2023,,,,"Dinosaurs",,,,,"Anthias",1.0,,,9ymXd1nDSR
+"Odds & Evens - Bud Spencer & Terence Hill (Original 2021)","Odds & Evens - Bud Spencer & Terence Hill (Original 2021)",Original,2021,4,EM,,"Movie",,,,,"Ivantba, JPSalas, Akiles50000",1.0,,"Retheme",CW-TalZLlL
 "Odin Deluxe (Sonic 1985)","Odin Deluxe (Sonic 1985)",Sonic,1985,4,SS,,"Norse Mythology","http://www.ipdb.org/machine.cgi?id=3448",3448,,"Eulogio Pingarrón","Nestorgian, Dboyrecords, Arngrim, JPSalas",1.3.1,,,hKaxo0mp
 "Odin Deluxe (Sonic 1985)","Odin Deluxe (Sonic 1985)",Sonic,1985,4,SS,,"Norse Mythology","http://www.ipdb.org/machine.cgi?id=3448",3448,,"Eulogio Pingarrón","Nestorgian",1.1,,,3MEp7SBq
 "Odin Deluxe (Sonic 1985)","Odin Deluxe (Sonic 1985)",Sonic,1985,4,SS,,"Norse Mythology","http://www.ipdb.org/machine.cgi?id=3448",3448,,"Eulogio Pingarrón","Ext2k, Nestorgian, Dboyrecords, Arngrim, JPSalas",1.0.1,,"VR, MOD, Mixed Reality",ZeksOk1MUP
@@ -4397,7 +4400,6 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Insus, The (Original 2020)","Insus, The (Original 2020)",Original,2020,4,EM,,"Music",,,,,"Marty02",1.0,,"MOD",KlP9tXKo
 "Insus, The (Original 2020)","Insus, The (Original 2020)",Original,2020,4,EM,,"Music",,,,,"Larouillas, Marty02",1.0.0,,,TLFl_QW6Gu
 "Lab, The (Original 2024)","Lab, The (Original 2024)",Original,2024,1,EM,,,,,,,"Anthias",2.1,,,B5_AqAP9Qd
-"Labyrinth, The (Original 2023)","Labyrinth, The (Original 2023)",Original,2023,,SS,,"Movie, Fantasy",,,,,"Jagandy82, JPSalas, Balutito, Nesta78, JoePicasso",3.0,skatebll,,kiBIoviC9t
 "Last Dragon, The (Original 2020)","Last Dragon, The (Original 2020)",Original,2020,,,,"Movie, Martial Arts",,,,,"Fireslayer26",1.3,,"Music",i3YGfqa7
 "Last Ninja, The (Original 2018)","Last Ninja, The (Original 2018)",Original,2018,,SS,,"Video Game, Martial Arts",,,,,"Ivantba, Xenonph, BorgDog, JPSalas",1.1,,"MOD",CAjmCnVY
 "Last Spaceship - Murray Leinster EM Tribute Series 3, The (Original 2024)","Last Spaceship - Murray Leinster EM Tribute Series 3, The (Original 2024)",Original,2024,,EM,,"Science Fiction",,,,,"Anthias",1.1,,,iZklndJhq_
