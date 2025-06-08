@@ -39,6 +39,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "4 Square (Gottlieb 1971)","4 Square (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Dancing, Happiness, Music, Psychedelic","https://www.ipdb.org/machine.cgi?id=940",940,,"Ed Krynski","Teisen, Loserman76, Wildman, HauntFreaks, BorgDog, GNance, JPSalas, Pinuck",1.0,,"MOD",jAsCnsExSI
 "4 Square (Gottlieb 1971)","4 Square (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Dancing, Happiness, Music, Psychedelic","https://www.ipdb.org/machine.cgi?id=940",940,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, HauntFreaks, JPSalas",1.0.0f,,,c3U3NQNL
 "4 Square (Gottlieb 1971)","4 Square (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Dancing, Happiness, Music, Psychedelic","https://www.ipdb.org/machine.cgi?id=940",940,,"Ed Krynski","Margoni",2.0,,,U-UujoV7WY
+"4 Square (Gottlieb 1971)","4 Square (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Dancing, Happiness, Music, Psychedelic","https://www.ipdb.org/machine.cgi?id=940",940,,"Ed Krynski","Balater, Margoni, BorgDog",1.01,,,F3Gjxwi6uo
 "4X4 (Atari 1983)","4X4 (Atari 1983)",Atari,1983,4,SS,,"Cars","http://www.ipdb.org/machine.cgi?id=3111",3111,,"Milt Loper","TheGhost787",1.0,fourx4,,QavDV54N
 "50_50 (Bally 1965)","50_50 (Bally 1965)",Bally,1965,2,EM,,"Funfair, Amusement Park","https://www.ipdb.org/machine.cgi?id=842",842,,"Ted Zale","Leon Spalding",1.a,,,kMelEC_hFi
 "8 Ball (Williams 1966)","8 Ball (Williams 1966)",Williams,1966,2,EM,,"Billiards","https://www.ipdb.org/machine.cgi?id=764",764,,"Norm Clark","EMUnderdogs, Cliffy, Silversurfer, Loserman76",1.3.1,,"Fleep",2LWxp-2_An
@@ -1495,11 +1496,11 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Fireball XL5 (Original 2024)","Fireball XL5 (Original 2024)",Original,2024,,SS,,"Puppets, Television Series, Science Fiction",,,,,"Sir_Random, MauiPunter, HauntFreaks",1.0.1,,"FlexDMD",9c7By99buA
 "Firecracker (Bally 1971)","Firecracker (Bally 1971)",Bally,1971,4,EM,,"Celebration, Festivities","http://www.ipdb.org/machine.cgi?id=855",855,,"Harry Williams","Teisen, Loserman76",1.1.0,,"MOD",jb3K7kJf9q
 "Firecracker (Bally 1971)","Firecracker (Bally 1971)",Bally,1971,4,EM,,"Celebration, Festivities","http://www.ipdb.org/machine.cgi?id=855",855,,"Harry Williams","Loserman76",1.0.0f,,,PRcpitXm
+"Firepower (Williams 1980)","Firepower (Williams 1980)",Williams,1980,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=856",856,,"Steve Ritchie","Arconovum, 3rdAxis, Slydog43, G5k, Ben Logan, Xzotic, SliderPoint",1.21-2.6,frpwr_c7,"MOD, FSS, FastFlips",4R6uLHaq
 "Firepower (Williams 1980)","Firepower (Williams 1980)",Williams,1980,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=856",856,,"Steve Ritchie","Bigus1, DarthMarino, Wed21, Scutters, Mike DA Spike",1.2,frpwr_c7,"MOD, FlexDMD",Vb1EtKTxIr
 "Firepower (Williams 1980)","Firepower (Williams 1980)",Williams,1980,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=856",856,,"Steve Ritchie","3rdAxis, Slydog43, G5k, Rothbauerw",1.0.5,frpwr_c7,,V6GAlqxe
 "Firepower (Williams 1980)","Firepower (Williams 1980)",Williams,1980,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=856",856,,"Steve Ritchie","UnclePaulie, 3rdAxis, Slydog43, G5k, Coyo5050",1.0,frpwr_c7,"VR",_ovpytTWlG
-"Firepower (Williams 1980)","Firepower (Williams 1980)",Williams,1980,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=856",856,,"Steve Ritchie","Arconovum, 3rdAxis, Slydog43, G5k, Ben Logan, Xzotic, SliderPoint",1.21-2.6,frpwr_c7,"MOD, FSS, FastFlips",4R6uLHaq
-"Firepower (Williams 1980)","Firepower (Williams 1980)",Williams,1980,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=856",856,,"Steve Ritchie","DarthMarino, Wed21",1.0,frpwr_c7,"MOD",78MF3Cn2
+"Firepower (Williams 1980)","Firepower (Williams 1980)",Williams,1980,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=856",856,,"Steve Ritchie","DarthMarino, Wed21",1.2,frpwr_c7,"MOD",78MF3Cn2
 "Firepower (Williams 1980)","Firepower (Williams 1980)",Williams,1980,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=856",856,,"Steve Ritchie","Wed21, Walamab, Noah Fentz, UncleReamus, HauntFreaks",1.3,frpwr_c7,,sEMVVKQC
 "Firepower (Williams 1980)","Firepower (Williams 1980)",Williams,1980,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=856",856,,"Steve Ritchie","Walamab",1.0.3,frpwr_c7,,dU-vGqph
 "Firepower II (Williams 1983)","Firepower II (Williams 1983)",Williams,1983,4,SS,,"Outer Space","http://www.ipdb.org/machine.cgi?id=857",857,,"Mark Ritchie","Bigus1, Goldchicco, Walamab, Apophis",1.4,fpwr2_l2,"MOD, FlexDMD, Hybrid, VR",lWs010fjqE
@@ -1569,6 +1570,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Force (LTD do Brasil 1979)","Force (LTD do Brasil 1979)",LTD do Brasil,1979,2,SS,,"Outer Space, Science Fiction, Space Fantasy","https://www.ipdb.org/machine.cgi?id=5893",5893,,,"Wiesshund, Mfuegemann",4.0,force,,k26cLZY1Vu
 "Force (LTD do Brasil 1979)","Force (LTD do Brasil 1979)",LTD do Brasil,1979,2,SS,,"Outer Space, Science Fiction, Space Fantasy","https://www.ipdb.org/machine.cgi?id=5893",5893,,,"Mfuegemann, Carlos Guizzo, Wmpimentel, Wiesshund, Siggi",1.3,force,,3WBxX3Zj
 "Force II (Gottlieb 1981)","Force II (Gottlieb 1981)",Gottlieb,1981,4,SS,,"Combat, Aliens, Outer Space","http://www.ipdb.org/machine.cgi?id=916",916,,"John Osborne","HSM, Rascal, Kristian, Inkochnito, TAB",1.1,,,HYofGN40
+"Force II (Gottlieb 1981)","Force II (Gottlieb 1981)",Gottlieb,1981,4,SS,,"Combat, Aliens, Outer Space","http://www.ipdb.org/machine.cgi?id=916",916,,"John Osborne","Rascal, Destruk, TAB, Kristian, Inkochnito",1.1,,,Z1znQgAQ-d
 "Foreigner (Original 2025)","Foreigner (Original 2025)",Original,2025,4,EM,,"Music, Rock",,,,,"Larouillas, Teisen, Armyaviation, 32assassin",1.0.0,,"Music, MOD",qKPmkFOJwR
 "Forge (Original 2023)","Forge (Original 2023)",Original,2023,,SS,,,,,,,"VonKrafte, Karl Casey, Jogrady7",2.1.0,,"Music",1mYC1bqZex
 "Forrest Gump (Original 2023)","Forrest Gump (Original 2023)",Original,2023,,SS,,"Movie",,,,,"Jagandy82, Nesta78, JoePicasso",2.0.0,,,620RhMAmqM
@@ -2747,8 +2749,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Monster Rancher (Original 2019)","Monster Rancher (Original 2019)",Original,2019,4,SS,,"Monsters",,,,,"Bigkahuna707, Krugger99, Flupper, nFozzy, 32assassin",1.0,hs_l4,,BU3zQ6Az
 "Monsters (Original 2016)","Monsters (Original 2016)",Original,2016,,SS,,"Monsters",,,,,"TheGhost787",1.1,,,3iA51Jbm
 "Monsters of Rock (Original 2021)","Monsters of Rock (Original 2021)",Original,2021,,,,"Music, Heavy Metal",,,,,"TeamTuga, pedroperes02, Pedro Pires, JPSalas",3.0,,,7VrGGt0zt0
-"Monte Carlo (Gottlieb 1987)","Monte Carlo (Gottlieb 1987)",Gottlieb,1987,4,SS,,"Gambling","http://www.ipdb.org/machine.cgi?id=1622",1622,,"John Trudeau","Rascal, Ahr1man, Destruk, Lander, XtremeMame, roccodimarco, BorgDog, TAB",1.6,,"Hybrid, VR, FSS",VfZE5fvS
-"Monte Carlo (Gottlieb 1987)","Monte Carlo (Gottlieb 1987)",Gottlieb,1987,4,SS,,"Gambling","http://www.ipdb.org/machine.cgi?id=1622",1622,,"John Trudeau","Rascal, Destruk, Lander, TAB, XtremeMame, Bigus1",1.0,,"MOD",Wipnp-W7
+"Monte Carlo (Gottlieb 1987)","Monte Carlo (Gottlieb 1987)",Gottlieb,1987,4,SS,,"Gambling","http://www.ipdb.org/machine.cgi?id=1622",1622,,"John Trudeau","Rascal, Ahr1man, Destruk, Lander, XtremeMame, roccodimarco, BorgDog, TAB, RajoJoey",1.6,,"Hybrid, VR, FSS",VfZE5fvS
+"Monte Carlo (Gottlieb 1987)","Monte Carlo (Gottlieb 1987)",Gottlieb,1987,4,SS,,"Gambling","http://www.ipdb.org/machine.cgi?id=1622",1622,,"John Trudeau","Bigus1, Rascal, Destruk, Lander, TAB, XtremeMame",1.0,,"MOD",Wipnp-W7
 "Monte Carlo (Bally 1973)","Monte Carlo (Bally 1973)",Bally,1973,4,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1621",1621,,"John Trudeau","Mustang1961, Albert, Kees, Leon Spalding",1.2,,,FXwDiRJady
 "Monte Carlo (Bally 1973)","Monte Carlo (Bally 1973)",Bally,1973,4,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1621",1621,,"John Trudeau","Albert, Kees, Leon Spalding",5.0,,"MOD",CG1FGS6I
 "Monte Carlo (Bally 1973)","Monte Carlo (Bally 1973)",Bally,1973,4,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1621",1621,,"John Trudeau","Kees, Leon Spalding",1.00,,,WBXgsvdj
@@ -4524,6 +4526,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Sopranos, The (Stern 2005)","Sopranos, The (Stern 2005)",Stern,2005,4,SS,,"Licensed Theme, Mobsters, Crime, TV Show","http://www.ipdb.org/machine.cgi?id=5053",5053,,"George Gomez","Freneticamnesic",1.0,sopranos,,NDgcI5da
 "Spellcast Machine, The (Original 2024)","Spellcast Machine, The (Original 2024)",Original,2024,,SS,,"Psychedelic",,,,,"CrimsonTurtle8, Jogrady7",1.2,,,L7sjUNn9tF
 "Sword of Fury, The (Original 2019)","Sword of Fury, The (Original 2019)",Original,2019,,SS,,"Fantasy, Medieval, Knights",,,,,"fastdraw, Kiwi, GTXJoe",1.0.1,,,tcJh-0oA
+"Sword of Fury, The (Original 2019)","Sword of Fury, The (Original 2019)",Original,2019,,SS,,"Fantasy, Medieval, Knights",,,,,"Granit, GTXJoe, Kiwi",1.0,,,6mB-zEvlj-
 "Table With The Least Comprehensible Theme Ever, The (Original 2018)","Table With The Least Comprehensible Theme Ever, The (Original 2018)",Original,2018,,SS,,,,,,,"Wizball, JPSalas",1.1h,,,AIqi6fZi
 "Terminator, The (Original 2019)","Terminator, The (Original 2019)",Original,2019,,EM,,"Movie, Science Fiction, Apocalyptic",,,,,"Ivantba, Lodger",1.0,,"FlexDMD, MOD",Psud_ztH
 "Texas Chainsaw Massacre, The (Original 2020)","Texas Chainsaw Massacre, The (Original 2020)",Original,2020,4,SS,,"Movie, Horror",,,,,"Ivantba, Goldchicco, Mfuegemann",1.0,nautilus,"Music, MOD",pZvJdYH6
