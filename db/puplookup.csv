@@ -2176,11 +2176,11 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Jack in the Box (Gottlieb 1973)","Jack in the Box (Gottlieb 1973)",Gottlieb,1973,4,EM,,"Happiness, Circus, Carnival","http://www.ipdb.org/machine.cgi?id=1277",1277,,"Ed Krynski","Xenonph, Loserman76",1.0b,,"MOD",USL443E9xC
 "Jack in the Box (Gottlieb 1973)","Jack in the Box (Gottlieb 1973)",Gottlieb,1973,4,EM,,"Happiness, Circus, Carnival","http://www.ipdb.org/machine.cgi?id=1277",1277,,"Ed Krynski","Loserman76",1.0.0f,,,mVOx3EeZ
 "Jack-Bot (Williams 1995)","Jack-Bot (Williams 1995)",Williams,1995,4,SS,,"Science Fiction, Gambling","http://www.ipdb.org/machine.cgi?id=3619",3619,,"Barry Oursler","Bord, Leojreimroc, Rothbauerw",1.1.2a,jb_10r,"VR, Hybrid, SSF, nFozzy, Fleep, LUT",gRRS4ld1
+"Jackpot (Williams 1971)","Jackpot (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1279",1279,,"Norm Clark","Jarringmars, Albert, Loserman76, Kees, Kiwi, Leon Spalding, Leeoneil",1.01,,,cVuPtX63vN
 "Jackpot (Williams 1971)","Jackpot (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1279",1279,,"Norm Clark","Mustang1961, Loserman76, Kees",1.0b,,"MOD",rxPhq8MweO
 "Jackpot (Williams 1971)","Jackpot (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1279",1279,,"Norm Clark","Loserman76, Kees",1.0.0f,,,N50lV9p_
-"Jackpot (Williams 1971)","Jackpot (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1279",1279,,"Norm Clark","Loserman76, Kees",1.0a,,"MOD",bCLz84AH
+"Jackpot (Williams 1971)","Jackpot (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1279",1279,,"Norm Clark","Albert, Loserman76, Kees, Wildman",1.0,,"MOD",bCLz84AH
 "Jackpot (Williams 1971)","Jackpot (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1279",1279,,"Norm Clark","Kees",1.0.0,,,MpDVpsPo
-"Jackpot (Williams 1971)","Jackpot (Williams 1971)",Williams,1971,4,EM,,"Canadian West, Prospecting","https://www.ipdb.org/machine.cgi?id=1279",1279,,"Norm Clark","Jarringmars, Albert, Loserman76, Kees, Kiwi, Leon Spalding, Leeoneil",1.01,,,cVuPtX63vN
 "Jacks Open (Gottlieb 1977)","Jacks Open (Gottlieb 1977)",Gottlieb,1977,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1281",1281,,"Ed Krynski","Goldchicco, SliderPoint, Pinuck",1.1,,"MOD, LUT",nRl6alws
 "Jacks Open (Gottlieb 1977)","Jacks Open (Gottlieb 1977)",Gottlieb,1977,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1281",1281,,"Ed Krynski","SliderPoint, Pinuck",1.2.1,,,mghQM3se
 "Jacks Open (Gottlieb 1977)","Jacks Open (Gottlieb 1977)",Gottlieb,1977,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1281",1281,,"Ed Krynski","Bigus1, Goldchicco, SliderPoint, Pinuck",1.0,,"MOD",B6zfjYU4Iv
@@ -2512,6 +2512,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Lost in Space (Sega 1998)","Lost in Space (Sega 1998)",Sega,1998,6,SS,,"Licensed Theme, Outer Space, TV Show","http://www.ipdb.org/machine.cgi?id=4442",4442,,"John Borg","Hmueck, DevaL, Destruk, TAB, Bigus1",20.0,lostspc,"VR, MOD",DzJqySKJ8l
 "Lost in Space (Sega 1998)","Lost in Space (Sega 1998)",Sega,1998,6,SS,,"Licensed Theme, Outer Space, TV Show","http://www.ipdb.org/machine.cgi?id=4442",4442,,"John Borg","DanLShane, Bigus1, DevaL, Destruk, TAB",1.2.0,lostspc,"MOD",QakGX2KH
 "Lost in Space (Sega 1998)","Lost in Space (Sega 1998)",Sega,1998,6,SS,,"Licensed Theme, Outer Space, TV Show","http://www.ipdb.org/machine.cgi?id=4442",4442,,"John Borg","Goldchicco, TAB, DevaL, 32assassin",1.3,lostspc,"SSF",5Lo3_Il4
+"Lost in Space (Sega 1998)","Lost in Space (Sega 1998)",Sega,1998,6,SS,,"Licensed Theme, Outer Space, TV Show","http://www.ipdb.org/machine.cgi?id=4442",4442,,"John Borg","DevaL, TAB",1.0,lostspc,,7vstFnBOZj
 "Louis de Funes - Fantomas (Original 2022)","Louis de Funes - Fantomas (Original 2022)",Original,2022,,SS,,"Celebrities, Tribute",,,,,"VLive, Icepinball",1.0.0,,"MOD",Ql5_S-T07Z
 "Louis de Funes - Fantomas (Original 2022)","Louis de Funes - Fantomas (Original 2022)",Original,2022,,SS,,"Celebrities, Tribute",,,,,"Icepinball, JPSalas",1.0.0,,"MOD",IIe5es7NrW
 "Love Bug (Williams 1971)","Love Bug (Williams 1971)",Williams,1971,1,EM,,"Dancing, Happiness, Music","https://www.ipdb.org/machine.cgi?id=1480",1480,,"Norm Clark","Loserman76, Tom, Thalamus, Rosve, Osprey101, Wildman",1.0.0f,,,9qP4N3Y7
@@ -4183,6 +4184,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "TX-Sector (Gottlieb 1988)","TX-Sector (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Outer Space, Science Fiction","http://www.ipdb.org/machine.cgi?id=2699",2699,,"John Trudeau","Balater",1.31,,"Music",aM2wVOHd
 "TX-Sector (Gottlieb 1988)","TX-Sector (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Outer Space, Science Fiction","http://www.ipdb.org/machine.cgi?id=2699",2699,,"John Trudeau","32assassin",1.1,,"MOD",p46QnktR
 "TX-Sector (Gottlieb 1988)","TX-Sector (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Outer Space, Science Fiction","http://www.ipdb.org/machine.cgi?id=2699",2699,,"John Trudeau","Dozer, Destruk",1.0,,,gtRiKNS6
+"TX-Sector (Gottlieb 1988)","TX-Sector (Gottlieb 1988)",Gottlieb,1988,4,SS,,"Outer Space, Science Fiction","http://www.ipdb.org/machine.cgi?id=2699",2699,,"John Trudeau","roccodimarco, Dozer, Destruk, Balater",1.1,,,5e8OHwJcb6
 "Table Starter (Original 2019)","Table Starter (Original 2019)",Original,2019,,EM,,"Educational, Example, Testing",,,,,"fastdraw",1.0.0,,,BktBghy8
 "Tag-Team Pinball (Gottlieb 1985)","Tag-Team Pinball (Gottlieb 1985)",Gottlieb,1985,4,SS,,"Wrestling","http://www.ipdb.org/machine.cgi?id=2489",2489,,"John Trudeau","Bigus1, roccodimarco",3.0,,"MOD",Gvyz_DiS
 "Tag-Team Pinball (Gottlieb 1985)","Tag-Team Pinball (Gottlieb 1985)",Gottlieb,1985,4,SS,,"Wrestling","http://www.ipdb.org/machine.cgi?id=2489",2489,,"John Trudeau","roccodimarco",2.1.1,,,oHoYxBST
@@ -4742,6 +4744,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Twister (Sega 1996)","Twister (Sega 1996)",Sega,1996,6,SS,,"Movie","http://www.ipdb.org/machine.cgi?id=3976",3976,,"John Borg","Ejse83, UnclePaulie, DJRobX, 32assassin, Francisco666",2.0,twst_405,"MOD",lci_i8W3JE
 "Twister (Sega 1996)","Twister (Sega 1996)",Sega,1996,6,SS,,"Movie","http://www.ipdb.org/machine.cgi?id=3976",3976,,"John Borg","UnclePaulie, DJRobX, Francisco666, 32assassin, Xio, TheWool, JimmyFingers",2.0,twst_405,"VR, SSF, FSS, Hybrid, nFozzy, Fleep",_qAbKN6v
 "Twister (Sega 1996)","Twister (Sega 1996)",Sega,1996,6,SS,,"Movie","http://www.ipdb.org/machine.cgi?id=3976",3976,,"John Borg","Francisco666, 32assassin, Xio, TheWool, JimmyFingers",1.0,twst_405,,BwFEC9N9
+"Twister (Sega 1996)","Twister (Sega 1996)",Sega,1996,6,SS,,"Movie","http://www.ipdb.org/machine.cgi?id=3976",3976,,"John Borg","DJRobX, Francisco666, 32assassin",1.1,twst_405,,IK4ryCZ5XK
 "Tyrannosaurus (Gottlieb 1985)","Tyrannosaurus (Gottlieb 1985)",Gottlieb,1985,4,SS,,,"https://www.ipdb.org/machine.cgi?id=5344",5344,,"John Trudeau","Fripounet, Granit",1.0,,,4mkxci4q1j
 "U-Boat 65 (Nuova Bell Games 1988)","U-Boat 65 (Nuova Bell Games 1988)",Nuova Bell Games,1988,4,SS,,"Combat, Nautical","http://www.ipdb.org/machine.cgi?id=3736",3736,,"Tommy Walker, Paul Daniel","Goldchicco, Batch, Mfuegemann, Movieguru, Arngrim",1.2,,,Bcznsvu1
 "U-FOES (Original 2019)","U-FOES (Original 2019)",Original,2019,,EM,,"Comics",,,,"Rosve","Rosve, The Loafer, Thalamus",2.0,,"SSF",JFiya62l
@@ -4762,6 +4765,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "V12","V12 (Zen Studios 2013)",Zen Studios,2013,4,,,"Cars, Speeding",,,,,"Zen Studios",,,,nPMTSUob
 "VPX Foosball 2019 (Original 2019)","VPX Foosball 2019 (Original 2019)",Original,2019,,EM,,"Sports, Soccer",,,,,"Rascal",1.0,,,MgMYkPgV
 "VPin Workshop Example & Resource Table (Original 2021)","VPin Workshop Example & Resource Table (Original 2021)",Original,2021,,EM,,"Educational, Example, Testing",,,,,"VPW, Wylte, Wrd1972, Fleep, Flupper, Benji, Oqqsan, Scampa123, Iaakki, Sixtoe, Apophis, 3rdAxis, Rothbauerw, nFozzy, Fluffhead35, Arelyel",1.6,,"FlexDMD, VR, Hybrid, nFozzy, Fleep",3JSONYdl
+"VR Clean Room with Tutorial (Original 2020)","VR Clean Room with Tutorial (Original 2020)",Original,2020,4,EM,,"Educational, Tutorial",,,,,"Drhotwing, 3rdAxis",1.2,,"VR",W1Pzqaqi8I
 "VR Room Educational Toyboy (Original 2020)","VR Room Educational Toyboy (Original 2020)",Original,2020,,EM,,"Educational, Example, Testing",,,,,"Rawd, Rascal, Steely, DJRobX, Walter Whitmer, Senseless, Turbosquid, UncleWilly, 3rdAxis",1.0.4,,"VR",Be252-N_8O
 "Vampire (Bally 1971)","Vampire (Bally 1971)",Bally,1971,2,EM,,"Vampires","https://www.ipdb.org/machine.cgi?id=2716",2716,,"Ted Zale","JPSalas, Teisen",1.0.1,,,mDPTLqKpVY
 "Vampire (Bally 1971)","Vampire (Bally 1971)",Bally,1971,2,EM,,"Vampires","https://www.ipdb.org/machine.cgi?id=2716",2716,,"Ted Zale","Ext2k, JPSalas, Teisen",1.0.0,,"VR, Mixed Reality, Hybrid",iN8AzYCOw1
