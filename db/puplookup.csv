@@ -752,7 +752,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Bushido (Inder 1993)","Bushido (Inder 1993)",Inder,1993,4,SS,,"World Culture","http://www.ipdb.org/machine.cgi?id=4481",4481,,,"Ext2k, Pachecas, Goldchicco, 32assassin",1.0.0,bushidoa,"VR",Nhj_hdo2N-
 "Bushido (Inder 1993)","Bushido (Inder 1993)",Inder,1993,4,SS,,"World Culture","http://www.ipdb.org/machine.cgi?id=4481",4481,,,"Goldchicco, 32assassin, Pachecas, Movieguru, Vogliadicane, Pedator, Arngrim",1.2,bushidoa,"LUT",dnpFcXOQ
 "Bushido (Inder 1993)","Bushido (Inder 1993)",Inder,1993,4,SS,,"World Culture","http://www.ipdb.org/machine.cgi?id=4481",4481,,,"Morttis, Arconovum, Pachecas, Movieguru, Vogliadicane, Pedator, Victor, PCTeknic, Arngrim, 32assassin, Goldchicco",1.2-1.0,bushidoa,"FSS, MOD",k4ytvysp
-"CAPTAIN SPAULDING'S Museum Of Monsters and Madmen (Original 2025)","CAPTAIN SPAULDING'S Museum Of Monsters and Madmen (Original 2025)",Original,2025,4,SS,,,,,,,"Zandy's Arcade, JPSalas, RobbyKingPin, Unsavory, JoePicasso, Charlie Ferrero, Supergibson, MerlinRTP",1.4.0,,"Hybrid, VR, nFozzy, Fleep, Adult",EPN4NNJbgS
+"CAPTAIN SPAULDING'S Museum Of Monsters and Madmen (Original 2025)","CAPTAIN SPAULDING'S Museum Of Monsters and Madmen (Original 2025)",Original,2025,4,SS,,,,,,,"Zandy's Arcade, JPSalas, RobbyKingPin, Unsavory, JoePicasso, Charlie Ferrero, Supergibson, MerlinRTP, Gravy, Outhere",1.4.0,,"Hybrid, VR, nFozzy, Fleep, Adult",EPN4NNJbgS
 "CARtoons RC (Original 2017)","CARtoons RC (Original 2017)",Original,2017,,EM,,"Comics, Auto Racing",,,,"HauntFreaks","Wylte, HauntFreaks, SliderPoint, BorgDog, Randr, Dark, Toxie, Fuzzel",1.3f,,"MOD",kbcs06xH
 "CARtoons RC (Original 2017)","CARtoons RC (Original 2017)",Original,2017,,EM,,"Comics, Auto Racing",,,,"HauntFreaks","HauntFreaks, SliderPoint, BorgDog, Randr, Dark, Toxie, Fuzzel",2.3,,,5dv11PJ9
 "CARtoons RC (Original 2017)","CARtoons RC (Original 2017)",Original,2017,,EM,,"Comics, Auto Racing",,,,"HauntFreaks","Arconovum, HauntFreaks, SliderPoint, BorgDog",2.3-1.0,,"FSS, MOD, SSF",Vrb-13GNk_
@@ -1125,9 +1125,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Death Wish 3 (Original 2019)","Death Wish 3 (Original 2019)",Original,2019,4,SS,,"Movie",,,,,"Ivantba, JPSalas",1.0,lostwrld,"Music, MOD",dqizRgwb
 "Deep Purple (Original 2024)","Deep Purple (Original 2024)",Original,2024,4,SS,,"Music",,,,,"Larouillas, Balutito, HauntFreaks",1.0.0,fire_l3,"nFozzy, Fleep, Music, MOD",TApFsmzAzX
 "Deep Purple (Original 2024)","Deep Purple (Original 2024)",Original,2024,4,SS,,"Music",,,,,"Balutito, Gedankekojote97, DJRobX, Wrd1972, Bord, UncleWilly, Randr, 32assassin, HauntFreaks, RustyCardores, Flupper, nFozzy, Mkl66",1.2,fire_l3,"nFozzy, Fleep, LUT, Music",6_HZDGxOTd
-"Def Leppard (Original 2025)","Def Leppard (Original 2025)",Original,2025,4,SS,,"Music, Rock, Heavy Metal",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"MOD, Music, LUT",4GkzXouk9h
+"Def Leppard (Original 2025)","Def Leppard (Original 2025)",Original,2025,4,SS,,"Music, Rock, Heavy Metal",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"MOD, Music, LUT, Retheme",4GkzXouk9h
 "Def Leppard (Original 2020)","Def Leppard (Original 2020)",Original,2020,,SS,,"Music",,,,,"Goldchicco, Aaron James, Destruk, Doogie, JPSalas",1.3,,"SSF, Music, FlexDMD, MOD",AuWESUEK
 "Def Leppard (Original 2020)","Def Leppard (Original 2020)",Original,2020,,SS,,"Music",,,,,"Goldchicco, Aaron James, Destruk",1.0,,"SSF, Music",I3QrbMa7ls
+"Def Leppard Hits Vegas (Original 2025)","Def Leppard Hits Vegas (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Larouillas",1.0.0,sorcr_l1,"Music, Retheme",qmdlSBJBug
 "Defender (Williams 1982)","Defender (Williams 1982)",Williams,1982,2,SS,,"Outer Space, Fantasy, Video Game","http://www.ipdb.org/machine.cgi?id=651",651,,"Barry Oursler","VPW",1.3,dfndr_l4,"VR, Hybrid, SSF, FSS, nFozzy, Fleep, FlexDMD",XJIqrWKHAC
 "Defender (Williams 1982)","Defender (Williams 1982)",Williams,1982,2,SS,,"Outer Space, Fantasy, Video Game","http://www.ipdb.org/machine.cgi?id=651",651,,"Barry Oursler","Bigus1, Takut, GTXJoe",3.0,dfndr_l4,"MOD, FlexDMD",VCwWnvjE
 "Defender (Williams 1982)","Defender (Williams 1982)",Williams,1982,2,SS,,"Outer Space, Fantasy, Video Game","http://www.ipdb.org/machine.cgi?id=651",651,,"Barry Oursler","Takut, GTXJoe",1.0.0,dfndr_l4,"VR",OIUHRT-c
@@ -2360,6 +2361,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "KISS (Pro) (Stern 2015)","KISS (Pro) (Stern 2015)",Stern,2015,4,SS,,"Licensed Theme, Celebrities, Music","https://www.ipdb.org/machine.cgi?id=6267",6267,,"John Borg","Allknowing2012, JPSalas",20161122,,"Music, FlexDMD",E-RHgwloOn
 "Kat & Roman Kostrzewski (Original 2023)","Kat & Roman Kostrzewski (Original 2023)",Original,2023,,SS,,"Music, Rock",,,,,"Bombaj344, Hawkeyez88",1.0.0,fpwr2_l2,"Music",m9FNG2yZ30
 "Kat & Roman Kostrzewski (Original 2023)","Kat & Roman Kostrzewski (Original 2023)",Original,2023,,SS,,"Music, Rock",,,,,"Bombaj344, Hawkeyez88",1.0.0,fpwr2_l2,"Music",P_My_abR_y
+"Kessel Run (Original 2025)","Kessel Run (Original 2025)",Original,2025,2,EM,,,,,,,"Endeemillr, Mfuegemann, 32assassin",1.0.0,,"MOD",nlid4un_QR
 "Kick Off (Bally 1977)","Kick Off (Bally 1977)",Bally,1977,4,EM,,"Sports, Soccer","https://www.ipdb.org/machine.cgi?id=1365",1365,,"Jim Patla","jejepinball",1.1,,,5RDLdkETk6
 "Kickoff (Williams 1967)","Kickoff (Williams 1967)",Williams,1967,1,EM,,"Sports, American Football","https://www.ipdb.org/machine.cgi?id=1362",1362,,"Steve Kordek","Loserman76, GNance, Jon Osborne",1.0.0f,,,4N08ydR3
 "Kidnap (CIC Play 1986)","Kidnap (CIC Play 1986)",CIC Play,1986,,SS,,"Fantasy",,,,,"Mfuegemann, Pinball/Broker, Dark, GTXJoe, Akiles50000",1.0,kidnap,,0C74w0ay
