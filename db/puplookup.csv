@@ -1,7 +1,7 @@
 GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,WebLinkURL,IPDBNum,AltRunMode,DesignedBy,Author,GAMEVER,Rom,Tags,VPS-ID
 " 2001 - A Space Odyssey (Original 2025)"," 2001 - A Space Odyssey (Original 2025)",Original,2025,4,SS,,"Science Fiction",,,,,"Burgereater289, Tombg, GtecArcade, cl4ve, Supergibson, Dr.Nobody, Igic, Hursty, SuperTilted",1.0.0,,"FlexDMD",iGEvF6towb
 "!WOW! (Mills Novelty Company 1932)","!WOW! (Mills Novelty Company 1932)",Mills Novelty Company,1932,1,PM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=2819",2819,,,"Druadic",1.2b,,,OHdDfWkU9L
-"'300' (Gottlieb 1975)","'300' (Gottlieb 1975)",Gottlieb,1975,4,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2539",2539,,"Ed Krynski","Popotte",1.0.0,,"BAM, FizX",1vOHFSIiTC
+"'300' (Gottlieb 1975)","'300' (Gottlieb 1975)",Gottlieb,1975,4,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2539",2539,,"Ed Krynski","Popotte",FizX3.3V1,,"BAM, FizX",1vOHFSIiTC
 "'300' (Gottlieb 1975)","'300' (Gottlieb 1975)",Gottlieb,1975,4,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2539",2539,,"Ed Krynski","Scampa123, Loserman76, Rawd, Pritch33, Leojreimroc, Apophis, HauntFreaks",1.1,,"VR, MOD, Hybrid",dru4vO0W
 "'300' (Gottlieb 1975)","'300' (Gottlieb 1975)",Gottlieb,1975,4,EM,,"Sports, Bowling","http://www.ipdb.org/machine.cgi?id=2539",2539,,"Ed Krynski","Loserman76, Conram29, Francisco666, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,9pDvjPBe
 "'Roid Belt Racers (Original 2025)","'Roid Belt Racers (Original 2025)",Original,2025,4,SS,,"Outer Space",,,,,"Anthias",1.0.0,,"FlexDMD",pQLG-PB_Vt
@@ -1626,9 +1626,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Full Throttle (Original 2023)","Full Throttle (Original 2023)",Original,2023,,SS,,"Sports, Motorcycle Racing","https://www.ipdb.org/machine.cgi?id=6301",6301,,,"Ryguy417, JPSalas",1.0.0,ind250cc,"LUT, Music, MOD",Pl6L2obzhd
 "Fullmetal Alchemist (Original 2007)","Fullmetal Alchemist (Original 2007)",Original,2007,4,EM,,"Anime",,,,,"Anthias, JPSalas",2.0,,,GTTIWT1kXu
 "Fun Fair (Gottlieb 1968)","Fun Fair (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Carnival, Shooting Gallery","https://www.ipdb.org/machine.cgi?id=964",964,,"Ed Krynski","Loserman76, GNance",1.0.0f,,,MFvYSojn
+"Fun Land (Gottlieb 1968)","Fun Land (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Amusement Park","http://www.ipdb.org/machine.cgi?id=973",973,,"Ed Krynski","Popotte",FizX3.3V1,,"FizX, BAM",JBVJ_cJlGH
 "Fun Land (Gottlieb 1968)","Fun Land (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Amusement Park","http://www.ipdb.org/machine.cgi?id=973",973,,"Ed Krynski","Teisen, Loserman76, HauntFreaks, BorgDog, GNance, JPSalas, Pinuck, Arngrim",1.0,,"MOD",HTWLGdpMrr
 "Fun Land (Gottlieb 1968)","Fun Land (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Amusement Park","http://www.ipdb.org/machine.cgi?id=973",973,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,IPjKm2n4
-"Fun Land (Gottlieb 1968)","Fun Land (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Amusement Park","http://www.ipdb.org/machine.cgi?id=973",973,,"Ed Krynski","Popotte",1.0.0,,"FizX, BAM",JBVJ_cJlGH
 "Fun Park (Gottlieb 1968)","Fun Park (Gottlieb 1968)",Gottlieb,1968,1,EM,,"Carnival, Shooting Gallery","http://www.ipdb.org/machine.cgi?id=968",968,,"Ed Krynski, Steve Kirk","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,S4vP75C7
 "Fun-Fest (Williams 1972)","Fun-Fest (Williams 1972)",Williams,1972,4,EM,,"Music, Dancing, People, Singing","https://www.ipdb.org/machine.cgi?id=972",972,,"Norm Clark","PinPlayer",1.2,,,-lBiSNgs
 "Fun-Fest (Williams 1972)","Fun-Fest (Williams 1972)",Williams,1972,4,EM,,"Music, Dancing, People, Singing","https://www.ipdb.org/machine.cgi?id=972",972,,"Norm Clark","PinPlayer",1.1,,,utAAPUQU7P
@@ -1983,10 +1983,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Hot Shot (Gottlieb 1973)","Hot Shot (Gottlieb 1973)",Gottlieb,1973,4,EM,,"Billiards","http://www.ipdb.org/machine.cgi?id=1247",1247,,"Ed Krynski","Wed21, Zany, Mfuegemann, Loserman76, GNance, Mike Farmer, Flupper, Kds70, GTXJoe, HauntFreaks, JPSalas",1.5.1,,,fikoiavU
 "Hot Shots (Gottlieb 1989)","Hot Shots (Gottlieb 1989)",Gottlieb,1989,4,SS,,"Circus, Carnival","http://www.ipdb.org/machine.cgi?id=1248",1248,,"Jon Norris","Shannon, Randr, Flupper, Rascal, BorgDog, Bord, Rothbauerw",1.0,,,b60CzVb8
 "Hot Shots (Gottlieb 1989)","Hot Shots (Gottlieb 1989)",Gottlieb,1989,4,SS,,"Circus, Carnival","http://www.ipdb.org/machine.cgi?id=1248",1248,,"Jon Norris","Rascal, Dboyrecords, Destruk, MNPG",1.1.0,,,uD3k1i0f
+"Hot Tip (Williams 1977)","Hot Tip (Williams 1977)",Williams,1977,4,SS,,"Sports, Horse Racing","http://www.ipdb.org/machine.cgi?id=3163",3163,,"Tony Kraemer","Popotte",FizX3.3V1,httip_l1,"FizX, BAM",9r4mizeNeQ
 "Hot Tip (Williams 1977)","Hot Tip (Williams 1977)",Williams,1977,4,SS,,"Sports, Horse Racing","http://www.ipdb.org/machine.cgi?id=3163",3163,,"Tony Kraemer","Schlabber34, 32assassin, GTXJoe",1.0-lr,httip_l1,,Tf2tUSCH
 "Hot Tip (Williams 1977)","Hot Tip (Williams 1977)",Williams,1977,4,SS,,"Sports, Horse Racing","http://www.ipdb.org/machine.cgi?id=3163",3163,,"Tony Kraemer","Schlabber34, 32assassin, GTXJoe",2.1,httip_l1,"MOD",T58SKvsS
 "Hot Tip (Williams 1977)","Hot Tip (Williams 1977)",Williams,1977,4,SS,,"Sports, Horse Racing","http://www.ipdb.org/machine.cgi?id=3163",3163,,"Tony Kraemer","32assassin, GTXJoe",3.3,httip_l1,,ShUlis-y
-"Hot Tip (Williams 1977)","Hot Tip (Williams 1977)",Williams,1977,4,SS,,"Sports, Horse Racing","http://www.ipdb.org/machine.cgi?id=3163",3163,,"Tony Kraemer","Popotte",1.0.0,httip_l1,"FizX, BAM",9r4mizeNeQ
 "Hot Wheels (Original 2021)","Hot Wheels (Original 2021)",Original,2021,,SS,,"Cars, Toy Franchise",,,,,"fastdraw",0.84-wip,,,HjNguMJz
 "Hotdoggin' (Bally 1980)","Hotdoggin' (Bally 1980)",Bally,1980,4,SS,,"Sports, Skiing","http://www.ipdb.org/machine.cgi?id=1243",1243,,"Gary Gayton","Bigus1, 32assassin, Bodydump",2.0,hotdoggn,"SSF, MOD",_FUfOtHF
 "Hotdoggin' (Bally 1980)","Hotdoggin' (Bally 1980)",Bally,1980,4,SS,,"Sports, Skiing","http://www.ipdb.org/machine.cgi?id=1243",1243,,"Gary Gayton","32assassin, Bodydump",1.0.2,hotdoggn,,mV9Nxa_4
