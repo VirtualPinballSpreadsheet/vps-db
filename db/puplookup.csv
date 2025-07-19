@@ -926,6 +926,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","TheGhost787",1.0,cv_20h,,VA_08tLvWQ
 "Cirqus Voltaire (Bally 1997)","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Dozer, JPSalas",2.1,cv_20h,"FastFlips",cSKS2UMd
 "BALLY_Cirqus_Voltaire","Cirqus Voltaire (Bally 1997)",Bally,1997,4,SS,,"Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4059",4059,,"John Popadiuk","Zen Studios",,cv_20h,,YXT6zmZu
+"City Hunter (Original 2025)","City Hunter (Original 2025)",Original,2025,4,SS,,"Action, Anime",,,,,"Tombg, DaRdog81, Outhere, Dicentim, Burger, SuperTilted, LoadedWeapon",1.0.0,,"nFozzy, FlexDMD, DOF, VR, Hybrid",WUQkJu9X5Q
 "City Ship (J. Esteban 1978)","City Ship (J. Esteban 1978)",J. Esteban,1978,2,EM,,"Outer Space, Fantasy","https://www.ipdb.org/machine.cgi?id=5130",5130,,,"Halen, Loserman76, Teisen",1.2,,,4K1paJclVM
 "City Slicker (Bally 1987)","City Slicker (Bally 1987)",Bally,1987,4,SS,,"Crime, Mobsters, Police","http://www.ipdb.org/machine.cgi?id=527",527,,"Greg Kmiec","Bigus1, Mistermixer, Bord",1.0,cityslck,"MOD",SKSjqr2z4i
 "City Slicker (Bally 1987)","City Slicker (Bally 1987)",Bally,1987,4,SS,,"Crime, Mobsters, Police","http://www.ipdb.org/machine.cgi?id=527",527,,"Greg Kmiec","Mistermixer, Destruk, Kiwi, Tom, Arngrim, Bord, TAB",1.0,cityslck,,4cV9S736
@@ -1119,11 +1120,11 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Table 22","Deadpool (Zen Studios 2014)",Zen Studios,2014,4,,,"Licensed Theme, Comics, Superheroes",,,,"Tamas Pokrocz","Zen Studios, Tamas Pokrocz",,,,3v8yi2wi1e
 "MARVEL_Deadpool","Deadpool (Zen Studios 2014)",Zen Studios,2014,4,,,"Licensed Theme, Comics, Superheroes",,,,"Tamas Pokrocz","Zen Studios",,,,564hUGaz
 "Deadpool (Stern 2018)","Deadpool (Stern 2018)",Stern,2018,,,,"Comics, Superheroes","https://www.ipdb.org/machine.cgi?id=6558",6558,,,"Wbshrk",2.0,,,dr_WogaS6Q
-"Dealers Choice (Williams 1973)","Dealers Choice (Williams 1973)",Williams,1973,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=649",649,,"Norm Clark","Teisen, Loserman76",1.0,,"MOD",sR6nCwKKny
-"Dealers Choice (Williams 1973)","Dealers Choice (Williams 1973)",Williams,1973,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=649",649,,"Norm Clark","Martin Brunker, Clovis Morato",2.0,,,0I6gDBPZYV
-"Dealers Choice (Williams 1973)","Dealers Choice (Williams 1973)",Williams,1973,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=649",649,,"Norm Clark","Loserman76",1.0.0,,,4QfCjScu
-"Dealers Choice (Williams 1973)","Dealers Choice (Williams 1973)",Williams,1973,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=649",649,,"Norm Clark","Popotte",1.2,,,XrsbLaU2pu
-"Dealers Choice (Williams 1973)","Dealers Choice (Williams 1973)",Williams,1973,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=649",649,,"Norm Clark","Kees",1.01,,,FOI4uq80
+"Dealer's Choice (Williams 1973)","Dealer's Choice (Williams 1973)",Williams,1973,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=649",649,,"Norm Clark","Teisen, Loserman76",1.0,,"MOD",sR6nCwKKny
+"Dealer's Choice (Williams 1973)","Dealer's Choice (Williams 1973)",Williams,1973,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=649",649,,"Norm Clark","Martin Brunker, Clovis Morato",2.0,,,0I6gDBPZYV
+"Dealer's Choice (Williams 1973)","Dealer's Choice (Williams 1973)",Williams,1973,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=649",649,,"Norm Clark","Loserman76",1.0.0,,,4QfCjScu
+"Dealer's Choice (Williams 1973)","Dealer's Choice (Williams 1973)",Williams,1973,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=649",649,,"Norm Clark","Popotte",1.2,,,XrsbLaU2pu
+"Dealer's Choice (Williams 1973)","Dealer's Choice (Williams 1973)",Williams,1973,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=649",649,,"Norm Clark","Kees",1.01,,,FOI4uq80
 "Death Note (Original 2024)","Death Note (Original 2024)",Original,2024,4,EM,,"Anime, Thriller, Mystery",,,,,"Anthias",1.2,,,S0RzPJWZdQ
 "Death Proof (Original 2021)","Death Proof (Original 2021)",Original,2021,,SS,,"Movie",,,,,"Balutito, Herweh, mussinger",2.0,mousn_l4,"MOD",Qa-4XdNy
 "Death Proof (Original 2021)","Death Proof (Original 2021)",Original,2021,,SS,,"Movie",,,,,"Gman77, ZandysArcade, Balutito, Herweh, mussinger",1.1,mousn_l4,"MOD",Q7exB47tYh
