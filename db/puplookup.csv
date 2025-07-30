@@ -256,8 +256,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Asteroid Annie and the Aliens (Gottlieb 1980)","Asteroid Annie and the Aliens (Gottlieb 1980)",Gottlieb,1980,1,SS,,"Science Fiction, Outer Space, Cards, Gambling, Aliens","http://www.ipdb.org/machine.cgi?id=98",98,,"John Buras","BorgDog, HauntFreaks",1.1,,,EBIlxsRP
 "Asteroids (Original 2016)","Asteroids (Original 2016)",Original,2016,,SS,,"Video Game",,,,,"TheGhost787",1.0,,,1qKvF0zV
 "Astral Defender (Original 2018)","Astral Defender (Original 2018)",Original,2018,,SS,,"Science Fiction, Outer Space",,,,,"Ronimhoff",1.0,,,SsU3cQRN
+"Astro (Gottlieb 1971)","Astro (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Outer Space","http://www.ipdb.org/machine.cgi?id=99",99,,"Ed Krynski","Popotte",FizX3.3V1,,"BAM, FizX",89PDw9Oae0
 "Astro (Gottlieb 1971)","Astro (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Outer Space","http://www.ipdb.org/machine.cgi?id=99",99,,"Ed Krynski","BorgDog",1.2,,,2XJqy5NS
-"Astro (Gottlieb 1971)","Astro (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Outer Space","http://www.ipdb.org/machine.cgi?id=99",99,,"Ed Krynski","Popotte",1.0.0,,"FizX",89PDw9Oae0
 "Astronaut (Chicago Coin 1969)","Astronaut (Chicago Coin 1969)",Chicago Coin,1969,2,EM,,"Astronauts, Outer Space","https://www.ipdb.org/machine.cgi?id=101",101,,"Al Schlappa, Jerry Koci, John Gore","Friel01, Loserman76",1.1.0,,,KykMmMlAwX
 "Astronaut (Chicago Coin 1969)","Astronaut (Chicago Coin 1969)",Chicago Coin,1969,2,EM,,"Astronauts, Outer Space","https://www.ipdb.org/machine.cgi?id=101",101,,"Al Schlappa, Jerry Koci, John Gore","Margoni",1.0,,,YDS9FYcDz3
 "Atari 2600 (Original 2022)","Atari 2600 (Original 2022)",Original,2022,,SS,,"Video Game, Game Console",,,,,"Icepinball, Fiftysounds, JPSalas",1.01,,"MOD",6i3-20eepR
@@ -1075,7 +1075,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Criterium 77 (Taito do Brasil 1977)","Criterium 77 (Taito do Brasil 1977)",Taito do Brasil,1977,,EM,,"Sports, Bicycle Racing",,,,,"Exegeta",1.0,,,DyCvx9fW
 "Cross Country (Bally 1963)","Cross Country (Bally 1963)",Bally,1963,1,EM,,"Travel, American Places","https://www.ipdb.org/machine.cgi?id=598",598,,"Ted Zale","Popotte",1.0,,,7Fd34jD4xo
 "Cross Town (Gottlieb 1966)","Cross Town (Gottlieb 1966)",Gottlieb,1966,1,EM,,"City Living","https://www.ipdb.org/machine.cgi?id=601",601,,"Ed Krynski","Bord, Scottacus",1.2.0,,,IMmptpqd
-"Crossword (Williams 1959)","Crossword (Williams 1959)",Williams,1959,1,EM,,"Games, Recreation, Puzzles","https://www.ipdb.org/machine.cgi?id=605",605,,"Harry Williams","Popotte",1.0.0,,"FizX",Qbg_XNGqoN
+"Crossword (Williams 1959)","Crossword (Williams 1959)",Williams,1959,1,EM,,"Games, Recreation, Puzzles","https://www.ipdb.org/machine.cgi?id=605",605,,"Harry Williams","Popotte",FizX3.3V1,,"FizX, BAM",Qbg_XNGqoN
 "Table 161","Crypt of the Necrodancer Pinball (Zen Studios 2023)",Zen Studios,2023,,,,"Video Game",,,,"Gergely Vadocz","Zen Studios",,,,vq5sBd4C_u
 "Crysis (Original 2018)","Crysis (Original 2018)",Original,2018,,SS,,"Video Game",,,,,"Ivantba, Xenonph, Rothbauerw",1.2,,,8eBqlcV5
 "Crystal-Ball (Automaticos 1970)","Crystal-Ball (Automaticos 1970)",Automaticos,1970,1,EM,,"Fortune Telling","https://www.ipdb.org/machine.cgi?id=5498",5498,,,"Ext2k, JPSalas",1.0.0,,"VR, MOD, Mixed Reality",MzE5Y6Cqhi
@@ -1347,11 +1347,11 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Eclipse (Gottlieb 1982)","Eclipse (Gottlieb 1982)",Gottlieb,1982,4,SS,,"Mysticism","http://www.ipdb.org/machine.cgi?id=756",756,,"John Buras, Adolf Seitz Jr.","RajoJoey, BorgDog, Rawd",1.0.0,,"VR, nFozzy, LUT, MOD",fj5gMrS5Vk
 "Eclipse (Gottlieb 1982)","Eclipse (Gottlieb 1982)",Gottlieb,1982,4,SS,,"Mysticism","http://www.ipdb.org/machine.cgi?id=756",756,,"John Buras, Adolf Seitz Jr.","BorgDog, HauntFreaks, IamNaN, Bord",1.0.0,,,pJQlLh6_
 "Eddie (Original 2019)","Eddie (Original 2019)",Original,2019,,SS,,"Music",,,,,"fastdraw",1.1,,,es9g51l5
+"Egg Head (Gottlieb 1961)","Egg Head (Gottlieb 1961)",Gottlieb,1961,1,EM,,"Games, Board Games, Tic-Tac-Toe","https://www.ipdb.org/machine.cgi?id=758",758,,"Wayne Neyens","Popotte",FizX3.3V1,,"BAM, FizX",mAbK6R0BKs
 "Egg Head (Gottlieb 1961)","Egg Head (Gottlieb 1961)",Gottlieb,1961,1,EM,,"Games, Board Games, Tic-Tac-Toe","https://www.ipdb.org/machine.cgi?id=758",758,,"Wayne Neyens","DarthVito, Teisen, RajoJoey",1.0.0,,"VR",ALRifpzzHZ
 "Egg Head (Gottlieb 1961)","Egg Head (Gottlieb 1961)",Gottlieb,1961,1,EM,,"Games, Board Games, Tic-Tac-Toe","https://www.ipdb.org/machine.cgi?id=758",758,,"Wayne Neyens","Teisen, Loserman76, Foxyt, GNance",1.1.0,,"MOD",D_vArD1ecE
 "Egg Head (Gottlieb 1961)","Egg Head (Gottlieb 1961)",Gottlieb,1961,1,EM,,"Games, Board Games, Tic-Tac-Toe","https://www.ipdb.org/machine.cgi?id=758",758,,"Wayne Neyens","Foxyt, Loserman76, GNance",1.0.0f-dof,,,arSxaYvl
 "Egg Head (Gottlieb 1961)","Egg Head (Gottlieb 1961)",Gottlieb,1961,1,EM,,"Games, Board Games, Tic-Tac-Toe","https://www.ipdb.org/machine.cgi?id=758",758,,"Wayne Neyens","Loserman76, GNance",1.0.0f,,,gGoZTni00k
-"Egg Head (Gottlieb 1961)","Egg Head (Gottlieb 1961)",Gottlieb,1961,1,EM,,"Games, Board Games, Tic-Tac-Toe","https://www.ipdb.org/machine.cgi?id=758",758,,"Wayne Neyens","Popotte",1.0.0,,"FizX",mAbK6R0BKs
 "Eight Ball (Bally 1977)","Eight Ball (Bally 1977)",Bally,1977,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=760",760,,"George Christian","JPSalas, Popotte",5.5.0,eightbll,"SSF",RcqGEY7b
 "Eight Ball (Bally 1977)","Eight Ball (Bally 1977)",Bally,1977,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=760",760,,"George Christian","Popotte",1.00,eightbll,,5182Gt5kKh
 "Eight Ball (Bally 1977)","Eight Ball (Bally 1977)",Bally,1977,4,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=760",760,,"George Christian","NitroNimbus, Popotte, SLAMT1LT",2.0,eightbll,"MOD",J6r5UKN0Dm
@@ -1877,7 +1877,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Hang Glider (Bally 1976)","Hang Glider (Bally 1976)",Bally,1976,4,EM,,"Sports, Hang Gliding","https://www.ipdb.org/machine.cgi?id=1112",1112,,"Jim Patla","Mustang1961, Loserman76",1.0e,,"MOD",kh5NVIh36Y
 "Hang Glider (Bally 1976)","Hang Glider (Bally 1976)",Bally,1976,4,EM,,"Sports, Hang Gliding","https://www.ipdb.org/machine.cgi?id=1112",1112,,"Jim Patla","Loserman76, Updon719",1.0.0f,,,F_oJXHjW
 "Hang Glider (Bally 1976)","Hang Glider (Bally 1976)",Bally,1976,4,EM,,"Sports, Hang Gliding","https://www.ipdb.org/machine.cgi?id=1112",1112,,"Jim Patla","VPW, Loserman76",1.2,,"VR, MOD, Hybrid, SSF, FSS",K3mZhWVo
-"Hang Glider (Bally 1976)","Hang Glider (Bally 1976)",Bally,1976,4,EM,,"Sports, Hang Gliding","https://www.ipdb.org/machine.cgi?id=1112",1112,,"Jim Patla","Popotte, Updon719",1.0.0,,"FizX",9x8H7n0yH2
+"Hang Glider (Bally 1976)","Hang Glider (Bally 1976)",Bally,1976,4,EM,,"Sports, Hang Gliding","https://www.ipdb.org/machine.cgi?id=1112",1112,,"Jim Patla","Popotte, Updon719",FizX3.3V1,,"BAM, FizX",9x8H7n0yH2
 "Hank Williams Pinball (Original 2022)","Hank Williams Pinball (Original 2022)",Original,2022,,EM,,"Music",,,,,"Capnclaw, Loserman76, HiRez00",1.0,,"Music, MOD, VPU Patch",y0q1XDeOJf
 "Hannibal Lecter (Original 2022)","Hannibal Lecter (Original 2022)",Original,2022,,SS,,"Movie, TV Show, Horror",,,,,"VP_Cooks, JPSalas",1.0.0,,"FlexDMD, MOD",mNXhk6gu8D
 "Hans Zimmer (Original 2025)","Hans Zimmer (Original 2025)",Original,2025,4,SS,,"Music, Movie",,,,,"pacotron, Davor, JPSalas",1.0.0,,"Music",U8y_NnKm4W
@@ -1951,7 +1951,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "High Hand (Gottlieb 1973)","High Hand (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1173",1173,,"Ed Krynski","RajoJoey, Loserman76, GNance",1.0.0,,"Hybrid, VR, FSS, LUT",NoVYBs7Hdg
 "High Hand (Gottlieb 1973)","High Hand (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1173",1173,,"Ed Krynski","Bigus1, Loserman76, GNance, Chris Aguilar",1.0,,"MOD",MFXNTbwdy9
 "High Hand (Gottlieb 1973)","High Hand (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1173",1173,,"Ed Krynski","Loserman76, GNance, Pinuck, Chris Aguilar, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,aSM20ope
-"High Hand (Gottlieb 1973)","High Hand (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1173",1173,,"Ed Krynski","Popotte",1.0.0,,"FizX",gMGETrtbot
+"High Hand (Gottlieb 1973)","High Hand (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1173",1173,,"Ed Krynski","Popotte",FizX3.3V1,,"BAM, FizX",gMGETrtbot
 "High Roller Casino (Stern 2001)","High Roller Casino (Stern 2001)",Stern,2001,4,SS,,"Gambling","http://www.ipdb.org/machine.cgi?id=4502",4502,,"John Borg","Sixtoe, DJRobX, Dids666, Bord",1.0.0,hirolcas,"VR",UN-ZgD2y3U
 "High Roller Casino (Stern 2001)","High Roller Casino (Stern 2001)",Stern,2001,4,SS,,"Gambling","http://www.ipdb.org/machine.cgi?id=4502",4502,,"John Borg","Morttis, DJRobX, Dids666, Arconovum",1.1-1.0,hirolcas,"FSS, MOD",GtA48Hye
 "High Roller Casino (Stern 2001)","High Roller Casino (Stern 2001)",Stern,2001,4,SS,,"Gambling","http://www.ipdb.org/machine.cgi?id=4502",4502,,"John Borg","DJRobX, Dids666, Bord",1.1,hirolcas,,sOWxJaXb
@@ -2453,9 +2453,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","Psiomicron, Sixtoe, Freneticamnesic",1.0.4,kpv106,"MOD, VR",pqmy7RLlSC
 "Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","Morttis, Arconovum, Bigus1, ICPjuggla",1.0-1.0,kpv106,"FSS, MOD",HlRz9UG9
 "Kingpin (Capcom 1996)","Kingpin (Capcom 1996)",Capcom,1996,4,SS,,"Police, Mobsters, Crime","http://www.ipdb.org/machine.cgi?id=4000",4000,,"Mark Ritchie","ICPjuggla",1.2,kpv106,,85M0M7pd
+"Kings & Queens (Gottlieb 1965)","Kings & Queens (Gottlieb 1965)",Gottlieb,1965,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1381",1381,,"Wayne Neyens","Popotte",FizX3.3V1,,"BAM, FizX",pEMqJmcU23
 "Kings & Queens (Gottlieb 1965)","Kings & Queens (Gottlieb 1965)",Gottlieb,1965,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1381",1381,,"Wayne Neyens","Okobojimusky, Loserman76, GNance",1.1,,,FVHIcy4jAI
 "Kings & Queens (Gottlieb 1965)","Kings & Queens (Gottlieb 1965)",Gottlieb,1965,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1381",1381,,"Wayne Neyens","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,mHkuYC4J
-"Kings & Queens (Gottlieb 1965)","Kings & Queens (Gottlieb 1965)",Gottlieb,1965,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1381",1381,,"Wayne Neyens","Popotte",1.0.0,,"FizX",pEMqJmcU23
 "Kings of Steel (Bally 1984)","Kings of Steel (Bally 1984)",Bally,1984,4,SS,,"Historical, Knights, Cards","http://www.ipdb.org/machine.cgi?id=1382",1382,,"Greg Kmiec","UnclePaulie, Redbone, Apophis, HauntFreaks, DarthVito, TAB, VPW Team",2.0,kosteel,"Hybrid, VR, FSS, SSF, nFozzy, Fleep, VLM",-82VF0EfyZ
 "Kings of Steel (Bally 1984)","Kings of Steel (Bally 1984)",Bally,1984,4,SS,,"Historical, Knights, Cards","http://www.ipdb.org/machine.cgi?id=1382",1382,,"Greg Kmiec","Bigus1, 32assassin, Chinzman93",1.2,kosteel,"MOD",THSeasgMwF
 "Kings of Steel (Bally 1984)","Kings of Steel (Bally 1984)",Bally,1984,4,SS,,"Historical, Knights, Cards","http://www.ipdb.org/machine.cgi?id=1382",1382,,"Greg Kmiec","TT11, 32assassin, Chinzman93",1.0,kosteel,"MOD",PRAPgxnR54
@@ -3952,9 +3952,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Star Ship (Bally 1976)","Star Ship (Bally 1976)",Bally,1976,2,EM,,"Space Exploration, Outer Space, Science Fiction","https://www.ipdb.org/machine.cgi?id=3498",3498,,"Greg Kmiec","Ext2k, JPSalas, Borgdrone",2.1,,"Hybrid, VR, MOD, Mixed Reality",DGcSLI_k5e
 "Star Ship (Bally 1976)","Star Ship (Bally 1976)",Bally,1976,2,EM,,"Space Exploration, Outer Space, Science Fiction","https://www.ipdb.org/machine.cgi?id=3498",3498,,"Greg Kmiec","JPSalas, Borgdrone",1.0.2,,,8cBN-4GOnW
 "Star Tours (Original 2024)","Star Tours (Original 2024)",Original,2024,4,SS,,"Science Fiction",,,,,"Kcirrick, Shamrock1980, Bord, Cliffy, MachWon",2.0,alpok_l2,"MOD",iOek5Kd6d1
+"Star Trek (Gottlieb 1971)","Star Trek (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Outer Space, Fantasy","http://www.ipdb.org/machine.cgi?id=2354",2354,,"Steve Ritchie","Popotte",FizX3.3V1,,"BAM, FizX",yP72EEnmno
 "Star Trek (Gottlieb 1971)","Star Trek (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Outer Space, Fantasy","http://www.ipdb.org/machine.cgi?id=2354",2354,,"Steve Ritchie","HauntFreaks, BorgDog, Cliffy",1.1,,"MOD",ffux4BvLzT
 "Star Trek (Gottlieb 1971)","Star Trek (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Outer Space, Fantasy","http://www.ipdb.org/machine.cgi?id=2354",2354,,"Steve Ritchie","BorgDog",1.1,,,6ZOPcrFP
-"Star Trek (Gottlieb 1971)","Star Trek (Gottlieb 1971)",Gottlieb,1971,1,EM,,"Outer Space, Fantasy","http://www.ipdb.org/machine.cgi?id=2354",2354,,"Steve Ritchie","Popotte",1.0.0,,"FizX",yP72EEnmno
 "Star Trek (Bally 1979)","Star Trek (Bally 1979)",Bally,1979,4,SS,,"Licensed Theme, Outer Space, Science Fiction, Space Fantasy, Movie","http://www.ipdb.org/machine.cgi?id=2355",2355,,"Gary Gayton","Rothbauerw",2.1.1,startreb,"FSS, MOD, VR, Hybrid, SSF, Fleep, nFozzy",52WOCBKf
 "Star Trek (Bally 1979)","Star Trek (Bally 1979)",Bally,1979,4,SS,,"Licensed Theme, Outer Space, Science Fiction, Space Fantasy, Movie","http://www.ipdb.org/machine.cgi?id=2355",2355,,"Gary Gayton","GTXJoe, Rothbauerw",1.0,startreb,"MOD",vFvFZ_Zz
 "Star Trek (Data East 1991)","Star Trek (Data East 1991)",Data East,1991,,SS,,"Licensed Theme, Outer Space, Science Fiction, Space Fantasy, Movie","http://www.ipdb.org/machine.cgi?id=2356",2356,,"Joe Kaminkow, Ed Cebula","Hanibal, 32assassin, Versins77",1.1.1,trek_201,"MOD, VR, Hybrid",fr-RCkfbjf
@@ -4058,8 +4058,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Star Wars Trilogy Special Edition (Sega 1997)","Star Wars Trilogy Special Edition (Sega 1997)",Sega,1997,6,SS,,"Licensed Theme, Science Fiction, Space Fantasy, Movie","http://www.ipdb.org/machine.cgi?id=4054",4054,,"Joe Kaminkow, Joe Balcer","32assassin",0.999,swtril43,,Q7srrFLn
 "Star Wars Trilogy Special Edition (Sega 1997)","Star Wars Trilogy Special Edition (Sega 1997)",Sega,1997,6,SS,,"Licensed Theme, Science Fiction, Space Fantasy, Movie","http://www.ipdb.org/machine.cgi?id=4054",4054,,"Joe Kaminkow, Joe Balcer","Hanibal, JPSalas",1.6,swtril43,"4k",5tgTsKvh
 "Star Wars Trilogy Special Edition (Sega 1997)","Star Wars Trilogy Special Edition (Sega 1997)",Sega,1997,6,SS,,"Licensed Theme, Science Fiction, Space Fantasy, Movie","http://www.ipdb.org/machine.cgi?id=4054",4054,,"Joe Kaminkow, Joe Balcer","TheGhost787, 32assassin",1.0,swtril43,,mJH39ywYDx
+"Star-Jet (Bally 1963)","Star-Jet (Bally 1963)",Bally,1963,2,EM,,"Outer Space, Fantasy","https://www.ipdb.org/machine.cgi?id=2347",2347,,"Ted Zale","Popotte",FizX3.3V1,,"BAM, FizX",5o0n7RzJ0C
 "Star-Jet (Bally 1963)","Star-Jet (Bally 1963)",Bally,1963,2,EM,,"Outer Space, Fantasy","https://www.ipdb.org/machine.cgi?id=2347",2347,,"Ted Zale","Bord, Rothbauerw",1.2.0,,"VR, Hybrid",ktnXkO0X
-"Star-Jet (Bally 1963)","Star-Jet (Bally 1963)",Bally,1963,2,EM,,"Outer Space, Fantasy","https://www.ipdb.org/machine.cgi?id=2347",2347,,"Ted Zale","Popotte",1.0.0,,"FizX",5o0n7RzJ0C
 "Stardust (Williams 1971)","Stardust (Williams 1971)",Williams,1971,4,EM,,"Happiness, Dancing","https://www.ipdb.org/machine.cgi?id=2359",2359,,"Norm Clark","Larouillas, Ext2k, JPSalas",1.0.0,,"Music, MOD, VR, Hybrid",2bxPbbcDak
 "Stardust (Williams 1971)","Stardust (Williams 1971)",Williams,1971,4,EM,,"Happiness, Dancing","https://www.ipdb.org/machine.cgi?id=2359",2359,,"Norm Clark","Ext2k, JPSalas, TastyWasps",1.0.0,,"VR",-paFBOWzxk
 "Stardust (Williams 1971)","Stardust (Williams 1971)",Williams,1971,4,EM,,"Happiness, Dancing","https://www.ipdb.org/machine.cgi?id=2359",2359,,"Norm Clark","JPSalas, STAT, RetroM4n, Leeoneil, Albert",5.5.0,,"LUT",CuxlVFK2
@@ -4714,10 +4714,10 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Tommy Boy (Original 2021)","Tommy Boy (Original 2021)",Original,2021,1,EM,,"Movie",,,,,"MellerMeller, Batch",1.0,,,IFe_O5ZeeC
 "Tool (Original 2020)","Tool (Original 2020)",Original,2020,,SS,,"Music, Heavy Metal",,,,,"Darthwhat, TeamTuga, JPSalas, pedroperes02",1.0.0,,"MOD",5opI9oMMlM
 "Tool (Original 2020)","Tool (Original 2020)",Original,2020,,SS,,"Music, Heavy Metal",,,,,"Darthwhat, Destruk, Hawkeyez88, Goldchicco",1.1,,"Music, FlexDMD, MOD",AWo3MJjw
+"Top Card (Gottlieb 1974)","Top Card (Gottlieb 1974)",Gottlieb,1974,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=2580",2580,,"Jeff Brenner","Popotte",FizX3.3V1,,"BAM, FizX",WmIhA_NNe5
 "Top Card (Gottlieb 1974)","Top Card (Gottlieb 1974)",Gottlieb,1974,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=2580",2580,,"Jeff Brenner","RajoJoey, Loserman76, GNance",1.0.0,,"VR, Hybrid, LUT, MOD",N5-J4_rtPy
 "Top Card (Gottlieb 1974)","Top Card (Gottlieb 1974)",Gottlieb,1974,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=2580",2580,,"Jeff Brenner","Leeoneil, Loserman76, GNance, Pinuck, Chris Aguilar, BorgDog, Arngrim, HauntFreaks, JPSalas",1.1.0,,"SSF, MOD, VPU Patch",iIAq4OUT_9
 "Top Card (Gottlieb 1974)","Top Card (Gottlieb 1974)",Gottlieb,1974,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=2580",2580,,"Jeff Brenner","Loserman76, GNance, Pinuck, Chris Aguilar, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,"SSF",qojwopi4
-"Top Card (Gottlieb 1974)","Top Card (Gottlieb 1974)",Gottlieb,1974,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=2580",2580,,"Jeff Brenner","Popotte",1.0.0,,"FizX",WmIhA_NNe5
 "Top Dawg (Williams 1988)","Top Dawg (Williams 1988)",Williams,1988,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal, VPW Crew",1.0,tdawg_l1,"VR",B8TT_mqT4w
 "Top Dawg (Williams 1988)","Top Dawg (Williams 1988)",Williams,1988,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal",1.0.0,tdawg_l1,,ZSH3f9cM
 "Top Gun (Original 2019)","Top Gun (Original 2019)",Original,2019,4,SS,,"Aviation, Movie",,,,,"Zimbakin, JPSalas",1.0b,sshuttle,"MOD",ehCWCc--
