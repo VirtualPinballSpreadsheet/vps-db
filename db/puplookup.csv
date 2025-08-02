@@ -21,7 +21,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "24 (Stern 2009)","24 (Stern 2009)",Stern,2009,4,SS,,"Licensed Theme, TV Show, Crime","http://www.ipdb.org/machine.cgi?id=5419",5419,,"Steve Ritchie","Morttis, Arconovum, Bigus1, 32assassin, Freneticamnesic",1.0-2.6,twenty4_150,"FSS, MOD",NNIODYYy
 "24 (Stern 2009)","24 (Stern 2009)",Stern,2009,4,SS,,"Licensed Theme, TV Show, Crime","http://www.ipdb.org/machine.cgi?id=5419",5419,,"Steve Ritchie","32assassin, Freneticamnesic",2.0.1,twenty4_150,,01rWOPkk
 "250 cc (Inder 1992)","250 cc (Inder 1992)",Inder,1992,4,SS,,"Sports, Motorcycle Racing","http://www.ipdb.org/machine.cgi?id=4089",4089,,,"JPSalas, Themer, Arngrim",5.5.1,ind250cc,"LUT",Gw5kOfmC
-"250 cc (Inder 1992)","250 cc (Inder 1992)",Inder,1992,4,SS,,"Sports, Motorcycle Racing","http://www.ipdb.org/machine.cgi?id=4089",4089,,,"Ext2k, JPSalas, TastyWasps",2.0.1,ind250cc,"VR, Mixed Reality",4YKrmqyUqy
+"250 cc (Inder 1992)","250 cc (Inder 1992)",Inder,1992,4,SS,,"Sports, Motorcycle Racing","http://www.ipdb.org/machine.cgi?id=4089",4089,,,"Ext2k, JPSalas, TastyWasps",2.0.2,ind250cc,"VR, Mixed Reality",4YKrmqyUqy
 "3-In-Line (Bally 1963)","3-In-Line (Bally 1963)",Bally,1963,4,EM,,"Majorettes","https://www.ipdb.org/machine.cgi?id=2549",2549,,"Ted Zale","Alois",1.2,,,ykWYxaFn
 "300 (Maresa 1975)","300 (Maresa 1975)",Maresa,1975,1,EM,,"Sports, Bowling","https://www.ipdb.org/machine.cgi?id=4633",4633,,,"NitroNimbus",2.0,,"MOD",UDkd2BZr-i
 "300 Prepare for Glory (Original 2008)","300 Prepare for Glory (Original 2008)",Original,2008,1,,,"History, Movie",,,,,"Pinner, Brad Bambara",1.01,,"MOD",W_BvZdYyJq
@@ -911,7 +911,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Chris Cornell (Original 2020)","Chris Cornell (Original 2020)",Original,2020,,SS,,"Music",,,,,"Darthwhat, Aaron James, Destruk, Goldchicco",1.1.0,,"Music, MOD",2L5_jrN3
 "Christmas Pinball (Original 2018)","Christmas Pinball (Original 2018)",Original,2018,,SS,,"Christmas",,,,,"Xenonph, Lizard, Flupper, HiRez00, Rsperanza, STAT, BorgDog, JPSalas",4.2,playboy,"Music, MOD",TMxh57kO
 "Christmas Vaction (Original 2023)","Christmas Vaction (Original 2023)",Original,2023,,SS,,"Movie, Comedy, Christmas",,,,,"Virtualman, GauGau",1.2,,,B-mbAo7TqV
-"Chrono Trigger (Original 2022)","Chrono Trigger (Original 2022)",Original,2022,,SS,,"Video Game",,,,,"Chug, Wylte, Kiltem, Smaugdragon, FriscoPinball, Apophis, JPSalas",1.17,,"SSF, FlexDMD",pp-6iuZE9F
+"Chrono Trigger (Original 2022)","Chrono Trigger (Original 2022)",Original,2022,,SS,,"Video Game",,,,,"Chug, Wylte, Kiltem, Smaugdragon, FriscoPinball, Apophis, JPSalas",1.18,,"SSF, FlexDMD, nFozzy, Fleep, LUT, DOF, Retheme",pp-6iuZE9F
 "Chuck Berry (Original 2020)","Chuck Berry (Original 2020)",Original,2020,4,SS,,"Music",,,,,"John22, JPSalas",1.0,lostwrld,"Music",mmlgiRV7
 "Circus (Zaccaria 1977)","Circus (Zaccaria 1977)",Zaccaria,1977,4,EM,,"Happiness, Circus, Carnival","http://www.ipdb.org/machine.cgi?id=518",518,,,"Teisen, Loserman76, GNance, JPSalas, Pinuck, HauntFreaks, BorgDog, Arngrim",1.0.0,,"MOD",9qGnd8h65Z
 "Circus (Zaccaria 1977)","Circus (Zaccaria 1977)",Zaccaria,1977,4,EM,,"Happiness, Circus, Carnival","http://www.ipdb.org/machine.cgi?id=518",518,,,"Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,P8m7c4to
@@ -4638,6 +4638,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Witcher, The (Original 2020)","Witcher, The (Original 2020)",Original,2020,4,SS,,"Fantasy, Video Game, TV Show",,,,,"Solters, Siggi, 32assassin",1.0,csmic_l1,"VR, MOD",DyVNnuIS3i
 "Witcher, The (Original 2020)","Witcher, The (Original 2020)",Original,2020,4,SS,,"Fantasy, Video Game, TV Show",,,,,"Siggi, 32assassin",1.0.0,csmic_l1,"Music, MOD",mW3jP1tq
 "Wizard, The (Original 2021)","Wizard, The (Original 2021)",Original,2021,1,EM,,"Movie, Kids, Video Game",,,,,"MellerMeller, Batch, BorgDog, HauntFreaks",1.5,,"Kids",2I-ZhnUxgy
+"Woodcutter, The (Original 2025)","Woodcutter, The (Original 2025)",Original,2025,4,SS,,"Outdoor Activities",,,,,"Anthias, JPSalas",1.0,,"Retheme",GcfJ8nY4W-
 "X Files, The (Original 2021)","X Files, The (Original 2021)",Original,2021,,SS,,"Science Fiction, TV Show",,,,,"Stevegooner1234, Mark Snow, Lizard, Xenonph, Wildman",1.0,,"Music, MOD",e7CgUsgH6K
 "X Files, The (Sega 1997)","X Files, The (Sega 1997)",Sega,1997,6,SS,,"Aliens, Conspiracy, Supernatural, Licensed, TV Show","http://www.ipdb.org/machine.cgi?id=4137",4137,,"Rob Hurtado","Ejse83, Siggi, TastyWasps, JPSalas, SliderPoint",1.0.0,xfiles,"Hybrid, VR, MOD, nFozzy, Fleep",1IhPn7Mr57
 "X Files, The (Sega 1997)","X Files, The (Sega 1997)",Sega,1997,6,SS,,"Aliens, Conspiracy, Supernatural, Licensed, TV Show","http://www.ipdb.org/machine.cgi?id=4137",4137,,"Rob Hurtado","Hanibal, SliderPoint, JPSalas",1.9,xfiles,"MOD",sj6R53Tf
