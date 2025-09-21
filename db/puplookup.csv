@@ -2700,7 +2700,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Masters of the Universe (Original 2018)","Masters of the Universe (Original 2018)",Original,2018,,SS,,"Animation, Kids, TV Show",,,,,"TerryRed, Hyperion, rom",1.0.0,,"Kids, Music, MOD",4rOPu3T5GZ
 "Masters of the Universe (Original 2018)","Masters of the Universe (Original 2018)",Original,2018,,SS,,"Animation, Kids, TV Show",,,,,"Open6l, rom",1.0.0,,"MOD",z0l3GFPVgM
 "Masters of the Universe (Original 2021)","Masters of the Universe (Original 2021)",Original,2021,,SS,,"Animation, Kids, TV Show",,,,,"chepas, Rompin",0.9,,"Retheme",gcOLfu0bjy
-"Mata Hari (Bally 1978)","Mata Hari (Bally 1978)",Bally,1978,4,SS,,"Historical, Espionage","http://www.ipdb.org/machine.cgi?id=4501",4501,,"Jim Patla","Styx, JPSalas",1.0,matahari,"LUT",jypCwWJdQT
+"Mata Hari (Bally 1978)","Mata Hari (Bally 1978)",Bally,1978,4,SS,,"Historical, Espionage","http://www.ipdb.org/machine.cgi?id=4501",4501,,"Jim Patla","Styx, JPSalas, Halen",1.1,matahari,"LUT",jypCwWJdQT
 "Mata Hari (Bally 1978)","Mata Hari (Bally 1978)",Bally,1978,4,SS,,"Historical, Espionage","http://www.ipdb.org/machine.cgi?id=4501",4501,,"Jim Patla","UnclePaulie, Apophis, Redbone, HauntFreaks, Tomate, VPW Team",2.0.0,matahari,"Hybrid, VR, incl. nvram, nFozzy, Fleep",4E9ujYYkWq
 "Mata Hari (Bally 1978)","Mata Hari (Bally 1978)",Bally,1978,4,SS,,"Historical, Espionage","http://www.ipdb.org/machine.cgi?id=4501",4501,,"Jim Patla","Bigus1, Allknowing2012",2.1,matahari,"MOD",yQ0r4Lwj
 "Mata Hari (Bally 1978)","Mata Hari (Bally 1978)",Bally,1978,4,SS,,"Historical, Espionage","http://www.ipdb.org/machine.cgi?id=4501",4501,,"Jim Patla","Arconovum, Allknowing2012",1.21-2.6,matahari,"FastFlips, FSS, MOD",GjI6VCH-
@@ -3436,6 +3436,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Rancho (Williams 1976)","Rancho (Williams 1976)",Williams,1976,2,EM,,"American West","https://www.ipdb.org/machine.cgi?id=1918",1918,,"Harry Williams, Chris Otis","Klodo81, JPSalas, STAT, Wildman",2.0,,"LUT",NbhyViUJjE
 "Rancho (Williams 1976)","Rancho (Williams 1976)",Williams,1976,2,EM,,"American West","https://www.ipdb.org/machine.cgi?id=1918",1918,,"Harry Williams, Chris Otis","Ext2k, Klodo81, JPSalas, STAT",2.0,,"Hybrid, VR, Mixed Reality",rNZzu2AYwV
 "Rapid Fire (Bally 1982)","Rapid Fire (Bally 1982)",Bally,1982,4,SS,,"Outer Space, Aliens, Combat","http://www.ipdb.org/machine.cgi?id=3568",3568,,"Dennis Nordman","Lizard",1.0,rapidfir,,-5tVwxd5
+"Rat Fink (Original 2025)","Rat Fink (Original 2025)",Original,2025,4,,,"Hot Rod Culture",,,,,"JPSalas, Carlos Guizzo, Halen",1.0.0,,,nya-dnobhA
 "Rat Fink (Original 2016)","Rat Fink (Original 2016)",Original,2016,4,SS,,"Cartoon",,,,,"HauntFreaks, BorgDog, JPSalas, Rothbauerw",1.1,,"Music",0aKEy6kg
 "Rat Race (Williams 1983)","Rat Race (Williams 1983)",Williams,1983,,SS,,"Flipperless","https://www.ipdb.org/machine.cgi?id=3718",3718,,"Steve Kordek, Barry Oursler","Gimli, Paolo (Wild)",1.0,,,Kz76AyCtlx
 "Raven (Gottlieb 1986)","Raven (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Combat","http://www.ipdb.org/machine.cgi?id=1922",1922,,"John Trudeau","RajoJoey, Armyaviation, Rascal, Destruk, TAB",1.0,raven,"VR, FSS, MOD, Hybrid, LUT",MrSqNaLjBD
