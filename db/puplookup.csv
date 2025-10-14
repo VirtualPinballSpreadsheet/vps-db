@@ -2472,7 +2472,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "King Rock (Gottlieb 1972)","King Rock (Gottlieb 1972)",Gottlieb,1972,4,EM,,"Happiness, Music","http://www.ipdb.org/machine.cgi?id=1377",1377,,"Ed Krynski","RajoJoey, Loserman76, Bodydump",1.0.0,,"VR, Hybrid, LUT",GbJ9xQLFR3
 "King Rock (Gottlieb 1972)","King Rock (Gottlieb 1972)",Gottlieb,1972,4,EM,,"Happiness, Music","http://www.ipdb.org/machine.cgi?id=1377",1377,,"Ed Krynski","Loserman76, Bodydump",1.0.0f,,,gXyU8fic
 "King Tut (Bally 1969)","King Tut (Bally 1969)",Bally,1969,1,EM,,"Egyptology, Historical","https://www.ipdb.org/machine.cgi?id=1378",1378,,"Ted Zale","Drinkcristal",1.0.0,,"Hybrid, VR",asLVR1ZoI3
-"King Tut (Williams 1979)","King Tut (Williams 1979)",Williams,1979,,SS,,"Arcade, Bowling",,,,,"Rascal, VPW Crew",1.0,kingt_l1,"VR",1upXueqqRb
+"King Tut (Williams 1979)","King Tut (Williams 1979)",Williams,1979,,SS,,"Arcade, Bowling",,,,,"Rascal",1.0,kingt_l1,"VR",1upXueqqRb
 "King Tut (Williams 1979)","King Tut (Williams 1979)",Williams,1979,,SS,,"Arcade, Bowling",,,,,"Rascal",1.0.0,kingt_l1,,AmBYA8j0
 "King of Diamonds (Gottlieb 1967)","King of Diamonds (Gottlieb 1967)",Gottlieb,1967,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1372",1372,,"Ed Krynski","JCalhoun, Teisen, Loserman76, GNance, Cliffy",1.2.1,,"Fleep, SSF, MOD",W3LEVsLE07
 "King of Diamonds (Gottlieb 1967)","King of Diamonds (Gottlieb 1967)",Gottlieb,1967,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=1372",1372,,"Ed Krynski","Teisen, Loserman76",1.0.0,,"MOD",ZEJv0cQGMU
@@ -2549,7 +2549,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Lawman (Gottlieb 1971)","Lawman (Gottlieb 1971)",Gottlieb,1971,2,EM,,"American West, Law Enforcement","http://www.ipdb.org/machine.cgi?id=1419",1419,,"Ed Krynski","GauGau, Loserman76, GNance, Popotte",1.1.0,,"MOD",-X1to84K8q
 "Lawman (Gottlieb 1971)","Lawman (Gottlieb 1971)",Gottlieb,1971,2,EM,,"American West, Law Enforcement","http://www.ipdb.org/machine.cgi?id=1419",1419,,"Ed Krynski","Loserman76, GNance, Popotte, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,2l92MudD
 "Lazer Lord (Stern 1982)","Lazer Lord (Stern 1982)",Stern,1982,4,SS,,"Fantasy","https://www.ipdb.org/machine.cgi?id=1421",1421,,"Joe Joos Jr.","Fripounet, Granit",1.0,,,Tll4mMYJHO
-"League Champ (Williams 1996)","League Champ (Williams 1996)",Williams,1996,,SS,,"Arcade, Bowling",,,,,"Rascal, VPW Crew",1.1.0,lc_11,"VR",LR2F3xtc5d
+"League Champ (Williams 1996)","League Champ (Williams 1996)",Williams,1996,,SS,,"Arcade, Bowling",,,,,"Rascal",1.1.0,lc_11,"VR",LR2F3xtc5d
 "League Champ (Williams 1996)","League Champ (Williams 1996)",Williams,1996,,SS,,"Arcade, Bowling",,,,,"Rascal, roccodimarco",1.1.0,lc_11,,GQOPKRRw
 "Lectronamo (Stern 1978)","Lectronamo (Stern 1978)",Stern,1978,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1429",1429,,"Mike Kubin","Styx, DomiKamu, 32assassin, Francisco666, JPSalas",1.23,lectrono,"FSS, Hybrid, LUT",VVdIGu7nGR
 "Lectronamo (Stern 1978)","Lectronamo (Stern 1978)",Stern,1978,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1429",1429,,"Mike Kubin","DomiKamu, 32assassin, Francisco666",1.01,lectrono,,yie4Pa7c
@@ -2662,7 +2662,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Marilyn Manson (Original 2021)","Marilyn Manson (Original 2021)",Original,2021,,EM,,"Music, Heavy Metal",,,,,"Darthwhat, Destruk, Hawkeyez88, Goldchicco",1.0.0,,"Music, FlexDMD",6Dk-QSeI
 "Marilyn Monroe Tribute (Original 2022)","Marilyn Monroe Tribute (Original 2022)",Original,2022,,SS,,"Celebrities",,,,,"Icepinball, JPSalas",1.01,flash_l1,"MOD, Retheme",RIXnED5Nod
 "Mariner (Bally 1971)","Mariner (Bally 1971)",Bally,1971,4,EM,,"Sports, Aquatic, Fishing, Scuba Diving","http://www.ipdb.org/machine.cgi?id=1546",1546,,"Ted Zale","Scottacus, Kds70, Onevox, Whirlwind, Bord",2.06,,"VR, FSS, nFozzy, LUT, Fleep",nfZF5lk-
-"Mario Andretti (Gottlieb 1995)","Mario Andretti (Gottlieb 1995)",Gottlieb,1995,4,SS,,"Sports, Auto Racing","https://www.ipdb.org/machine.cgi?id=3793",3793,,"Jon Norris","Rascal, Ryguy417, Ahr1man, Rawd, Steely, Destruk, VPW Crew",2.0.1,,"VR, Hybrid, LUT, FSS, nFozzy, MOD",yIO8Ieyipi
+"Mario Andretti (Gottlieb 1995)","Mario Andretti (Gottlieb 1995)",Gottlieb,1995,4,SS,,"Sports, Auto Racing","https://www.ipdb.org/machine.cgi?id=3793",3793,,"Jon Norris","Rascal, Ryguy417, Ahr1man, Rawd, Steely, Destruk",2.0.1,,"VR, Hybrid, LUT, FSS, nFozzy, MOD",yIO8Ieyipi
 "Mario Andretti (Gottlieb 1995)","Mario Andretti (Gottlieb 1995)",Gottlieb,1995,4,SS,,"Sports, Auto Racing","https://www.ipdb.org/machine.cgi?id=3793",3793,,"Jon Norris","Fredobiwan, Destruk, Darth Soudious, JoePicasso, Rascal, Steely, Flupper, JPSalas",1.1,,,jxW6Ha8bCx
 "Mario Andretti (Gottlieb 1995)","Mario Andretti (Gottlieb 1995)",Gottlieb,1995,4,SS,,"Sports, Auto Racing","https://www.ipdb.org/machine.cgi?id=3793",3793,,"Jon Norris","Ryguy417, Rascal, VPW Team",1.0.0,,"MOD, SSF, LUT, nFozzy",H1OaVho_y0
 "Mario Andretti (Gottlieb 1995)","Mario Andretti (Gottlieb 1995)",Gottlieb,1995,4,SS,,"Sports, Auto Racing","https://www.ipdb.org/machine.cgi?id=3793",3793,,"Jon Norris","Rascal, Destruk, Darth Soudious, JoePicasso, Pinball Ken, Steely, JPSalas",1.4,,"Hybrid",On1oUzWw
@@ -2789,7 +2789,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Mibs (Gottlieb 1969)","Mibs (Gottlieb 1969)",Gottlieb,1969,1,EM,,"Playing Marbles","http://www.ipdb.org/machine.cgi?id=1589",1589,,"Ed Krynski","Teisen, Loserman76, Noah Fentz, GNance, Arngrim, JPSalas, Pinuck, HauntFreaks, BorgDog",1.0.0,,,54GxK2WAMi
 "Mibs (Gottlieb 1969)","Mibs (Gottlieb 1969)",Gottlieb,1969,1,EM,,"Playing Marbles","http://www.ipdb.org/machine.cgi?id=1589",1589,,"Ed Krynski","Loserman76, Noah Fentz, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,,ifV0Vq-K
 "Michael Jackson (Original 2020)","Michael Jackson (Original 2020)",Original,2020,4,SS,,"Music",,,,,"Marty02, JPSalas",3.1,,"Music",0WTIv8I3
-"Michael Jordan (Data East 1992)","Michael Jordan (Data East 1992)",Data East,1992,4,SS,,"Sports, Basketball","https://www.ipdb.org/machine.cgi?id=3425",3425,,"Joe Kaminkow, Lonnie D. Ropp","Rascal, Rawd, Ahr1man, VPW Crew, Javier15, Francisco666, Pinballfan6500, Toxie, Thalamus, HiRez00, Bigus1, 32assassin, oooPlayer1ooo",2.0.4,mj_130,"Hybrid, VR, FSS",hhMk0_X7f_
+"Michael Jordan (Data East 1992)","Michael Jordan (Data East 1992)",Data East,1992,4,SS,,"Sports, Basketball","https://www.ipdb.org/machine.cgi?id=3425",3425,,"Joe Kaminkow, Lonnie D. Ropp","Rascal, Rawd, Ahr1man, Javier15, Francisco666, Pinballfan6500, Toxie, Thalamus, HiRez00, Bigus1, 32assassin, oooPlayer1ooo",2.0.4,mj_130,"Hybrid, VR, FSS",hhMk0_X7f_
 "Michael Jordan (Data East 1992)","Michael Jordan (Data East 1992)",Data East,1992,4,SS,,"Sports, Basketball","https://www.ipdb.org/machine.cgi?id=3425",3425,,"Joe Kaminkow, Lonnie D. Ropp","Go Ill 773, Rascal, 32assassin, Javier15",1.0,mj_130,"MOD, Fleep",c3myb7ic
 "Michael Jordan (Data East 1992)","Michael Jordan (Data East 1992)",Data East,1992,4,SS,,"Sports, Basketball","https://www.ipdb.org/machine.cgi?id=3425",3425,,"Joe Kaminkow, Lonnie D. Ropp","32assassin, Rascal, Javier15",1.0b,mj_130,,K5fS5a_e
 "Mickey Mouse Happy Christmas (Original 2022)","Mickey Mouse Happy Christmas (Original 2022)",Original,2022,,SS,,"Christmas, Animation, Kids",,,,,"Icepinball, JPSalas",1.0.0,,"Kids",aGXHlKGcEC
@@ -3340,7 +3340,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Polo Skill (A. Pirmischer 1931)","Polo Skill (A. Pirmischer 1931)",A. Pirmischer,1931,1,PM,,"Polo, Flipperless",,,,,"Druadic",1.0,,,tv6Y6G8fNi
 "Poltergeist (Original 2022)","Poltergeist (Original 2022)",Original,2022,,SS,,"Movie, Horror",,,,,"Michel757, VP_Cooks, JPSalas",1.0,,"VR, FlexDMD",ANnxmno8ub
 "Poltergeist (Original 2022)","Poltergeist (Original 2022)",Original,2022,,SS,,"Movie, Horror",,,,,"VP_Cooks, JPSalas",1.0.0,,"Retheme, MOD",eyqGGwPW0C
-"Pompeii (Williams 1978)","Pompeii (Williams 1978)",Williams,1978,,SS,,"Arcade, Bowling",,,,,"Rascal, VPW Crew",1.0,pomp_l1,"VR, MOD",lI4butDh30
+"Pompeii (Williams 1978)","Pompeii (Williams 1978)",Williams,1978,,SS,,"Arcade, Bowling",,,,,"Rascal",1.0,pomp_l1,"VR, MOD",lI4butDh30
 "Pompeii (Williams 1978)","Pompeii (Williams 1978)",Williams,1978,,SS,,"Arcade, Bowling",,,,,"Rascal",1.0.0,pomp_l1,,hSuRslNi
 "Pool Sharks (Bally 1990)","Pool Sharks (Bally 1990)",Bally,1990,4,SS,,"Sports, Billiards","http://www.ipdb.org/machine.cgi?id=1848",1848,,"Tony Kraemer","JPSalas, Kiwi, Akiles50000, STAT",6.0.0,pool_l7,"LUT, SSF",lyARPy7B
 "Pool Sharks (Bally 1990)","Pool Sharks (Bally 1990)",Bally,1990,4,SS,,"Sports, Billiards","http://www.ipdb.org/machine.cgi?id=1848",1848,,"Tony Kraemer","Ext2k, JPSalas, Kiwi, Akiles50000, Basti",2.0,pool_l7,"Hybrid, VR, MOD, Mixed Reality",pghv4MfdwK
@@ -3716,7 +3716,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Sharp Shooter II (Game Plan 1983)","Sharp Shooter II (Game Plan 1983)",Game Plan,1983,4,SS,,"American West","http://www.ipdb.org/machine.cgi?id=2114",2114,,"Roger Sharpe, Wendell McAdams","Kalavera3",1.2.2,sshootr2,"FastFlips",3pGH_l-p
 "Sharpshooter (Game Plan 1979)","Sharpshooter (Game Plan 1979)",Game Plan,1979,4,SS,,"American West","http://www.ipdb.org/machine.cgi?id=2113",2113,,"Roger Sharpe, Joe Joos Jr., Ed Cebula","Bigus1, HSM, Bodydump",2.0,sshooter,,0ZtzO7ZuqA
 "Sharpshooter (Game Plan 1979)","Sharpshooter (Game Plan 1979)",Game Plan,1979,4,SS,,"American West","http://www.ipdb.org/machine.cgi?id=2113",2113,,"Roger Sharpe, Joe Joos Jr., Ed Cebula","HSM, Bodydump, Thingamajiik, Darquayle, Htamas",1.0,sshooter,,Qi9Ce5ou
-"Sharpshooter (Bally 1961)","Sharpshooter (Bally 1961)",Bally,1961,,EM,,"Arcade, Shooting Gallery, Flipperless",,,,,"Rascal, VPW Crew",1.1,,"VR",D8YGmPT84e
+"Sharpshooter (Bally 1961)","Sharpshooter (Bally 1961)",Bally,1961,,EM,,"Arcade, Shooting Gallery, Flipperless",,,,,"Rascal",1.1,,"VR",D8YGmPT84e
 "Sharpshooter (Bally 1961)","Sharpshooter (Bally 1961)",Bally,1961,,EM,,"Arcade, Shooting Gallery, Flipperless",,,,,"Rascal",1.0,,,eYtU9NK0
 "Sheriff (Gottlieb 1971)","Sheriff (Gottlieb 1971)",Gottlieb,1971,4,EM,,"American West, Law Enforcement","http://www.ipdb.org/machine.cgi?id=2116",2116,,"Ed Krynski","JCalhoun, Loserman76, Teisen, GauGau",1.2,,"SSF, Fleep",c4NcEkBdrr
 "Sheriff (Gottlieb 1971)","Sheriff (Gottlieb 1971)",Gottlieb,1971,4,EM,,"American West, Law Enforcement","http://www.ipdb.org/machine.cgi?id=2116",2116,,"Ed Krynski","GauGau, Loserman76, GNance, Popotte",1.1.0,,"MOD, Music",O5NnDJBC3A
@@ -4206,7 +4206,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Strike (Zaccaria 1978)","Strike (Zaccaria 1978)",Zaccaria,1978,1,SS,,"Bowling","https://www.ipdb.org/machine.cgi?id=3363",3363,,,"JPSalas, Teisen",6.0.0,strike.zip,"LUT",0mW5_MfbsM
 "Strike Master (Williams 1991)","Strike Master (Williams 1991)",Williams,1991,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal",1.1.0,strik_l4,"VR",V-bIZirVgX
 "Strike Master (Williams 1991)","Strike Master (Williams 1991)",Williams,1991,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal, Wildman",1.0,strik_l4,,T1cvZTYK
-"Strike Zone (Williams 1984)","Strike Zone (Williams 1984)",Williams,1984,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal, VPW Crew",1.0,szone_l5,"VR",Y-to5S1DJr
+"Strike Zone (Williams 1984)","Strike Zone (Williams 1984)",Williams,1984,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal",1.0,szone_l5,"VR",Y-to5S1DJr
 "Strike Zone (Williams 1984)","Strike Zone (Williams 1984)",Williams,1984,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal",1.0.0,szone_l5,,nUCBLsD2
 "Striker (Gottlieb 1982)","Striker (Gottlieb 1982)",Gottlieb,1982,4,SS,,"Sports, Soccer","http://www.ipdb.org/machine.cgi?id=2405",2405,,"John Trudeau","Arconovum, Kalavera3, 32assassin",1.1-2.5,,"FSS, MOD",Pjc96FBM
 "Striker (Gottlieb 1982)","Striker (Gottlieb 1982)",Gottlieb,1982,4,SS,,"Sports, Soccer","http://www.ipdb.org/machine.cgi?id=2405",2405,,"John Trudeau","Kalavera3, 32assassin",1.0.3,,,ih6RcOgu
@@ -4403,7 +4403,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Teenage Mutant Ninja Turtles (Stern _ Data East remix) (Original 2024)","Teenage Mutant Ninja Turtles (Stern _ Data East remix) (Original 2024)",Original,2024,4,SS,,,,,,,"Cheese3075, Bigus1, Pattyg234, Redbone",2.86,,,eiKQUmT6oX
 "Teenage Mutant Ninja Turtles Remix (Original 2021)","Teenage Mutant Ninja Turtles Remix (Original 2021)",Original,2021,4,SS,,,,,,,"Pattyg234",1.0.0,,"VR",sDjVbLN9mv
 "Ten Stars (Zaccaria 1976)","Ten Stars (Zaccaria 1976)",Zaccaria,1976,1,EM,,"Outer Space, Fantasy","https://www.ipdb.org/machine.cgi?id=3373",3373,,,"Ukexpat71, Loserman76, Axioma, VPW Team",1.0.0,,,nyAe8VMx
-"Ten Strike Classic (Benchmark Games 2003)","Ten Strike Classic (Benchmark Games 2003)",Benchmark Games,2003,,EM,,"Arcade, Bowling",,,,,"Rascal, VPW Crew",1.1.0,,"VR",_Am0m7wv87
+"Ten Strike Classic (Benchmark Games 2003)","Ten Strike Classic (Benchmark Games 2003)",Benchmark Games,2003,,EM,,"Arcade, Bowling",,,,,"Rascal",1.1.0,,"VR",_Am0m7wv87
 "Ten Strike Classic (Benchmark Games 2003)","Ten Strike Classic (Benchmark Games 2003)",Benchmark Games,2003,,EM,,"Arcade, Bowling",,,,,"Rascal",1.1.0,,,9r2WBsJC
 "Tenacious D (Original 2025)","Tenacious D (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Endeemillr, ZandysArcade, Scutters",1.0.0,fpwr2_l2,"MOD, FlexDMD, Hybrid, VR, nFozzy, Fleep, Music",61JuCZGQSp
 "Tenacious D (Original 2025)","Tenacious D (Original 2025)",Original,2025,4,SS,,"Music",,,,,"ZandysArcade, Supergibson, Remdwaas1986, DGrimmReaper, Goldchicco, Apophis, Walamab",1.0.1,fpwr2_l2,"nFozzy, Fleep, Hybrid, VR, Music",tmujAZ8grT
@@ -4805,7 +4805,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Top Card (Gottlieb 1974)","Top Card (Gottlieb 1974)",Gottlieb,1974,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=2580",2580,,"Jeff Brenner","RajoJoey, Loserman76, GNance",1.0.0,,"VR, Hybrid, LUT, MOD",N5-J4_rtPy
 "Top Card (Gottlieb 1974)","Top Card (Gottlieb 1974)",Gottlieb,1974,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=2580",2580,,"Jeff Brenner","Leeoneil, Loserman76, GNance, Pinuck, Chris Aguilar, BorgDog, Arngrim, HauntFreaks, JPSalas",1.1.0,,"SSF, MOD, VPU Patch",iIAq4OUT_9
 "Top Card (Gottlieb 1974)","Top Card (Gottlieb 1974)",Gottlieb,1974,1,EM,,"Cards, Gambling","http://www.ipdb.org/machine.cgi?id=2580",2580,,"Jeff Brenner","Loserman76, GNance, Pinuck, Chris Aguilar, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,,"SSF",qojwopi4
-"Top Dawg (Williams 1988)","Top Dawg (Williams 1988)",Williams,1988,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal, VPW Crew",1.0,tdawg_l1,"VR",B8TT_mqT4w
+"Top Dawg (Williams 1988)","Top Dawg (Williams 1988)",Williams,1988,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal",1.0,tdawg_l1,"VR",B8TT_mqT4w
 "Top Dawg (Williams 1988)","Top Dawg (Williams 1988)",Williams,1988,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal",1.0.0,tdawg_l1,,ZSH3f9cM
 "Top Gun (Original 2019)","Top Gun (Original 2019)",Original,2019,4,SS,,"Aviation, Movie",,,,,"Zimbakin, JPSalas",1.0b,sshuttle,"MOD, Retheme",ehCWCc--
 "Top Hand (Gottlieb 1973)","Top Hand (Gottlieb 1973)",Gottlieb,1973,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=2582",2582,,"Ed Krynski","Teisen, Loserman76",1.0,,"MOD",_qSWQ4DYuv
