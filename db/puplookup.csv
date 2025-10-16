@@ -3312,7 +3312,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Playboy (Bally 1978)","Playboy (Bally 1978)",Bally,1978,4,SS,,"Licensed Theme, Adult","http://www.ipdb.org/machine.cgi?id=1823",1823,,"Jim Patla","HSM, Popotte, Inkochnito, 32assassin, ICPjuggla",1.0,playboyb,,8BeB4WcB
 "Playboy (Bally 1978)","Playboy (Bally 1978)",Bally,1978,4,SS,,"Licensed Theme, Adult","http://www.ipdb.org/machine.cgi?id=1823",1823,,"Jim Patla","Editoy, ICPjuggla",1.0,playboyb,"MOD",mqCtoa93
 "Playboy (Bally 1978)","Playboy (Bally 1978)",Bally,1978,4,SS,,"Licensed Theme, Adult","http://www.ipdb.org/machine.cgi?id=1823",1823,,"Jim Patla","ICPjuggla, GTXJoe",1.3,playboyb,,IFPGFvgl
-"Playboy (Stern 2002)","Playboy (Stern 2002)",Stern,2002,4,SS,,"Adult, Licensed Theme",,,,"Jim Patla","Cheese3075, HiRez00, Rascal, RobbyKingPin, OttOBuS59, Herbivore",1.56,playboys,"Adult, Retheme, MOD, nFozzy, Fleep, LUT",y8uw5E8x3p
+"Playboy (Stern 2002)","Playboy (Stern 2002)",Stern,2002,4,SS,,"Adult, Licensed Theme",,,,"Jim Patla","Cheese3075, HiRez00, Rascal, RobbyKingPin, OttOBuS59, Herbivore, Capnclaw, LoadedWeapon, SuperTilted, Burgereater289, Bluenmaize, Falumpagus907, Cherok, Bigfred67",1.70,playboys,"Adult, Retheme, MOD, nFozzy, Fleep, LUT",y8uw5E8x3p
 "Playboy (Stern 2002)","Playboy (Stern 2002)",Stern,2002,4,SS,,"Adult, Licensed Theme",,,,"Jim Patla","Pattyg234, HiRez00, Rascal, GothGloom, Mary, Destruk, Dark, Zany, nFozzy, Thalamus, Arngrim, Bigus1, Siggi, TAB",1.0,playboys,"VR, MOD",pzx5rMcq4_
 "Playboy (Stern 2002)","Playboy (Stern 2002)",Stern,2002,4,SS,,"Adult, Licensed Theme",,,,"Jim Patla","Morttis, HiRez00, Rascal, Arconovum, JPSalas",1.1-1.0,playboys,"FSS, MOD",BDiqMaea
 "Playboy (Stern 2002)","Playboy (Stern 2002)",Stern,2002,4,SS,,"Adult, Licensed Theme",,,,"Jim Patla","HiRez00, Rascal, GothGloom, Mary, Destruk, Dark, Zany, nFozzy, Thalamus, Arngrim, Bigus1, Siggi, TAB",1.1,playboys,"SSF, 4k, Adult",cqC1LMDt
@@ -4065,6 +4065,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Star Wars (Sonic 1987)","Star Wars (Sonic 1987)",Sonic,1987,4,SS,,"Licensed Theme, Science Fiction, Space Fantasy, Movie","http://www.ipdb.org/machine.cgi?id=4513",4513,,"David Hankin","Ext2k, Mfuegemann, Dark, GTXJoe, Akiles50000, TAB",1.2,sonstwar,"Hybrid, VR, FSS, MOD, Mixed Reality",d8fVVHyjqf
 "Star Wars (Sonic 1987)","Star Wars (Sonic 1987)",Sonic,1987,4,SS,,"Licensed Theme, Science Fiction, Space Fantasy, Movie","http://www.ipdb.org/machine.cgi?id=4513",4513,,"David Hankin","Hmueck, Mfuegemann",1.1,sonstwar,"Hybrid, VR",K3iVMF9evr
 "Star Wars (Sonic 1987)","Star Wars (Sonic 1987)",Sonic,1987,4,SS,,"Licensed Theme, Science Fiction, Space Fantasy, Movie","http://www.ipdb.org/machine.cgi?id=4513",4513,,"David Hankin","Mfuegemann, Dark, GTXJoe, Akiles50000, TAB",1.1,sonstwar,,fCERzTdn
+"Star Wars (Original 2025)","Star Wars (Original 2025)",Original,2025,4,SS,,"Science Fiction",,,,,"Burgereater289, Outhere, LoadedWeapon, Igic, UHateIt, Supergibson, Muhaha, Masonm",1.0.1,,"nFozzy, DOF",fqUNoSi3hg
 "Star Wars (Original 2023)","Star Wars (Original 2023)",Original,2023,,SS,,"Science Fiction, Space Fantasy, Movie",,,,,"Zobou",Final,,"BAM, FizX",pz1iWcH1mb
 "Star Wars (Original 2023)","Star Wars (Original 2023)",Original,2023,,SS,,"Science Fiction, Space Fantasy, Movie",,,,,"Zobou",1.0,,"SSF, BAM, FizX",OR7RqLjDI0
 "Star Wars (Original 2019)","Star Wars (Original 2019)",Original,2019,,SS,,"Science Fiction, Space Fantasy, Movie",,,,,"Shamrock1980, JPSalas, Siggi",1.3.0,alpok_l6,"Music",OcD2pQ06
@@ -5064,7 +5065,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Western","Wild West Rampage (Zen Studios 2015)",Zen Studios,2015,4,SS,,"American West",,,,"Szucs David","Zen Studios",,,,VQBw0p4d
 "Wild Wild West (Gottlieb 1969)","Wild Wild West (Gottlieb 1969)",Gottlieb,1969,2,EM,,"American West","http://www.ipdb.org/machine.cgi?id=2787",2787,,"Ed Krynski","Teisen, Loserman76",1.0,,"MOD",_m1VGPMmoY
 "Wild Wild West (Gottlieb 1969)","Wild Wild West (Gottlieb 1969)",Gottlieb,1969,2,EM,,"American West","http://www.ipdb.org/machine.cgi?id=2787",2787,,"Ed Krynski","Loserman76",1.0.0f,,,qpf5IgkH
-"Willow (Original 2025)","Willow (Original 2025)",Original,2025,4,SS,,"Fantasy, Movie",,,,,"Marty02, GtecArcade, Masonm, Dr.Nobody, Guet35, LoadedWeapon",1.0.0,,,6Hk8Z5Qo2g
+"Willow (Original 2025)","Willow (Original 2025)",Original,2025,4,SS,,"Fantasy, Movie",,,,,"Marty02, GtecArcade, Masonm, Dr.Nobody, Guet35, LoadedWeapon, Cliffy, 80sRkadeguy70",1.0.1,,,6Hk8Z5Qo2g
 "Willy Wonka & the Chocolate Factory (Original 2020)","Willy Wonka & the Chocolate Factory (Original 2020)",Original,2020,,SS,,"Movie",,,,,"Marty02, JPSalas",3.5,,"nFozzy",X84foynedV
 "Willy Wonka & the Chocolate Factory (Original 2020)","Willy Wonka & the Chocolate Factory (Original 2020)",Original,2020,,SS,,"Movie",,,,,"Drhotwing, Marty02",1.0.1,,"VR",6CLmyhzOK2
 "Willy Wonka & the Chocolate Factory (Original 2020)","Willy Wonka & the Chocolate Factory (Original 2020)",Original,2020,,SS,,"Movie",,,,,"Drhotwing, Marty02",1.0.0,,"VR",GU0XXQ_xAk
