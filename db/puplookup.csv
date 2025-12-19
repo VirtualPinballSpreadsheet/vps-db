@@ -406,7 +406,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Barb Wire (Gottlieb 1996)","Barb Wire (Gottlieb 1996)",Gottlieb,1996,4,SS,,"Celebrities, Fictional, Licensed Theme, Movie, Motorcycles","http://www.ipdb.org/machine.cgi?id=3795",3795,,"Jon Norris","Aubrel, Destruk, Rascal, Thalamus, Bigus1, Movieguru, TAB",2.6a,,,mdSBdtGy
 "Barb Wire (Gottlieb 1996)","Barb Wire (Gottlieb 1996)",Gottlieb,1996,4,SS,,"Celebrities, Fictional, Licensed Theme, Movie, Motorcycles","http://www.ipdb.org/machine.cgi?id=3795",3795,,"Jon Norris","Bigus1, Destruk, Rascal, TAB",1.0,,"MOD",q3KfUu3O
 "Barb Wire (Gottlieb 1996)","Barb Wire (Gottlieb 1996)",Gottlieb,1996,4,SS,,"Celebrities, Fictional, Licensed Theme, Movie, Motorcycles","http://www.ipdb.org/machine.cgi?id=3795",3795,,"Jon Norris","Rascal, Destruk, TAB, Thalamus, Arngrim",1.4,,"SSF",_zPej-G6
-"Barbarella (Automaticos 1972)","Barbarella (Automaticos 1972)",Automaticos,1972,1,EM,,"Fantasy, Outer Space, Science Fiction, Movie","http://www.ipdb.org/machine.cgi?id=5809",5809,,,"Teisen, Loserman76",1.0,,,4IBo2znmID
+"Barbarella (Automaticos 1972)","Barbarella (Automaticos 1972)",Automaticos,1972,1,EM,,"Fantasy, Outer Space, Science Fiction, Movie","http://www.ipdb.org/machine.cgi?id=5809",5809,,,"Teisen, Loserman76",1.2,,,4IBo2znmID
 "Barbarella (Automaticos 1972)","Barbarella (Automaticos 1972)",Automaticos,1972,1,EM,,"Fantasy, Outer Space, Science Fiction, Movie","http://www.ipdb.org/machine.cgi?id=5809",5809,,,"Loserman76",1.0.0f,,,5QhVnHbE
 "Barnacle Bill (Gottlieb 1948)","Barnacle Bill (Gottlieb 1948)",Gottlieb,1948,1,EM,,"Harry Mabs","https://www.ipdb.org/machine.cgi?id=176",176,,,"Okobojimusky, Francisco Pozo",1.1,,,WRWp8Qz4E4
 "Barnacle Bill (Gottlieb 1948)","Barnacle Bill (Gottlieb 1948)",Gottlieb,1948,1,EM,,"Harry Mabs","https://www.ipdb.org/machine.cgi?id=176",176,,,"Francisco Pozo",1.1,,,Pnjw8Mdalk
@@ -946,7 +946,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Circus (Gottlieb 1980)","Circus (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Happiness, Circus, Carnival","http://www.ipdb.org/machine.cgi?id=515",515,,"Ed Krynski","UnclePaulie, Armyaviation, Stagio, Sckurk, BorgDog, Apophis, Bord, PinstratsDan, Redbone",2.0.1,,"Hybrid, VR, FSS, MOD, SSF, LUT, Fleep, nFozzy",CTCmz2BZ5O
 "Circus (Gottlieb 1980)","Circus (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Happiness, Circus, Carnival","http://www.ipdb.org/machine.cgi?id=515",515,,"Ed Krynski","Larouillas, UnclePaulie, Armyaviation, Stagio, Sckurk, BorgDog, Apophis, Bord, PinstratsDan, Redbone",1.0.0,,"MOD, Music",ds_hM0kXAr
 "Circus (Gottlieb 1980)","Circus (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Happiness, Circus, Carnival","http://www.ipdb.org/machine.cgi?id=515",515,,"Ed Krynski","Rascal, LuvThatApex, Destruk, Inkochnito",1.1.0,,,a2UA5tUw
-"Circus (Bally 1973)","Circus (Bally 1973)",Bally,1973,4,EM,,"Happiness, Circus, Carnival","https://www.ipdb.org/machine.cgi?id=521",521,,"Jim Patla","Teisen, Loserman76",1.1,,"MOD",emIiln-EY-
+"Circus (Bally 1973)","Circus (Bally 1973)",Bally,1973,4,EM,,"Happiness, Circus, Carnival","https://www.ipdb.org/machine.cgi?id=521",521,,"Jim Patla","Teisen, Loserman76",1.2,,"MOD",emIiln-EY-
 "Circus (Bally 1973)","Circus (Bally 1973)",Bally,1973,4,EM,,"Happiness, Circus, Carnival","https://www.ipdb.org/machine.cgi?id=521",521,,"Jim Patla","Loserman76",1.0c,,,rf4BbpWC
 "Circus (Brunswick 1980)","Circus (Brunswick 1980)",Brunswick,1980,4,SS,,"Happiness, Circus, Carnival","https://www.ipdb.org/machine.cgi?id=4937",4937,,,"JPSalas, Redwings13, Leeoneil",6.0.0,,"LUT, DOF",f2kVMXHx
 "Circus Starr (Original 2016)","Circus Starr (Original 2016)",Original,2016,,SS,,"Circus",,,,,"VP1000, Mark Bouchard",1.3,,"MOD",1EdP-G6quL
@@ -1941,7 +1941,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Halloween 1978-1981 (Original 2022)","Halloween 1978-1981 (Original 2022)",Original,2022,,SS,,"Horror, Movie",,,,,"HiRez00, Xenonph, Unsavory, FriscoPinball, AstroNasty, PinstratsDan, Smaug, Apophis, JPSalas",1.03,medusa,"SSF, Music, FSS, nFozzy, Fleep, MOD",PbXCoo8mKk
 "Halloween Michael Myers Pinball Adventures (Original 2018)","Halloween Michael Myers Pinball Adventures (Original 2018)",Original,2018,,SS,,"Movie, Horror",,,,,"Ivantba, ScottyWic, STAT, TerryRed",1.3,,"Music, FlexDMD, Retheme, MOD",bMpwluGU
 "Halo (Original 2021)","Halo (Original 2021)",Original,2021,,EM,,"Video Game",,,,,"Remdwaas1986, JPSalas",1.0,,"Retheme, MOD",LCac647P
-"Hamilton (Original 2025)","Hamilton (Original 2025)",Original,2025,1,SS,,"Musical",,,,,"Two, Lanxin Lyu",1.1,,,_yakbTFqlU
+"Hamilton (Original 2025)","Hamilton (Original 2025)",Original,2025,1,SS,,"Musical",,,,,"Two, Lanxin Lyu",1.2,,,_yakbTFqlU
 "Hanafuda Garden (Original 2022)","Hanafuda Garden (Original 2022)",Original,2022,1,EM,,"Cards",,,,,"Endeemillr, Pinuck, SliderPoint, Goldchicco",1.1,,"Music, SSF, MOD",gVdBT_-Aac
 "Hang Glider (Bally 1976)","Hang Glider (Bally 1976)",Bally,1976,4,EM,,"Sports, Hang Gliding","https://www.ipdb.org/machine.cgi?id=1112",1112,,"Jim Patla","Mustang1961, Loserman76",1.0e,,"MOD",kh5NVIh36Y
 "Hang Glider (Bally 1976)","Hang Glider (Bally 1976)",Bally,1976,4,EM,,"Sports, Hang Gliding","https://www.ipdb.org/machine.cgi?id=1112",1112,,"Jim Patla","Loserman76, Updon719",1.0.0f,,,F_oJXHjW
@@ -3376,7 +3376,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Playboy 35th Anniversary (Data East 1989)","Playboy 35th Anniversary (Data East 1989)",Data East,1989,,SS,,"Celebrities, Licensed Theme, Adult","https://www.ipdb.org/machine.cgi?id=1822",1822,,"Joe Kaminkow, Ed Cebula","Ext2k, JPSalas, TastyWasps, Wildman",1.0.0,play_a24,"VR",1QxDPaWb33
 "Playmate (Original 2020)","Playmate (Original 2020)",Original,2020,4,SS,,"Adult",,,,,"Goldchicco, GTXJoe, ICPjuggla",1.0,,"Music, MOD",A6Wr4CWT
 "Poison (Original 2025)","Poison (Original 2025)",Original,2025,4,SS,,"Music, Rock, Heavy Metal",,,,,"Larouillas, JPSalas",1.0.0,sorcr_l1,"Music, MOD, Retheme",Qxbi6HM3lU
-"Pokemon Mystery Dungeon (Original 2025)","Pokemon Mystery Dungeon (Original 2025)",Original,2025,4,SS,,"Cartoon, Video Game, Kids",,,,,"Bedoga, JPSalas",1.0.0,,"Kids, FlexDMD, Retheme",4nRsY8auSq
+"Pokemon Mystery Dungeon (Original 2025)","Pokemon Mystery Dungeon (Original 2025)",Original,2025,4,SS,,"Cartoon, Video Game, Kids",,,,,"Bedoga, JPSalas",2.0.0,,"Kids, FlexDMD, Retheme",4nRsY8auSq
 "Pokemon Pinball (Original 2021)","Pokemon Pinball (Original 2021)",Original,2021,4,SS,,"Cartoon, Kids",,,,,"Remdwaas1986, Ryesteve, Haggi, Giovanni1966, JPSalas",1.3,,"FlexDMD, Kids",Z4v1vgR5
 "Pokemon Slots (Original 2024)","Pokemon Slots (Original 2024)",Original,2024,,SS,,"Pokemon, Slotmachine",,,,,"Remdwaas1986, Oqqsan",1.0.0,,,Rn94lGsgqG
 "Pokerino (Williams 1978)","Pokerino (Williams 1978)",Williams,1978,,SS,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=1839",1839,,"Steve Kordek","Ext2k, JPSalas, Halen, EalaDubhSidhe, Ketayeyen",1.0.0,pkrno_l1,"Hybrid, VR, MOD, Mixed Reality",PqX1EomCOD
@@ -3513,7 +3513,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Rat Fink (Original 2025)","Rat Fink (Original 2025)",Original,2025,4,,,"Hot Rod Culture",,,,,"JPSalas, Carlos Guizzo, Halen",1.0.1,stest,,nya-dnobhA
 "Rat Fink (Original 2016)","Rat Fink (Original 2016)",Original,2016,4,SS,,"Cartoon",,,,,"HauntFreaks, BorgDog, JPSalas, Rothbauerw",1.1,,"Music",0aKEy6kg
 "Rat Race (Williams 1983)","Rat Race (Williams 1983)",Williams,1983,,SS,,"Flipperless","https://www.ipdb.org/machine.cgi?id=3718",3718,,"Steve Kordek, Barry Oursler","Gimli, Paolo (Wild)",1.0,,,Kz76AyCtlx
-"Rattlecan (Original 2025)","Rattlecan (Original 2025)",Original,2025,4,EM,,"Graffiti",,,,,"Joust7800, VonKrafte, Apophis, Wizball",1.5.2,,,baoHL_uGaL
+"Rattlecan (Original 2025)","Rattlecan (Original 2025)",Original,2025,4,EM,,"Graffiti",,,,,"Joust7800, VonKrafte, Apophis, Wizball",1.5.4 DOF,,"DOF",baoHL_uGaL
 "Raven (Gottlieb 1986)","Raven (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Combat","http://www.ipdb.org/machine.cgi?id=1922",1922,,"John Trudeau","RajoJoey, Armyaviation, Rascal, Destruk, TAB",1.0,raven,"VR, FSS, MOD, Hybrid, LUT",MrSqNaLjBD
 "Raven (Gottlieb 1986)","Raven (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Combat","http://www.ipdb.org/machine.cgi?id=1922",1922,,"John Trudeau","Armyaviation, Rascal, Destruk, TAB",1.0,raven,"MOD",lTUCe5KS
 "Raven (Gottlieb 1986)","Raven (Gottlieb 1986)",Gottlieb,1986,4,SS,,"Combat","http://www.ipdb.org/machine.cgi?id=1922",1922,,"John Trudeau","Rascal, Destruk, TAB",1.3,raven,"MOD",kOKeRXRV
@@ -5245,7 +5245,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Zarza (Taito do Brasil 1982)","Zarza (Taito do Brasil 1982)",Taito do Brasil,1982,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4584",4584,,,"JPSalas, Carlos Guizzo, Luiz Culik, Pmax65, Akiles50000, Rothbauerw, Leo",6.0.0,zarza,"FastFlips, SSF, LUT",RYlwkBae
 "Zarza (Taito do Brasil 1982)","Zarza (Taito do Brasil 1982)",Taito do Brasil,1982,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=4584",4584,,,"Rodrigo Ataguile (RoAtaguile), Exegeta",1.4,zarza,,iYcI52uOdE
 "Zeke's Peak (Taito 1984)","Zeke's Peak (Taito 1984)",Taito,1984,,SS,,"Mountain Climbing, Flipperless",,,,,"32assassin, Mfuegemann",0.9,zeakpeak,,DPJ7lKv9
-"Zephy (LTD do Brasil 1982)","Zephy (LTD do Brasil 1982)",LTD do Brasil,1982,3,SS,,"Fantasy","https://www.ipdb.org/machine.cgi?id=4592",4592,,,"JPSalas, Carlos Guizzo, Mfuegemann, Nasa, STAT, Akiles50000",6.0.0,zephy,"FastFlips, LUT",2jLSHjOV
+"Zephy (LTD do Brasil 1982)","Zephy (LTD do Brasil 1982)",LTD do Brasil,1982,3,SS,,"Fantasy","https://www.ipdb.org/machine.cgi?id=4592",4592,,,"JPSalas, Carlos Guizzo, Mfuegemann, Nasa, STAT, Akiles50000, X Vector",6.0.1,zephy,"FastFlips, LUT",2jLSHjOV
 "Zephy (LTD do Brasil 1982)","Zephy (LTD do Brasil 1982)",LTD do Brasil,1982,3,SS,,"Fantasy","https://www.ipdb.org/machine.cgi?id=4592",4592,,,"Rodrigo Ataguile (RoAtaguile), Exegeta",1.1,zephy,,oBBg3XsLgQ
 "Zip-A-Doo (Bally 1970)","Zip-A-Doo (Bally 1970)",Bally,1970,2,EM,,"Happiness, Flower Power","http://www.ipdb.org/machine.cgi?id=2840",2840,,"Ted Zale","Teisen, Loserman76, GNance, HauntFreaks, JPSalas, Pinuck, Arngrim, BorgDog",1.0,,"MOD",pdh9joh7Sx
 "Zip-A-Doo (Bally 1970)","Zip-A-Doo (Bally 1970)",Bally,1970,2,EM,,"Happiness, Flower Power","http://www.ipdb.org/machine.cgi?id=2840",2840,,"Ted Zale","Loserman76",1.0.0f,,,aDwJXX79
