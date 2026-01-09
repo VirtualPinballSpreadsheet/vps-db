@@ -890,8 +890,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Centigrade 37 (Gottlieb 1977)","Centigrade 37 (Gottlieb 1977)",Gottlieb,1977,1,EM,,"Fantasy, Science Fiction","http://www.ipdb.org/machine.cgi?id=480",480,,"Allen Edwall","NitroNimbus, JC144, SLAMT1LT",2.0,,"MOD",mPgNQSDaf3
 "Centigrade 37 (Gottlieb 1977)","Centigrade 37 (Gottlieb 1977)",Gottlieb,1977,1,EM,,"Fantasy, Science Fiction","http://www.ipdb.org/machine.cgi?id=480",480,,"Allen Edwall","Bord, BorgDog",3.2,,"VR, Hybrid, FSS, SSF",YeHFhctP
 "Central Park (Gottlieb 1966)","Central Park (Gottlieb 1966)",Gottlieb,1966,1,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=481",481,,"Ed Krynski","Tgx, Rosve",1.0.3,,,lLdJ5r2D
-"Cerberus (Playmatic 1983)","Cerberus (Playmatic 1983)",Playmatic,1983,4,SS,,,"https://www.ipdb.org/machine.cgi?id=3004",3004,,,"Ext2k, JPSalas, Halen, Pedator, Basti",2.0,cerberus.zip,"VR, MOD, Mixed Reality",9ZGJz7SxwF
 "Cerberus (Playmatic 1983)","Cerberus (Playmatic 1983)",Playmatic,1983,4,SS,,,"https://www.ipdb.org/machine.cgi?id=3004",3004,,,"JPSalas, Halen, Pedator",6.0.0,cerberus.zip,"DOF, LUT",IHc0Cws_ye
+"Cerberus (Playmatic 1983)","Cerberus (Playmatic 1983)",Playmatic,1983,4,SS,,,"https://www.ipdb.org/machine.cgi?id=3004",3004,,,"Ext2k, JPSalas, Halen, Pedator, Basti",2.0,cerberus.zip,"VR, MOD, Mixed Reality",9ZGJz7SxwF
 "Champ (Bally 1974)","Champ (Bally 1974)",Bally,1974,4,EM,,"Sports, Pinball","http://www.ipdb.org/machine.cgi?id=486",486,,"Jim Patla","Ext2k, Halen, Teisen, Kees",1.0.0,,"VR, MOD",1I_fN4lpJS
 "Champ (Bally 1974)","Champ (Bally 1974)",Bally,1974,4,EM,,"Sports, Pinball","http://www.ipdb.org/machine.cgi?id=486",486,,"Jim Patla","Halen, Kees, Teisen",2.1,,,NiS5QxEIn7
 "Champ (Bally 1974)","Champ (Bally 1974)",Bally,1974,4,EM,,"Sports, Pinball","http://www.ipdb.org/machine.cgi?id=486",486,,"Jim Patla","Jogrady7, Kees",1.0,,,wHFmmK7b
@@ -2010,6 +2010,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Heavy Metal Meltdown (Bally 1987)","Heavy Metal Meltdown (Bally 1987)",Bally,1987,4,SS,,"Music, Heavy Metal","http://www.ipdb.org/machine.cgi?id=1150",1150,,"Dan Langlois","Morttis, Arconovum, 32assassin, Francisco666, Javier15",1.0-1.0,hvymetal,"FSS, MOD",a-Dcjj3O
 "Heavy Metal Meltdown (Bally 1987)","Heavy Metal Meltdown (Bally 1987)",Bally,1987,4,SS,,"Music, Heavy Metal","http://www.ipdb.org/machine.cgi?id=1150",1150,,"Dan Langlois","32assassin, Francisco666, Javier15",1.0,hvymetal,,jMLeexJG
 "Heineken (Original 2020)","Heineken (Original 2020)",Original,2020,4,SS,,"Drinking, Beer",,,,,"Davor, Stevegooner1234, HiRez00, JPSalas",1.0,ngndshkr,"MOD",zEP3GaXD
+"Hell Hound (Original 2026)","Hell Hound (Original 2026)",Original,2026,4,SS,,"Mythology",,,,,"Anthias, JPSalas, Halen, Pedator",1.0.0,cerberus,"MOD, Retheme",8Xs-RJoiMb
 "Hellboy Pinball (Original 2024)","Hellboy Pinball (Original 2024)",Original,2024,4,SS,,"Comics, Action, Superheroes",,,,,"ZandysArcade, JPSalas, RobbyKingPin, Darrin Chamberlain, Unsavory, Mrs. ZandysArcade, Supergibson, Oqqsan, Darog, MerlinRTP, Arelyel Krele, Apophis, JoePicasso, DGrimmReaper, Smaug",1.2.0,,"VR, Hybrid, nFozzy, Fleep, Scorbit",NpJDdu882N
 "Hellfire (Original 2021)","Hellfire (Original 2021)",Original,2021,,SS,,,,,,,"OctoChris",5.0,,"FlexDMD",rUg-LKV0QD
 "Hellraiser (Original 2022)","Hellraiser (Original 2022)",Original,2022,,SS,,"Licensed, Horror, Supernatural",,,,,"Balutito, TeamTuga, Dave Sousa, Iaakki, JPSalas",1.2,,"FlexDMD, MOD, LUT",1Dbo7GYl4P
