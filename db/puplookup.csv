@@ -2704,10 +2704,11 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Magic Castle (Zaccaria 1984)","Magic Castle (Zaccaria 1984)",Zaccaria,1984,4,SS,,"Fantasy, Vampires","http://www.ipdb.org/machine.cgi?id=1511",1511,,,"32assassin, Francisco666",2.0,mcastle,,mcxbEiKG
 "Magic Circle (Bally 1965)","Magic Circle (Bally 1965)",Bally,1965,1,EM,,"Fortune Telling, Dancing, Music","https://www.ipdb.org/machine.cgi?id=1513",1513,,"Ted Zale","Bord, Rothbauerw",1.0.0,,,aESFWswJ
 "Magic Circle (Bally 1965)","Magic Circle (Bally 1965)",Bally,1965,1,EM,,"Fortune Telling, Dancing, Music","https://www.ipdb.org/machine.cgi?id=1513",1513,,"Ted Zale",,1.21-2.6,,"MOD, FSS",nDMCZgNNAr
-"Magic City (Williams 1967)","Magic City (Williams 1967)",Williams,1967,,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1514",1514,,"Norm Clark","Popotte",FizX3.3V1,,"BAM, FizX",gRJTmcVA2M
-"Magic City (Williams 1967)","Magic City (Williams 1967)",Williams,1967,,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1514",1514,,"Norm Clark","Ext2k, Bord, Armyaviation, Matt Lager (Mlager8), Apophis, Loserman76",1.0.0,,"VR",uo5JxFWUTF
-"Magic City (Williams 1967)","Magic City (Williams 1967)",Williams,1967,,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1514",1514,,"Norm Clark","Bord, Loserman76",1.0a,,"MOD",j4n_OHWqAp
-"Magic City (Williams 1967)","Magic City (Williams 1967)",Williams,1967,,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1514",1514,,"Norm Clark","Loserman76",1.0.0f,,,zIeopOUx
+"Magic City (Williams 1967)","Magic City (Williams 1967)",Williams,1967,1,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1514",1514,,"Norm Clark","10mmSocket, Bord, Loserman76",1.0.0,,"MOD, Music",keMea2EnjS
+"Magic City (Williams 1967)","Magic City (Williams 1967)",Williams,1967,1,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1514",1514,,"Norm Clark","Popotte",FizX3.3V1,,"BAM, FizX",gRJTmcVA2M
+"Magic City (Williams 1967)","Magic City (Williams 1967)",Williams,1967,1,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1514",1514,,"Norm Clark","Ext2k, Bord, Armyaviation, Matt Lager (Mlager8), Apophis, Loserman76",1.0.0,,"VR",uo5JxFWUTF
+"Magic City (Williams 1967)","Magic City (Williams 1967)",Williams,1967,1,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1514",1514,,"Norm Clark","Bord, Loserman76",1.0a,,"MOD",j4n_OHWqAp
+"Magic City (Williams 1967)","Magic City (Williams 1967)",Williams,1967,1,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1514",1514,,"Norm Clark","Loserman76",1.0.0f,,,zIeopOUx
 "Magic Clock (Williams 1960)","Magic Clock (Williams 1960)",Williams,1960,2,EM,,"Dancing, Outdoor Activities","https://www.ipdb.org/machine.cgi?id=1515",1515,,"Harry Mabs","Loserman76, Pbecker1946, Itchigo",1.0a,,,TuDJsu_q
 "Magic Pinball (Original 2025)","Magic Pinball (Original 2025)",Original,2025,4,SS,,"Magic",,,,,"RomainD32, JPSalas, Balutito",1.0.0,,,ESBg49heU1
 "Magic Town (Williams 1967)","Magic Town (Williams 1967)",Williams,1967,,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1518",1518,,"Norm Clark","Loserman76",1.0.0f,,,3xzEux1s
