@@ -88,7 +88,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Abra Ca Dabra (Gottlieb 1975)","Abra Ca Dabra (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Wizards, Magic","http://www.ipdb.org/machine.cgi?id=2",2,,"Jeff Brenner","Popotte, SLAMT1LT",2.0,,,WMlEgQM2O3
 "Abra Ca Dabra (Gottlieb 1975)","Abra Ca Dabra (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Wizards, Magic","http://www.ipdb.org/machine.cgi?id=2",2,,"Jeff Brenner","Batch, Pinuck, BorgDog, HauntFreaks",1.1,,,VcgDWPC7
 "Abra Ca Dabra (Gottlieb 1975)","Abra Ca Dabra (Gottlieb 1975)",Gottlieb,1975,1,EM,,"Fantasy, Wizards, Magic","http://www.ipdb.org/machine.cgi?id=2",2,,"Jeff Brenner","Popotte, SLAMT1LT",1.01,,,8opN48IpkJ
-"Accept (Original 2019)","Accept (Original 2019)",Original,2019,,SS,,"Music, Heavy Metal",,,,,"Batch, Thalamus, Kalavera3, Xenonph, Flupper, Kiwi, Watacaractr, Zanny, JPSalas",1.2,algar_l1,"Music",kbl7AgR8
+"Accept (Original 2019)","Accept (Original 2019)",Original,2019,,SS,,"Music, Heavy Metal",,,,,"Batch, Thalamus, Kalavera3, Xenonph, Flupper, Kiwi, Watacaractr, Zanny, JPSalas, HiRez00, Me337",8.0,algar_l1,"Music",kbl7AgR8
 "Ace High (Gottlieb 1957)","Ace High (Gottlieb 1957)",Gottlieb,1957,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=7",7,,"Wayne Neyens","JPSalas, Halen",6.0.0,,"LUT",TOF-LubuVs
 "Ace High (Gottlieb 1957)","Ace High (Gottlieb 1957)",Gottlieb,1957,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=7",7,,"Wayne Neyens","Popotte, Carlos Guizzo, Luiz Culik",1.02,,,s-0YrAh4lu
 "Ace Ventura - Pet Detective (Original 2019)","Ace Ventura - Pet Detective (Original 2019)",Original,2019,4,SS,,"Movie, Comedy",,,,,"Ivantba, JPSalas",1.0,stest,"MOD",kXXV7M26
@@ -251,6 +251,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Archer","Archer Pinball (Zen Studios 2015)",Zen Studios,2015,4,SS,,"Licensed Theme, TV Show",,,,,"Zen Studios",,,,r1f-iEaI
 "Arena (Gottlieb 1987)","Arena (Gottlieb 1987)",Gottlieb,1987,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=82",82,,"Ray Tanzer","Goldchicco, Mfuegemann, Movieguru, Siggi",1.0c,,,JoHSrEPG
 "Argentine (Genco 1941)","Argentine (Genco 1941)",Genco,1941,1,EM,,"Flipperless","https://www.ipdb.org/machine.cgi?id=83",83,,,"Francisco Pozo",1.1,,,FXvr9EXnOA
+"Argosy (Williams 1977)","Argosy (Williams 1977)",Williams,1977,4,EM,,"Boats, Nautical, Ships, Aquatic","http://www.ipdb.org/machine.cgi?id=84",84,,"Chris Otis","Styx, JPSalas, Beowulf99",1.0,,,D8RvSZE9RO
 "Argosy (Williams 1977)","Argosy (Williams 1977)",Williams,1977,4,EM,,"Boats, Nautical, Ships, Aquatic","http://www.ipdb.org/machine.cgi?id=84",84,,"Chris Otis","Cirqus, User42, Dboyrecords, LuvThatApex",1.0.3,,,e4XWF6Fm
 "Argosy (Williams 1977)","Argosy (Williams 1977)",Williams,1977,4,EM,,"Boats, Nautical, Ships, Aquatic","http://www.ipdb.org/machine.cgi?id=84",84,,"Chris Otis","Beowulf99, User42, Dboyrecords, UncleWilly, Sixtoe, Arconovum, LuvThatApex",1.2,,"VR",jry86GAbNq
 "Aristocrat (Williams 1979)","Aristocrat (Williams 1979)",Williams,1979,,SS,,"Arcade, Bowling, Flipperless",,,,,"Rascal",1.1.0,arist_l1,"VR, MOD",nsKB7qRHNw
@@ -2108,6 +2109,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Hot Tip (Williams 1977)","Hot Tip (Williams 1977)",Williams,1977,4,SS,,"Sports, Horse Racing","http://www.ipdb.org/machine.cgi?id=3163",3163,,"Tony Kraemer","Schlabber34, 32assassin, GTXJoe",1.0,httip_l1,,Tf2tUSCH
 "Hot Tip (Williams 1977)","Hot Tip (Williams 1977)",Williams,1977,4,SS,,"Sports, Horse Racing","http://www.ipdb.org/machine.cgi?id=3163",3163,,"Tony Kraemer","Schlabber34, 32assassin, GTXJoe",2.1,httip_l1,"MOD",T58SKvsS
 "Hot Tip (Williams 1977)","Hot Tip (Williams 1977)",Williams,1977,4,SS,,"Sports, Horse Racing","http://www.ipdb.org/machine.cgi?id=3163",3163,,"Tony Kraemer","32assassin, GTXJoe",3.3,httip_l1,,ShUlis-y
+"Hot Tip (Williams 1977)","Hot Tip (Williams 1977)",Williams,1977,4,EM,,"Sports, Horse Racing","https://www.ipdb.org/machine.cgi?id=1251",1251,,"Tony Kraemer","Styx, JPSalas, Schlabber34",1.0,,,8QKGAX83Ji
 "Hot Wheels (Original 2021)","Hot Wheels (Original 2021)",Original,2021,,SS,,"Cars, Toy Franchise",,,,,"fastdraw",0.84-wip,,,HjNguMJz
 "Hotdoggin' (Bally 1980)","Hotdoggin' (Bally 1980)",Bally,1980,4,SS,,"Sports, Skiing","http://www.ipdb.org/machine.cgi?id=1243",1243,,"Gary Gayton","Bigus1, 32assassin, Bodydump",2.0,hotdoggn,"SSF, MOD",_FUfOtHF
 "Hotdoggin' (Bally 1980)","Hotdoggin' (Bally 1980)",Bally,1980,4,SS,,"Sports, Skiing","http://www.ipdb.org/machine.cgi?id=1243",1243,,"Gary Gayton","32assassin, Bodydump",1.0.2,hotdoggn,,mV9Nxa_4
@@ -2967,7 +2969,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Motley Crue - Carnival of Sin (Original 2024)","Motley Crue - Carnival of Sin (Original 2024)",Original,2024,4,SS,,"Music, Heavy Metal",,,,,"X13_Pinner, Dr.Nobody, Mason, WoVP, Goldchicco",1.0.0,,"MOD, FlexDMD, Music, LUT",334s_AguDZ
 "Motordome (Bally 1986)","Motordome (Bally 1986)",Bally,1986,4,SS,,"Sports, Motorcycles, Motocross","https://www.ipdb.org/machine.cgi?id=1633",1633,,"Greg Kmiec","JPSalas, Halen, Wildman, Kiwi",6.0.0,motrdome,"LUT",ZxAlHYgoyc
 "Motordome (Bally 1986)","Motordome (Bally 1986)",Bally,1986,4,SS,,"Sports, Motorcycles, Motocross","https://www.ipdb.org/machine.cgi?id=1633",1633,,"Greg Kmiec","Ext2k, JPSalas, Halen",3.0,motrdome,"Hybrid, VR, Mixed Reality",jv9OBGbMtf
-"Motörhead (Original 2018)","Motörhead (Original 2018)",Original,2018,4,SS,,"Music, Heavy Metal",,,,,"Flupper, Thalamus, Xenonph, Wizball, RDuB, Herweh, Kiwi, Fuzzel, Batch, 32assassin",1.2,blkou_l1,"SSF, Retheme, MOD",pCvuGNaK
+"Motörhead (Original 2018)","Motörhead (Original 2018)",Original,2018,4,SS,,"Music, Heavy Metal",,,,,"Flupper, Thalamus, Xenonph, Wizball, RDuB, Herweh, Kiwi, Fuzzel, Batch, 32assassin, JPSalas, HiRez00, Me337",8.0,blkou_l1,"SSF, Retheme, MOD",pCvuGNaK
 "Moulin Rouge (Williams 1965)","Moulin Rouge (Williams 1965)",Williams,1965,1,EM,,"Adventure, Foreign Peoples","https://www.ipdb.org/machine.cgi?id=1634",1634,,"Norm Clark","Ext2k, JPSalas, Halen, Jarski3094",3.0,,"Hybrid, VR, Mixed Reality",-fjhVPZIZT
 "Moulin Rouge (Williams 1965)","Moulin Rouge (Williams 1965)",Williams,1965,1,EM,,"Adventure, Foreign Peoples","https://www.ipdb.org/machine.cgi?id=1634",1634,,"Norm Clark","JPSalas, Halen",6.0.0,,"LUT",Oj7Shd-f4V
 "Moulin Rouge (Williams 1965)","Moulin Rouge (Williams 1965)",Williams,1965,1,EM,,"Adventure, Foreign Peoples","https://www.ipdb.org/machine.cgi?id=1634",1634,,"Norm Clark","Ext2k, JPSalas, Halen, HauntFreaks",1.0,,"VR",xSV2VA5xRy
@@ -4131,6 +4133,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Star Knights (Original 2025)","Star Knights (Original 2025)",Original,2025,4,SS,,"Anime, Space Fantasy",,,,,"Anthias",1.0.0,,,xyHb2kacjq
 "Star Light (Williams 1984)","Star Light (Williams 1984)",Williams,1984,4,SS,,"Outer Space, Fantasy, Wizards","http://www.ipdb.org/machine.cgi?id=2362",2362,,"Barry Oursler","Bord",1.0.1,strlt_l1,,nbRf33AM
 "Star Mission (Durham 1977)","Star Mission (Durham 1977)",Durham,1977,,EM,,"Science Fiction, Outer Space",,,,,"Onemanproject, GTXJoe",1.4,,,FH3ktW09
+"Star Pool (Williams 1974)","Star Pool (Williams 1974)",Williams,1974,4,EM,,"Sports, Billiards","https://www.ipdb.org/machine.cgi?id=2352",2352,,"Steve Kordek","Styx, JPSalas, Loserman76, Mustang1961",1.0,,,zNvf0K4MIR
 "Star Pool (Williams 1974)","Star Pool (Williams 1974)",Williams,1974,4,EM,,"Sports, Billiards","https://www.ipdb.org/machine.cgi?id=2352",2352,,"Steve Kordek","Mustang1961, Loserman76",1.0a,,"MOD",NHoP7mz5jI
 "Star Pool (Williams 1974)","Star Pool (Williams 1974)",Williams,1974,4,EM,,"Sports, Billiards","https://www.ipdb.org/machine.cgi?id=2352",2352,,"Steve Kordek","Loserman76",1.0.0,,,9UurYiKUHQ
 "Star Race (Gottlieb 1980)","Star Race (Gottlieb 1980)",Gottlieb,1980,4,SS,,"Science Fiction, Outer Space","http://www.ipdb.org/machine.cgi?id=2353",2353,,"John Buras","UnclePaulie, Redbone, HauntFreaks, Rothbauerw, Bietekwiet, Passion4pins",2.0.0,,"nFozzy, Fleep, Hybrid, VR, LUT",GZ_7kaeJqg
