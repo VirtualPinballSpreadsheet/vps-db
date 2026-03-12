@@ -1326,7 +1326,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Donald Duck Phantomias (Original 2022)","Donald Duck Phantomias (Original 2022)",Original,2022,,SS,,"Animation, Kids",,,,,"Icepinball, JPSalas",1.01,blakpyra,"Kids, MOD",8Wtb-OZiQn
 "Doodle Bug (Williams 1971)","Doodle Bug (Williams 1971)",Williams,1971,1,EM,,"Dancing, Happiness, Music","https://www.ipdb.org/machine.cgi?id=703",703,,"Norm Clark","Loserman76, Tom, Thalamus, Rosve, Osprey101, Wildman",1.0.0f,,,7FDxD6KY
 "Doom Classic Edition (Original 2019)","Doom Classic Edition (Original 2019)",Original,2019,4,SS,,"Video Game, Science Fiction",,,,,"Ivantba, JPSalas",1.0,madrace,"MOD, Retheme",jdBIpe3N
-"Doom Eternal (Original 2022)","Doom Eternal (Original 2022)",Original,2022,,SS,,"Video Game",,,,,"Pixel.fi, Brock Hofer, Andrew Hulshult, Fleep, Flupper, JPSalas",1.0,,"MOD",QLK2fXw4P_
+"Doom Eternal (Original 2022)","Doom Eternal (Original 2022)",Original,2022,,SS,,"Video Game",,,,,"Pixel.fi, Brock Hofer, Andrew Hulshult, Fleep, Flupper, ScottyWic, JPSalas",1.0,,"MOD",QLK2fXw4P_
 "BETHESDA_Doom","Doom Pinball (Zen Studios 2016)",Zen Studios,2016,4,SS,,"Licensed Theme, Video Game",,,,,"Zen Studios",,,,DxaWgQIf
 "Doozie (Williams 1968)","Doozie (Williams 1968)",Williams,1968,1,EM,,"Happiness","https://www.ipdb.org/machine.cgi?id=704",704,,,"Gianzo",1.0,,,p6Z_vAgKRV
 "Doraemon (Original 2020)","Doraemon (Original 2020)",Original,2020,,EM,,"Animation, Kids",,,,,"Remdwaas1986, JPSalas",1.2,,"Kids",5UWNSkR6
@@ -4859,8 +4859,8 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Wiggler, The (Bally 1967)","Wiggler, The (Bally 1967)",Bally,1967,4,EM,,"Fantasy","https://www.ipdb.org/machine.cgi?id=2777",2777,,"Ted Zale","JPSalas, Mustang1961, Scottacus, Teisen",6.0.0,,"LUT",hiRp4M3BQ0
 "Wiggler, The (Bally 1967)","Wiggler, The (Bally 1967)",Bally,1967,4,EM,,"Fantasy","https://www.ipdb.org/machine.cgi?id=2777",2777,,"Ted Zale","Scottacus, nFozzy, Kds70, JR, Whirlwind, Onevox, Bord",2.26,,"VR, FSS, LUT, nFozzy",RELsEnoK
 "Wild Wild West, The (Original 2022)","Wild Wild West, The (Original 2022)",Original,2022,,SS,,"TV Show",,,,,"Marty02, 32assassin, Goldchicco",2.0,,"Music, MOD, Retheme",C9qiYKRShn
-"Witcher, The (Original 2020)","Witcher, The (Original 2020)",Original,2020,4,SS,,"Fantasy, Video Game, TV Show",,,,,"Solters, Siggi, 32assassin",1.0,csmic_l1,"VR, MOD",DyVNnuIS3i
-"Witcher, The (Original 2020)","Witcher, The (Original 2020)",Original,2020,4,SS,,"Fantasy, Video Game, TV Show",,,,,"Siggi, 32assassin",1.0.0,csmic_l1,"Music, MOD, Retheme",mW3jP1tq
+"Witcher, The (Original 2020)","Witcher, The (Original 2020)",Original,2020,4,SS,,"Fantasy, Video Game, TV Show",,,,,"Solters, Siggi, 32assassin, Goldchicco",1.0,csmic_l1,"MOD, VR",DyVNnuIS3i
+"Witcher, The (Original 2020)","Witcher, The (Original 2020)",Original,2020,4,SS,,"Fantasy, Video Game, TV Show",,,,,"Siggi, 32assassin, Goldchicco",1.0.0,csmic_l1,"Music, MOD, Retheme",mW3jP1tq
 "Wizard, The (Original 2021)","Wizard, The (Original 2021)",Original,2021,1,EM,,"Movie, Kids, Video Game",,,,,"MellerMeller, Batch, BorgDog, HauntFreaks",1.5,,"Kids",2I-ZhnUxgy
 "Woodcutter, The (Original 2025)","Woodcutter, The (Original 2025)",Original,2025,4,SS,,"Outdoor Activities",,,,,"Anthias, JPSalas, Supergibson",1.0,,"Retheme",GcfJ8nY4W-
 "X Files, The (Original 2021)","X Files, The (Original 2021)",Original,2021,,SS,,"Science Fiction, TV Show",,,,,"Stevegooner1234, Mark Snow, Lizard, Xenonph, Wildman",1.0,,"Music, MOD",e7CgUsgH6K
