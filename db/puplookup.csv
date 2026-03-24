@@ -63,7 +63,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "A-Go-Go (Williams 1966)","A-Go-Go (Williams 1966)",Williams,1966,4,EM,,"Happiness, Dancing","https://www.ipdb.org/machine.cgi?id=27",27,,"Norm Clark","PinPlayer",1.2,,,dc_uxjjW
 "A-ha (Original 2025)","A-ha (Original 2025)",Original,2025,4,SS,,"Music",,,,,"Tonyfox, JPSalas",1.0.0,vegast,"Retheme, MOD",lycB2u5Gfs
 "A-ha (Original 2025)","A-ha (Original 2025)",Original,2025,4,EM,,"Synth Pop, Music",,,,,"DrSandraNo, VLive",2.0,,"MOD, Music",kc-7f8VKNY
-"A-ha (Original 2025)","A-ha (Original 2025)",Original,2025,4,EM,,"Synth Pop, Music",,,,,"VLive",1.0.1,,,7rUXkofKnp
+"A-ha (Original 2025)","A-ha (Original 2025)",Original,2025,4,EM,,"Synth Pop, Music",,,,,"VLive",1.0.0,,,7rUXkofKnp
 "ABBA (Original 2020)","ABBA (Original 2020)",Original,2020,,SS,,"Music",,,,,"GrayGhost, STAT, Slydog43, JPSalas",2.0,vortex,,PW62Ulxx
 "ABBA (Original 2020)","ABBA (Original 2020)",Original,2020,,SS,,"Music",,,,,"Djchiccomix",1.0,vortex,"Music, MOD",uXXdWqEP
 "AC_DC (Original 2012)","AC_DC (Original 2012)",Original,2012,,SS,,"Music",,,,,"Goldchicco, JPSalas, Grizz, Destruk, Doogie, Arngrim",1.0,,"SSF, FlexDMD, Music",s7_F1d9EzQ
@@ -91,7 +91,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Ace High (Gottlieb 1957)","Ace High (Gottlieb 1957)",Gottlieb,1957,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=7",7,,"Wayne Neyens","JPSalas, Halen",6.0.0,,"LUT",TOF-LubuVs
 "Ace High (Gottlieb 1957)","Ace High (Gottlieb 1957)",Gottlieb,1957,1,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=7",7,,"Wayne Neyens","Popotte, Carlos Guizzo, Luiz Culik",1.02,,,s-0YrAh4lu
 "Ace Ventura - Pet Detective (Original 2019)","Ace Ventura - Pet Detective (Original 2019)",Original,2019,4,SS,,"Movie, Comedy",,,,,"Ivantba, JPSalas",1.0,stest,"MOD",kXXV7M26
-"Ace of Speed (Original 2019)","Ace of Speed (Original 2019)",Original,2019,4,SS,,"Auto Racing",,,,,"Takut, mussinger, Herweh, David Vicente, David Maldonado, JPJ, ScottyWic, Rik Laubach, Vero, Vogliadicane, NailBuster",1.1_nFozzy_Fleep,mousn_l4,"VR",xGPfkywEpw
+"Ace of Speed (Original 2019)","Ace of Speed (Original 2019)",Original,2019,4,SS,,"Auto Racing",,,,,"Takut, mussinger, Herweh, David Vicente, David Maldonado, JPJ, ScottyWic, Rik Laubach, Vero, Vogliadicane, NailBuster, Burger, studly_do_right",1.1,mousn_l4,"VR, nFozzy, Fleep",xGPfkywEpw
 "Ace of Speed (Original 2019)","Ace of Speed (Original 2019)",Original,2019,4,SS,,"Auto Racing",,,,,"mussinger, Herweh, David Vicente, David Maldonado, JPJ, ScottyWic, Rik Laubach, Vero, Vogliadicane, NailBuster, OldSkoolGamer, ICPjuggla",1.0.1,mousn_l4,"MOD",LMOYSJWc
 "Aces & Kings (Williams 1970)","Aces & Kings (Williams 1970)",Williams,1970,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=11",11,,"Steve Kordek","Mustang1961, Albert, Kees",1.11,,"MOD",XeD4nblFnd
 "Aces & Kings (Williams 1970)","Aces & Kings (Williams 1970)",Williams,1970,4,EM,,"Cards, Gambling","https://www.ipdb.org/machine.cgi?id=11",11,,"Steve Kordek","Albert, Kees",1.0,,"MOD, Retheme",SUU4-B4o
@@ -2738,6 +2738,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Magic City (Williams 1967)","Magic City (Williams 1967)",Williams,1967,1,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1514",1514,,"Norm Clark","Bord, Loserman76",1.0a,,"MOD",j4n_OHWqAp
 "Magic City (Williams 1967)","Magic City (Williams 1967)",Williams,1967,1,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1514",1514,,"Norm Clark","Loserman76",1.0.0f,,,zIeopOUx
 "Magic Clock (Williams 1960)","Magic Clock (Williams 1960)",Williams,1960,2,EM,,"Dancing, Outdoor Activities","https://www.ipdb.org/machine.cgi?id=1515",1515,,"Harry Mabs","Loserman76, Pbecker1946, Itchigo",1.0a,,,TuDJsu_q
+"Magic Pinball (Original 2025)","Magic Pinball (Original 2025)",Original,2025,4,SS,,"Magic",,,,,"RomainD32, JPSalas, Balutito",1.0.0,,"VR",WAdf1RkC67
 "Magic Pinball (Original 2025)","Magic Pinball (Original 2025)",Original,2025,4,SS,,"Magic",,,,,"RomainD32, JPSalas, Balutito",1.0.0,,,ESBg49heU1
 "Magic Town (Williams 1967)","Magic Town (Williams 1967)",Williams,1967,,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=1518",1518,,"Norm Clark","Loserman76",1.0.0f,,,3xzEux1s
 "Magnotron (Gottlieb 1974)","Magnotron (Gottlieb 1974)",Gottlieb,1974,4,EM,,"Fantasy","http://www.ipdb.org/machine.cgi?id=1519",1519,,"Ed Krynski","Teisen, Loserman76, GNance, Popotte, JPSalas, Pinuck, HauntFreaks, BorgDog, Arngrim",1.0.0,,"MOD",IsKP_sp6Qo
@@ -3341,7 +3342,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "PinUP JukeBox - The 80s (Original 2019)","PinUP JukeBox - The 80s (Original 2019)",Original,2019,,SS,,"Jukebox",,,,,"Opeckie, Javier15, Brendan Bailey (Pinwizkid), DJRobX, NailBuster",1.0.0,,,JfX7kY3W
 "Pinball (EM) (Stern 1977)","Pinball (EM) (Stern 1977)",Stern,1977,4,SS,,"Sports, Pinball","https://www.ipdb.org/machine.cgi?id=1792",1792,,"Mike Kubin","Loserman76, Tom, Itchigo, Thalamus, Posty90, Chris Edler, 32assassin, JPSalas, Bord, Updon719",1.0.0f,pinball,,VKU15E4G
 "Pinball (SS) (Stern 1977)","Pinball (SS) (Stern 1977)",Stern,1977,4,SS,,"Pinball, Sports","https://www.ipdb.org/machine.cgi?id=4694",4694,,"Mike Kubin","Armyaviation, Itchigo, Thalamus, Posty90, Chris Edler, Wildman, Arngrim, 32assassin, JPSalas, Bord",1.0.0,pinball,,D-zHIJ7GNA
-"Pinball Action (Tekhan 1985)","Pinball Action (Tekhan 1985)",Tekhan,1985,2,SS,,,"https://www.ipdb.org/machine.cgi?id=5252",5252,,,"Jbbolcato, JPSalas",1.1,,,vod4rU2W4A
+"Pinball Action (Tekhan 1985)","Pinball Action (Tekhan 1985)",Tekhan,1985,2,SS,,,"https://www.ipdb.org/machine.cgi?id=5252",5252,,,"Jbbolcato, JPSalas",1.0.0,,,vod4rU2W4A
 "Pinball Champ '82 (Zaccaria 1982)","Pinball Champ '82 (Zaccaria 1982)",Zaccaria,1982,4,SS,,"Pinball","http://www.ipdb.org/machine.cgi?id=1794",1794,,,"32assassin, Mfuegemann",1.2,pinchamp,,kJkGS991
 "Pinball Domes (Original 2020)","Pinball Domes (Original 2020)",Original,2020,,EM,,"Example",,,,,"Flupper",2.2,,,A85htGkt
 "Pinball Lizard (Game Plan 1980)","Pinball Lizard (Game Plan 1980)",Game Plan,1980,4,SS,,"Fantasy","https://www.ipdb.org/machine.cgi?id=1464",1464,,"Ed Cebula","Hmueck, MaX, LuvThatApex, Destruk, Dboyrecords, Themer",1.0.2,Lizard,"Hybrid, VR, FSS",4Wef9ZDVGs
@@ -3611,7 +3612,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Riccione (Original 2024)","Riccione (Original 2024)",Original,2024,,EM,,"Holiday, Italy",,,,,"Harling, JPSalas, Fusionwerks",1.4,,,uE3Jxn_-tp
 "Rick and Morty (Original 2019)","Rick and Morty (Original 2019)",Original,2019,4,EM,,"Animation, TV Show",,,,,"Visnoskyarc, BurtMacklin, Hawkeyez88, Dunriwikan45",1.0.0,,"MOD, Music",Wge7uxgzR-
 "Rick and Morty (Original 2019)","Rick and Morty (Original 2019)",Original,2019,4,EM,,"Animation, TV Show",,,,,"Dunriwikan45, Loserman76",1.0.0,,"Music",VH9Zs49K
-"Rick and Morty (Original 2023)","Rick and Morty (Original 2023)",Original,2023,,EM,,"Animation",,,,,"Blade91100",3.6,,,WSE0lE1FdO
+"Rick and Morty (Original 2023)","Rick and Morty (Original 2023)",Original,2023,,EM,,"Animation",,,,,"Blade91100",1.0.0,,,WSE0lE1FdO
 "Rider's Surf (Jocmatic 1986)","Rider's Surf (Jocmatic 1986)",Jocmatic,1986,4,SS,,"Sports, Surfing, Aquatic","https://www.ipdb.org/machine.cgi?id=4102",4102,,,"Mfuegemann",1.1,,,Ca2kxueo
 "Rigel 7 (Original 2023)","Rigel 7 (Original 2023)",Original,2023,,SS,,"Science Fiction",,,,,"Mark1",1.0.0,,,oCYe4QYYzc
 "Rio Travel (Original 2025)","Rio Travel (Original 2025)",Original,2025,4,SS,,"Travel",,,,,"Tonyfox, JPSalas",1.0.0,obaoba,"Retheme, MOD",pCjG4Z_Mbw
