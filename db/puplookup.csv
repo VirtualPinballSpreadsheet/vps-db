@@ -906,6 +906,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Central Park (Gottlieb 1966)","Central Park (Gottlieb 1966)",Gottlieb,1966,1,EM,,"American Places","https://www.ipdb.org/machine.cgi?id=481",481,,"Ed Krynski","Tgx, Rosve",1.0.3,,,lLdJ5r2D
 "Cerberus (Playmatic 1983)","Cerberus (Playmatic 1983)",Playmatic,1983,4,SS,,,"https://www.ipdb.org/machine.cgi?id=3004",3004,,,"JPSalas, Halen, Pedator",6.0.0,cerberus.zip,"DOF, LUT",IHc0Cws_ye
 "Cerberus (Playmatic 1983)","Cerberus (Playmatic 1983)",Playmatic,1983,4,SS,,,"https://www.ipdb.org/machine.cgi?id=3004",3004,,,"Ext2k, JPSalas, Halen, Pedator, Basti",2.0,cerberus.zip,"VR, MOD, Mixed Reality",9ZGJz7SxwF
+"Chamber of Chills (Original 2026)","Chamber of Chills (Original 2026)",Original,2026,,SS,,"Horror",,,,,"roccodimarco, Tii",1.0.0,,"BAM, FizX",jFYvoBrVBW
 "Champ (Bally 1974)","Champ (Bally 1974)",Bally,1974,4,EM,,"Sports, Pinball","http://www.ipdb.org/machine.cgi?id=486",486,,"Jim Patla","Ext2k, Halen, Teisen, Kees",1.0.0,,"VR, MOD",1I_fN4lpJS
 "Champ (Bally 1974)","Champ (Bally 1974)",Bally,1974,4,EM,,"Sports, Pinball","http://www.ipdb.org/machine.cgi?id=486",486,,"Jim Patla","Halen, Kees, Teisen",2.1,,,NiS5QxEIn7
 "Champ (Bally 1974)","Champ (Bally 1974)",Bally,1974,4,EM,,"Sports, Pinball","http://www.ipdb.org/machine.cgi?id=486",486,,"Jim Patla","Jogrady7, Kees",1.0,,,wHFmmK7b
@@ -3309,9 +3310,9 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Peaky Blinders (Original 2021)","Peaky Blinders (Original 2021)",Original,2021,4,SS,,"TV Show, Crime",,,,,"Nesta78, Phenom, JPSalas, Goldchicco",1.0.0,skatebll,"MOD",kVBquxFT
 "Table 146","Peanuts' Snoopy Pinball (Zen Studios 2021)",Zen Studios,2021,,SS,,"Cartoon, Animation",,,,"Daniel Vigh","Zen Studios, Daniel Vigh",,,,HfsyZoQHEX
 "Pennant Fever (Williams 1984)","Pennant Fever (Williams 1984)",Williams,1984,2,SS,,"Sports, Baseball","http://www.ipdb.org/machine.cgi?id=3335",3335,,"Mark Ritchie","Armyaviation, Randr, 32assassin, Bord, Rothbauerw",1.0,,,R1GOpnk4
-"Penthouse (Pinball Dreams 2008)","Penthouse (Pinball Dreams 2008)",Pinball Dreams,2008,,SS,,"Adult",,,,,"Batch, Takut, Rob046, Popotte, Taltmeyer, Thalamus, JPSalas, Miss World",8.0,,"MOD, Adult",fxll9yaIb-
-"Penthouse (Pinball Dreams 2008)","Penthouse (Pinball Dreams 2008)",Pinball Dreams,2008,,SS,,"Adult",,,,,"Batch, Takut, Rob046, Popotte, Taltmeyer, Thalamus, JPSalas, Miss World",1.5,,"Music, Adult, FastFlips",IvJOqxPu
-"Penthouse (Pinball Dreams 2008)","Penthouse (Pinball Dreams 2008)",Pinball Dreams,2008,,SS,,"Adult",,,,,"Popotte, Rob046, Taltmeyer",0.1,,"Adult",jxOvDJqUOh
+"Penthouse (Pinball Dreams 2008)","Penthouse (Pinball Dreams 2008)",Pinball Dreams,2008,,SS,,"Adult",,,,,"Batch, Takut, Rob046, Popotte, Taltmeyer, Thalamus, JPSalas, Miss World",1.3,,"MOD, Adult",fxll9yaIb-
+"Penthouse (Pinball Dreams 2008)","Penthouse (Pinball Dreams 2008)",Pinball Dreams,2008,,SS,,"Adult",,,,,"Batch, Takut, Rob046, Popotte, Taltmeyer, Thalamus, JPSalas, Miss World",8.0,,"Retheme, Music, Adult, FastFlips",IvJOqxPu
+"Penthouse (Pinball Dreams 2008)","Penthouse (Pinball Dreams 2008)",Pinball Dreams,2008,,SS,,"Adult",,,,,"Popotte, Rob046, Taltmeyer",0.1,,"Retheme, Adult",jxOvDJqUOh
 "Peppa Pig Pinball (Original 2021)","Peppa Pig Pinball (Original 2021)",Original,2021,4,SS,,"Animation, Kids",,,,,"Phenom, JPSalas",1.1,,"Music, Kids",bX1bDQbL
 "Pepsi Man (Original 2019)","Pepsi Man (Original 2019)",Original,2019,4,SS,,"Drinking",,,,,"Ivantba, JPSalas",1.0,wldcp_l1,,Dd1o_djY
 "Persona 5 Demo (Original 2023)","Persona 5 Demo (Original 2023)",Original,2023,,SS,,"Video Game",,,,,"Eonbrony",0.13,,,yfiMJ9T2G0
