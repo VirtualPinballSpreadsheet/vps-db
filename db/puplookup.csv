@@ -1113,6 +1113,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Cowboy Bebop Pinball (Original 2024)","Cowboy Bebop Pinball (Original 2024)",Original,2024,,SS,,"Anime, Science Fiction",,,,,"Mlaw, Masonou, JPSalas",1.0.0,,"Retheme, MOD",d9hIhz9voX
 "Cowboy Eight Ball (LTD do Brasil 1981)","Cowboy Eight Ball (LTD do Brasil 1981)",LTD do Brasil,1981,3,SS,,"Billiards","http://www.ipdb.org/machine.cgi?id=5132",5132,,"George Christian","JPSalas, Carlos Guizzo, Mfuegemann, Nasa, Akiles50000, STAT",6.0.0,,"LUT",LAxl5M9f
 "Cowboy Eight Ball 2 (LTD do Brasil 1981)","Cowboy Eight Ball 2 (LTD do Brasil 1981)",LTD do Brasil,1981,4,SS,,"Billiards","https://www.ipdb.org/machine.cgi?id=5734",5734,,,"JPSalas, Carlos Guizzo, Nasa, STAT, Destruk, Akiles50000, TAB",6.0.0,cowboy,"FastFlips, LUT",IbxhSMtlDW
+"Cowgirl (Original 2026)","Cowgirl (Original 2026)",Original,2026,4,SS,,"Cow, Western, Women",,,,,"Larouillas, JPSalas",1.0.0,Gemini,"MOD",eoaAoitAcW
 "Crash Bandicoot (Original 2018)","Crash Bandicoot (Original 2018)",Original,2018,4,SS,,,,,,,"SpookyMoulder",1.0,,"DT",mdILafgLON
 "Crazy Cats Demo Derby (Original 2023)","Crazy Cats Demo Derby (Original 2023)",Original,2023,,EM,,"Demolition Derby",,,,,"Neo",1.1.0,,"LUT",ZIOsEji_sm
 "Crazy Rocket (Original 2024)","Crazy Rocket (Original 2024)",Original,2024,2,EM,,"Space Fantasy, Kids",,,,,"Wildlifewizard",1.0,,"Kids",mcMGimRHss
@@ -1459,7 +1460,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "El Dorado (Gottlieb 1975)","El Dorado (Gottlieb 1975)",Gottlieb,1975,1,EM,,"American West","http://www.ipdb.org/machine.cgi?id=766",766,,"Ed Krynski","Loserman76, GNance, Pinuck, BorgDog, Arngrim, HauntFreaks, JPSalas",1.0.0f,eldorado,,yBxnevfM
 "El Dorado City of Gold (Gottlieb 1984)","El Dorado City of Gold (Gottlieb 1984)",Gottlieb,1984,4,SS,,"Adventure, Fantasy","http://www.ipdb.org/machine.cgi?id=767",767,,"Ed Krynski","Jbg4208, TheGhost787, Thalamus, Outhere, BorgDog, Ninuzzu, 32assassin, nFozzy",1.3,,"SSF, MOD",87kGZfZY
 "El Dorado City of Gold (Gottlieb 1984)","El Dorado City of Gold (Gottlieb 1984)",Gottlieb,1984,4,SS,,"Adventure, Fantasy","http://www.ipdb.org/machine.cgi?id=767",767,,"Ed Krynski","TheGhost787, 32assassin",1.0,,"MOD",qy0LZKZa
-"El Toro (Bally 1972)","El Toro (Bally 1972)",Bally,1972,1,EM,,,"https://www.ipdb.org/machine.cgi?id=772",772,,"Jim Patla","PinRich",0.,,,476RSRH1tg
+"El Toro (Bally 1972)","El Toro (Bally 1972)",Bally,1972,1,EM,,,"https://www.ipdb.org/machine.cgi?id=772",772,,"Jim Patla","PinRich",0.1,,,476RSRH1tg
 "Electra-Pool (Gottlieb 1965)","Electra-Pool (Gottlieb 1965)",Gottlieb,1965,1,EM,,"Billiards","https://www.ipdb.org/machine.cgi?id=779",779,,"Ed Krynski","Loserman76, GNance",1.0.0f,,,TnWtSnCV
 "Electric Mayhem (Original 2016)","Electric Mayhem (Original 2016)",Original,2016,,SS,,"Music, TV Show",,,,,"Lodger",1.0,,,40-_M06J
 "Elektra (Bally 1981)","Elektra (Bally 1981)",Bally,1981,4,SS,,"Fantasy","http://www.ipdb.org/machine.cgi?id=778",778,,"Claude Fernandez","UnclePaulie, 32assassin, Francisco666",2.0.7,elektra,"Hybrid, VR, FSS, MOD, nFozzy, Fleep",1Rsqf2lWzv
@@ -4124,6 +4125,7 @@ GameFileName,GameName,Manufact,GameYear,NumPlayers,GameType,Category,GameTheme,W
 "Spirit of 76 (Gottlieb 1975)","Spirit of 76 (Gottlieb 1975)",Gottlieb,1975,4,EM,,"Historical","http://www.ipdb.org/machine.cgi?id=2293",2293,,"Wayne Neyens","Loserman76",1.0.0f,,,ouy6bbdn
 "Splatter Blast Studio (Original 2024)","Splatter Blast Studio (Original 2024)",Original,2024,,EM,,"Painting",,,,,"CrimsonTurtle8, Spectrowhirl",1.0.0,,,Dki4seduEM
 "Splatterhouse (Original 2023)","Splatterhouse (Original 2023)",Original,2023,,SS,,"Video Game, Horror",,,,,"SpookyMoulder",1.52,,,YFZxzQg7By
+"Split Second (Stern 1981)","Split Second (Stern 1981)",Stern,1981,4,SS,,"Carnival, Circus, Happiness","https://www.ipdb.org/machine.cgi?id=2297",2297,,"Harry Williams","Burger, studly_do_right, Outhere, JPSalas, Marcelo Blanco, StrangeLeo72, Destruk, TAB, Inkochnito, Arngrim",1.0.0,splitsec,"nFozzy, Fleep, Hybrid, VR, DOF, MOD",kiL28g8Qpq
 "Split Second (Stern 1981)","Split Second (Stern 1981)",Stern,1981,4,SS,,"Carnival, Circus, Happiness","https://www.ipdb.org/machine.cgi?id=2297",2297,,"Harry Williams","JPSalas, Marcelo Blanco, StrangeLeo72, Destruk, TAB, Inkochnito, Arngrim",6.0.0,splitsec,"LUT, DOF",4Ne8jb8t_k
 "SpongeBob (Original 2020)","SpongeBob (Original 2020)",Original,2020,4,SS,,"TV Show, Animation, Kids",,,,,"Davor, Stevegooner1234, 32assassin",1.1,fathom,"MOD",7e4bBYB_
 "SpongeBob Squarepants (Original 2008)","SpongeBob Squarepants (Original 2008)",Original,2008,,SS,,"Cartoon, TV Show",,,,,"Zobou, Joe99",0.8,,,KNbv2BfMIy
